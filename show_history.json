@@ -1,3 +1,214 @@
 {
-  "shows": {}
+  "shows": {
+    "1stTix|the comedy store": {
+      "name": "The Comedy Store",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|mic drop comedy": {
+      "name": "Mic Drop Comedy",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|corb lund": {
+      "name": "Corb Lund",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa men's baseball vs gonzaga bulldogs": {
+      "name": "San Diego Toreros - NCAA Men's Baseball vs Gonzaga Bulldogs",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|fngrs crssd presents 1tbsp": {
+      "name": "FNGRS CRSSD presents 1tbsp",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|giulio cesare": {
+      "name": "Giulio Cesare",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego seals - nll vs buffalo bandits": {
+      "name": "San Diego Seals - NLL vs Buffalo Bandits",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|wanted - the ultimate tribute to bon jovi with special guests aeromyth and whitesnake'd": {
+      "name": "WANTED - The Ultimate Tribute to BON JOVI with Special Guests AEROMYTH and WHITESNAKE'D",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|all things equal: the life and trials of ruth bader ginsburg": {
+      "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|sharmay and corey in concert": {
+      "name": "Sharmay and Corey in Concert",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego sockers - masl vs st louis ambush": {
+      "name": "San Diego Sockers - MASL vs St Louis Ambush",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|tino cochino: the love bomb comedy tour": {
+      "name": "Tino Cochino: The Love Bomb Comedy Tour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa men's baseball vs cal state fullerton titans": {
+      "name": "San Diego Toreros - NCAA Men's Baseball vs Cal State Fullerton Titans",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego wave fc - nwsl vs portland thorns fc": {
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego mojo - major league volleyball vs omaha supernovas": {
+      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|uc davis aggies - ncaa men's baseball vs uc san diego tritons": {
+      "name": "UC Davis Aggies - NCAA Men's Baseball vs UC San Diego Tritons",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego wave fc - nwsl vs chicago stars fc": {
+      "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|buena vista social club tribute": {
+      "name": "Buena Vista Social Club Tribute",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|event rescheduled: blessed and unstoppable workshop": {
+      "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego sockers - masl vs kansas city comets": {
+      "name": "San Diego Sockers - MASL vs Kansas City Comets",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|an evening with anne lamott and neal allen": {
+      "name": "An Evening With Anne Lamott and Neal Allen",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|linkin park + avenged sevenfold + deftones tributes": {
+      "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|disney on ice presents road trip adventures": {
+      "name": "Disney On Ice presents Road Trip Adventures",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|eagles tribute the long run, with petty party - tribute to tom petty": {
+      "name": "Eagles Tribute THE LONG RUN, with PETTY PARTY - Tribute to TOM PETTY",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|yynot - tribute to rush": {
+      "name": "YYNOT - Tribute to Rush",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|los angeles angels - mlb vs san diego padres": {
+      "name": "Los Angeles Angels - MLB vs San Diego Padres",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|no doubt, sublime, smashing pumpkins and pearl jam tributes": {
+      "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|event rescheduled: twista": {
+      "name": "Event Rescheduled: Twista",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|taylor austin dye": {
+      "name": "Taylor Austin Dye",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    },
+    "1stTix|san diego wave fc - nwsl vs bay fc": {
+      "name": "San Diego Wave FC - NWSL vs Bay FC",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-18"
+      ]
+    }
+  }
 }

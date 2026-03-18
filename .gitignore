@@ -1,0 +1,15 @@
+# run.sh contains credentials
+run.sh
+
+# Log files
+*.log
+stdout.log
+stderr.log
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

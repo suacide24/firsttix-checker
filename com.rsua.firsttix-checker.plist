@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.rsua.firsttix-checker</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/rsua/firsttix-checker/firsttix_checker.py</string>
+        <string>--fast</string>
+    </array>
+
+    <key>StartInterval</key>
+    <integer>1800</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/rsua/firsttix-checker</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/rsua/firsttix-checker/stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/rsua/firsttix-checker/stderr.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <key>FIRSTTIX_EMAIL</key>
+        <string>ryan.sua.rn@gmail.com</string>
+        <key>FIRSTTIX_PASSWORD</key>
+        <string>Clayton24!</string>
+        <key>SMTP_PASSWORD</key>
+        <string>atghdnhewixzkzoq</string>
+    </dict>
+</dict>
+</plist>

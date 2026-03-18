@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1stTix Available Shows — San Diego</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a2e1a 0%, #162e16 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #fff;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #27ae60, #f39c12);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .last-updated {
+            color: #888;
+            font-size: 0.9rem;
+        }
+        .show-count {
+            background: rgba(255,255,255,0.1);
+            padding: 8px 20px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-top: 15px;
+        }
+        .slot-count {
+            color: #888;
+            font-size: 0.75rem;
+            margin-left: 4px;
+        }
+        .shows-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+        }
+        .show-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .show-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+        }
+        .show-image {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            background: #333;
+        }
+        .show-content {
+            padding: 20px;
+        }
+        .source-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            background: #27ae60;
+        }
+        .rare-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-left: 8px;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+        .show-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            line-height: 1.3;
+        }
+        .time-slots {
+            margin-bottom: 15px;
+        }
+        .time-slots-label {
+            color: #f39c12;
+            font-size: 0.85rem;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        .time-slots-label::before {
+            content: "📅 ";
+        }
+        .time-slot-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .time-slot {
+            display: inline-block;
+            padding: 6px 12px;
+            background: rgba(39, 174, 96, 0.2);
+            border: 1px solid rgba(39, 174, 96, 0.4);
+            border-radius: 6px;
+            color: #fff;
+            text-decoration: none;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+        .time-slot:hover {
+            background: rgba(39, 174, 96, 0.5);
+            border-color: rgba(39, 174, 96, 0.8);
+            transform: scale(1.05);
+        }
+        .show-actions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 16px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: opacity 0.2s;
+        }
+        .btn:hover {
+            opacity: 0.85;
+        }
+        .btn-secondary {
+            background: rgba(255,255,255,0.1);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .no-shows {
+            text-align: center;
+            padding: 60px 20px;
+            color: #888;
+        }
+        .no-shows-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+        @media (max-width: 600px) {
+            h1 { font-size: 1.8rem; }
+            .shows-grid { grid-template-columns: 1fr; }
+            body { padding: 15px; }
+            .time-slot { font-size: 0.75rem; padding: 5px 10px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎭 1stTix — San Diego</h1>
+            <p class="last-updated" id="lastUpdatedContainer">Loading...</p>
+            <p class="last-updated" id="lastRunContainer" style="margin-top: 4px;"></p>
+            <div class="show-count"><span id="showCount">0</span> unique shows <span class="slot-count">(<span id="slotCount">0</span> time slots)</span></div>
+        </header>
+        <div class="shows-grid" id="showsGrid">
+            <div class="no-shows">
+                <div class="no-shows-icon">🎪</div>
+                <p>Loading shows...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadShows() {
+            try {
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`firsttix_shows.json?v=${cacheBuster}`);
+                if (!response.ok) throw new Error('Failed to fetch');
+                const data = await response.json();
+                renderShows(data);
+            } catch (error) {
+                console.error('Failed to load shows:', error);
+                document.getElementById('showsGrid').innerHTML = `
+                    <div class="no-shows">
+                        <div class="no-shows-icon">😕</div>
+                        <p>Failed to load shows. Please try again later.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function formatDate(dateString) {
+            if (dateString && dateString.includes('PT')) {
+                const match = dateString.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
+                if (match) {
+                    const [_, year, month, day, hour, minute] = match;
+                    const date = new Date(year, month - 1, day, hour, minute);
+                    return date.toLocaleString('en-US', {
+                        weekday: 'short', month: 'short', day: 'numeric',
+                        year: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true
+                    }) + ' PT';
+                }
+                return dateString;
+            }
+            if (!dateString) return 'Date TBD';
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) return dateString;
+            return date.toLocaleString('en-US', {
+                weekday: 'short', month: 'short', day: 'numeric',
+                year: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true
+            });
+        }
+
+        function formatShortDate(dateString) {
+            if (!dateString) return 'TBD';
+            const match = dateString.match(/(\w{3}),?\s*(\d{1,2})\s+(\w{3})\s+'?(\d{2})?\s*(\d{1,2}:\d{2}\s*[AP]M)?/i);
+            if (match) {
+                const [_, day, date, month, year, time] = match;
+                return `${day}, ${month} ${date}${time ? ' @ ' + time : ''}`;
+            }
+            return dateString;
+        }
+
+        function getChatGPTLink(showName) {
+            const prompt = `I'm considering going to see '${showName}' in San Diego. Is this show good? What can you tell me about it? Should I go see it? What should I expect?`;
+            return `https://chat.openai.com/?q=${encodeURIComponent(prompt)}`;
+        }
+
+        function groupShows(shows) {
+            const grouped = {};
+            shows.forEach(show => {
+                const key = `${show.source}|${show.name}`;
+                if (!grouped[key]) {
+                    grouped[key] = {
+                        name: show.name,
+                        source: show.source,
+                        image: show.image,
+                        rare: show.rare,
+                        timeSlots: []
+                    };
+                }
+                grouped[key].timeSlots.push({ date: show.date, link: show.link });
+                if (!grouped[key].image && show.image) grouped[key].image = show.image;
+                if (show.rare) grouped[key].rare = true;
+            });
+            Object.values(grouped).forEach(show => {
+                show.timeSlots.sort((a, b) => parseShowDate(a.date) - parseShowDate(b.date));
+            });
+            return Object.values(grouped).sort((a, b) => a.name.localeCompare(b.name));
+        }
+
+        function parseShowDate(dateString) {
+            if (!dateString) return new Date(9999, 11, 31);
+            const months = {
+                'jan': 0, 'feb': 1, 'mar': 2, 'apr': 3, 'may': 4, 'jun': 5,
+                'jul': 6, 'aug': 7, 'sep': 8, 'oct': 9, 'nov': 10, 'dec': 11,
+            };
+            let match = dateString.match(/(\d{1,2})\s+(\w{3,9})\s+'?(\d{2,4})?\s*(\d{1,2}):(\d{2})\s*([AP]M)?/i);
+            if (match) {
+                const [_, day, monthStr, year, hour, minute, ampm] = match;
+                const monthNum = months[monthStr.toLowerCase()];
+                let yearNum = year ? (year.length === 2 ? 2000 + parseInt(year) : parseInt(year)) : 2026;
+                let hourNum = parseInt(hour);
+                if (ampm && ampm.toUpperCase() === 'PM' && hourNum !== 12) hourNum += 12;
+                if (ampm && ampm.toUpperCase() === 'AM' && hourNum === 12) hourNum = 0;
+                return new Date(yearNum, monthNum, parseInt(day), hourNum, parseInt(minute));
+            }
+            match = dateString.match(/(\w+)\s+(\d{1,2})/i);
+            if (match) {
+                const [_, monthStr, day] = match;
+                const monthNum = months[monthStr.toLowerCase()];
+                if (monthNum !== undefined) return new Date(2026, monthNum, parseInt(day));
+            }
+            return new Date(9999, 11, 31);
+        }
+
+        function renderShows(data) {
+            // Update timestamps
+            const container = document.getElementById('lastUpdatedContainer');
+            container.innerHTML = data.last_updated
+                ? 'Last updated: ' + formatDate(data.last_updated)
+                : 'Last updated: unknown';
+
+            const runContainer = document.getElementById('lastRunContainer');
+            if (data.last_successful_run) {
+                runContainer.innerHTML = '✅ Last successful run: ' + formatDate(data.last_successful_run);
+            }
+
+            if (!data.shows || data.shows.length === 0) {
+                document.getElementById('showCount').textContent = '0';
+                document.getElementById('slotCount').textContent = '0';
+                document.getElementById('showsGrid').innerHTML = `
+                    <div class="no-shows">
+                        <div class="no-shows-icon">🎪</div>
+                        <p>No shows available right now. Check back later!</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const totalSlots = data.shows.length;
+            const groupedShows = groupShows(data.shows);
+
+            document.getElementById('showCount').textContent = groupedShows.length;
+            document.getElementById('slotCount').textContent = totalSlots;
+
+            const showsHTML = groupedShows.map(show => {
+                const imageUrl = show.image || 'https://via.placeholder.com/300x180?text=No+Image';
+                const rareBadge = show.rare ? '<span class="rare-badge">🔥 RARE</span>' : '';
+
+                const timeSlotsHTML = show.timeSlots.map(slot => {
+                    const shortDate = formatShortDate(slot.date);
+                    if (slot.link) {
+                        return `<a href="${slot.link}" target="_blank" class="time-slot">🎟️ ${shortDate}</a>`;
+                    }
+                    return `<span class="time-slot">${shortDate}</span>`;
+                }).join('');
+
+                return `
+                    <div class="show-card">
+                        <img src="${imageUrl}" alt="${show.name}" class="show-image" onerror="this.src='https://via.placeholder.com/300x180?text=No+Image'">
+                        <div class="show-content">
+                            <span class="source-badge">1stTix</span>${rareBadge}
+                            <h2 class="show-name">${show.name}</h2>
+                            <div class="time-slots">
+                                <div class="time-slots-label">Available Times (${show.timeSlots.length})</div>
+                                <div class="time-slot-list">
+                                    ${timeSlotsHTML}
+                                </div>
+                            </div>
+                            <div class="show-actions">
+                                <a href="${getChatGPTLink(show.name)}" target="_blank" class="btn btn-secondary">🤖 Ask AI about this show</a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('showsGrid').innerHTML = showsHTML;
+        }
+
+        loadShows();
+    </script>
+</body>
+</html>

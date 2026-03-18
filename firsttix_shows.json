@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-18T14:59:34 PT",
-  "last_successful_run": "2026-03-18T14:59:34 PT",
-  "count": 40,
+  "last_updated": "2026-03-18T15:29:50 PT",
+  "last_successful_run": "2026-03-18T15:29:50 PT",
+  "count": 39,
   "shows": [
     {
       "source": "1stTix",
@@ -10,14 +10,6 @@
       "date": "Wed, 18 Mar '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616026",
       "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Corb Lund",
-      "date": "Thu, 19 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/602848",
-      "image": "https://ei-cdn.1sttix.org/preview602848_1768405589.jpg",
       "rare": true
     },
     {
@@ -166,18 +158,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
       "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
       "rare": true
     },
     {

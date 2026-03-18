@@ -59,6 +59,7 @@ args = parser.parse_args()
 FIRSTTIX_BASE_URL = "https://www.1sttix.org"
 FIRSTTIX_LOGIN_URL = f"{FIRSTTIX_BASE_URL}/login"
 FIRSTTIX_EVENTS_URL = f"{FIRSTTIX_BASE_URL}/tixer/get-tickets/events"
+FIRSTTIX_EVENTS_PARAMS = {"status": "fcfs", "state": "ca"}
 FIRSTTIX_EMAIL = os.environ.get("FIRSTTIX_EMAIL", "ryan.sua.rn@gmail.com")
 FIRSTTIX_PASSWORD = os.environ.get("FIRSTTIX_PASSWORD", "")
 
@@ -628,7 +629,8 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
         max_pages = 20
 
         while page <= max_pages:
-            url = f"{FIRSTTIX_EVENTS_URL}?page={page}"
+            params = {**FIRSTTIX_EVENTS_PARAMS, "page": page}
+            url = f"{FIRSTTIX_EVENTS_URL}/{page}?" + "&".join(f"{k}={v}" for k, v in params.items() if k != "page")
             response = session.get(url)
             response.raise_for_status()
 

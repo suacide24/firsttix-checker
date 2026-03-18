@@ -3,7 +3,7 @@
 ## Overview
 Automated checker for **1sttix.org** that:
 1. Logs into the 1stTix member portal
-2. Fetches available shows
+2. Fetches available California FCFS (first come first served) shows
 3. **Filters to San Diego area only** — cities within ~45 min of Talmadge
 4. Filters out shows on a denylist (contains-based matching, case-insensitive)
 5. Sends email notifications for NEW shows only (tracks show+date combinations)
@@ -22,6 +22,7 @@ Automated checker for **1sttix.org** that:
 | Link | Purpose |
 |------|---------|
 | **[View Available Shows](https://suacide24.github.io/firsttix-checker/)** | Mobile-friendly page with San Diego 1stTix shows |
+| **[GitHub Repo](https://github.com/suacide24/firsttix-checker)** | Source code |
 | **[Edit Denylist](https://gist.github.com/suacide24/f1bf569e229cf1319137a4230d7db1b6/edit)** | Add shows to filter out |
 
 ## Key Files
@@ -42,19 +43,23 @@ Automated checker for **1sttix.org** that:
 ## Architecture
 
 ```
-┌──────────────────────────────┐
-│   Local macOS launchd         │
-│   (runs every 30 mins)        │
-│   --fast                      │
-├──────────────────────────────┤
-│ 1. Fetch events from 1stTix   │
-│ 2. Filter to San Diego area   │
-│ 3. Filter by denylist          │
-│ 4. Detect RARE shows           │
-│ 5. Send email notifications    │
-│ 6. Write firsttix_shows.json  │
-│ 7. git commit & push           │
-└──────────────┬───────────────┘
+┌──────────────────────────────────┐
+│   Local macOS launchd             │
+│   (runs every 30 mins)            │
+│   --fast                          │
+├──────────────────────────────────┤
+│ 1. Login to 1stTix                │
+│ 2. Fetch CA FCFS events           │
+│    ?status=fcfs&state=ca          │
+│ 3. Filter to San Diego area       │
+│    (ALLOWED_CITIES ~45 min        │
+│     of Talmadge)                  │
+│ 4. Filter by denylist             │
+│ 5. Detect RARE shows              │
+│ 6. Send email notifications       │
+│ 7. Write firsttix_shows.json     │
+│ 8. git commit & push              │
+└──────────────┬───────────────────┘
                ▼
      GitHub Pages serves
      index.html which fetches
@@ -63,11 +68,11 @@ Automated checker for **1sttix.org** that:
 
 ## 📍 San Diego Area Filter
 
-Shows are only included if their venue/location text matches a city within ~45 minutes of **Talmadge, San Diego**. The `ALLOWED_CITIES` set includes:
+The 1stTix API is queried with `state=ca` to only return California events. Then a second local filter keeps only shows whose venue/location text matches a city within ~45 minutes of **Talmadge, San Diego**. The `ALLOWED_CITIES` set includes:
 
 | Area | Cities |
 |------|--------|
-| **San Diego proper** | All neighborhoods (Talmadge, La Jolla, Pacific Beach, Gaslamp, etc.) |
+| **San Diego proper** | All neighborhoods (Talmadge, La Jolla, Pacific Beach, Gaslamp, Downtown, Mission Valley, etc.) |
 | **South county** | Chula Vista, National City, Coronado, Imperial Beach, Bonita, Lemon Grove, Spring Valley |
 | **East county** | La Mesa, El Cajon, Santee, Lakeside, Alpine, Ramona |
 | **North county coastal** | Del Mar, Solana Beach, Encinitas, Carlsbad, Oceanside |
@@ -89,11 +94,11 @@ Credentials stored in `run.sh` (gitignored) and launchd plist environment variab
 
 | Variable | Purpose |
 |----------|---------|
-| `FIRSTTIX_EMAIL` | 1stTix login email |
+| `FIRSTTIX_EMAIL` | 1stTix login email (`ryan.sua.rn@gmail.com`) |
 | `FIRSTTIX_PASSWORD` | 1stTix password |
 | `SMTP_EMAIL` | Gmail sender address |
 | `SMTP_PASSWORD` | Gmail App Password (16-char) |
-| `NOTIFICATION_EMAIL` | Email to receive notifications |
+| `NOTIFICATION_EMAIL` | Email to receive notifications (`rsua95@gmail.com`) |
 
 ## Denylist Behavior
 
@@ -130,16 +135,22 @@ echo '{"shows": {}}' > show_history.json
 
 - **Login URL:** `https://www.1sttix.org/login`
 - **Login form fields:** `email`, `password`
-- **Events URL:** `https://www.1sttix.org/tixer/get-tickets/events`
+- **Events URL:** `https://www.1sttix.org/tixer/get-tickets/events/{page}?status=fcfs&state=ca`
+- **Pagination:** Page number is in the URL path (`/events/1`, `/events/2`, etc.)
+- **Query params:** `status=fcfs` (first come first served), `state=ca` (California only)
 - **Event data:** Returns HTML with `div.event` containers
   - Name: `img[alt]` or `.entry-title`
   - Date: `.entry-meta` (parsed with regex)
   - Link: `a[href*="get-tickets/event"]`
-  - Location: extracted from event text for San Diego filtering
+  - Location: extracted from full event text for San Diego area filtering
+- **Sponsor filtering:** Events matching sponsor keywords (tactical, coursera, etc.) are skipped
+- **Non-event filtering:** Items without a date or event link are skipped
 
 ## Related Project
 
 HouseSeats (Las Vegas) checker lives in a separate repo: `/Users/rsua/houseseats-checker/`
+- Runs via **GitHub Actions** (not local launchd — launchd job was unloaded)
+- GitHub Pages: https://suacide24.github.io/houseseats-checker/
 
 ---
 *Last updated: 2026-03-18*

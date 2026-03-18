@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-18T15:29:50 PT",
-  "last_successful_run": "2026-03-18T15:29:50 PT",
-  "count": 39,
+  "last_updated": "2026-03-18T16:00:05 PT",
+  "last_successful_run": "2026-03-18T16:00:05 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -110,6 +110,14 @@
     },
     {
       "source": "1stTix",
+      "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
+      "date": "Sun, 22 Mar '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615235",
+      "image": "https://ei-cdn.1sttix.org/preview615235_1773334800.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "Giulio Cesare",
       "date": "Sun, 22 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612753",
@@ -118,18 +126,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Sharmay and Corey in Concert",
-      "date": "Sun, 22 Mar '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615141",
-      "image": "https://ei-cdn.1sttix.org/preview615141_1773265015.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Sockers - MASL vs St Louis Ambush",
       "date": "Sun, 22 Mar '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587460",
       "image": "https://ei-cdn.1sttix.org/preview587460_1761171603.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Sharmay and Corey in Concert",
+      "date": "Sun, 22 Mar '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615141",
+      "image": "https://ei-cdn.1sttix.org/preview615141_1773265015.jpg",
       "rare": true
     },
     {

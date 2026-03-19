@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-18T19:01:49 PT",
-  "last_successful_run": "2026-03-18T19:01:49 PT",
-  "count": 39,
+  "last_updated": "2026-03-18T19:33:54 PT",
+  "last_successful_run": "2026-03-18T19:33:54 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -10,14 +10,6 @@
       "date": "Thu, 19 Mar '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616402",
       "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Gonzaga Bulldogs",
-      "date": "Fri, 20 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611329",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true
     },
     {
@@ -42,14 +34,6 @@
       "date": "Sat, 21 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612751",
       "image": "https://ei-cdn.1sttix.org/preview612751_1772556750.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Gonzaga Bulldogs",
-      "date": "Sat, 21 Mar '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611330",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true
     },
     {
@@ -82,14 +66,6 @@
       "date": "Sat, 21 Mar '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/615878",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Gonzaga Bulldogs",
-      "date": "Sun, 22 Mar '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611332",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true
     },
     {
@@ -142,14 +118,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Cal State Fullerton Titans",
-      "date": "Tue, 24 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611333",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
@@ -166,22 +134,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Pepperdine Waves - NCAA Men's Baseball vs San Diego Toreros",
-      "date": "Fri, 27 Mar '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616315",
-      "image": "https://ei-cdn.1sttix.org/preview616314_1773784760.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "UC Davis Aggies - NCAA Men's Baseball vs UC San Diego Tritons",
-      "date": "Fri, 27 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/613399",
-      "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
       "date": "Sat, 28 Mar '26 5:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
@@ -190,26 +142,10 @@
     },
     {
       "source": "1stTix",
-      "name": "UC Davis Aggies - NCAA Men's Baseball vs UC San Diego Tritons",
-      "date": "Sat, 28 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/613400",
-      "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Buena Vista Social Club Tribute",
       "date": "Sat, 28 Mar '26 8:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/615742",
       "image": "https://ei-cdn.1sttix.org/preview615742_1773442251.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "UC Davis Aggies - NCAA Men's Baseball vs UC San Diego Tritons",
-      "date": "Sun, 29 Mar '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/613401",
-      "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
       "rare": true
     },
     {

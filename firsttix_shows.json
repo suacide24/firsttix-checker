@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-18T17:30:51 PT",
-  "last_successful_run": "2026-03-18T17:30:51 PT",
+  "last_updated": "2026-03-18T18:01:11 PT",
+  "last_successful_run": "2026-03-18T18:01:11 PT",
   "count": 40,
   "shows": [
     {
@@ -102,10 +102,10 @@
     },
     {
       "source": "1stTix",
-      "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
-      "date": "Sun, 22 Mar '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615235",
-      "image": "https://ei-cdn.1sttix.org/preview615235_1773334800.jpg",
+      "name": "Giulio Cesare",
+      "date": "Sun, 22 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612753",
+      "image": "https://ei-cdn.1sttix.org/preview612751_1772556750.jpg",
       "rare": true
     },
     {
@@ -158,18 +158,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
-      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
       "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
+      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
       "rare": true
     },
     {

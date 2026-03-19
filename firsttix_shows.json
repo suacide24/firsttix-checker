@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-18T17:00:36 PT",
-  "last_successful_run": "2026-03-18T17:00:36 PT",
-  "count": 38,
+  "last_updated": "2026-03-18T17:30:51 PT",
+  "last_successful_run": "2026-03-18T17:30:51 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -102,6 +102,14 @@
     },
     {
       "source": "1stTix",
+      "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
+      "date": "Sun, 22 Mar '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615235",
+      "image": "https://ei-cdn.1sttix.org/preview615235_1773334800.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "Giulio Cesare",
       "date": "Sun, 22 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612753",
@@ -162,6 +170,14 @@
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
       "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Pepperdine Waves - NCAA Men's Baseball vs San Diego Toreros",
+      "date": "Fri, 27 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616315",
+      "image": "https://ei-cdn.1sttix.org/preview616314_1773784760.jpg",
       "rare": true
     },
     {

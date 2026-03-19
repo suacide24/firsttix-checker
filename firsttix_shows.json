@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-19T15:14:44 PT",
-  "last_successful_run": "2026-03-19T15:14:44 PT",
+  "last_updated": "2026-03-19T15:44:59 PT",
+  "last_successful_run": "2026-03-19T15:44:59 PT",
   "count": 29,
   "shows": [
     {
@@ -70,14 +70,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Sharmay and Corey in Concert",
-      "date": "Sun, 22 Mar '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615141",
-      "image": "https://ei-cdn.1sttix.org/preview615141_1773265015.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Sockers - MASL vs St Louis Ambush",
       "date": "Sun, 22 Mar '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587460",
@@ -86,10 +78,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 22 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611166",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "name": "Sharmay and Corey in Concert",
+      "date": "Sun, 22 Mar '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615141",
+      "image": "https://ei-cdn.1sttix.org/preview615141_1773265015.jpg",
       "rare": true
     },
     {
@@ -110,18 +102,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
       "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
       "rare": true
     },
     {
@@ -154,6 +146,14 @@
       "date": "Sun, 29 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
       "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "An Evening With Anne Lamott and Neal Allen",
+      "date": "Wed, 1 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
+      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
       "rare": true
     },
     {

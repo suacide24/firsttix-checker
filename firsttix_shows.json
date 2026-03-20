@@ -1,7 +1,232 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-20T14:47:03 PT",
-  "last_successful_run": "2026-03-20T11:00:55 PT",
-  "count": 0,
-  "shows": []
+  "last_updated": "2026-03-20T15:39:39 PT",
+  "last_successful_run": "2026-03-20T15:39:39 PT",
+  "count": 28,
+  "shows": [
+    {
+      "source": "1stTix",
+      "name": "Giulio Cesare",
+      "date": "Sat, 21 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612751",
+      "image": "https://ei-cdn.1sttix.org/preview612751_1772556750.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Seals - NLL vs Buffalo Bandits",
+      "date": "Sat, 21 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/604072",
+      "image": "https://ei-cdn.1sttix.org/preview604072_1769023202.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Gaslamp Experience Party Pass",
+      "date": "Sat, 21 Mar '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616229",
+      "image": "https://ei-cdn.1sttix.org/preview606447_1770064782.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Gaslamp Downtown Bar Crawl",
+      "date": "Sat, 21 Mar '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616228",
+      "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
+      "date": "Sun, 22 Mar '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615235",
+      "image": "https://ei-cdn.1sttix.org/preview615235_1773334800.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Giulio Cesare",
+      "date": "Sun, 22 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612753",
+      "image": "https://ei-cdn.1sttix.org/preview612751_1772556750.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Sharmay and Corey in Concert",
+      "date": "Sun, 22 Mar '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615141",
+      "image": "https://ei-cdn.1sttix.org/preview615141_1773265015.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Sockers - MASL vs St Louis Ambush",
+      "date": "Sun, 22 Mar '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/587460",
+      "image": "https://ei-cdn.1sttix.org/preview587460_1761171603.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
+      "date": "Mon, 23 Mar '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616408",
+      "image": "https://ei-cdn.1sttix.org/preview616408_1773828002.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
+      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 27 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616645",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 27 Mar '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616644",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
+      "date": "Sat, 28 Mar '26 5:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
+      "image": "https://ei-cdn.1sttix.org/preview611719_1772133005.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Buena Vista Social Club Tribute",
+      "date": "Sat, 28 Mar '26 8:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615742",
+      "image": "https://ei-cdn.1sttix.org/preview615742_1773442251.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 28 Mar '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
+      "date": "Sun, 29 Mar '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
+      "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
+      "date": "Sun, 29 Mar '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
+      "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Sockers - MASL vs Kansas City Comets",
+      "date": "Sun, 29 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
+      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "An Evening With Anne Lamott and Neal Allen",
+      "date": "Wed, 1 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
+      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
+      "date": "Sat, 4 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/609485",
+      "image": "https://ei-cdn.1sttix.org/preview609485_1771365147.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Eagles Tribute THE LONG RUN, with PETTY PARTY - Tribute to TOM PETTY",
+      "date": "Sat, 11 Apr '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614865",
+      "image": "https://ei-cdn.1sttix.org/preview614865_1773177690.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "YYNOT - Tribute to Rush",
+      "date": "Fri, 17 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/609471",
+      "image": "https://ei-cdn.1sttix.org/preview609471_1771363570.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Los Angeles Angels - MLB vs San Diego Padres",
+      "date": "Sat, 18 Apr '26 6:38 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612471",
+      "image": "https://ei-cdn.1sttix.org/preview_LosAngelesAngels.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
+      "date": "Sat, 18 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614937",
+      "image": "https://ei-cdn.1sttix.org/preview614937_1773246001.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Los Angeles Angels - MLB vs San Diego Padres",
+      "date": "Sun, 19 Apr '26 1:07 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612516",
+      "image": "https://ei-cdn.1sttix.org/preview_LosAngelesAngels.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Twista",
+      "date": "Fri, 24 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
+      "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Taylor Austin Dye",
+      "date": "Sat, 25 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
+      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
+      "rare": false
+    }
+  ]
 }

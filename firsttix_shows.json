@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-20T20:42:18 PT",
-  "last_successful_run": "2026-03-20T20:42:18 PT",
-  "count": 24,
+  "last_updated": "2026-03-20T21:12:33 PT",
+  "last_successful_run": "2026-03-20T21:12:33 PT",
+  "count": 25,
   "shows": [
     {
       "source": "1stTix",
@@ -11,6 +11,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/604072",
       "image": "https://ei-cdn.1sttix.org/preview604072_1769023202.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Sat, 21 Mar '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616550",
+      "image": "https://ei-cdn.1sttix.org/preview549503_1747933882.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

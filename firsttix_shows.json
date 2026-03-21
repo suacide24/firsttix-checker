@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-20T17:40:44 PT",
-  "last_successful_run": "2026-03-20T17:40:44 PT",
+  "last_updated": "2026-03-20T18:10:59 PT",
+  "last_successful_run": "2026-03-20T18:10:59 PT",
   "count": 27,
   "shows": [
     {
@@ -22,19 +22,19 @@
     },
     {
       "source": "1stTix",
-      "name": "Gaslamp Downtown Bar Crawl",
-      "date": "Sat, 21 Mar '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616228",
-      "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "Gaslamp Experience Party Pass",
       "date": "Sat, 21 Mar '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616229",
       "image": "https://ei-cdn.1sttix.org/preview606447_1770064782.jpg",
       "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Gaslamp Downtown Bar Crawl",
+      "date": "Sat, 21 Mar '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616228",
+      "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
+      "rare": false
     },
     {
       "source": "1stTix",

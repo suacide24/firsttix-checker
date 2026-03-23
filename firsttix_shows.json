@@ -1,31 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-21T21:50:36 PT",
-  "last_successful_run": "2026-03-21T21:50:36 PT",
-  "count": 23,
+  "last_updated": "2026-03-22T19:36:16 PT",
+  "last_successful_run": "2026-03-22T19:36:16 PT",
+  "count": 22,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Sockers - MASL vs St Louis Ambush",
-      "date": "Sun, 22 Mar '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/587460",
-      "image": "https://ei-cdn.1sttix.org/preview587460_1761171603.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
       "date": "Mon, 23 Mar '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616408",
       "image": "https://ei-cdn.1sttix.org/preview616408_1773828002.jpg",
-      "rare": true
+      "rare": false
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617116",
-      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
       "rare": false
     },
     {
@@ -38,10 +30,10 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617116",
+      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
       "rare": false
     },
     {
@@ -186,7 +178,7 @@
       "date": "Wed, 6 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
       "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
-      "rare": true
+      "rare": false
     }
   ]
 }

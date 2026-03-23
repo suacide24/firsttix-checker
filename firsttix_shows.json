@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-23T14:59:19 PT",
-  "last_successful_run": "2026-03-23T14:59:19 PT",
-  "count": 21,
+  "last_updated": "2026-03-23T15:29:35 PT",
+  "last_successful_run": "2026-03-23T15:29:35 PT",
+  "count": 20,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
-      "date": "Mon, 23 Mar '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616408",
-      "image": "https://ei-cdn.1sttix.org/preview616408_1773828002.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
@@ -26,6 +18,14 @@
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
       "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 27 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616645",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {
@@ -138,14 +138,6 @@
       "date": "Sun, 19 Apr '26 1:07 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612516",
       "image": "https://ei-cdn.1sttix.org/preview_LosAngelesAngels.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Event Rescheduled: Twista",
-      "date": "Fri, 24 Apr '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
-      "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
       "rare": false
     },
     {

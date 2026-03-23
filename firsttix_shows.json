@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-22T19:36:16 PT",
-  "last_successful_run": "2026-03-22T19:36:16 PT",
+  "last_updated": "2026-03-23T10:56:18 PT",
+  "last_successful_run": "2026-03-23T10:56:18 PT",
   "count": 22,
   "shows": [
     {
@@ -14,14 +14,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
@@ -30,10 +22,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617116",
-      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 27 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616645",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {
@@ -62,6 +62,14 @@
     },
     {
       "source": "1stTix",
+      "name": "Buena Vista Social Club Tribute",
+      "date": "Sat, 28 Mar '26 8:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615742",
+      "image": "https://ei-cdn.1sttix.org/preview615742_1773442251.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 28 Mar '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
@@ -74,14 +82,6 @@
       "date": "Sun, 29 Mar '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
       "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Sockers - MASL vs Kansas City Comets",
-      "date": "Sun, 29 Mar '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
-      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
       "rare": false
     },
     {
@@ -106,7 +106,7 @@
       "date": "Wed, 8 Apr '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616974",
       "image": "https://ei-cdn.1sttix.org/preview-616974-tm.",
-      "rare": true
+      "rare": false
     },
     {
       "source": "1stTix",

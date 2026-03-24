@@ -1,23 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-23T17:30:38 PT",
-  "last_successful_run": "2026-03-23T17:30:38 PT",
-  "count": 20,
+  "last_updated": "2026-03-23T18:00:53 PT",
+  "last_successful_run": "2026-03-23T18:00:53 PT",
+  "count": 22,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
-      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
       "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
+      "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
       "rare": false
     },
     {
@@ -142,6 +142,14 @@
     },
     {
       "source": "1stTix",
+      "name": "Event Rescheduled: Twista",
+      "date": "Fri, 24 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
+      "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
       "name": "Taylor Austin Dye",
       "date": "Sat, 25 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
@@ -163,6 +171,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
       "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Washington Spirit",
+      "date": "Fri, 15 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611975",
+      "image": "https://ei-cdn.1sttix.org/preview611975_1772219702.jpg",
+      "rare": true
     }
   ]
 }

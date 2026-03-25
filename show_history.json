@@ -424,6 +424,20 @@
         "2026-03-24",
         "2026-03-25"
       ]
+    },
+    "1stTix|san diego toreros - ncaa women's softball vs loyola marymount lions": {
+      "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-25"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's softball vs utah tech university": {
+      "name": "San Diego Toreros - NCAA Women's Softball vs Utah Tech University",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-25"
+      ]
     }
   }
 }

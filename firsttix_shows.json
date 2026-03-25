@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T14:08:16 PT",
-  "last_successful_run": "2026-03-25T14:08:16 PT",
-  "count": 23,
+  "last_updated": "2026-03-25T14:38:32 PT",
+  "last_successful_run": "2026-03-25T14:38:32 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -94,11 +94,35 @@
     },
     {
       "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
+      "date": "Thu, 2 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617871",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
+      "date": "Sat, 4 Apr '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617873",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
       "date": "Sat, 4 Apr '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/609485",
       "image": "https://ei-cdn.1sttix.org/preview609485_1771365147.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Utah Tech University",
+      "date": "Mon, 6 Apr '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617882",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

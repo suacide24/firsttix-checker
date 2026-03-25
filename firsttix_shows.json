@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T15:08:49 PT",
-  "last_successful_run": "2026-03-25T15:08:49 PT",
-  "count": 26,
+  "last_updated": "2026-03-25T15:39:05 PT",
+  "last_successful_run": "2026-03-25T15:39:05 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -18,6 +18,14 @@
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
       "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Gaslamp Experience Party Pass",
+      "date": "Fri, 27 Mar '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617684",
+      "image": "https://ei-cdn.1sttix.org/preview617684_1774305003.jpg",
       "rare": false
     },
     {

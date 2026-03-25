@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T13:07:46 PT",
-  "last_successful_run": "2026-03-25T13:07:46 PT",
-  "count": 25,
+  "last_updated": "2026-03-25T13:38:01 PT",
+  "last_successful_run": "2026-03-25T13:38:01 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -35,14 +35,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
       "image": "https://ei-cdn.1sttix.org/preview611719_1772133005.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
-      "date": "Sat, 28 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
-      "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
-      "rare": true
     },
     {
       "source": "1stTix",

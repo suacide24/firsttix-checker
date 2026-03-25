@@ -1,23 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T11:06:39 PT",
-  "last_successful_run": "2026-03-25T11:06:39 PT",
-  "count": 22,
+  "last_updated": "2026-03-25T11:36:56 PT",
+  "last_successful_run": "2026-03-25T11:36:56 PT",
+  "count": 24,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "date": "Wed, 25 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614819",
       "image": "https://ei-cdn.1sttix.org/preview-614819-tm.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
       "rare": false
     },
     {
@@ -35,6 +35,22 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
       "image": "https://ei-cdn.1sttix.org/preview611719_1772133005.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
+      "date": "Sat, 28 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
+      "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
+      "date": "Sat, 28 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
+      "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

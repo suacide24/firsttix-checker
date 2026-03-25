@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T12:07:12 PT",
-  "last_successful_run": "2026-03-25T12:07:12 PT",
-  "count": 24,
+  "last_updated": "2026-03-25T12:37:28 PT",
+  "last_successful_run": "2026-03-25T12:37:28 PT",
+  "count": 25,
   "shows": [
     {
       "source": "1stTix",
@@ -74,6 +74,14 @@
       "date": "Sat, 28 Mar '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
+      "date": "Sun, 29 Mar '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
+      "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
       "rare": false
     },
     {

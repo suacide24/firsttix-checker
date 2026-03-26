@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T15:51:57 PT",
-  "last_successful_run": "2026-03-26T15:51:57 PT",
-  "count": 26,
+  "last_updated": "2026-03-26T16:22:13 PT",
+  "last_successful_run": "2026-03-26T16:22:13 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -50,6 +50,14 @@
       "date": "Sun, 29 Mar '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
       "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Sockers - MASL vs Kansas City Comets",
+      "date": "Sun, 29 Mar '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
+      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
       "rare": false
     },
     {
@@ -131,6 +139,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614865",
       "image": "https://ei-cdn.1sttix.org/preview614865_1773177690.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Cal State Fullerton Titans",
+      "date": "Tue, 14 Apr '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617874",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

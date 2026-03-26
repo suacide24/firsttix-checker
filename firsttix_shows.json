@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T06:16:54 PT",
-  "last_successful_run": "2026-03-26T06:16:54 PT",
-  "count": 24,
+  "last_updated": "2026-03-26T06:47:09 PT",
+  "last_successful_run": "2026-03-26T06:47:09 PT",
+  "count": 23,
   "shows": [
     {
       "source": "1stTix",
@@ -58,14 +58,6 @@
       "date": "Sun, 29 Mar '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
       "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Sockers - MASL vs Kansas City Comets",
-      "date": "Sun, 29 Mar '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
-      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
       "rare": false
     },
     {

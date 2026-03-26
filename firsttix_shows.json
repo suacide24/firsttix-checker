@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T16:39:37 PT",
-  "last_successful_run": "2026-03-25T16:39:37 PT",
-  "count": 28,
+  "last_updated": "2026-03-25T17:09:54 PT",
+  "last_successful_run": "2026-03-25T17:09:54 PT",
+  "count": 27,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
-      "date": "Wed, 25 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
-      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
@@ -22,18 +14,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Gaslamp Experience Party Pass",
-      "date": "Fri, 27 Mar '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617684",
-      "image": "https://ei-cdn.1sttix.org/preview617684_1774305003.jpg",
+      "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
+      "date": "Wed, 25 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/611718",
+      "image": "https://ei-cdn.1sttix.org/preview611718_1772133002.jpg",
       "rare": false
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 27 Mar '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616644",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "name": "Gaslamp Experience Party Pass",
+      "date": "Fri, 27 Mar '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617684",
+      "image": "https://ei-cdn.1sttix.org/preview617684_1774305003.jpg",
       "rare": false
     },
     {
@@ -78,14 +70,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 28 Mar '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
       "date": "Sun, 29 Mar '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
@@ -98,6 +82,14 @@
       "date": "Sun, 29 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
       "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "An Evening With Anne Lamott and Neal Allen",
+      "date": "Wed, 1 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
+      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
       "rare": false
     },
     {

@@ -1,9 +1,17 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T16:22:13 PT",
-  "last_successful_run": "2026-03-26T16:22:13 PT",
-  "count": 28,
+  "last_updated": "2026-03-26T16:52:30 PT",
+  "last_successful_run": "2026-03-26T16:52:30 PT",
+  "count": 30,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 27 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616645",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false
+    },
     {
       "source": "1stTix",
       "name": "Gaslamp Experience Party Pass",
@@ -18,6 +26,14 @@
       "date": "Sat, 28 Mar '26 5:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
       "image": "https://ei-cdn.1sttix.org/preview611719_1772133005.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 28 Mar '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616787",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {
@@ -50,14 +66,6 @@
       "date": "Sun, 29 Mar '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/610871",
       "image": "https://ei-cdn.1sttix.org/preview610871_1773176589.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Sockers - MASL vs Kansas City Comets",
-      "date": "Sun, 29 Mar '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
-      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
       "rare": false
     },
     {
@@ -121,6 +129,14 @@
       "name": "Matt & Ben",
       "date": "Fri, 10 Apr '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/618027",
+      "image": "https://ei-cdn.1sttix.org/preview617988_1774385842.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Matt and Ben",
+      "date": "Sat, 11 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/618021",
       "image": "https://ei-cdn.1sttix.org/preview617988_1774385842.jpg",
       "rare": true
     },

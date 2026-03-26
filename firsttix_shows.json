@@ -1,9 +1,17 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T07:17:26 PT",
-  "last_successful_run": "2026-03-26T07:17:26 PT",
-  "count": 24,
+  "last_updated": "2026-03-26T07:47:41 PT",
+  "last_successful_run": "2026-03-26T07:47:41 PT",
+  "count": 25,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "San Diego Padres - MLB vs Detroit Tigers",
+      "date": "Thu, 26 Mar '26 1:10 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/618268",
+      "image": "https://ei-cdn.1sttix.org/preview618268_1774463180.jpg",
+      "rare": true
+    },
     {
       "source": "1stTix",
       "name": "Gaslamp Experience Party Pass",

@@ -461,6 +461,13 @@
         "2026-03-25",
         "2026-03-26"
       ]
+    },
+    "1stTix|san diego padres - mlb vs detroit tigers": {
+      "name": "San Diego Padres - MLB vs Detroit Tigers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-03-26"
+      ]
     }
   }
 }

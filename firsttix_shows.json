@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-25T23:43:13 PT",
-  "last_successful_run": "2026-03-25T23:43:13 PT",
+  "last_updated": "2026-03-26T00:13:31 PT",
+  "last_successful_run": "2026-03-26T00:13:31 PT",
   "count": 25,
   "shows": [
     {
@@ -34,7 +34,7 @@
       "date": "Sat, 28 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
       "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
-      "rare": true
+      "rare": false
     },
     {
       "source": "1stTix",

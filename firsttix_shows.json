@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T18:23:19 PT",
-  "last_successful_run": "2026-03-26T18:23:19 PT",
-  "count": 30,
+  "last_updated": "2026-03-26T19:33:42 PT",
+  "last_successful_run": "2026-03-26T19:33:42 PT",
+  "count": 32,
   "shows": [
     {
       "source": "1stTix",
@@ -86,6 +86,14 @@
     },
     {
       "source": "1stTix",
+      "name": "An Evening With Anne Lamott and Neal Allen",
+      "date": "Wed, 1 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
+      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
       "date": "Thu, 2 Apr '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617871",
@@ -107,6 +115,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617873",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
+      "date": "Sat, 4 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/609485",
+      "image": "https://ei-cdn.1sttix.org/preview609485_1771365147.jpg",
+      "rare": false
     },
     {
       "source": "1stTix",

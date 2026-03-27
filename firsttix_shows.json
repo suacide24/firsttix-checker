@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T17:22:47 PT",
-  "last_successful_run": "2026-03-26T17:22:47 PT",
-  "count": 30,
+  "last_updated": "2026-03-26T17:53:03 PT",
+  "last_successful_run": "2026-03-26T17:53:03 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -219,6 +219,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611741",
       "image": "https://ei-cdn.1sttix.org/preview611741_1772135102.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Francisco Giants - MLB vs San Diego Padres",
+      "date": "Mon, 4 May '26 6:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/614886",
+      "image": "https://ei-cdn.1sttix.org/preview_SFGiants.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

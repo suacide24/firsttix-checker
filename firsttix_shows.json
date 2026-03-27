@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-27T10:19:06 PT",
-  "last_successful_run": "2026-03-27T10:19:06 PT",
-  "count": 30,
+  "last_updated": "2026-03-27T10:49:23 PT",
+  "last_successful_run": "2026-03-27T10:49:23 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -34,22 +34,6 @@
       "date": "Sat, 28 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616787",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 28 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616787",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
-      "date": "Sat, 28 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
-      "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
       "rare": false
     },
     {
@@ -90,14 +74,6 @@
       "date": "Sun, 29 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
       "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "An Evening With Anne Lamott and Neal Allen",
-      "date": "Wed, 1 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
-      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
       "rare": false
     },
     {

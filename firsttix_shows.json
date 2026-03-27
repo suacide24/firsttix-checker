@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T21:04:29 PT",
-  "last_successful_run": "2026-03-26T21:04:29 PT",
-  "count": 32,
+  "last_updated": "2026-03-26T21:34:45 PT",
+  "last_successful_run": "2026-03-26T21:34:45 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -182,26 +182,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Los Angeles Angels - MLB vs San Diego Padres",
-      "date": "Sat, 18 Apr '26 6:38 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612471",
-      "image": "https://ei-cdn.1sttix.org/preview_LosAngelesAngels.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
       "date": "Sat, 18 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614937",
       "image": "https://ei-cdn.1sttix.org/preview614937_1773246001.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Los Angeles Angels - MLB vs San Diego Padres",
-      "date": "Sun, 19 Apr '26 1:07 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612516",
-      "image": "https://ei-cdn.1sttix.org/preview_LosAngelesAngels.jpg",
       "rare": false
     },
     {
@@ -227,14 +211,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611741",
       "image": "https://ei-cdn.1sttix.org/preview611741_1772135102.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Francisco Giants - MLB vs San Diego Padres",
-      "date": "Mon, 4 May '26 6:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/614886",
-      "image": "https://ei-cdn.1sttix.org/preview_SFGiants.jpg",
-      "rare": true
     },
     {
       "source": "1stTix",

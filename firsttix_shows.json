@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-27T13:20:40 PT",
-  "last_successful_run": "2026-03-27T13:20:40 PT",
-  "count": 27,
+  "last_updated": "2026-03-27T13:50:56 PT",
+  "last_successful_run": "2026-03-27T13:50:56 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -30,27 +30,11 @@
     },
     {
       "source": "1stTix",
-      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
-      "date": "Sat, 28 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/608137",
-      "image": "https://ei-cdn.1sttix.org/preview608137_1770758719.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 28 Mar '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616787",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "LED ZEPAGAIN - Tribute To LED ZEPPELIN with Special Guest: ROLLING STONES Tribute START ME UP",
-      "date": "Sat, 28 Mar '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/605666",
-      "image": "https://ei-cdn.1sttix.org/preview605666_1769708160.jpg",
-      "rare": true
     },
     {
       "source": "1stTix",
@@ -66,14 +50,6 @@
       "date": "Sat, 28 Mar '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Sockers - MASL vs Kansas City Comets",
-      "date": "Sun, 29 Mar '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
-      "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
       "rare": false
     },
     {

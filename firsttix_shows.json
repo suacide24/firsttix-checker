@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-26T22:35:16 PT",
-  "last_successful_run": "2026-03-26T22:35:16 PT",
-  "count": 29,
+  "last_updated": "2026-03-26T23:05:33 PT",
+  "last_successful_run": "2026-03-26T23:05:33 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -145,14 +145,6 @@
       "name": "Matt & Ben",
       "date": "Fri, 10 Apr '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/618027",
-      "image": "https://ei-cdn.1sttix.org/preview617988_1774385842.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Matt and Ben",
-      "date": "Sat, 11 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/618021",
       "image": "https://ei-cdn.1sttix.org/preview617988_1774385842.jpg",
       "rare": true
     },

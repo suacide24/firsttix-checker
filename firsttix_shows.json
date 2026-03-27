@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-27T15:21:44 PT",
-  "last_successful_run": "2026-03-27T15:21:44 PT",
-  "count": 26,
+  "last_updated": "2026-03-27T15:52:38 PT",
+  "last_successful_run": "2026-03-27T15:52:38 PT",
+  "count": 23,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Gaslamp Experience Party Pass",
-      "date": "Fri, 27 Mar '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617684",
-      "image": "https://ei-cdn.1sttix.org/preview617684_1774305003.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
@@ -35,22 +27,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/605666",
       "image": "https://ei-cdn.1sttix.org/preview605666_1769708160.jpg",
       "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Gaslamp Downtown Bar Crawl",
-      "date": "Sat, 28 Mar '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617685",
-      "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 28 Mar '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616647",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
     },
     {
       "source": "1stTix",

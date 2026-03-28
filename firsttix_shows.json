@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-27T17:53:38 PT",
-  "last_successful_run": "2026-03-27T17:53:38 PT",
+  "last_updated": "2026-03-27T18:23:54 PT",
+  "last_successful_run": "2026-03-27T18:23:54 PT",
   "count": 25,
   "shows": [
     {
@@ -10,14 +10,6 @@
       "date": "Sat, 28 Mar '26 5:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611719",
       "image": "https://ei-cdn.1sttix.org/preview611719_1772133005.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 28 Mar '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/616787",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {
@@ -73,6 +65,14 @@
       "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
       "date": "Fri, 3 Apr '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617872",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
+      "date": "Sat, 4 Apr '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617873",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": false
     },

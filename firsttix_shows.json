@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-03-27T16:53:06 PT",
-  "last_successful_run": "2026-03-27T16:53:06 PT",
+  "last_updated": "2026-03-27T17:23:21 PT",
+  "last_successful_run": "2026-03-27T17:23:21 PT",
   "count": 25,
   "shows": [
     {
@@ -42,14 +42,6 @@
       "date": "Sun, 29 Mar '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/587461",
       "image": "https://ei-cdn.1sttix.org/preview587461_1761171603.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "An Evening With Anne Lamott and Neal Allen",
-      "date": "Wed, 1 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615693",
-      "image": "https://ei-cdn.1sttix.org/preview615693_1773714819.jpg",
       "rare": false
     },
     {
@@ -129,6 +121,14 @@
       "name": "San Diego Toreros - NCAA Women's Softball vs Cal State Fullerton Titans",
       "date": "Tue, 14 Apr '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617874",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs UC San Diego Tritons",
+      "date": "Wed, 15 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617875",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": true
     },

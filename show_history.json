@@ -4,7 +4,8 @@
       "name": "The Comedy Store",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-20"
       ]
     },
     "1stTix|mic drop comedy": {
@@ -20,7 +21,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|corb lund": {
@@ -328,7 +330,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|taylor austin dye": {
@@ -344,7 +347,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs bay fc": {
@@ -359,7 +363,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -421,7 +426,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|grand comedy club": {
@@ -452,7 +458,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|micromania \u2013 micro athletes and wrestling": {
@@ -510,7 +517,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-20"
       ]
     },
     "1stTix|san diego toreros - ncaa women's softball vs cal state fullerton titans": {
@@ -547,6 +555,97 @@
       "source": "1stTix",
       "appearances": [
         "2026-03-27"
+      ]
+    },
+    "1stTix|the making of our planet: frozen worlds": {
+      "name": "The Making of Our Planet: Frozen Worlds",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's softball vs saint mary's gaels": {
+      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego growlers - ultimate frisbee association vs carolina flyers": {
+      "name": "San Diego Growlers - Ultimate Frisbee Association vs Carolina Flyers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego mojo - major league volleyball vs dallas pulse": {
+      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|dancing on tiptoes: a musical exploration of melody, movement, and mood": {
+      "name": "Dancing on Tiptoes: a Musical Exploration of Melody, Movement, and Mood",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|third day with very special guest zach williams": {
+      "name": "THIRD DAY with very special guest Zach Williams",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|not the right mom": {
+      "name": "Not the Right Mom",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego strike force - ifl vs tucson sugar skulls": {
+      "name": "San Diego Strike Force - IFL vs Tucson Sugar Skulls",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego mojo - major league volleyball vs grand rapids rise": {
+      "name": "San Diego Mojo - Major League Volleyball vs Grand Rapids Rise",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|johnny cash tribute cash'd out with social d tribute total distortion": {
+      "name": "JOHNNY CASH Tribute CASH'D OUT with SOCIAL D Tribute TOTAL DISTORTION",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|ultimate carrie - carrie underwood tribute": {
+      "name": "Ultimate Carrie - Carrie Underwood Tribute",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's softball vs seattle redhawks": {
+      "name": "San Diego Toreros - NCAA Women's Softball vs Seattle Redhawks",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
+      ]
+    },
+    "1stTix|moonshine bandits": {
+      "name": "Moonshine Bandits",
+      "source": "1stTix",
+      "appearances": [
+        "2026-04-20"
       ]
     }
   }

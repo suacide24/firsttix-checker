@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-20T15:26:34 PT",
-  "last_successful_run": "2026-04-20T15:26:34 PT",
-  "count": 26,
+  "last_updated": "2026-04-20T15:56:49 PT",
+  "last_successful_run": "2026-04-20T15:56:49 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -10,6 +10,22 @@
       "date": "Tue, 21 Apr '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/622140",
       "image": "https://ei-cdn.1sttix.org/preview622140_1775750402.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "The Making of Our Planet: Frozen Worlds",
+      "date": "Tue, 21 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622140",
+      "image": "https://ei-cdn.1sttix.org/preview622140_1775750402.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Charlie Puth: Whatever's Clever! World Tour",
+      "date": "Wed, 22 Apr '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/616664",
+      "image": "https://ei-cdn.1sttix.org/preview-616664-tm.jpg",
       "rare": true
     },
     {
@@ -78,11 +94,11 @@
     },
     {
       "source": "1stTix",
-      "name": "Taylor Austin Dye",
+      "name": "THIRD DAY with very special guest Zach Williams",
       "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
-      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
-      "rare": false
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
+      "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -90,6 +106,14 @@
       "date": "Sun, 26 Apr '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617878",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Not the Right Mom",
+      "date": "Sun, 26 Apr '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623191",
+      "image": "https://ei-cdn.1sttix.org/preview623191_1776202648.jpg",
       "rare": true
     },
     {
@@ -110,19 +134,19 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Grand Rapids Rise",
-      "date": "Thu, 30 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622843",
-      "image": "https://ei-cdn.1sttix.org/preview-622843-tm.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Thu, 30 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/618885",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Grand Rapids Rise",
+      "date": "Thu, 30 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622843",
+      "image": "https://ei-cdn.1sttix.org/preview-622843-tm.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-20T10:41:06 PT",
-  "last_successful_run": "2026-04-20T10:41:06 PT",
-  "count": 26,
+  "last_updated": "2026-04-20T11:11:22 PT",
+  "last_successful_run": "2026-04-20T11:11:22 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -185,6 +185,14 @@
       "name": "San Diego Toreros - NCAA Women's Softball vs Seattle Redhawks",
       "date": "Fri, 8 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617880",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Seattle Redhawks",
+      "date": "Sat, 9 May '26 12:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617881",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": true
     },

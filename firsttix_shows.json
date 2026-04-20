@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-20T16:27:09 PT",
-  "last_successful_run": "2026-04-20T16:27:09 PT",
-  "count": 29,
+  "last_updated": "2026-04-20T16:57:24 PT",
+  "last_successful_run": "2026-04-20T16:57:24 PT",
+  "count": 27,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "The Making of Our Planet: Frozen Worlds",
-      "date": "Tue, 21 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622140",
-      "image": "https://ei-cdn.1sttix.org/preview622140_1775750402.jpg",
-      "rare": true
-    },
     {
       "source": "1stTix",
       "name": "The Making of Our Planet: Frozen Worlds",
@@ -46,18 +38,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
-      "date": "Fri, 24 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
-      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Growlers - Ultimate Frisbee Association vs Carolina Flyers",
       "date": "Fri, 24 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623890",
       "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "date": "Fri, 24 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
+      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
       "rare": true
     },
     {
@@ -106,14 +98,6 @@
       "date": "Sun, 26 Apr '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617878",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Not the Right Mom",
-      "date": "Sun, 26 Apr '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623191",
-      "image": "https://ei-cdn.1sttix.org/preview623191_1776202648.jpg",
       "rare": true
     },
     {

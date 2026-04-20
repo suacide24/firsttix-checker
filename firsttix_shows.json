@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-20T12:55:17 PT",
-  "last_successful_run": "2026-04-20T12:55:17 PT",
-  "count": 28,
+  "last_updated": "2026-04-20T13:25:34 PT",
+  "last_successful_run": "2026-04-20T13:25:34 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -14,10 +14,10 @@
     },
     {
       "source": "1stTix",
-      "name": "The Making of Our Planet: Frozen Worlds",
-      "date": "Tue, 21 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622140",
-      "image": "https://ei-cdn.1sttix.org/preview622140_1775750402.jpg",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
+      "date": "Fri, 24 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": true
     },
     {
@@ -27,14 +27,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
       "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
-      "date": "Fri, 24 Apr '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
-      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
-      "rare": true
     },
     {
       "source": "1stTix",
@@ -91,14 +83,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
       "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
       "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Taylor Austin Dye",
-      "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
-      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
-      "rare": false
     },
     {
       "source": "1stTix",

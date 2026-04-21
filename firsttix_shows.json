@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-21T07:49:33 PT",
-  "last_successful_run": "2026-04-21T07:49:33 PT",
+  "last_updated": "2026-04-21T08:19:50 PT",
+  "last_successful_run": "2026-04-21T08:19:50 PT",
   "count": 27,
   "shows": [
     {
@@ -70,19 +70,19 @@
     },
     {
       "source": "1stTix",
-      "name": "THIRD DAY with very special guest Zach Williams",
-      "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
-      "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Taylor Austin Dye",
       "date": "Sat, 25 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
       "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "THIRD DAY with very special guest Zach Williams",
+      "date": "Sat, 25 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
+      "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

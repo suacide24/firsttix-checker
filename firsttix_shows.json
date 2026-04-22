@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-21T19:46:19 PT",
-  "last_successful_run": "2026-04-21T19:46:19 PT",
+  "last_updated": "2026-04-21T20:25:52 PT",
+  "last_successful_run": "2026-04-21T20:25:52 PT",
   "count": 28,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
-      "date": "Fri, 24 Apr '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
-      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
-      "rare": true
-    },
     {
       "source": "1stTix",
       "name": "Event Rescheduled: Twista",
@@ -19,6 +11,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
       "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
+      "date": "Fri, 24 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -78,19 +78,11 @@
     },
     {
       "source": "1stTix",
-      "name": "THIRD DAY with very special guest Zach Williams",
+      "name": "Taylor Austin Dye",
       "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
-      "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "BRUNO MARS Tribute 24K Magic",
-      "date": "Sat, 25 Apr '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/618195",
-      "image": "https://ei-cdn.1sttix.org/preview618195_1774455567.jpg",
-      "rare": true
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
+      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
+      "rare": false
     },
     {
       "source": "1stTix",
@@ -150,18 +142,18 @@
     },
     {
       "source": "1stTix",
-      "name": "The Comedy Store",
-      "date": "Wed, 6 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623769",
-      "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Ultimate Carrie - Carrie Underwood Tribute",
       "date": "Wed, 6 May '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/622336",
       "image": "https://ei-cdn.1sttix.org/preview622336_1775775257.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "The Comedy Store",
+      "date": "Wed, 6 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623769",
+      "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
       "rare": true
     },
     {
@@ -219,6 +211,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611975",
       "image": "https://ei-cdn.1sttix.org/preview611975_1772219702.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Kesha: The Freedom Tour",
+      "date": "Sat, 23 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624746",
+      "image": "https://ei-cdn.1sttix.org/preview624746_1776825291.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

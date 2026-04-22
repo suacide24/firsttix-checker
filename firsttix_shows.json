@@ -1,23 +1,31 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-22T11:33:14 PT",
-  "last_successful_run": "2026-04-22T11:33:14 PT",
-  "count": 29,
+  "last_updated": "2026-04-22T13:08:41 PT",
+  "last_successful_run": "2026-04-22T13:08:41 PT",
+  "count": 30,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
-      "date": "Fri, 24 Apr '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
-      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
-      "rare": false
-    },
     {
       "source": "1stTix",
       "name": "Event Rescheduled: Twista",
       "date": "Fri, 24 Apr '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
       "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 24 Apr '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624876",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "date": "Fri, 24 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
+      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
       "rare": false
     },
     {
@@ -30,11 +38,11 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
-      "date": "Fri, 24 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
-      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
-      "rare": false
+      "name": "Grand Comedy Club",
+      "date": "Fri, 24 Apr '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624877",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -78,19 +86,19 @@
     },
     {
       "source": "1stTix",
-      "name": "Taylor Austin Dye",
-      "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
-      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "THIRD DAY with very special guest Zach Williams",
       "date": "Sat, 25 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
       "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Sat, 25 Apr '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624878",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -158,18 +166,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Ultimate Carrie - Carrie Underwood Tribute",
-      "date": "Wed, 6 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622336",
-      "image": "https://ei-cdn.1sttix.org/preview622336_1775775257.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "The Comedy Store",
       "date": "Wed, 6 May '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623769",
       "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Ultimate Carrie - Carrie Underwood Tribute",
+      "date": "Wed, 6 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622336",
+      "image": "https://ei-cdn.1sttix.org/preview622336_1775775257.jpg",
       "rare": false
     },
     {

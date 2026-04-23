@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-23T11:01:06 PT",
-  "last_successful_run": "2026-04-23T11:01:06 PT",
-  "count": 28,
+  "last_updated": "2026-04-23T11:31:22 PT",
+  "last_successful_run": "2026-04-23T11:31:22 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -26,6 +26,14 @@
       "date": "Fri, 24 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623890",
       "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "date": "Fri, 24 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
+      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
       "rare": false
     },
     {

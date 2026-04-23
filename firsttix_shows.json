@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-23T12:01:39 PT",
-  "last_successful_run": "2026-04-23T12:01:39 PT",
-  "count": 27,
+  "last_updated": "2026-04-23T12:31:55 PT",
+  "last_successful_run": "2026-04-23T12:31:55 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -146,6 +146,14 @@
       "date": "Wed, 6 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
       "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 6 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624646",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {

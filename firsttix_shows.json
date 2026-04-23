@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-23T16:03:53 PT",
-  "last_successful_run": "2026-04-23T16:03:53 PT",
-  "count": 29,
+  "last_updated": "2026-04-23T16:34:10 PT",
+  "last_successful_run": "2026-04-23T16:34:10 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -142,19 +142,19 @@
     },
     {
       "source": "1stTix",
-      "name": "Meshell Ndegeocello",
-      "date": "Wed, 6 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624723",
-      "image": "https://ei-cdn.1sttix.org/preview624723_1776810903.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Creed Fisher",
       "date": "Wed, 6 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
       "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Meshell Ndegeocello",
+      "date": "Wed, 6 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624723",
+      "image": "https://ei-cdn.1sttix.org/preview624723_1776810903.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -210,14 +210,6 @@
       "date": "Sat, 9 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623740",
       "image": "https://ei-cdn.1sttix.org/preview623740_1776366296.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Growlers - Ultimate Frisbee Association vs Atlanta Hustle",
-      "date": "Sat, 9 May '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623891",
-      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
       "rare": false
     },
     {

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-22T16:40:59 PT",
-  "last_successful_run": "2026-04-22T16:40:59 PT",
+  "last_updated": "2026-04-22T17:11:17 PT",
+  "last_successful_run": "2026-04-22T17:11:17 PT",
   "count": 30,
   "shows": [
     {
@@ -18,6 +18,14 @@
       "date": "Fri, 24 Apr '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/596312",
       "image": "https://ei-cdn.1sttix.org/preview596312_1764782312.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
+      "date": "Fri, 24 Apr '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/617876",
+      "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": false
     },
     {
@@ -86,26 +94,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Taylor Austin Dye",
-      "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
-      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Taylor Austin Dye",
-      "date": "Sat, 25 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
-      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "THIRD DAY with very special guest Zach Williams",
       "date": "Sat, 25 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623969",
       "image": "https://ei-cdn.1sttix.org/preview623969_1776459302.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Taylor Austin Dye",
+      "date": "Sat, 25 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/612388",
+      "image": "https://ei-cdn.1sttix.org/preview612388_1772470219.jpg",
       "rare": false
     },
     {

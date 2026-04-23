@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-23T15:33:36 PT",
-  "last_successful_run": "2026-04-23T15:33:36 PT",
+  "last_updated": "2026-04-23T16:03:53 PT",
+  "last_successful_run": "2026-04-23T16:03:53 PT",
   "count": 29,
   "shows": [
     {
@@ -78,14 +78,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Murder By The Bay - Murder Mystery Dinner Show",
-      "date": "Sat, 25 Apr '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624497",
-      "image": "https://ei-cdn.1sttix.org/preview624497_1776784597.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Grand Comedy Club",
       "date": "Sat, 25 Apr '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624878",
@@ -118,6 +110,14 @@
     },
     {
       "source": "1stTix",
+      "name": "Camila Fern\u00e1ndez with Mariachi Continental San Diego",
+      "date": "Wed, 29 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624722",
+      "image": "https://ei-cdn.1sttix.org/preview624722_1776810902.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Mojo - Major League Volleyball vs Grand Rapids Rise",
       "date": "Thu, 30 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/622843",
@@ -139,6 +139,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611741",
       "image": "https://ei-cdn.1sttix.org/preview611741_1772135102.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Meshell Ndegeocello",
+      "date": "Wed, 6 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624723",
+      "image": "https://ei-cdn.1sttix.org/preview624723_1776810903.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",
@@ -210,14 +218,6 @@
       "date": "Sat, 9 May '26 6:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623891",
       "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Moonshine Bandits",
-      "date": "Sat, 9 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/615170",
-      "image": "https://ei-cdn.1sttix.org/preview615170_1773267416.jpg",
       "rare": false
     },
     {

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-23T15:03:21 PT",
-  "last_successful_run": "2026-04-23T15:03:21 PT",
-  "count": 28,
+  "last_updated": "2026-04-23T15:33:36 PT",
+  "last_successful_run": "2026-04-23T15:33:36 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -171,6 +171,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/617879",
       "image": "https://ei-cdn.1sttix.org/preview617871_1774387066.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Meghan Patrick",
+      "date": "Thu, 7 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624715",
+      "image": "https://ei-cdn.1sttix.org/preview624715_1776809447.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

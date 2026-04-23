@@ -1,17 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-04-22T17:11:17 PT",
-  "last_successful_run": "2026-04-22T17:11:17 PT",
+  "last_updated": "2026-04-22T19:58:54 PT",
+  "last_successful_run": "2026-04-22T19:58:54 PT",
   "count": 30,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Randy Travis: More Life Tour",
-      "date": "Thu, 23 Apr '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624943",
-      "image": "https://ei-cdn.1sttix.org/preview624943_1776894395.jpg",
-      "rare": true
-    },
     {
       "source": "1stTix",
       "name": "Event Rescheduled: Twista",
@@ -38,10 +30,10 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "name": "San Diego Growlers - Ultimate Frisbee Association vs Carolina Flyers",
       "date": "Fri, 24 Apr '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
-      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623890",
+      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
       "rare": false
     },
     {
@@ -50,6 +42,14 @@
       "date": "Fri, 24 Apr '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623890",
       "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
+      "date": "Fri, 24 Apr '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/622801",
+      "image": "https://ei-cdn.1sttix.org/preview-622801-tm.jpg",
       "rare": false
     },
     {

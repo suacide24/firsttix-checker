@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T14:11:55 PT",
-  "last_successful_run": "2026-05-05T14:11:55 PT",
-  "count": 13,
+  "last_updated": "2026-05-05T14:42:13 PT",
+  "last_successful_run": "2026-05-05T14:42:13 PT",
+  "count": 21,
   "shows": [
     {
       "source": "1stTix",
@@ -26,6 +26,14 @@
       "date": "Sat, 9 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623740",
       "image": "https://ei-cdn.1sttix.org/preview623740_1776366296.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Moonshine Bandits",
+      "date": "Sat, 9 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615170",
+      "image": "https://ei-cdn.1sttix.org/preview615170_1773267416.jpg",
       "rare": false
     },
     {
@@ -94,19 +102,75 @@
     },
     {
       "source": "1stTix",
-      "name": "Hilariously Discharged",
-      "date": "Sun, 17 May '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
-      "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Orlando Pride",
       "date": "Sun, 24 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
       "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
+      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
+      "rare": true
     }
   ]
 }

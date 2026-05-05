@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T10:55:19 PT",
-  "last_successful_run": "2026-05-05T10:55:19 PT",
-  "count": 12,
+  "last_updated": "2026-05-05T11:35:34 PT",
+  "last_successful_run": "2026-05-05T11:35:34 PT",
+  "count": 11,
   "shows": [
     {
       "source": "1stTix",
@@ -46,18 +46,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
-      "date": "Sat, 9 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
-      "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Prokofiev's Fifth Symphony",
       "date": "Sun, 10 May '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626025",
       "image": "https://ei-cdn.1sttix.org/preview626023_1777401540.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Mendelssohn's ",
+      "date": "Fri, 15 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
+      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
       "rare": true
     },
     {
@@ -83,14 +83,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
       "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 20 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624778",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
     },
     {
       "source": "1stTix",

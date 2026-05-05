@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T14:42:13 PT",
-  "last_successful_run": "2026-05-05T14:42:13 PT",
-  "count": 21,
+  "last_updated": "2026-05-05T15:12:30 PT",
+  "last_successful_run": "2026-05-05T15:12:30 PT",
+  "count": 22,
   "shows": [
     {
       "source": "1stTix",
@@ -11,6 +11,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
       "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "MJ (Touring)",
+      "date": "Thu, 7 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
+      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
+      "rare": true
     },
     {
       "source": "1stTix",

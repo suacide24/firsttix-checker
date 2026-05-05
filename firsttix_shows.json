@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T13:41:20 PT",
-  "last_successful_run": "2026-05-05T13:41:20 PT",
-  "count": 19,
+  "last_updated": "2026-05-05T14:11:55 PT",
+  "last_successful_run": "2026-05-05T14:11:55 PT",
+  "count": 13,
   "shows": [
     {
       "source": "1stTix",
@@ -42,6 +42,14 @@
       "date": "Sat, 9 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626023",
       "image": "https://ei-cdn.1sttix.org/preview626023_1777401540.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
+      "date": "Sat, 9 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
+      "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
       "rare": true
     },
     {
@@ -86,75 +94,19 @@
     },
     {
       "source": "1stTix",
+      "name": "Hilariously Discharged",
+      "date": "Sun, 17 May '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
+      "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Wave FC - NWSL vs Orlando Pride",
       "date": "Sun, 24 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
       "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "date": "Sat, 20 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
-      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
-      "rare": true
     }
   ]
 }

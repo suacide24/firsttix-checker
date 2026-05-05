@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T13:11:02 PT",
-  "last_successful_run": "2026-05-05T13:11:02 PT",
-  "count": 11,
+  "last_updated": "2026-05-05T13:41:20 PT",
+  "last_successful_run": "2026-05-05T13:41:20 PT",
+  "count": 19,
   "shows": [
     {
       "source": "1stTix",
@@ -91,6 +91,70 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
       "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true
     }
   ]
 }

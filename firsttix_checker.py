@@ -10,6 +10,7 @@ Sends email notifications for new shows (only once per show+date).
 import argparse
 import json
 import os
+import pickle
 import random
 import re
 import smtplib
@@ -47,7 +48,9 @@ def get_pacific_time():
 # ---------------------------------------------------------------------------
 # CLI arguments
 # ---------------------------------------------------------------------------
-parser = argparse.ArgumentParser(description="Check 1stTix for available shows in San Diego")
+parser = argparse.ArgumentParser(
+    description="Check 1stTix for available shows in San Diego"
+)
 parser.add_argument(
     "--fast", "--no-delay", action="store_true", help="Skip random delays (for testing)"
 )
@@ -81,6 +84,16 @@ OUTPUT_FILE = SCRIPT_DIR / "firsttix_shows.json"
 LOG_FILE = SCRIPT_DIR / "firsttix.log"
 NOTIFIED_FILE = SCRIPT_DIR / "notified_shows.json"
 HISTORY_FILE = SCRIPT_DIR / "show_history.json"
+BACKOFF_FILE = SCRIPT_DIR / "backoff_state.json"
+SESSION_FILE = SCRIPT_DIR / "session_cookies.pkl"
+
+# ---------------------------------------------------------------------------
+# Backoff configuration
+# ---------------------------------------------------------------------------
+BACKOFF_BASE_MINUTES = 30  # First backoff: skip 1 cycle (~30 min)
+BACKOFF_MAX_MINUTES = 480  # Max backoff: 8 hours
+BACKOFF_MULTIPLIER = 2  # Exponential multiplier
+RANDOM_SKIP_CHANCE = 0.15  # 15% chance to skip a run (adds unpredictability)
 
 # ---------------------------------------------------------------------------
 # Rare show detection
@@ -104,29 +117,94 @@ AVAILABLE_SHOWS_URL = "https://suacide24.github.io/firsttix-checker/"
 # ---------------------------------------------------------------------------
 ALLOWED_CITIES = {
     # San Diego proper & neighborhoods
-    "san diego", "talmadge", "kensington", "city heights", "north park",
-    "hillcrest", "mission hills", "university heights", "normal heights",
-    "la jolla", "pacific beach", "mission beach", "ocean beach", "point loma",
-    "clairemont", "mira mesa", "scripps ranch", "tierrasanta", "san carlos",
-    "del cerro", "college area", "rolando", "oak park", "encanto",
-    "paradise hills", "skyline", "lincoln park", "barrio logan",
-    "logan heights", "golden hill", "south park", "north park",
-    "gaslamp", "gaslamp quarter", "east village", "little italy",
-    "downtown san diego", "downtown", "old town", "midway district",
-    "bay park", "bay ho", "linda vista", "serra mesa", "mission valley",
-    "fashion valley", "rancho bernardo", "carmel mountain", "sabre springs",
-    "rancho penasquitos", "torrey pines", "university city", "sorrento valley",
-    "otay ranch", "otay mesa", "san ysidro", "nestor", "bay terraces",
+    "san diego",
+    "talmadge",
+    "kensington",
+    "city heights",
+    "north park",
+    "hillcrest",
+    "mission hills",
+    "university heights",
+    "normal heights",
+    "la jolla",
+    "pacific beach",
+    "mission beach",
+    "ocean beach",
+    "point loma",
+    "clairemont",
+    "mira mesa",
+    "scripps ranch",
+    "tierrasanta",
+    "san carlos",
+    "del cerro",
+    "college area",
+    "rolando",
+    "oak park",
+    "encanto",
+    "paradise hills",
+    "skyline",
+    "lincoln park",
+    "barrio logan",
+    "logan heights",
+    "golden hill",
+    "south park",
+    "north park",
+    "gaslamp",
+    "gaslamp quarter",
+    "east village",
+    "little italy",
+    "downtown san diego",
+    "downtown",
+    "old town",
+    "midway district",
+    "bay park",
+    "bay ho",
+    "linda vista",
+    "serra mesa",
+    "mission valley",
+    "fashion valley",
+    "rancho bernardo",
+    "carmel mountain",
+    "sabre springs",
+    "rancho penasquitos",
+    "torrey pines",
+    "university city",
+    "sorrento valley",
+    "otay ranch",
+    "otay mesa",
+    "san ysidro",
+    "nestor",
+    "bay terraces",
     # South county
-    "chula vista", "national city", "coronado", "imperial beach",
-    "bonita", "lemon grove", "spring valley", "san marcos",
+    "chula vista",
+    "national city",
+    "coronado",
+    "imperial beach",
+    "bonita",
+    "lemon grove",
+    "spring valley",
+    "san marcos",
     # East county
-    "la mesa", "el cajon", "santee", "lakeside", "alpine", "ramona",
+    "la mesa",
+    "el cajon",
+    "santee",
+    "lakeside",
+    "alpine",
+    "ramona",
     # North county coastal
-    "del mar", "solana beach", "encinitas", "leucadia", "cardiff",
-    "carlsbad", "oceanside",
+    "del mar",
+    "solana beach",
+    "encinitas",
+    "leucadia",
+    "cardiff",
+    "carlsbad",
+    "oceanside",
     # North county inland
-    "escondido", "poway", "rancho santa fe", "vista", "san marcos",
+    "escondido",
+    "poway",
+    "rancho santa fe",
+    "vista",
+    "san marcos",
     "fallbrook",
 }
 
@@ -144,15 +222,110 @@ def log_message(message: str):
 
 
 # ---------------------------------------------------------------------------
+# Backoff / rate-limit helpers
+# ---------------------------------------------------------------------------
+def load_backoff_state() -> dict:
+    """Load backoff state from file."""
+    if not BACKOFF_FILE.exists():
+        return {"consecutive_failures": 0, "next_allowed_run": None}
+    try:
+        with open(BACKOFF_FILE, "r") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return {"consecutive_failures": 0, "next_allowed_run": None}
+
+
+def save_backoff_state(state: dict):
+    """Save backoff state to file."""
+    with open(BACKOFF_FILE, "w") as f:
+        json.dump(state, f, indent=2)
+
+
+def record_login_failure():
+    """Record a login failure and calculate next backoff time."""
+    state = load_backoff_state()
+    state["consecutive_failures"] = state.get("consecutive_failures", 0) + 1
+    failures = state["consecutive_failures"]
+
+    # Exponential backoff with jitter
+    backoff_minutes = min(
+        BACKOFF_BASE_MINUTES * (BACKOFF_MULTIPLIER ** (failures - 1)),
+        BACKOFF_MAX_MINUTES,
+    )
+    # Add random jitter (±25%)
+    jitter = random.uniform(0.75, 1.25)
+    backoff_minutes *= jitter
+
+    next_run = datetime.now() + timedelta(minutes=backoff_minutes)
+    state["next_allowed_run"] = next_run.isoformat()
+    state["last_failure"] = datetime.now().isoformat()
+
+    save_backoff_state(state)
+    log_message(
+        f"[Backoff] Login failure #{failures}. "
+        f"Next retry in {backoff_minutes:.0f} min (at {next_run.strftime('%H:%M')})"
+    )
+
+
+def record_login_success():
+    """Reset backoff state on successful login."""
+    state = load_backoff_state()
+    if state.get("consecutive_failures", 0) > 0:
+        log_message(
+            f"[Backoff] Login succeeded after {state['consecutive_failures']} failure(s). Resetting backoff."
+        )
+    save_backoff_state({"consecutive_failures": 0, "next_allowed_run": None})
+
+
+def should_skip_due_to_backoff() -> bool:
+    """Check if we should skip this run due to backoff."""
+    state = load_backoff_state()
+    next_allowed = state.get("next_allowed_run")
+    if not next_allowed:
+        return False
+    try:
+        next_allowed_dt = datetime.fromisoformat(next_allowed)
+        if datetime.now() < next_allowed_dt:
+            remaining = (next_allowed_dt - datetime.now()).total_seconds() / 60
+            log_message(
+                f"[Backoff] Skipping run — in backoff period. "
+                f"Next retry in {remaining:.0f} min (failure streak: {state['consecutive_failures']})"
+            )
+            return True
+    except (ValueError, TypeError):
+        pass
+    return False
+
+
+def should_random_skip() -> bool:
+    """Randomly skip a run to add unpredictability to request timing."""
+    if args.fast:
+        return False
+    if random.random() < RANDOM_SKIP_CHANCE:
+        log_message("[Random] Skipping this run to vary request pattern")
+        return True
+    return False
+
+
+# ---------------------------------------------------------------------------
 # User agent rotation & anti-bot helpers
 # ---------------------------------------------------------------------------
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0",
+    # Chrome 125-127 (2025-2026)
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    # Firefox 128-130 (2025-2026)
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:129.0) Gecko/20100101 Firefox/129.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+    # Safari 18 (2025-2026)
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+    # Edge 126-127 (2025-2026)
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
 ]
 
 
@@ -160,7 +333,9 @@ def get_random_user_agent() -> str:
     return random.choice(USER_AGENTS)
 
 
-def random_delay(min_seconds: float = 2.0, max_seconds: float = 8.0, silent: bool = False):
+def random_delay(
+    min_seconds: float = 2.0, max_seconds: float = 8.0, silent: bool = False
+):
     if args.fast:
         return
     delay = random.uniform(min_seconds, max_seconds)
@@ -181,17 +356,108 @@ def random_page_delay():
 
 def create_session_with_random_ua() -> requests.Session:
     session = requests.Session()
+    ua = get_random_user_agent()
     session.headers.update(
         {
-            "User-Agent": get_random_user_agent(),
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.5",
+            "User-Agent": ua,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
             "Accept-Encoding": "gzip, deflate, br",
             "Connection": "keep-alive",
             "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
         }
     )
     return session
+
+
+# ---------------------------------------------------------------------------
+# Session / cookie persistence
+# ---------------------------------------------------------------------------
+SESSION_MAX_AGE_HOURS = 4  # Re-login after 4 hours even if cookies exist
+
+
+def save_session_cookies(session: requests.Session):
+    """Persist session cookies to disk."""
+    try:
+        data = {
+            "cookies": session.cookies.get_dict(),
+            "saved_at": datetime.now().isoformat(),
+        }
+        with open(SESSION_FILE, "wb") as f:
+            pickle.dump(data, f)
+        log_message("[Session] Saved cookies to disk")
+    except (IOError, pickle.PicklingError) as e:
+        log_message(f"[Session] Failed to save cookies: {e}")
+
+
+def load_session_cookies(session: requests.Session) -> bool:
+    """Load saved cookies into session. Returns True if valid cookies loaded."""
+    if not SESSION_FILE.exists():
+        return False
+    try:
+        with open(SESSION_FILE, "rb") as f:
+            data = pickle.load(f)
+
+        saved_at = datetime.fromisoformat(data["saved_at"])
+        age_hours = (datetime.now() - saved_at).total_seconds() / 3600
+
+        if age_hours > SESSION_MAX_AGE_HOURS:
+            log_message(
+                f"[Session] Saved cookies expired ({age_hours:.1f}h old), will re-login"
+            )
+            SESSION_FILE.unlink(missing_ok=True)
+            return False
+
+        cookies = data.get("cookies", {})
+        if not cookies:
+            return False
+
+        for name, value in cookies.items():
+            session.cookies.set(name, value)
+
+        log_message(f"[Session] Loaded saved cookies ({age_hours:.1f}h old)")
+        return True
+
+    except (IOError, pickle.UnpicklingError, KeyError, ValueError) as e:
+        log_message(f"[Session] Failed to load cookies: {e}")
+        SESSION_FILE.unlink(missing_ok=True)
+        return False
+
+
+def verify_session(session: requests.Session) -> bool:
+    """Check if the current session is still authenticated."""
+    try:
+        session.headers["Referer"] = FIRSTTIX_BASE_URL + "/tixer/my-account/welcome"
+        response = session.get(FIRSTTIX_EVENTS_URL, allow_redirects=False)
+
+        # If we get redirected to login, session is dead
+        if response.status_code in (301, 302):
+            location = response.headers.get("Location", "")
+            if "login" in location.lower():
+                log_message("[Session] Saved session expired (redirected to login)")
+                return False
+
+        if response.status_code == 200:
+            text_lower = response.text.lower()
+            if "must be logged in" in text_lower:
+                log_message("[Session] Saved session expired (auth required)")
+                return False
+
+            soup = BeautifulSoup(response.text, "html.parser")
+            events = soup.find_all("div", class_="event")
+            if events:
+                log_message(
+                    f"[Session] Reusing saved session (found {len(events)} events)"
+                )
+                return True
+
+        return False
+    except requests.RequestException:
+        return False
 
 
 # ---------------------------------------------------------------------------
@@ -546,7 +812,16 @@ def login_firsttix(session: requests.Session) -> bool:
             log_message("[1stTix] FIRSTTIX_PASSWORD not set - cannot login")
             return False
 
-        response = session.get(FIRSTTIX_LOGIN_URL)
+        # Visit homepage first (Referer chain: none -> homepage -> login)
+        session.headers["Referer"] = ""
+        session.headers["Sec-Fetch-Site"] = "none"
+        session.get(FIRSTTIX_BASE_URL, timeout=15)
+        random_delay(0.5, 2.0, silent=True)
+
+        # Now visit login page (Referer: homepage)
+        session.headers["Referer"] = FIRSTTIX_BASE_URL + "/"
+        session.headers["Sec-Fetch-Site"] = "same-origin"
+        response = session.get(FIRSTTIX_LOGIN_URL, timeout=15)
         response.raise_for_status()
 
         login_data = {
@@ -554,8 +829,18 @@ def login_firsttix(session: requests.Session) -> bool:
             "password": FIRSTTIX_PASSWORD,
         }
 
-        response = session.post(FIRSTTIX_LOGIN_URL, data=login_data, allow_redirects=True)
+        random_delay(1.0, 3.0, silent=True)
+
+        # Submit login form (Referer: login page)
+        session.headers["Referer"] = FIRSTTIX_LOGIN_URL
+        session.headers["Origin"] = FIRSTTIX_BASE_URL
+        response = session.post(
+            FIRSTTIX_LOGIN_URL, data=login_data, allow_redirects=True, timeout=15
+        )
         response.raise_for_status()
+
+        # Clean up Origin header (only needed for POST)
+        session.headers.pop("Origin", None)
 
         response_lower = response.text.lower()
 
@@ -573,7 +858,11 @@ def login_firsttix(session: requests.Session) -> bool:
             alerts = soup.find_all("div", class_=["alert", "alert-danger"])
             for alert in alerts:
                 alert_text = alert.get_text(strip=True).lower()
-                if "incorrect" in alert_text or "invalid" in alert_text or "failed" in alert_text:
+                if (
+                    "incorrect" in alert_text
+                    or "invalid" in alert_text
+                    or "failed" in alert_text
+                ):
                     log_message(f"[1stTix] Login failed: {alert.get_text(strip=True)}")
                     return False
 
@@ -620,9 +909,19 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
         shows = []
 
         sponsor_patterns = [
-            "tactical", "coursera", "courses", "certs", "degrees",
-            "sponsor", "donate", "discount", "coupon", "hotel",
-            "free courses", "cooperator", "5.11",
+            "tactical",
+            "coursera",
+            "courses",
+            "certs",
+            "degrees",
+            "sponsor",
+            "donate",
+            "discount",
+            "coupon",
+            "hotel",
+            "free courses",
+            "cooperator",
+            "5.11",
         ]
 
         page = 1
@@ -630,7 +929,9 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
 
         while page <= max_pages:
             params = {**FIRSTTIX_EVENTS_PARAMS, "page": page}
-            url = f"{FIRSTTIX_EVENTS_URL}/{page}?" + "&".join(f"{k}={v}" for k, v in params.items() if k != "page")
+            url = f"{FIRSTTIX_EVENTS_URL}/{page}?" + "&".join(
+                f"{k}={v}" for k, v in params.items() if k != "page"
+            )
             response = session.get(url)
             response.raise_for_status()
 
@@ -673,10 +974,12 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
 
                 # Check for dedicated venue/location elements
                 venue_elem = event.find(
-                    "div", class_=lambda c: c and any(
+                    "div",
+                    class_=lambda c: c
+                    and any(
                         x in (c if isinstance(c, str) else " ".join(c))
                         for x in ["venue", "location", "place", "address"]
-                    )
+                    ),
                 )
                 if venue_elem:
                     venue_text = venue_elem.get_text(strip=True)
@@ -689,7 +992,9 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
                 show_info["venue"] = venue_text
 
                 # Get link to event
-                link_elem = event.find("a", href=lambda x: x and "get-tickets/event" in x)
+                link_elem = event.find(
+                    "a", href=lambda x: x and "get-tickets/event" in x
+                )
                 if link_elem:
                     show_info["link"] = link_elem.get("href", "")
 
@@ -701,12 +1006,16 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
                 if show_info.get("name"):
                     name_lower = show_info["name"].lower()
 
-                    is_sponsor = any(pattern in name_lower for pattern in sponsor_patterns)
+                    is_sponsor = any(
+                        pattern in name_lower for pattern in sponsor_patterns
+                    )
                     has_event_link = bool(show_info.get("link"))
                     has_date = bool(show_info.get("date"))
 
                     if is_sponsor:
-                        log_message(f"[1stTix] Skipping sponsor/ad: {show_info['name']}")
+                        log_message(
+                            f"[1stTix] Skipping sponsor/ad: {show_info['name']}"
+                        )
                     elif not has_event_link or not has_date:
                         log_message(
                             f"[1stTix] Skipping non-event (no link/date): {show_info['name']}"
@@ -844,12 +1153,22 @@ def main():
     log_message("=" * 50)
     log_message("Starting 1stTix Checker — San Diego")
 
+    # Check backoff — skip if we're in a cooldown period after repeated failures
+    if should_skip_due_to_backoff():
+        return
+
+    # Random skip — occasionally skip a run to vary request timing
+    if should_random_skip():
+        return
+
     # Load denylist
     denylist = load_denylist()
 
     # Load previously notified shows
     notified_shows = load_notified_shows()
-    log_message(f"Loaded {len(notified_shows)} previously notified show+date combinations")
+    log_message(
+        f"Loaded {len(notified_shows)} previously notified show+date combinations"
+    )
 
     # Create session
     session = create_session_with_random_ua()
@@ -858,20 +1177,42 @@ def main():
     # Random initial delay
     random_delay(1.0, 5.0)
 
-    # Login and fetch
+    # Try to reuse saved session cookies first
     log_message("--- Checking 1stTix ---")
     raw_shows = []
-    if login_firsttix(session):
+    logged_in = False
+
+    if load_session_cookies(session):
+        random_delay(1.0, 3.0, silent=True)
+        if verify_session(session):
+            logged_in = True
+        else:
+            # Clear stale cookies before fresh login
+            session.cookies.clear()
+            SESSION_FILE.unlink(missing_ok=True)
+
+    if not logged_in:
+        if login_firsttix(session):
+            record_login_success()
+            save_session_cookies(session)
+            logged_in = True
+        else:
+            record_login_failure()
+            log_message("[1stTix] Failed to login, preserving existing shows")
+
+    if logged_in:
         random_delay(2.0, 6.0)
+        # Set Referer for events page navigation
+        session.headers["Referer"] = FIRSTTIX_BASE_URL + "/tixer/my-account/welcome"
         raw_shows = fetch_firsttix_shows(session)
-    else:
-        log_message("[1stTix] Failed to login, preserving existing shows")
 
     log_message(f"Total shows fetched: {len(raw_shows)}")
 
     # Filter by San Diego area location
     location_filtered = filter_by_location(raw_shows)
-    log_message(f"{len(location_filtered)} shows after location filter (San Diego area)")
+    log_message(
+        f"{len(location_filtered)} shows after location filter (San Diego area)"
+    )
 
     # Filter by denylist
     filtered_shows = filter_shows(location_filtered, denylist)
@@ -929,7 +1270,9 @@ def main():
     for show in filtered_shows:
         key = get_show_key(show)
         status = "✓" if key in notified_shows else "🆕"
-        print(f"  {status} [1stTix] {show.get('name', 'Unknown')} - {show.get('date', 'N/A')}")
+        print(
+            f"  {status} [1stTix] {show.get('name', 'Unknown')} - {show.get('date', 'N/A')}"
+        )
 
     log_message("Checker completed successfully")
 

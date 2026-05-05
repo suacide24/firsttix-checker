@@ -13,3 +13,7 @@ stderr.log
 __pycache__/
 *.pyc
 *.pyo
+
+# Session/state files (contain auth cookies)
+session_cookies.pkl
+backoff_state.json

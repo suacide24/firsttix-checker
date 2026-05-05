@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T15:42:48 PT",
-  "last_successful_run": "2026-05-05T15:42:48 PT",
-  "count": 22,
+  "last_updated": "2026-05-05T16:16:53 PT",
+  "last_successful_run": "2026-05-05T16:16:53 PT",
+  "count": 14,
   "shows": [
     {
       "source": "1stTix",
@@ -14,18 +14,18 @@
     },
     {
       "source": "1stTix",
-      "name": "MJ (Touring)",
-      "date": "Thu, 7 May '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
-      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Meghan Patrick",
       "date": "Thu, 7 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624715",
       "image": "https://ei-cdn.1sttix.org/preview624715_1776809447.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "MJ (Touring)",
+      "date": "Thu, 7 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
+      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
       "rare": true
     },
     {
@@ -115,70 +115,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
       "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627508",
-      "image": "https://ei-cdn.1sttix.org/preview627508_1778013301.jpg",
-      "rare": true
     }
   ]
 }

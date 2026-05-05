@@ -25,7 +25,8 @@
         "2026-03-26",
         "2026-03-27",
         "2026-04-20",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|corb lund": {
@@ -443,7 +444,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|grand comedy club": {
@@ -542,7 +544,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|san diego toreros - ncaa women's softball vs cal state fullerton titans": {
@@ -694,7 +697,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|moonshine bandits": {
@@ -704,7 +708,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|charlie puth: whatever's clever! world tour": {
@@ -744,7 +749,8 @@
       "appearances": [
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|bruno mars tribute 24k magic": {
@@ -786,7 +792,8 @@
       "name": "Meghan Patrick",
       "source": "1stTix",
       "appearances": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     "1stTix|camila fern\u00e1ndez with mariachi continental san diego": {
@@ -801,6 +808,41 @@
       "source": "1stTix",
       "appearances": [
         "2026-04-23"
+      ]
+    },
+    "1stTix|prokofiev's fifth symphony": {
+      "name": "Prokofiev's Fifth Symphony",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-05"
+      ]
+    },
+    "1stTix|fleetwood mac tribute twisted gypsy with special guest the pretenders tribute contenders": {
+      "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-05"
+      ]
+    },
+    "1stTix|mendelssohn's": {
+      "name": "Mendelssohn's ",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-05"
+      ]
+    },
+    "1stTix|red hot cholo peppers with blink-180 true and everything zen": {
+      "name": "Red Hot Cholo Peppers with Blink-180 True and Everything Zen",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-05"
+      ]
+    },
+    "1stTix|hilariously discharged": {
+      "name": "Hilariously Discharged",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-05"
       ]
     }
   }

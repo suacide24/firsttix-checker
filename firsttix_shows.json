@@ -1,15 +1,15 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T17:47:38 PT",
-  "last_successful_run": "2026-05-05T17:47:38 PT",
+  "last_updated": "2026-05-06T09:45:20 PT",
+  "last_successful_run": "2026-05-06T09:45:20 PT",
   "count": 14,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Creed Fisher",
-      "date": "Wed, 6 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/614650",
-      "image": "https://ei-cdn.1sttix.org/preview614650_1773166763.jpg",
+      "name": "The Comedy Store",
+      "date": "Wed, 6 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623769",
+      "image": "https://ei-cdn.1sttix.org/preview510800_1724973351.jpg",
       "rare": false
     },
     {
@@ -18,15 +18,7 @@
       "date": "Thu, 7 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624715",
       "image": "https://ei-cdn.1sttix.org/preview624715_1776809447.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "MJ (Touring)",
-      "date": "Thu, 7 May '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
-      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
-      "rare": true
+      "rare": false
     },
     {
       "source": "1stTix",
@@ -106,6 +98,14 @@
       "date": "Sun, 17 May '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
+      "date": "Sat, 23 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/623517",
+      "image": "https://ei-cdn.1sttix.org/preview623517_1776287102.jpg",
       "rare": true
     },
     {

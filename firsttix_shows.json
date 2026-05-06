@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-06T12:46:56 PT",
-  "last_successful_run": "2026-05-06T12:46:56 PT",
-  "count": 16,
+  "last_updated": "2026-05-06T13:41:35 PT",
+  "last_successful_run": "2026-05-06T13:41:35 PT",
+  "count": 17,
   "shows": [
     {
       "source": "1stTix",
@@ -94,10 +94,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Red Hot Cholo Peppers with Blink-180 True and Everything Zen",
-      "date": "Sat, 16 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626252",
-      "image": "https://ei-cdn.1sttix.org/preview626252_1777480677.jpg",
+      "name": "Mendelssohn's ",
+      "date": "Sat, 16 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626026",
+      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
       "rare": true
     },
     {
@@ -131,6 +131,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
       "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
       "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "CYRIL NEVILLE, the Uptown Ruler",
+      "date": "Sun, 24 May '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/625589",
+      "image": "https://ei-cdn.1sttix.org/preview625589_1777302340.jpg",
+      "rare": true
     }
   ]
 }

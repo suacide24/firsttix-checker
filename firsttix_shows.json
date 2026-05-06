@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-06T13:41:35 PT",
-  "last_successful_run": "2026-05-06T13:41:35 PT",
-  "count": 17,
+  "last_updated": "2026-05-06T14:11:54 PT",
+  "last_successful_run": "2026-05-06T14:11:54 PT",
+  "count": 18,
   "shows": [
     {
       "source": "1stTix",
@@ -27,6 +27,14 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627238",
       "image": "https://ei-cdn.1sttix.org/preview-626167-tm.jpg",
       "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Gaslamp Experience Party Pass",
+      "date": "Fri, 8 May '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627860",
+      "image": "https://ei-cdn.1sttix.org/preview624311_1776709802.jpg",
+      "rare": false
     },
     {
       "source": "1stTix",
@@ -62,6 +70,14 @@
     },
     {
       "source": "1stTix",
+      "name": "Gaslamp Downtown Bar Crawl",
+      "date": "Sat, 9 May '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627871",
+      "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
       "name": "Prokofiev's Fifth Symphony",
       "date": "Sun, 10 May '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626025",
@@ -81,14 +97,6 @@
       "name": "Mendelssohn's ",
       "date": "Fri, 15 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
-      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
-      "name": "Mendelssohn's ",
-      "date": "Sat, 16 May '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626026",
       "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
       "rare": true
     },

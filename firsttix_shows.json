@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-05T17:17:23 PT",
-  "last_successful_run": "2026-05-05T17:17:23 PT",
-  "count": 13,
+  "last_updated": "2026-05-05T17:47:38 PT",
+  "last_successful_run": "2026-05-05T17:47:38 PT",
+  "count": 14,
   "shows": [
     {
       "source": "1stTix",
@@ -14,18 +14,18 @@
     },
     {
       "source": "1stTix",
-      "name": "MJ (Touring)",
-      "date": "Thu, 7 May '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
-      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
-      "rare": true
-    },
-    {
-      "source": "1stTix",
       "name": "Meghan Patrick",
       "date": "Thu, 7 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624715",
       "image": "https://ei-cdn.1sttix.org/preview624715_1776809447.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "MJ (Touring)",
+      "date": "Thu, 7 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626949",
+      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
       "rare": true
     },
     {
@@ -66,6 +66,14 @@
       "date": "Sun, 10 May '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626025",
       "image": "https://ei-cdn.1sttix.org/preview626023_1777401540.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Mj",
+      "date": "Sun, 10 May '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626950",
+      "image": "https://ei-cdn.1sttix.org/preview-537104-tm.jpg",
       "rare": true
     },
     {

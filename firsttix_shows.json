@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-07T11:27:11 PT",
-  "last_successful_run": "2026-05-07T11:27:11 PT",
-  "count": 23,
+  "last_updated": "2026-05-07T11:59:31 PT",
+  "last_successful_run": "2026-05-07T11:59:31 PT",
+  "count": 21,
   "shows": [
     {
       "source": "1stTix",
@@ -34,14 +34,6 @@
       "date": "Sat, 9 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623740",
       "image": "https://ei-cdn.1sttix.org/preview623740_1776366296.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 9 May '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/628069",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     },
     {
@@ -91,14 +83,6 @@
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626025",
       "image": "https://ei-cdn.1sttix.org/preview626023_1777401540.jpg",
       "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Todd Barry",
-      "date": "Sun, 10 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627518",
-      "image": "https://ei-cdn.1sttix.org/preview627518_1778014414.jpg",
-      "rare": true
     },
     {
       "source": "1stTix",

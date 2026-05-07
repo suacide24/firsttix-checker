@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-07T14:00:36 PT",
-  "last_successful_run": "2026-05-07T14:00:36 PT",
-  "count": 23,
+  "last_updated": "2026-05-07T14:30:55 PT",
+  "last_successful_run": "2026-05-07T14:30:55 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -106,6 +106,14 @@
       "date": "Sun, 10 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627518",
       "image": "https://ei-cdn.1sttix.org/preview627518_1778014414.jpg",
+      "rare": true
+    },
+    {
+      "source": "1stTix",
+      "name": "Floetry",
+      "date": "Wed, 13 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/627528",
+      "image": "https://ei-cdn.1sttix.org/preview627528_1778015063.jpg",
       "rare": true
     },
     {

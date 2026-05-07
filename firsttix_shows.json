@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-06T17:15:06 PT",
-  "last_successful_run": "2026-05-06T17:15:06 PT",
+  "last_updated": "2026-05-06T17:45:21 PT",
+  "last_successful_run": "2026-05-06T17:45:21 PT",
   "count": 17,
   "shows": [
     {
@@ -30,18 +30,18 @@
     },
     {
       "source": "1stTix",
-      "name": "Gaslamp Experience Party Pass",
-      "date": "Fri, 8 May '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/627860",
-      "image": "https://ei-cdn.1sttix.org/preview624311_1776709802.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "EPIC DAYFEST: Presents: DUBVISION & BEBI",
       "date": "Sat, 9 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623740",
       "image": "https://ei-cdn.1sttix.org/preview623740_1776366296.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Moonshine Bandits",
+      "date": "Sat, 9 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/615170",
+      "image": "https://ei-cdn.1sttix.org/preview615170_1773267416.jpg",
       "rare": false
     },
     {

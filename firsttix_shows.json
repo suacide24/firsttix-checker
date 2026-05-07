@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-07T11:59:31 PT",
-  "last_successful_run": "2026-05-07T11:59:31 PT",
-  "count": 21,
+  "last_updated": "2026-05-07T12:29:48 PT",
+  "last_successful_run": "2026-05-07T12:29:48 PT",
+  "count": 20,
   "shows": [
     {
       "source": "1stTix",
@@ -114,14 +114,6 @@
       "date": "Sat, 16 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626026",
       "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Red Hot Cholo Peppers with Blink-180 True and Everything Zen",
-      "date": "Sat, 16 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626252",
-      "image": "https://ei-cdn.1sttix.org/preview626252_1777480677.jpg",
       "rare": false
     },
     {

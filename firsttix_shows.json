@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-08T15:16:34 PT",
-  "last_successful_run": "2026-05-08T15:16:34 PT",
+  "last_updated": "2026-05-08T15:17:32 PT",
+  "last_successful_run": "2026-05-08T15:17:32 PT",
   "count": 18,
   "shows": [
     {
@@ -71,7 +71,8 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "Country hip-hop duo performing live music with a party atmosphere \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -98,7 +99,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -125,7 +127,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively guided bar crawl through Gaslamp's nightlife with drinks and entertainment included \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -164,7 +167,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live performance featuring Mendelssohn's compositions by talented musicians \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -177,7 +181,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live performance featuring Mendelssohn's compositions by talented musicians \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -216,7 +221,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -242,7 +248,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     }
   ]
 }

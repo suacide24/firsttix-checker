@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-08T13:18:05 PT",
-  "last_successful_run": "2026-05-08T13:18:05 PT",
-  "count": 20,
+  "last_updated": "2026-05-08T13:48:23 PT",
+  "last_successful_run": "2026-05-08T13:48:23 PT",
+  "count": 19,
   "shows": [
     {
       "source": "1stTix",
@@ -98,14 +98,6 @@
       "date": "Fri, 15 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/611975",
       "image": "https://ei-cdn.1sttix.org/preview611975_1772219702.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "Mendelssohn's ",
-      "date": "Fri, 15 May '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
-      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
       "rare": false
     },
     {

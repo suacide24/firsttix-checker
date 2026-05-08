@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-08T15:05:22 PT",
-  "last_successful_run": "2026-05-08T15:05:22 PT",
+  "last_updated": "2026-05-08T15:12:04 PT",
+  "last_successful_run": "2026-05-08T15:12:04 PT",
   "count": 19,
   "shows": [
     {
@@ -10,7 +10,12 @@
       "date": "Fri, 8 May '26 6:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627238",
       "image": "https://ei-cdn.1sttix.org/preview-626167-tm.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -18,7 +23,12 @@
       "date": "Fri, 8 May '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/628234",
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -26,7 +36,12 @@
       "date": "Fri, 8 May '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627860",
       "image": "https://ei-cdn.1sttix.org/preview624311_1776709802.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -34,7 +49,12 @@
       "date": "Sat, 9 May '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/623740",
       "image": "https://ei-cdn.1sttix.org/preview623740_1776366296.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -42,7 +62,12 @@
       "date": "Sat, 9 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/615170",
       "image": "https://ei-cdn.1sttix.org/preview615170_1773267416.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
     },
     {
       "source": "1stTix",
@@ -50,7 +75,12 @@
       "date": "Sat, 9 May '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
       "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -58,7 +88,12 @@
       "date": "Sat, 9 May '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
       "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -66,7 +101,12 @@
       "date": "Sat, 9 May '26 8:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/628078",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -74,7 +114,12 @@
       "date": "Sat, 9 May '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/628235",
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -82,7 +127,12 @@
       "date": "Sat, 9 May '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627871",
       "image": "https://ei-cdn.1sttix.org/preview612456_1772478902.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -90,7 +140,12 @@
       "date": "Sun, 10 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/627590",
       "image": "https://ei-cdn.1sttix.org/preview-507597-tm.jpg",
-      "rare": true
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -98,7 +153,12 @@
       "date": "Fri, 15 May '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/622480",
       "image": "https://ei-cdn.1sttix.org/preview622480_1775848203.jpg",
-      "rare": true
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -106,7 +166,12 @@
       "date": "Fri, 15 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
       "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -114,7 +179,12 @@
       "date": "Sat, 16 May '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626026",
       "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -122,7 +192,12 @@
       "date": "Sat, 16 May '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/626252",
       "image": "https://ei-cdn.1sttix.org/preview626252_1777480677.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -130,7 +205,12 @@
       "date": "Sun, 17 May '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -138,7 +218,12 @@
       "date": "Wed, 20 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624778",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -146,7 +231,12 @@
       "date": "Sun, 24 May '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/625589",
       "image": "https://ei-cdn.1sttix.org/preview625589_1777302340.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -154,7 +244,12 @@
       "date": "Tue, 26 May '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624780",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     }
   ]
 }

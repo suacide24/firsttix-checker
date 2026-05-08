@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-08T13:48:23 PT",
-  "last_successful_run": "2026-05-08T13:48:23 PT",
+  "last_updated": "2026-05-08T15:05:22 PT",
+  "last_successful_run": "2026-05-08T15:05:22 PT",
   "count": 19,
   "shows": [
     {
@@ -54,6 +54,14 @@
     },
     {
       "source": "1stTix",
+      "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
+      "date": "Sat, 9 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
+      "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 9 May '26 8:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/628078",
@@ -94,10 +102,10 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Washington Spirit",
-      "date": "Fri, 15 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/611975",
-      "image": "https://ei-cdn.1sttix.org/preview611975_1772219702.jpg",
+      "name": "Mendelssohn's ",
+      "date": "Fri, 15 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
+      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
       "rare": false
     },
     {
@@ -134,26 +142,18 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
-      "date": "Sat, 23 May '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/623517",
-      "image": "https://ei-cdn.1sttix.org/preview623517_1776287102.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Wave FC - NWSL vs Orlando Pride",
-      "date": "Sun, 24 May '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/612006",
-      "image": "https://ei-cdn.1sttix.org/preview612006_1772221502.jpg",
-      "rare": false
-    },
-    {
-      "source": "1stTix",
       "name": "CYRIL NEVILLE, the Uptown Ruler",
       "date": "Sun, 24 May '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/625589",
       "image": "https://ei-cdn.1sttix.org/preview625589_1777302340.jpg",
+      "rare": false
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 26 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624780",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false
     }
   ]

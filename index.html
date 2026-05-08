@@ -175,11 +175,51 @@
             font-size: 4rem;
             margin-bottom: 20px;
         }
+        .day-filter {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .day-btn {
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #ccc;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: all 0.2s;
+            user-select: none;
+        }
+        .day-btn:hover {
+            background: rgba(39, 174, 96, 0.2);
+            border-color: rgba(39, 174, 96, 0.4);
+            color: #fff;
+        }
+        .day-btn.active {
+            background: rgba(39, 174, 96, 0.4);
+            border-color: #27ae60;
+            color: #fff;
+            font-weight: 600;
+        }
+        .day-btn.clear-btn {
+            border-color: rgba(255,255,255,0.15);
+            color: #888;
+            font-size: 0.8rem;
+        }
+        .day-btn.clear-btn:hover {
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+        }
         @media (max-width: 600px) {
             h1 { font-size: 1.8rem; }
             .shows-grid { grid-template-columns: 1fr; }
             body { padding: 15px; }
             .time-slot { font-size: 0.75rem; padding: 5px 10px; }
+            .day-btn { padding: 6px 12px; font-size: 0.8rem; }
         }
     </style>
 </head>
@@ -191,6 +231,16 @@
             <p class="last-updated" id="lastRunContainer" style="margin-top: 4px;"></p>
             <div class="show-count"><span id="showCount">0</span> unique shows <span class="slot-count">(<span id="slotCount">0</span> time slots)</span></div>
         </header>
+        <div class="day-filter" id="dayFilter">
+            <button class="day-btn clear-btn" data-day="all">All</button>
+            <button class="day-btn" data-day="Mon">Mon</button>
+            <button class="day-btn" data-day="Tue">Tue</button>
+            <button class="day-btn" data-day="Wed">Wed</button>
+            <button class="day-btn" data-day="Thu">Thu</button>
+            <button class="day-btn" data-day="Fri">Fri</button>
+            <button class="day-btn" data-day="Sat">Sat</button>
+            <button class="day-btn" data-day="Sun">Sun</button>
+        </div>
         <div class="shows-grid" id="showsGrid">
             <div class="no-shows">
                 <div class="no-shows-icon">🎪</div>
@@ -200,12 +250,56 @@
     </div>
 
     <script>
+        let allShowsData = null;
+        let activeDays = new Set();
+
+        // Day filter logic
+        document.getElementById('dayFilter').addEventListener('click', (e) => {
+            const btn = e.target.closest('.day-btn');
+            if (!btn) return;
+            const day = btn.dataset.day;
+
+            if (day === 'all') {
+                activeDays.clear();
+                document.querySelectorAll('.day-btn').forEach(b => b.classList.remove('active'));
+            } else {
+                btn.classList.toggle('active');
+                if (activeDays.has(day)) {
+                    activeDays.delete(day);
+                } else {
+                    activeDays.add(day);
+                }
+                document.querySelector('.day-btn.clear-btn').classList.remove('active');
+            }
+
+            if (allShowsData) renderShows(allShowsData);
+        });
+
+        function getDayOfWeek(dateString) {
+            if (!dateString) return null;
+            // Match day abbreviation at the start: "Sat, 10 May '25 ..."
+            const match = dateString.match(/^(Mon|Tue|Wed|Thu|Fri|Sat|Sun)/i);
+            if (match) {
+                // Normalize to title case
+                const d = match[1];
+                return d.charAt(0).toUpperCase() + d.slice(1).toLowerCase();
+            }
+            // Fallback: try parsing with parseShowDate
+            const parsed = parseShowDate(dateString);
+            if (parsed.getFullYear() < 9999) {
+                const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+                return days[parsed.getDay()];
+            }
+            return null;
+        }
+
         async function loadShows() {
             try {
                 const cacheBuster = new Date().getTime();
                 const response = await fetch(`firsttix_shows.json?v=${cacheBuster}`);
                 if (!response.ok) throw new Error('Failed to fetch');
                 const data = await response.json();
+                allShowsData = data;
                 renderShows(data);
             } catch (error) {
                 console.error('Failed to load shows:', error);
@@ -330,19 +424,41 @@
             const totalSlots = data.shows.length;
             const groupedShows = groupShows(data.shows);
 
-            document.getElementById('showCount').textContent = groupedShows.length;
-            document.getElementById('slotCount').textContent = totalSlots;
+            // Apply day filter
+            let filteredShows = groupedShows;
+            if (activeDays.size > 0) {
+                filteredShows = groupedShows.filter(show =>
+                    show.timeSlots.some(slot => activeDays.has(getDayOfWeek(slot.date)))
+                );
+            }
 
-            const showsHTML = groupedShows.map(show => {
+            document.getElementById('showCount').textContent = filteredShows.length;
+            document.getElementById('slotCount').textContent = activeDays.size > 0
+                ? filteredShows.reduce((sum, s) => sum + s.timeSlots.filter(slot => activeDays.has(getDayOfWeek(slot.date))).length, 0)
+                : totalSlots;
+
+            if (filteredShows.length === 0) {
+                document.getElementById('showsGrid').innerHTML = `
+                    <div class="no-shows">
+                        <div class="no-shows-icon">🔍</div>
+                        <p>No shows on the selected day(s). Try a different filter!</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const showsHTML = filteredShows.map(show => {
                 const imageUrl = show.image || 'https://via.placeholder.com/300x180?text=No+Image';
                 const rareBadge = show.rare ? '<span class="rare-badge">🔥 RARE</span>' : '';
 
                 const timeSlotsHTML = show.timeSlots.map(slot => {
                     const shortDate = formatShortDate(slot.date);
+                    const slotDay = getDayOfWeek(slot.date);
+                    const dimmed = activeDays.size > 0 && !activeDays.has(slotDay) ? ' style="opacity:0.35"' : '';
                     if (slot.link) {
-                        return `<a href="${slot.link}" target="_blank" class="time-slot">🎟️ ${shortDate}</a>`;
+                        return `<a href="${slot.link}" target="_blank" class="time-slot"${dimmed}>🎟️ ${shortDate}</a>`;
                     }
-                    return `<span class="time-slot">${shortDate}</span>`;
+                    return `<span class="time-slot"${dimmed}>${shortDate}</span>`;
                 }).join('');
 
                 return `

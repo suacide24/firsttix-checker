@@ -86,6 +86,7 @@ NOTIFIED_FILE = SCRIPT_DIR / "notified_shows.json"
 HISTORY_FILE = SCRIPT_DIR / "show_history.json"
 BACKOFF_FILE = SCRIPT_DIR / "backoff_state.json"
 SESSION_FILE = SCRIPT_DIR / "session_cookies.pkl"
+AI_CACHE_FILE = SCRIPT_DIR / "ai_descriptions.json"
 
 # ---------------------------------------------------------------------------
 # Backoff configuration
@@ -241,6 +242,91 @@ def save_backoff_state(state: dict):
         json.dump(state, f, indent=2)
 
 
+def send_failure_notification(reason: str, details: str = ""):
+    """Send an email notification when the checker is broken/not working."""
+    if not SMTP_PASSWORD:
+        log_message("[Alert] SMTP_PASSWORD not set - cannot send failure notification")
+        return False
+
+    # Check if we already sent a failure notification (avoid spam)
+    state = load_backoff_state()
+    if state.get("failure_notified"):
+        log_message(
+            "[Alert] Failure notification already sent for this streak, skipping"
+        )
+        return True
+
+    try:
+        subject = f"⚠️ 1stTix Checker is DOWN: {reason}"
+
+        html_body = f"""
+        <html>
+        <body style="font-family: Arial, sans-serif; background-color: #f5f5f5; padding: 20px;">
+        <div style="max-width: 600px; margin: 0 auto; background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+        <div style="background: linear-gradient(135deg, #e74c3c, #c0392b); padding: 20px; text-align: center;">
+            <h1 style="color: white; margin: 0;">⚠️ 1stTix Checker Alert</h1>
+            <p style="color: rgba(255,255,255,0.9); margin: 10px 0 0 0;">The checker is no longer working</p>
+        </div>
+        <div style="padding: 20px;">
+            <div style="background: #fdf2f2; border-left: 4px solid #e74c3c; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+                <h3 style="margin: 0 0 8px 0; color: #c0392b;">Problem: {reason}</h3>
+                <p style="margin: 0; color: #666;">{details or "The checker encountered an error and cannot fetch shows."}</p>
+            </div>
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
+                <h4 style="margin: 0 0 10px 0; color: #333;">What to check:</h4>
+                <ul style="margin: 0; padding-left: 20px; color: #555;">
+                    <li>Verify your 1stTix credentials are still valid</li>
+                    <li>Check if 1sttix.org is accessible</li>
+                    <li>Review the log: <code>~/firsttix-checker/firsttix.log</code></li>
+                    <li>Check backoff state: <code>~/firsttix-checker/backoff_state.json</code></li>
+                </ul>
+            </div>
+            <p style="color: #999; font-size: 12px; margin-top: 15px;">
+                Time: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}<br>
+                You will not receive another alert until the checker recovers and fails again.
+            </p>
+        </div>
+        </div>
+        </body>
+        </html>
+        """
+
+        text_body = f"⚠️ 1stTix Checker is DOWN\n\n"
+        text_body += f"Problem: {reason}\n"
+        if details:
+            text_body += f"Details: {details}\n"
+        text_body += f"\nTime: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        text_body += f"\nWhat to check:\n"
+        text_body += f"  - Verify your 1stTix credentials are still valid\n"
+        text_body += f"  - Check if 1sttix.org is accessible\n"
+        text_body += f"  - Review the log: ~/firsttix-checker/firsttix.log\n"
+        text_body += f"  - Check backoff state: ~/firsttix-checker/backoff_state.json\n"
+
+        msg = MIMEMultipart("alternative")
+        msg["Subject"] = subject
+        msg["From"] = SMTP_EMAIL
+        msg["To"] = NOTIFICATION_EMAIL
+
+        msg.attach(MIMEText(text_body, "plain"))
+        msg.attach(MIMEText(html_body, "html"))
+
+        with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+            server.starttls()
+            server.login(SMTP_EMAIL, SMTP_PASSWORD)
+            server.sendmail(SMTP_EMAIL, NOTIFICATION_EMAIL, msg.as_string())
+
+        # Mark that we sent the notification so we don't spam
+        state["failure_notified"] = True
+        save_backoff_state(state)
+
+        log_message(f"[Alert] Failure notification sent to {NOTIFICATION_EMAIL}")
+        return True
+
+    except Exception as e:
+        log_message(f"[Alert] Failed to send failure notification: {e}")
+        return False
+
+
 def record_login_failure():
     """Record a login failure and calculate next backoff time."""
     state = load_backoff_state()
@@ -266,6 +352,12 @@ def record_login_failure():
         f"Next retry in {backoff_minutes:.0f} min (at {next_run.strftime('%H:%M')})"
     )
 
+    # Send failure notification email on the first failure
+    send_failure_notification(
+        "Login failed",
+        f"Login attempt #{failures} failed. Next retry in {backoff_minutes:.0f} minutes.",
+    )
+
 
 def record_login_success():
     """Reset backoff state on successful login."""
@@ -274,7 +366,9 @@ def record_login_success():
         log_message(
             f"[Backoff] Login succeeded after {state['consecutive_failures']} failure(s). Resetting backoff."
         )
-    save_backoff_state({"consecutive_failures": 0, "next_allowed_run": None})
+    save_backoff_state(
+        {"consecutive_failures": 0, "next_allowed_run": None, "failure_notified": False}
+    )
 
 
 def should_skip_due_to_backoff() -> bool:
@@ -591,6 +685,122 @@ def cleanup_old_history(history: dict, max_age_days: int = 90) -> dict:
 # ---------------------------------------------------------------------------
 # Show helpers
 # ---------------------------------------------------------------------------
+def get_popularity_label(show: dict, history: dict) -> dict:
+    """Get popularity info for a show based on history."""
+    key = get_show_name_key(show)
+    if key not in history["shows"]:
+        return {"appearances": 0, "label": "New!", "emoji": "✨"}
+
+    cutoff_date = datetime.now() - timedelta(days=RARE_THRESHOLD_DAYS)
+    cutoff_str = cutoff_date.strftime("%Y-%m-%d")
+    appearances = history["shows"][key]["appearances"]
+    recent_count = sum(1 for date in appearances if date >= cutoff_str)
+
+    if recent_count == 0:
+        return {"appearances": 0, "label": "New!", "emoji": "✨"}
+    elif recent_count <= 2:
+        return {"appearances": recent_count, "label": "Rare find", "emoji": "🔥"}
+    elif recent_count <= 7:
+        return {"appearances": recent_count, "label": "Occasional", "emoji": "🎯"}
+    elif recent_count <= 15:
+        return {"appearances": recent_count, "label": "Regular", "emoji": "📅"}
+    else:
+        return {"appearances": recent_count, "label": "Always available", "emoji": "♻️"}
+
+
+# ---------------------------------------------------------------------------
+# AI descriptions (OpenAI GPT-4o-mini)
+# ---------------------------------------------------------------------------
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
+
+
+def load_ai_cache() -> dict:
+    """Load cached AI descriptions."""
+    if not AI_CACHE_FILE.exists():
+        return {}
+    try:
+        with open(AI_CACHE_FILE, "r") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return {}
+
+
+def save_ai_cache(cache: dict):
+    """Save AI descriptions cache."""
+    with open(AI_CACHE_FILE, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+def generate_ai_description(show_name: str) -> str | None:
+    """Generate a one-liner AI description + rating for a show."""
+    if not OPENAI_API_KEY:
+        return None
+
+    try:
+        response = requests.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {OPENAI_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": "gpt-4o-mini",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "You provide ultra-brief show/event descriptions. Respond with ONLY a single sentence (max 15 words) describing what the show is and a quality rating 1-5 stars. Format: '<description> — ⭐ X/5'. If you don't know the show, make your best guess based on the name."
+                    },
+                    {
+                        "role": "user",
+                        "content": f"What is '{show_name}' (a live show/event in San Diego)?"
+                    }
+                ],
+                "max_tokens": 60,
+                "temperature": 0.7,
+            },
+            timeout=10,
+        )
+        response.raise_for_status()
+        data = response.json()
+        return data["choices"][0]["message"]["content"].strip()
+    except Exception as e:
+        log_message(f"[AI] Failed to generate description for '{show_name}': {e}")
+        return None
+
+
+def enrich_shows_with_ai(shows: list) -> list:
+    """Add AI descriptions to shows, using cache for previously seen shows."""
+    if not OPENAI_API_KEY:
+        log_message("[AI] OPENAI_API_KEY not set — skipping AI descriptions")
+        return shows
+
+    cache = load_ai_cache()
+    new_descriptions = 0
+    max_new_per_run = 5  # Limit API calls per run to avoid cost spikes
+
+    for show in shows:
+        name = show.get("name", "")
+        cache_key = name.lower().strip()
+
+        if cache_key in cache:
+            show["ai_description"] = cache[cache_key]
+        elif new_descriptions < max_new_per_run:
+            description = generate_ai_description(name)
+            if description:
+                cache[cache_key] = description
+                show["ai_description"] = description
+                new_descriptions += 1
+                log_message(f"[AI] Generated: {name} → {description}")
+                # Small delay between API calls
+                time.sleep(0.5)
+
+    if new_descriptions > 0:
+        save_ai_cache(cache)
+        log_message(f"[AI] Generated {new_descriptions} new description(s)")
+
+    return shows
+
+
 def get_show_key(show: dict) -> str:
     name = show.get("name", "").strip()
     date = show.get("date", "").strip()
@@ -1084,6 +1294,7 @@ def push_to_github():
             "firsttix_shows.json",
             "notified_shows.json",
             "show_history.json",
+            "ai_descriptions.json",
         ]
         for data_file in data_files:
             subprocess.run(["git", "add", data_file], capture_output=True)
@@ -1228,6 +1439,14 @@ def main():
     rare_count = sum(1 for s in filtered_shows if s.get("rare"))
     log_message(f"{rare_count} rare shows detected")
 
+    # Add popularity scores
+    for show in filtered_shows:
+        pop = get_popularity_label(show, show_history)
+        show["popularity"] = pop
+
+    # Add AI descriptions
+    filtered_shows = enrich_shows_with_ai(filtered_shows)
+
     # Save results
     if raw_shows is not None:
         # Strip internal location/venue fields before saving to JSON
@@ -1278,4 +1497,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        log_message(f"[FATAL] Unhandled exception: {e}")
+        send_failure_notification(
+            "Unexpected crash", f"The checker crashed with an unhandled error: {e}"
+        )
+        raise

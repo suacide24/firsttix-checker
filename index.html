@@ -362,12 +362,16 @@
                         source: show.source,
                         image: show.image,
                         rare: show.rare,
+                        ai_description: show.ai_description,
+                        popularity: show.popularity,
                         timeSlots: []
                     };
                 }
                 grouped[key].timeSlots.push({ date: show.date, link: show.link });
                 if (!grouped[key].image && show.image) grouped[key].image = show.image;
                 if (show.rare) grouped[key].rare = true;
+                if (!grouped[key].ai_description && show.ai_description) grouped[key].ai_description = show.ai_description;
+                if (!grouped[key].popularity && show.popularity) grouped[key].popularity = show.popularity;
             });
             Object.values(grouped).forEach(show => {
                 show.timeSlots.sort((a, b) => parseShowDate(a.date) - parseShowDate(b.date));
@@ -454,6 +458,14 @@
                 const imageUrl = show.image || 'https://via.placeholder.com/300x180?text=No+Image';
                 const rareBadge = show.rare ? '<span class="rare-badge">🔥 RARE</span>' : '';
 
+                const aiDesc = show.ai_description
+                    ? `<p style="color: #aaa; font-size: 0.85rem; margin-bottom: 12px; font-style: italic;">${show.ai_description}</p>`
+                    : '';
+
+                const popInfo = show.popularity
+                    ? `<span style="display:inline-block; background: rgba(255,255,255,0.08); padding: 3px 10px; border-radius: 12px; font-size: 0.72rem; color: #999; margin-left: 8px;">${show.popularity.emoji} ${show.popularity.label}${show.popularity.appearances > 0 ? ' · seen ' + show.popularity.appearances + 'x' : ''}</span>`
+                    : '';
+
                 const timeSlotsHTML = show.timeSlots.map(slot => {
                     const shortDate = formatShortDate(slot.date);
                     const slotDay = getDayOfWeek(slot.date);
@@ -468,8 +480,9 @@
                     <div class="show-card">
                         <img src="${imageUrl}" alt="${show.name}" class="show-image" onerror="this.src='https://via.placeholder.com/300x180?text=No+Image'">
                         <div class="show-content">
-                            <span class="source-badge">1stTix</span>${rareBadge}
+                            <span class="source-badge">1stTix</span>${rareBadge}${popInfo}
                             <h2 class="show-name">${show.name}</h2>
+                            ${aiDesc}
                             <div class="time-slots">
                                 <div class="time-slots-label">Available Times (${show.timeSlots.length})</div>
                                 <div class="time-slot-list">

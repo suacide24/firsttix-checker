@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-08T15:12:04 PT",
-  "last_successful_run": "2026-05-08T15:12:04 PT",
-  "count": 19,
+  "last_updated": "2026-05-08T15:16:34 PT",
+  "last_successful_run": "2026-05-08T15:16:34 PT",
+  "count": 18,
   "shows": [
     {
       "source": "1stTix",
@@ -15,7 +15,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A comedic live performance by Grace Helbig sharing personal stories and humor \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -28,7 +29,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -41,7 +43,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A nightlife pass offering access to multiple venues in San Diego's Gaslamp Quarter \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -54,7 +57,8 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "An electrifying concert featuring Dubvision and Bebi, showcasing electronic dance music. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -80,20 +84,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
-      "date": "Sat, 9 May '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/626274",
-      "image": "https://ei-cdn.1sttix.org/preview626274_1777483278.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live tribute show featuring Fleetwood Mac and The Pretenders' greatest hits \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -119,7 +111,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

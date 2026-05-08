@@ -491,7 +491,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-07"
       ]
     },
     "1stTix|micromania \u2013 micro athletes and wrestling": {
@@ -933,6 +934,13 @@
     },
     "1stTix|floetry": {
       "name": "Floetry",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-07"
+      ]
+    },
+    "1stTix|the avett brothers and mike patton present avtt/pttn": {
+      "name": "The Avett Brothers and Mike Patton present AVTT/PTTN",
       "source": "1stTix",
       "appearances": [
         "2026-05-07"

@@ -731,7 +731,7 @@ def save_ai_cache(cache: dict):
         json.dump(cache, f, indent=2)
 
 
-def generate_ai_description(show_name: str) -> str | None:
+def generate_ai_description(show_name: str):
     """Generate a one-liner AI description + rating for a show."""
     if not OPENAI_API_KEY:
         return None

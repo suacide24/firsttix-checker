@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 """
 1stTix Show Checker — San Diego
 Logs into 1sttix.org and fetches available shows,

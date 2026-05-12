@@ -29,7 +29,8 @@
         "2026-04-23",
         "2026-05-05",
         "2026-05-07",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-11"
       ]
     },
     "1stTix|corb lund": {
@@ -863,7 +864,8 @@
         "2026-05-05",
         "2026-05-06",
         "2026-05-07",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-11"
       ]
     },
     "1stTix|red hot cholo peppers with blink-180 true and everything zen": {
@@ -883,7 +885,8 @@
         "2026-05-05",
         "2026-05-06",
         "2026-05-07",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-11"
       ]
     },
     "1stTix|nascar san diego o'reilly auto parts series": {
@@ -930,7 +933,8 @@
       "appearances": [
         "2026-05-06",
         "2026-05-07",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-11"
       ]
     },
     "1stTix|fngrs crssd presents mathame + henri bergmann at palms beach club": {
@@ -961,6 +965,48 @@
       "appearances": [
         "2026-05-07",
         "2026-05-08"
+      ]
+    },
+    "1stTix|socal pro wrestling presents: i quit": {
+      "name": "SoCal Pro Wrestling Presents: I QUIT",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
+      ]
+    },
+    "1stTix|red hot cholo peppers - tribute to red hot chili peppers with special guests blink 180 true and everything zen": {
+      "name": "Red Hot Cholo Peppers - Tribute to Red Hot Chili Peppers with Special Guests Blink 180 True and Everything Zen",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
+      ]
+    },
+    "1stTix|rising star entertainment presents: orc \u2013 super smash may-lee": {
+      "name": "Rising Star Entertainment Presents: ORC \u2013 Super Smash MAY-LEE",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
+      ]
+    },
+    "1stTix|mivos quartet": {
+      "name": "Mivos Quartet",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
+      ]
+    },
+    "1stTix|an evening with kishi bashi": {
+      "name": "An Evening with Kishi Bashi",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
+      ]
+    },
+    "1stTix|journey tribute dsb with special guest the cars tribute candy-o": {
+      "name": "Journey Tribute DSB with Special Guest The Cars Tribute Candy-O",
+      "source": "1stTix",
+      "appearances": [
+        "2026-05-11"
       ]
     }
   }

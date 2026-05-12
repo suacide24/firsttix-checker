@@ -1,7 +1,173 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-05-11T19:21:15 PT",
-  "last_successful_run": "2026-05-08T15:17:32 PT",
-  "count": 0,
-  "shows": []
+  "last_updated": "2026-05-11T19:21:48 PT",
+  "last_successful_run": "2026-05-11T19:21:48 PT",
+  "count": 12,
+  "shows": [
+    {
+      "source": "1stTix",
+      "name": "Mendelssohn's ",
+      "date": "Fri, 15 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626024",
+      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live performance featuring Mendelssohn's compositions by talented musicians \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "SoCal Pro Wrestling Presents: I QUIT",
+      "date": "Sat, 16 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/628134",
+      "image": "https://ei-cdn.1sttix.org/preview628134_1778173578.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live wrestling event featuring intense matches where competitors must make their opponents say \"I quit\" \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mendelssohn's ",
+      "date": "Sat, 16 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626026",
+      "image": "https://ei-cdn.1sttix.org/preview626024_1777401679.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live performance featuring Mendelssohn's compositions by talented musicians \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Red Hot Cholo Peppers - Tribute to Red Hot Chili Peppers with Special Guests Blink 180 True and Everything Zen",
+      "date": "Sat, 16 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626252",
+      "image": "https://ei-cdn.1sttix.org/preview626252_1777480677.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A tribute concert featuring Red Hot Chili Peppers songs, with Blink-182 and Bush covers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Hilariously Discharged",
+      "date": "Sun, 17 May '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/619053",
+      "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 20 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624778",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Rising Star Entertainment Presents: ORC \u2013 Super Smash MAY-LEE",
+      "date": "Sun, 24 May '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/628402",
+      "image": "https://ei-cdn.1sttix.org/preview628402_1778262655.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A competitive live gaming event featuring Super Smash Bros. gameplay and entertainment \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "CYRIL NEVILLE, the Uptown Ruler",
+      "date": "Sun, 24 May '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/625589",
+      "image": "https://ei-cdn.1sttix.org/preview625589_1777302340.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live performance featuring Cyril Neville's unique blend of funk and soul music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 26 May '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624780",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mivos Quartet",
+      "date": "Fri, 29 May '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624728",
+      "image": "https://ei-cdn.1sttix.org/preview624728_1776812304.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "An Evening with Kishi Bashi",
+      "date": "Sat, 30 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624731",
+      "image": "https://ei-cdn.1sttix.org/preview624731_1776812701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Journey Tribute DSB with Special Guest The Cars Tribute Candy-O",
+      "date": "Sat, 30 May '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/626412",
+      "image": "https://ei-cdn.1sttix.org/preview626412_1777496645.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    }
+  ]
 }

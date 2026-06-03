@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-03T14:11:08 PT",
-  "last_successful_run": "2026-06-03T14:11:08 PT",
+  "last_updated": "2026-06-03T14:26:47 PT",
+  "last_successful_run": "2026-06-03T14:26:47 PT",
   "count": 12,
   "shows": [
     {
@@ -34,20 +34,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Best of Socal Comedy Night",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632504",
-      "image": "https://ei-cdn.1sttix.org/preview632504_1780326363.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Living Dead Girl",
       "date": "Fri, 5 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
@@ -59,6 +45,20 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Growlers - Ultimate Frisbee Association vs Austin Sol",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631438",
+      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A high-energy ultimate frisbee match between San Diego Growlers and Austin Sol \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -113,7 +113,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A tribute concert celebrating the music of Heart and Led Zeppelin \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -126,7 +127,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A live concert celebrating 20 years of Uncle Lucius's music and legacy \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -139,7 +141,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "Country singer Parker McCollum performs live, showcasing his hits and engaging with fans \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -152,7 +155,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "Stand-up comedy performance by Mike E Winfield, showcasing his unique humor \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-03T14:27:44 PT",
-  "last_successful_run": "2026-06-03T14:27:44 PT",
+  "last_updated": "2026-06-03T15:00:13 PT",
+  "last_successful_run": "2026-06-03T15:00:13 PT",
   "count": 12,
   "shows": [
     {
@@ -34,6 +34,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Best of Socal Comedy Night",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/632504",
+      "image": "https://ei-cdn.1sttix.org/preview632504_1780326363.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Living Dead Girl",
       "date": "Fri, 5 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
@@ -59,20 +73,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A high-energy ultimate frisbee match between San Diego Growlers and Austin Sol \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Best of Socal Comedy Night",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632504",
-      "image": "https://ei-cdn.1sttix.org/preview632504_1780326363.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

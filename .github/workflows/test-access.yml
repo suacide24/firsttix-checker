@@ -1,0 +1,25 @@
+name: Test Site Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if 1sttix.org login page is reachable
+        run: |
+          echo "Runner IP:"
+          curl -s https://api.ipify.org
+          echo ""
+          echo "--- Login page response ---"
+          curl -s -o /dev/null -w "HTTP status: %{http_code}\nFinal URL: %{url_effective}\nTime: %{time_total}s\n" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" \
+            -L --max-time 20 \
+            "https://www.1sttix.org/login"
+          echo ""
+          echo "--- Response headers ---"
+          curl -s -o /dev/null -D - \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" \
+            -L --max-time 20 \
+            "https://www.1sttix.org/login" | grep -E "HTTP|cf-|x-amz|server|location|set-cookie" -i

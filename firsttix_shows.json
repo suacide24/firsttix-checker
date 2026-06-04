@@ -1,36 +1,22 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-03T16:00:13 PT",
-  "last_successful_run": "2026-06-03T16:00:13 PT",
-  "count": 12,
+  "last_updated": "2026-06-04T08:00:16 PT",
+  "last_successful_run": "2026-06-04T08:00:16 PT",
+  "count": 23,
   "shows": [
     {
       "source": "1stTix",
-      "name": "The Kid LAROI - A Perfect World Tour",
-      "date": "Wed, 3 Jun '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632868",
-      "image": "https://ei-cdn.1sttix.org/preview-632868-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "The Kid LAROI performs live, showcasing his music on the A Perfect World Tour \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Always, Adele - The Authentic Concert Experience",
+      "name": "Living Dead Girl",
       "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630385",
-      "image": "https://ei-cdn.1sttix.org/preview-630385-tm.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
+      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A tribute concert celebrating Adele's music with live performances \u2014 \u2b50 4/5."
+      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632504_1780326363.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -48,17 +34,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Living Dead Girl",
+      "name": "Always, Adele - The Authentic Concert Experience",
       "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
-      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630385",
+      "image": "https://ei-cdn.1sttix.org/preview-630385-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
+      "ai_description": "A tribute concert celebrating Adele's music with live performances \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-631745-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -110,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632274_1780082102.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -124,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview624597_1776795963.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -138,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-552571-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -152,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632281_1780084511.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -166,11 +152,179 @@
       "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     }
   ]
 }

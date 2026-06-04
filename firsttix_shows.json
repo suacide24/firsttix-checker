@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T14:00:13 PT",
-  "last_successful_run": "2026-06-04T14:00:13 PT",
-  "count": 16,
+  "last_updated": "2026-06-04T15:00:16 PT",
+  "last_successful_run": "2026-06-04T15:00:16 PT",
+  "count": 15,
   "shows": [
     {
       "source": "1stTix",
@@ -20,6 +20,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Best of Socal Comedy Night",
       "date": "Fri, 5 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/632504",
@@ -31,20 +45,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Living Dead Girl",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
-      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -62,6 +62,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Living Dead Girl",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
+      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Grand Comedy Club",
       "date": "Fri, 5 Jun '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/632901",
@@ -73,20 +87,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Gaslamp Downtown Bar Crawl",
-      "date": "Fri, 5 Jun '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633469",
-      "image": "https://ei-cdn.1sttix.org/preview610052_1771533202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively guided bar crawl through Gaslamp's nightlife with drinks and entertainment included \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -115,20 +115,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Gaslamp Experience Party Pass",
-      "date": "Sat, 6 Jun '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633471",
-      "image": "https://ei-cdn.1sttix.org/preview633471_1780590603.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A nightlife pass offering access to multiple venues in San Diego's Gaslamp Quarter \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

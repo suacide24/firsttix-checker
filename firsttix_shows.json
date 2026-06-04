@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T12:00:17 PT",
-  "last_successful_run": "2026-06-04T12:00:17 PT",
+  "last_updated": "2026-06-04T13:00:16 PT",
+  "last_successful_run": "2026-06-04T13:00:16 PT",
   "count": 15,
   "shows": [
     {
@@ -87,6 +87,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A lively guided bar crawl through Gaslamp's nightlife with drinks and entertainment included \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Sat, 6 Jun '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/632902",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -185,20 +199,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/620733",
-      "image": "https://ei-cdn.1sttix.org/preview620733_1775227501.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "High-speed NASCAR racing event featuring intense competition and thrilling moments in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

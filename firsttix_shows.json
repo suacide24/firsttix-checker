@@ -1,22 +1,22 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T11:00:16 PT",
-  "last_successful_run": "2026-06-04T11:00:16 PT",
-  "count": 25,
+  "last_updated": "2026-06-04T12:00:17 PT",
+  "last_successful_run": "2026-06-04T12:00:17 PT",
+  "count": 15,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Living Dead Girl",
+      "name": "San Diego Growlers - Ultimate Frisbee Association vs Austin Sol",
       "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
-      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631438",
+      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
       "rare": true,
       "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
+      "ai_description": "A high-energy ultimate frisbee match between San Diego Growlers and Austin Sol \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -34,6 +34,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Living Dead Girl",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
+      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Always, Adele - The Authentic Concert Experience",
       "date": "Fri, 5 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/630385",
@@ -45,20 +59,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A tribute concert celebrating Adele's music with live performances \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Growlers - Ultimate Frisbee Association vs Austin Sol",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631438",
-      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A high-energy ultimate frisbee match between San Diego Growlers and Austin Sol \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -188,157 +188,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
+      "name": "NASCAR SAN DIEGO CUP SERIES",
       "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/620733",
+      "image": "https://ei-cdn.1sttix.org/preview620733_1775227501.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "High-speed NASCAR racing event featuring intense competition and thrilling moments in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

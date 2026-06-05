@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T19:00:16 PT",
-  "last_successful_run": "2026-06-04T19:00:16 PT",
+  "last_updated": "2026-06-04T20:00:17 PT",
+  "last_successful_run": "2026-06-04T20:00:17 PT",
   "count": 15,
   "shows": [
     {
@@ -160,6 +160,20 @@
     },
     {
       "source": "1stTix",
+      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
+      "date": "Sat, 20 Jun '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/624773",
+      "image": "https://ei-cdn.1sttix.org/preview624773_1776868501.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Exciting auto racing event featuring the O'Reilly Auto Parts series in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Mike E Winfield",
       "date": "Sat, 20 Jun '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/632281",
@@ -191,20 +205,6 @@
       "name": "Mic Drop Comedy",
       "date": "Sun, 21 Jun '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {

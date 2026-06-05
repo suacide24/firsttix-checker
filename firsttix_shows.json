@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-05T01:00:31 PT",
-  "last_successful_run": "2026-06-05T01:00:31 PT",
+  "last_updated": "2026-06-05T02:00:17 PT",
+  "last_successful_run": "2026-06-05T02:00:17 PT",
   "count": 15,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+    },
     {
       "source": "1stTix",
       "name": "Always, Adele - The Authentic Concert Experience",
@@ -31,20 +45,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

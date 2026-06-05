@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-05T07:00:14 PT",
-  "last_successful_run": "2026-06-05T07:00:14 PT",
+  "last_updated": "2026-06-05T08:00:18 PT",
+  "last_successful_run": "2026-06-05T08:00:18 PT",
   "count": 14,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Living Dead Girl",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631871",
-      "image": "https://ei-cdn.1sttix.org/preview631871_1779980938.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A theatrical performance exploring themes of life and death through unique storytelling \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Best of Socal Comedy Night",
@@ -49,6 +21,20 @@
     {
       "source": "1stTix",
       "name": "Grand Comedy Club",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
       "date": "Sat, 6 Jun '26 6:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/633550",
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
@@ -59,6 +45,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "The Monsters",
+      "date": "Sat, 6 Jun '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633618",
+      "image": "https://ei-cdn.1sttix.org/preview631554_1779834855.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live performance featuring various monstrous characters and themes for entertainment \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

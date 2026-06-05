@@ -1112,6 +1112,13 @@
         "2026-06-03",
         "2026-06-04"
       ]
+    },
+    "1stTix|the monsters": {
+      "name": "The Monsters",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-05"
+      ]
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T17:00:15 PT",
-  "last_successful_run": "2026-06-04T17:00:15 PT",
-  "count": 13,
+  "last_updated": "2026-06-04T18:00:14 PT",
+  "last_successful_run": "2026-06-04T18:00:14 PT",
+  "count": 12,
   "shows": [
     {
       "source": "1stTix",
@@ -87,20 +87,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Alex Warren: Finding Family on the Road",
-      "date": "Mon, 8 Jun '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632322",
-      "image": "https://ei-cdn.1sttix.org/preview-631745-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A heartfelt live show where Alex Warren shares his journey of family and self-discovery. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",

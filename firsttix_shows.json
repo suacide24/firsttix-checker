@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-04T18:00:14 PT",
-  "last_successful_run": "2026-06-04T18:00:14 PT",
-  "count": 12,
+  "last_updated": "2026-06-04T19:00:16 PT",
+  "last_successful_run": "2026-06-04T19:00:16 PT",
+  "count": 15,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Always, Adele - The Authentic Concert Experience",
@@ -45,6 +31,20 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 5 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633565",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -104,6 +104,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 13 Jun '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633047",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Uncle Lucius: The 20th Anniversary Tour",
       "date": "Thu, 18 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/624597",
@@ -129,6 +143,20 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "Country singer Parker McCollum performs live, showcasing his hits and engaging with fans \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 19 Jun '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633052",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -163,6 +191,20 @@
       "name": "Mic Drop Comedy",
       "date": "Sun, 21 Jun '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 21 Jun '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {

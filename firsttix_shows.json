@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-05T12:00:19 PT",
-  "last_successful_run": "2026-06-05T12:00:19 PT",
-  "count": 15,
+  "last_updated": "2026-06-05T13:00:16 PT",
+  "last_successful_run": "2026-06-05T13:00:16 PT",
+  "count": 14,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Best of Socal Comedy Night",
-      "date": "Fri, 5 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632504",
-      "image": "https://ei-cdn.1sttix.org/preview632504_1780326363.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A showcase of top comedic talent from Southern California performing live in San Diego \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Grand Comedy Club",

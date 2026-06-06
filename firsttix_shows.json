@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-06T12:00:18 PT",
-  "last_successful_run": "2026-06-06T12:00:18 PT",
-  "count": 24,
+  "last_updated": "2026-06-06T13:00:19 PT",
+  "last_successful_run": "2026-06-06T13:00:19 PT",
+  "count": 23,
   "shows": [
     {
       "source": "1stTix",
@@ -73,20 +73,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A tribute concert celebrating the music of Heart and Led Zeppelin \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 13 Jun '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633047",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

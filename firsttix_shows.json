@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-05T23:00:14 PT",
-  "last_successful_run": "2026-06-05T23:00:14 PT",
+  "last_updated": "2026-06-06T00:00:15 PT",
+  "last_successful_run": "2026-06-06T00:00:15 PT",
   "count": 12,
   "shows": [
     {
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview630108_1779143103.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -54,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632274_1780082102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -68,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -82,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview624597_1776795963.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-552571-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -124,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632281_1780084511.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -138,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -152,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -166,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },

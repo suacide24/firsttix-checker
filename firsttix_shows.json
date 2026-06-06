@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-06T09:00:19 PT",
-  "last_successful_run": "2026-06-06T09:00:19 PT",
-  "count": 24,
+  "last_updated": "2026-06-06T10:00:15 PT",
+  "last_successful_run": "2026-06-06T10:00:15 PT",
+  "count": 12,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "The Monsters",
-      "date": "Sat, 6 Jun '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633618",
-      "image": "https://ei-cdn.1sttix.org/preview631554_1779834855.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live performance featuring various monstrous characters and themes for entertainment \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -163,160 +149,6 @@
       "name": "Mic Drop Comedy",
       "date": "Sun, 21 Jun '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {

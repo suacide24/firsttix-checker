@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-06T23:00:15 PT",
-  "last_successful_run": "2026-06-06T23:00:15 PT",
-  "count": 21,
+  "last_updated": "2026-06-07T11:00:17 PT",
+  "last_successful_run": "2026-06-07T11:00:17 PT",
+  "count": 20,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "The Monsters",
-      "date": "Sun, 7 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633619",
-      "image": "https://ei-cdn.1sttix.org/preview631554_1779834855.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live performance featuring various monstrous characters and themes for entertainment \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "I Heart Zep \u2013 A Tribute to Heart & Led Zeppelin",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632274_1780082102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview624597_1776795963.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-552571-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632281_1780084511.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },

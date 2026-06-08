@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-07T17:10:01 PT",
-  "last_successful_run": "2026-06-07T17:10:01 PT",
-  "count": 21,
+  "last_updated": "2026-06-07T18:00:16 PT",
+  "last_successful_run": "2026-06-07T18:00:16 PT",
+  "count": 22,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "Safety Last! (1923), Played By Russ Peck",
+      "date": "Mon, 8 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633807",
+      "image": "https://ei-cdn.1sttix.org/preview633807_1780702885.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live performance of the classic silent film featuring comedic stunts by Harold Lloyd \u2014 \u2b50 4/5."
+    },
     {
       "source": "1stTix",
       "name": "King's X",

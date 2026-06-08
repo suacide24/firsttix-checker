@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-07T11:00:17 PT",
-  "last_successful_run": "2026-06-07T11:00:17 PT",
-  "count": 20,
+  "last_updated": "2026-06-07T17:10:01 PT",
+  "last_successful_run": "2026-06-07T17:10:01 PT",
+  "count": 21,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "King's X",
+      "date": "Wed, 10 Jun '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633771",
+      "image": "https://ei-cdn.1sttix.org/preview633771_1780697767.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live concert featuring the rock band King's X, known for their unique sound \u2014 \u2b50 4/5."
+    },
     {
       "source": "1stTix",
       "name": "I Heart Zep \u2013 A Tribute to Heart & Led Zeppelin",
@@ -119,8 +133,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -133,8 +147,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -147,8 +161,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -161,8 +175,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -175,8 +189,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -189,8 +203,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -203,8 +217,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -217,8 +231,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -231,8 +245,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -245,8 +259,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -259,8 +273,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
@@ -273,8 +287,8 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
+      "date": "Thu, 25 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633063",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {

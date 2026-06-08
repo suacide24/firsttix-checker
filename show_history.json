@@ -1141,6 +1141,13 @@
         "2026-06-05",
         "2026-06-06"
       ]
+    },
+    "1stTix|king's x": {
+      "name": "King's X",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-07"
+      ]
     }
   }
 }

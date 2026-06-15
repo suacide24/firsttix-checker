@@ -1,51 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-07T23:00:18 PT",
-  "last_successful_run": "2026-06-07T23:00:18 PT",
+  "last_updated": "2026-06-15T08:04:41 PT",
+  "last_successful_run": "2026-06-15T08:04:41 PT",
   "count": 11,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Safety Last! (1923), Played By Russ Peck",
-      "date": "Mon, 8 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633807",
-      "image": "https://ei-cdn.1sttix.org/preview633807_1780702885.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live performance of the classic silent film featuring comedic stunts by Harold Lloyd \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "King's X",
-      "date": "Wed, 10 Jun '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633771",
-      "image": "https://ei-cdn.1sttix.org/preview633771_1780697767.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live concert featuring the rock band King's X, known for their unique sound \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "I Heart Zep \u2013 A Tribute to Heart & Led Zeppelin",
-      "date": "Fri, 12 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632274",
-      "image": "https://ei-cdn.1sttix.org/preview632274_1780082102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert celebrating the music of Heart and Led Zeppelin \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Uncle Lucius: The 20th Anniversary Tour",
@@ -54,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview624597_1776795963.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -62,31 +20,31 @@
     },
     {
       "source": "1stTix",
-      "name": "ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",
-      "date": "Fri, 19 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633380",
-      "image": "https://ei-cdn.1sttix.org/preview-633056-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A concert tour featuring indie rock bands Metric, Broken Social Scene, and Stars \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 19 Jun '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633052",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "name": "Parker McCollum",
+      "date": "Thu, 18 Jun '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631897",
+      "image": "https://ei-cdn.1sttix.org/preview-552571-tm.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "Country singer Parker McCollum performs live, showcasing his hits and engaging with fans \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "The River County Music Concert featuring Lily Rose",
+      "date": "Thu, 18 Jun '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634235",
+      "image": "https://ei-cdn.1sttix.org/preview634235_1780960587.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live music event showcasing artist Lily Rose in a scenic riverside setting \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -96,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview632281_1780084511.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,39 +68,11 @@
       "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -152,7 +82,77 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Amor Prohibido - Tribute to Selena",
+      "date": "Fri, 26 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633227",
+      "image": "https://ei-cdn.1sttix.org/preview-630559-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live tribute show celebrating Selena's music and legacy \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "From Cuba with Love: Buena Vista Social Club Tribute",
+      "date": "Fri, 26 Jun '26 8:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/632809",
+      "image": "https://ei-cdn.1sttix.org/preview632809_1780379701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A vibrant tribute to the iconic Buena Vista Social Club's music and culture \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Jason Gray",
+      "date": "Sat, 27 Jun '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/632287",
+      "image": "https://ei-cdn.1sttix.org/preview632287_1780083604.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Jason Gray is a live music performance featuring contemporary Christian singer-songwriter Jason Gray \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "PRINCE Tribute RED CORVETTE",
+      "date": "Sat, 27 Jun '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631057",
+      "image": "https://ei-cdn.1sttix.org/preview631057_1779476239.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live tribute performance celebrating the music and legacy of Prince. \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 28 Jun '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633064",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },

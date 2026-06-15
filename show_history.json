@@ -34,7 +34,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-15"
       ]
     },
     "1stTix|corb lund": {
@@ -1082,7 +1083,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-15"
       ]
     },
     "1stTix|parker mccollum": {
@@ -1093,7 +1095,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-15"
       ]
     },
     "1stTix|mike e winfield": {
@@ -1104,7 +1107,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-15"
       ]
     },
     "1stTix|ramones, the police, talking heads, and blondie tributes": {
@@ -1115,7 +1119,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-15"
       ]
     },
     "1stTix|san diego growlers - ultimate frisbee association vs austin sol": {
@@ -1161,6 +1166,41 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-07"
+      ]
+    },
+    "1stTix|the river county music concert featuring lily rose": {
+      "name": "The River County Music Concert featuring Lily Rose",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-15"
+      ]
+    },
+    "1stTix|amor prohibido - tribute to selena": {
+      "name": "Amor Prohibido - Tribute to Selena",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-15"
+      ]
+    },
+    "1stTix|from cuba with love: buena vista social club tribute": {
+      "name": "From Cuba with Love: Buena Vista Social Club Tribute",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-15"
+      ]
+    },
+    "1stTix|jason gray": {
+      "name": "Jason Gray",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-15"
+      ]
+    },
+    "1stTix|prince tribute red corvette": {
+      "name": "PRINCE Tribute RED CORVETTE",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-15"
       ]
     }
   }

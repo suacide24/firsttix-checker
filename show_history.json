@@ -4,7 +4,6 @@
       "name": "The Comedy Store",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -15,7 +14,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -38,32 +36,10 @@
         "2026-06-15"
       ]
     },
-    "1stTix|corb lund": {
-      "name": "Corb Lund",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa men's baseball vs gonzaga bulldogs": {
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Gonzaga Bulldogs",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
-      ]
-    },
-    "1stTix|fngrs crssd presents 1tbsp": {
-      "name": "FNGRS CRSSD presents 1tbsp",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
-      ]
-    },
     "1stTix|giulio cesare": {
       "name": "Giulio Cesare",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20"
       ]
@@ -72,24 +48,15 @@
       "name": "San Diego Seals - NLL vs Buffalo Bandits",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21"
-      ]
-    },
-    "1stTix|wanted - the ultimate tribute to bon jovi with special guests aeromyth and whitesnake'd": {
-      "name": "WANTED - The Ultimate Tribute to BON JOVI with Special Guests AEROMYTH and WHITESNAKE'D",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
       ]
     },
     "1stTix|all things equal: the life and trials of ruth bader ginsburg": {
       "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21"
@@ -99,7 +66,6 @@
       "name": "Sharmay and Corey in Concert",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20"
       ]
@@ -108,7 +74,6 @@
       "name": "San Diego Sockers - MASL vs St Louis Ambush",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21"
@@ -118,23 +83,14 @@
       "name": "Tino Cochino: The Love Bomb Comedy Tour",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa men's baseball vs cal state fullerton titans": {
-      "name": "San Diego Toreros - NCAA Men's Baseball vs Cal State Fullerton Titans",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs portland thorns fc": {
       "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -148,7 +104,6 @@
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -158,18 +113,10 @@
         "2026-03-25"
       ]
     },
-    "1stTix|uc davis aggies - ncaa men's baseball vs uc san diego tritons": {
-      "name": "UC Davis Aggies - NCAA Men's Baseball vs UC San Diego Tritons",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
-      ]
-    },
     "1stTix|san diego wave fc - nwsl vs chicago stars fc": {
       "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -185,7 +132,6 @@
       "name": "Buena Vista Social Club Tribute",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-23",
@@ -199,7 +145,6 @@
       "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -215,7 +160,6 @@
       "name": "San Diego Sockers - MASL vs Kansas City Comets",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -231,7 +175,6 @@
       "name": "An Evening With Anne Lamott and Neal Allen",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -247,7 +190,6 @@
       "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -263,7 +205,6 @@
       "name": "Disney On Ice presents Road Trip Adventures",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19"
       ]
     },
@@ -271,7 +212,6 @@
       "name": "Eagles Tribute THE LONG RUN, with PETTY PARTY - Tribute to TOM PETTY",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -287,7 +227,6 @@
       "name": "YYNOT - Tribute to Rush",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -303,7 +242,6 @@
       "name": "Los Angeles Angels - MLB vs San Diego Padres",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -318,7 +256,6 @@
       "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -334,7 +271,6 @@
       "name": "Event Rescheduled: Twista",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -353,7 +289,6 @@
       "name": "Taylor Austin Dye",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-21",
@@ -373,7 +308,6 @@
       "name": "San Diego Wave FC - NWSL vs Bay FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-20",
         "2026-03-21",
         "2026-03-22",
@@ -392,7 +326,6 @@
       "name": "Gaslamp Downtown Bar Crawl",
       "source": "1stTix",
       "appearances": [
-        "2026-03-18",
         "2026-03-19",
         "2026-03-20",
         "2026-03-24",
@@ -403,13 +336,6 @@
         "2026-05-07",
         "2026-05-08",
         "2026-06-04"
-      ]
-    },
-    "1stTix|pepperdine waves - ncaa men's baseball vs san diego toreros": {
-      "name": "Pepperdine Waves - NCAA Men's Baseball vs San Diego Toreros",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-18"
       ]
     },
     "1stTix|lady a": {

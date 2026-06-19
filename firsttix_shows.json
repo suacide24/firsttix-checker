@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-19T13:00:28 PT",
-  "last_successful_run": "2026-06-19T13:00:28 PT",
-  "count": 20,
+  "last_updated": "2026-06-19T14:00:18 PT",
+  "last_successful_run": "2026-06-19T14:00:18 PT",
+  "count": 17,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 19 Jun '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635959",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Grand Comedy Club",
@@ -76,20 +62,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Ramones, the Police, Talking Heads, and Blondie Tributes",
-      "date": "Sat, 20 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/631051",
-      "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "KSON NASCAR San Diego Weekend Countryfest Featuring: Stephen Wilson Jr",
       "date": "Sat, 20 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636506",
@@ -104,6 +76,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Ramones, the Police, Talking Heads, and Blondie Tributes",
+      "date": "Sat, 20 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631051",
+      "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Grand Comedy Club",
       "date": "Sat, 20 Jun '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635905",
@@ -115,20 +101,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Power Rangers Bar Crawl Saturday Downtown",
-      "date": "Sat, 20 Jun '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/636326",
-      "image": "https://ei-cdn.1sttix.org/preview636326_1781814478.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A themed bar crawl featuring Power Rangers costumes and activities in downtown San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -188,20 +160,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Madison Beer: the locket tour",
-      "date": "Sun, 21 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635912",
-      "image": "https://ei-cdn.1sttix.org/preview-633969-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live concert featuring Madison Beer performing songs from her album \"Life Support\" \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Amor Prohibido - Tribute to Selena",
       "date": "Fri, 26 Jun '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/633227",
@@ -239,7 +197,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A live tribute to Metallica featuring Sonic Moonshine's unique sound. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",

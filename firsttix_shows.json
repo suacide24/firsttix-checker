@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-19T15:00:14 PT",
-  "last_successful_run": "2026-06-19T15:00:14 PT",
-  "count": 16,
+  "last_updated": "2026-06-19T16:00:16 PT",
+  "last_successful_run": "2026-06-19T16:00:16 PT",
+  "count": 14,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 19 Jun '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633052",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -90,6 +76,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Ramones, the Police, Talking Heads, and Blondie Tributes",
+      "date": "Sat, 20 Jun '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/631051",
+      "image": "https://ei-cdn.1sttix.org/preview631051_1779476086.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A tribute concert featuring iconic punk and new wave bands' music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "Grand Comedy Club",
       "date": "Sat, 20 Jun '26 8:45 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635905",
@@ -115,34 +115,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A themed bar crawl featuring Power Rangers costumes and activities in downtown San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633055",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 21 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633057",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

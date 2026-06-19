@@ -14,8 +14,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -33,23 +31,14 @@
         "2026-06-05",
         "2026-06-06",
         "2026-06-07",
-        "2026-06-15"
-      ]
-    },
-    "1stTix|giulio cesare": {
-      "name": "Giulio Cesare",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-19",
-        "2026-03-20"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|san diego seals - nll vs buffalo bandits": {
       "name": "San Diego Seals - NLL vs Buffalo Bandits",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21"
       ]
     },
@@ -57,42 +46,20 @@
       "name": "All Things Equal: the Life and Trials of Ruth Bader Ginsburg",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21"
-      ]
-    },
-    "1stTix|sharmay and corey in concert": {
-      "name": "Sharmay and Corey in Concert",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-19",
-        "2026-03-20"
       ]
     },
     "1stTix|san diego sockers - masl vs st louis ambush": {
       "name": "San Diego Sockers - MASL vs St Louis Ambush",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21"
-      ]
-    },
-    "1stTix|tino cochino: the love bomb comedy tour": {
-      "name": "Tino Cochino: The Love Bomb Comedy Tour",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-19",
-        "2026-03-20"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs portland thorns fc": {
       "name": "San Diego Wave FC - NWSL vs Portland Thorns FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -104,8 +71,6 @@
       "name": "San Diego Mojo - Major League Volleyball vs Omaha Supernovas",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -117,8 +82,6 @@
       "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -132,8 +95,6 @@
       "name": "Buena Vista Social Club Tribute",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-23",
         "2026-03-24",
         "2026-03-25",
@@ -145,8 +106,6 @@
       "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -160,8 +119,6 @@
       "name": "San Diego Sockers - MASL vs Kansas City Comets",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -175,8 +132,6 @@
       "name": "An Evening With Anne Lamott and Neal Allen",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -190,8 +145,6 @@
       "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -201,19 +154,10 @@
         "2026-03-27"
       ]
     },
-    "1stTix|disney on ice presents road trip adventures": {
-      "name": "Disney On Ice presents Road Trip Adventures",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-19"
-      ]
-    },
     "1stTix|eagles tribute the long run, with petty party - tribute to tom petty": {
       "name": "Eagles Tribute THE LONG RUN, with PETTY PARTY - Tribute to TOM PETTY",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -227,8 +171,6 @@
       "name": "YYNOT - Tribute to Rush",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -242,8 +184,6 @@
       "name": "Los Angeles Angels - MLB vs San Diego Padres",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -256,8 +196,6 @@
       "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -271,8 +209,6 @@
       "name": "Event Rescheduled: Twista",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -289,8 +225,6 @@
       "name": "Taylor Austin Dye",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -308,7 +242,6 @@
       "name": "San Diego Wave FC - NWSL vs Bay FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -326,8 +259,6 @@
       "name": "Gaslamp Downtown Bar Crawl",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
@@ -338,19 +269,10 @@
         "2026-06-04"
       ]
     },
-    "1stTix|lady a": {
-      "name": "Lady A",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-19"
-      ]
-    },
     "1stTix|gaslamp experience party pass": {
       "name": "Gaslamp Experience Party Pass",
       "source": "1stTix",
       "appearances": [
-        "2026-03-19",
-        "2026-03-20",
         "2026-03-25",
         "2026-03-26",
         "2026-03-27",
@@ -366,7 +288,6 @@
       "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
       "source": "1stTix",
       "appearances": [
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -379,7 +300,6 @@
       "name": "Creed Fisher",
       "source": "1stTix",
       "appearances": [
-        "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
@@ -398,7 +318,6 @@
       "name": "Grand Comedy Club",
       "source": "1stTix",
       "appearances": [
-        "2026-03-20",
         "2026-04-22",
         "2026-04-23",
         "2026-05-07",
@@ -406,7 +325,8 @@
         "2026-06-03",
         "2026-06-04",
         "2026-06-05",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-19"
       ]
     },
     "1stTix|satchvai band ft joe satriani & steve vai with animals as leaders": {
@@ -446,7 +366,8 @@
         "2026-03-24",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-06-19"
       ]
     },
     "1stTix|san diego toreros - ncaa women's softball vs loyola marymount lions": {
@@ -1034,7 +955,8 @@
         "2026-06-05",
         "2026-06-06",
         "2026-06-07",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|ramones, the police, talking heads, and blondie tributes": {
@@ -1046,7 +968,8 @@
         "2026-06-05",
         "2026-06-06",
         "2026-06-07",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|san diego growlers - ultimate frisbee association vs austin sol": {
@@ -1105,28 +1028,67 @@
       "name": "Amor Prohibido - Tribute to Selena",
       "source": "1stTix",
       "appearances": [
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|from cuba with love: buena vista social club tribute": {
       "name": "From Cuba with Love: Buena Vista Social Club Tribute",
       "source": "1stTix",
       "appearances": [
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|jason gray": {
       "name": "Jason Gray",
       "source": "1stTix",
       "appearances": [
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "1stTix|prince tribute red corvette": {
       "name": "PRINCE Tribute RED CORVETTE",
       "source": "1stTix",
       "appearances": [
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
+      ]
+    },
+    "1stTix|golden boy promotions presents: collazo vs canoy": {
+      "name": "Golden Boy Promotions Presents: Collazo vs Canoy\u00a0",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-19"
+      ]
+    },
+    "1stTix|kson nascar san diego weekend countryfest featuring: stephen wilson jr": {
+      "name": "KSON NASCAR San Diego Weekend Countryfest Featuring: Stephen Wilson Jr",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-19"
+      ]
+    },
+    "1stTix|power rangers bar crawl saturday downtown": {
+      "name": "Power Rangers Bar Crawl Saturday Downtown",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-19"
+      ]
+    },
+    "1stTix|madison beer: the locket tour": {
+      "name": "Madison Beer: the locket tour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-19"
+      ]
+    },
+    "1stTix|anesthesia - metallica tribute + sonic moonshine": {
+      "name": "Anesthesia - Metallica Tribute + Sonic Moonshine",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-19"
       ]
     }
   }

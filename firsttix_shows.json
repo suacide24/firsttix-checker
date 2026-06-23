@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-22T21:00:26 PT",
-  "last_successful_run": "2026-06-22T21:00:26 PT",
+  "last_updated": "2026-06-22T22:00:19 PT",
+  "last_successful_run": "2026-06-22T22:00:19 PT",
   "count": 12,
   "shows": [
     {
@@ -169,7 +169,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-25T20:00:17 PT",
-  "last_successful_run": "2026-06-25T20:00:17 PT",
+  "last_updated": "2026-06-26T11:37:45 PT",
+  "last_successful_run": "2026-06-26T11:37:45 PT",
   "count": 16,
   "shows": [
     {
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-630559-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637615_1782412649.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -34,29 +34,15 @@
     },
     {
       "source": "1stTix",
-      "name": "From Cuba with Love: Buena Vista Social Club Tribute",
-      "date": "Fri, 26 Jun '26 8:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632809",
-      "image": "https://ei-cdn.1sttix.org/preview632809_1780379701.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant tribute to the iconic Buena Vista Social Club's music and culture \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Premier Lacrosse League - Maryland Whipsnakes vs. Denver Outlaws",
       "date": "Sat, 27 Jun '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636362",
       "image": "https://ei-cdn.1sttix.org/preview-474447-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "Lacrosse teams compete in an exciting match showcasing top-tier athleticism and skill \u2014 \u2b50 4/5."
     },
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637390_1782333916.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview636999_1782228602.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -94,27 +80,13 @@
       "date": "Sat, 27 Jun '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636363",
       "image": "https://ei-cdn.1sttix.org/preview-474447-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Exciting professional lacrosse matches featuring top teams and players in a vibrant atmosphere \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Jason Gray",
-      "date": "Sat, 27 Jun '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/632287",
-      "image": "https://ei-cdn.1sttix.org/preview632287_1780083604.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "ai_description": "Jason Gray is a live music performance featuring contemporary Christian singer-songwriter Jason Gray \u2014 \u2b50 4/5."
+      "ai_description": "Exciting professional lacrosse matches featuring top teams and players in a vibrant atmosphere \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -124,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview636796_1782148329.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -138,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637162_1782252005.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -152,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -164,13 +136,41 @@
       "date": "Sun, 28 Jun '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636364",
       "image": "https://ei-cdn.1sttix.org/preview-474447-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Professional lacrosse matches featuring top teams and players \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Andrew Santino: Live w/ Dvontre Coleman",
+      "date": "Sun, 28 Jun '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637298",
+      "image": "https://ei-cdn.1sttix.org/preview637298_1782321872.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "Professional lacrosse matches featuring top teams and players \u2014 \u2b50 4/5."
+      "ai_description": "Stand-up comedy show featuring Andrew Santino and Dvontre Coleman \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Andrew Santino: Live w/ Dvontre Coleman",
+      "date": "Sun, 28 Jun '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637293",
+      "image": "https://ei-cdn.1sttix.org/preview637293_1782321879.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Stand-up comedy show featuring Andrew Santino and Dvontre Coleman \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -178,27 +178,27 @@
       "date": "Sat, 4 Jul '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636377",
       "image": "https://ei-cdn.1sttix.org/preview636377_1781823902.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live tribute performance featuring The Doors' music with Cream's classic hits. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
-      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
+      "name": "The Curse - Tribute to The Cure w/ Arena - Tribute to Duran Duran",
       "date": "Fri, 10 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
-      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633035",
+      "image": "https://ei-cdn.1sttix.org/preview-633035-tm.jpg",
       "rare": true,
       "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "A live tribute concert featuring The Cure and Duran Duran's music. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -206,11 +206,11 @@
       "date": "Fri, 10 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
       "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
     },
@@ -220,11 +220,11 @@
       "date": "Sat, 11 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
       "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
     }

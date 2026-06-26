@@ -14,7 +14,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-23",
         "2026-05-05",
@@ -29,74 +28,10 @@
         "2026-06-19"
       ]
     },
-    "1stTix|san diego wave fc - nwsl vs chicago stars fc": {
-      "name": "San Diego Wave FC - NWSL vs Chicago Stars FC",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|buena vista social club tribute": {
-      "name": "Buena Vista Social Club Tribute",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|event rescheduled: blessed and unstoppable workshop": {
-      "name": "Event Rescheduled: Blessed and Unstoppable Workshop",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|san diego sockers - masl vs kansas city comets": {
-      "name": "San Diego Sockers - MASL vs Kansas City Comets",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|an evening with anne lamott and neal allen": {
-      "name": "An Evening With Anne Lamott and Neal Allen",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|linkin park + avenged sevenfold + deftones tributes": {
-      "name": "Linkin Park + Avenged Sevenfold + Deftones Tributes",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|eagles tribute the long run, with petty party - tribute to tom petty": {
-      "name": "Eagles Tribute THE LONG RUN, with PETTY PARTY - Tribute to TOM PETTY",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|yynot - tribute to rush": {
-      "name": "YYNOT - Tribute to Rush",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|no doubt, sublime, smashing pumpkins and pearl jam tributes": {
-      "name": "No Doubt, Sublime, Smashing Pumpkins and Pearl Jam Tributes",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
     "1stTix|event rescheduled: twista": {
       "name": "Event Rescheduled: Twista",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22"
@@ -106,7 +41,6 @@
       "name": "Taylor Austin Dye",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -117,7 +51,6 @@
       "name": "San Diego Wave FC - NWSL vs Bay FC",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -128,7 +61,6 @@
       "name": "Gaslamp Downtown Bar Crawl",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-05-06",
         "2026-05-07",
         "2026-05-08",
@@ -139,7 +71,6 @@
       "name": "Gaslamp Experience Party Pass",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-22",
         "2026-04-23",
         "2026-05-06",
@@ -161,7 +92,6 @@
       "name": "Creed Fisher",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -182,21 +112,14 @@
         "2026-06-05",
         "2026-06-06",
         "2026-06-19",
-        "2026-06-25"
-      ]
-    },
-    "1stTix|satchvai band ft joe satriani & steve vai with animals as leaders": {
-      "name": "SatchVai Band Ft Joe Satriani & Steve Vai with Animals As Leaders",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs washington spirit": {
       "name": "San Diego Wave FC - NWSL vs Washington Spirit",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -209,37 +132,14 @@
       "name": "MicroMania \u2013 Micro Athletes and Wrestling",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-06-19",
         "2026-06-22"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa women's softball vs loyola marymount lions": {
-      "name": "San Diego Toreros - NCAA Women's Softball vs Loyola Marymount Lions",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa women's softball vs utah tech university": {
-      "name": "San Diego Toreros - NCAA Women's Softball vs Utah Tech University",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|matt & ben": {
-      "name": "Matt & Ben",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs orlando pride": {
       "name": "San Diego Wave FC - NWSL vs Orlando Pride",
       "source": "1stTix",
       "appearances": [
-        "2026-03-27",
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
@@ -248,34 +148,6 @@
         "2026-05-06",
         "2026-05-07",
         "2026-05-08"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa women's softball vs cal state fullerton titans": {
-      "name": "San Diego Toreros - NCAA Women's Softball vs Cal State Fullerton Titans",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|led zepagain - tribute to led zeppelin with special guest: rolling stones tribute start me up": {
-      "name": "LED ZEPAGAIN - Tribute To LED ZEPPELIN with Special Guest: ROLLING STONES Tribute START ME UP",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|the war and treaty": {
-      "name": "The War And Treaty",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
-      ]
-    },
-    "1stTix|san diego toreros - ncaa women's softball vs uc san diego tritons": {
-      "name": "San Diego Toreros - NCAA Women's Softball vs UC San Diego Tritons",
-      "source": "1stTix",
-      "appearances": [
-        "2026-03-27"
       ]
     },
     "1stTix|the making of our planet: frozen worlds": {
@@ -847,7 +719,8 @@
         "2026-06-15",
         "2026-06-19",
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|from cuba with love: buena vista social club tribute": {
@@ -920,7 +793,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|premier lacrosse league - saturday evening games": {
@@ -928,7 +802,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|premier lacrosse league - sunday games": {
@@ -936,7 +811,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|the ultimate doors: tribute to the doors with clapton hook plays cream": {
@@ -944,7 +820,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|oceanside bombers - af1 vs. oregon lighting": {
@@ -952,7 +829,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|tributes to tool, black sabbath and iron maiden": {
@@ -960,21 +838,24 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-22",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|maren morris": {
       "name": "Maren Morris",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|kori gillis: a night of soul": {
       "name": "Kori Gillis: A Night of Soul",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|a bad case of stripes: the musical": {
@@ -988,28 +869,32 @@
       "name": "Pfl San Diego",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|san diego growlers - ultimate frisbee association vs houston havoc": {
       "name": "San Diego Growlers - Ultimate Frisbee Association vs Houston Havoc",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|a celebration of jimmy cliff: with karl denson's tiny universe": {
       "name": "A CELEBRATION OF JIMMY CLIFF: With Karl Denson's Tiny Universe",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|the curse - tribute to the cure w/ arena - tribute to duran duran": {
       "name": "The Curse - Tribute to The Cure w/ Arena - Tribute to Duran Duran",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ]
     },
     "1stTix|yachty by nature": {
@@ -1017,6 +902,13 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-25"
+      ]
+    },
+    "1stTix|andrew santino: live w/ dvontre coleman": {
+      "name": "Andrew Santino: Live w/ Dvontre Coleman",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-26"
       ]
     }
   }

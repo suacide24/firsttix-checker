@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-26T15:00:16 PT",
-  "last_successful_run": "2026-06-26T15:00:16 PT",
-  "count": 16,
+  "last_updated": "2026-06-26T16:00:16 PT",
+  "last_successful_run": "2026-06-26T16:00:16 PT",
+  "count": 17,
   "shows": [
     {
       "source": "1stTix",
@@ -101,6 +101,20 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A thrilling ultimate frisbee match between San Diego and Houston teams \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "A CELEBRATION OF JIMMY CLIFF: With Karl Denson's Tiny Universe",
+      "date": "Sat, 27 Jun '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637297",
+      "image": "https://ei-cdn.1sttix.org/preview-637297-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A tribute concert honoring reggae legend Jimmy Cliff featuring Karl Denson's Tiny Universe \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

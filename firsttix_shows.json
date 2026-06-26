@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-25T14:00:29 PT",
-  "last_successful_run": "2026-06-25T14:00:29 PT",
-  "count": 43,
+  "last_updated": "2026-06-25T19:11:49 PT",
+  "last_successful_run": "2026-06-25T19:11:49 PT",
+  "count": 16,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Thu, 25 Jun '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637277",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Amor Prohibido - Tribute to Selena",
@@ -90,20 +76,6 @@
     },
     {
       "source": "1stTix",
-      "name": "A Bad Case of Stripes: The Musical",
-      "date": "Sat, 27 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/636544",
-      "image": "https://ei-cdn.1sttix.org/preview636544_1781910302.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A whimsical musical adaptation of the beloved children's book about self-acceptance \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Pfl San Diego",
       "date": "Sat, 27 Jun '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636999",
@@ -169,7 +141,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A tribute concert honoring reggae legend Jimmy Cliff featuring Karl Denson's Tiny Universe \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -201,20 +174,6 @@
     },
     {
       "source": "1stTix",
-      "name": "A Bad Case of Stripes: The Musical",
-      "date": "Sun, 28 Jun '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/636545",
-      "image": "https://ei-cdn.1sttix.org/preview636545_1781910303.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A whimsical musical adaptation of the beloved children's book about self-acceptance \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "The Ultimate Doors: Tribute to the Doors with Clapton Hook Plays Cream",
       "date": "Sat, 4 Jul '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/636377",
@@ -226,19 +185,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A live tribute performance featuring The Doors' music with Cream's classic hits. \u2014 \u2b50 4/5"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Curse - Tribute to The Cure w/ Arena - Tribute to Duran Duran",
-      "date": "Fri, 10 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/633035",
-      "image": "https://ei-cdn.1sttix.org/preview-633035-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
     },
     {
       "source": "1stTix",
@@ -256,327 +202,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
+      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
+      "date": "Fri, 10 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
+      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
       "rare": true,
       "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Yachty By Nature",
-      "date": "Sat, 11 Jul '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630386",
-      "image": "https://ei-cdn.1sttix.org/preview-630386-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
+      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

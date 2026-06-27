@@ -749,7 +749,8 @@
       "appearances": [
         "2026-06-15",
         "2026-06-19",
-        "2026-06-22"
+        "2026-06-22",
+        "2026-06-27"
       ]
     },
     "1stTix|golden boy promotions presents: collazo vs canoy": {
@@ -794,7 +795,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|premier lacrosse league - saturday evening games": {
@@ -803,7 +805,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|premier lacrosse league - sunday games": {
@@ -812,7 +815,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|the ultimate doors: tribute to the doors with clapton hook plays cream": {
@@ -821,7 +825,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|oceanside bombers - af1 vs. oregon lighting": {
@@ -830,7 +835,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|tributes to tool, black sabbath and iron maiden": {
@@ -839,7 +845,8 @@
       "appearances": [
         "2026-06-22",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|maren morris": {
@@ -855,7 +862,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|a bad case of stripes: the musical": {
@@ -870,7 +878,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|san diego growlers - ultimate frisbee association vs houston havoc": {
@@ -894,7 +903,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "1stTix|yachty by nature": {
@@ -908,7 +918,22 @@
       "name": "Andrew Santino: Live w/ Dvontre Coleman",
       "source": "1stTix",
       "appearances": [
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
+      ]
+    },
+    "1stTix|chuy liz\u00e1rraga & julio preciado": {
+      "name": "Chuy Liz\u00e1rraga & Julio Preciado",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-27"
+      ]
+    },
+    "1stTix|aew presents dynamite & collision": {
+      "name": "AEW presents Dynamite & Collision",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-27"
       ]
     }
   }

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-27T10:00:21 PT",
-  "last_successful_run": "2026-06-27T10:00:21 PT",
-  "count": 16,
+  "last_updated": "2026-06-27T11:00:15 PT",
+  "last_successful_run": "2026-06-27T11:00:15 PT",
+  "count": 15,
   "shows": [
     {
       "source": "1stTix",
@@ -157,20 +157,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A thrilling wrestling event featuring matches from All Elite Wrestling's top stars \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "The Ultimate Doors: Tribute to the Doors with Clapton Hook Plays Cream",
-      "date": "Sat, 4 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/636377",
-      "image": "https://ei-cdn.1sttix.org/preview636377_1781823902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live tribute performance featuring The Doors' music with Cream's classic hits. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",

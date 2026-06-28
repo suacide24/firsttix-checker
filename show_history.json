@@ -935,6 +935,27 @@
       "appearances": [
         "2026-06-27"
       ]
+    },
+    "1stTix|ajr": {
+      "name": "AJR",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-27"
+      ]
+    },
+    "1stTix|warren zeiders": {
+      "name": "Warren Zeiders",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-27"
+      ]
+    },
+    "1stTix|i-90 happy hour": {
+      "name": "I-90 Happy Hour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-06-27"
+      ]
     }
   }
 }

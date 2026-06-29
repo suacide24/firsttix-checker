@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-29T09:00:17 PT",
-  "last_successful_run": "2026-06-29T09:00:17 PT",
-  "count": 38,
+  "last_updated": "2026-06-29T10:00:15 PT",
+  "last_successful_run": "2026-06-29T10:00:15 PT",
+  "count": 52,
   "shows": [
     {
       "source": "1stTix",
@@ -31,6 +31,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "AJR is a lively concert featuring the band known for their catchy pop anthems \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Thu, 2 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637962",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -174,59 +188,17 @@
     },
     {
       "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -258,59 +230,17 @@
     },
     {
       "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -342,59 +272,17 @@
     },
     {
       "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "I-90 Happy Hour",
-      "date": "Fri, 17 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
-      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -426,6 +314,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "I-90 Happy Hour",
       "date": "Fri, 17 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
@@ -454,6 +356,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "I-90 Happy Hour",
       "date": "Fri, 17 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
@@ -482,6 +398,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "I-90 Happy Hour",
       "date": "Fri, 17 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
@@ -507,6 +437,272 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "I-90 Happy Hour",
+      "date": "Fri, 17 Jul '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637569",
+      "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A lively event featuring drinks, networking, and entertainment along the I-90 corridor \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Struggle Jennings",
+      "date": "Sat, 18 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
+      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Struggle Jennings is a live performance featuring a blend of hip-hop and country music \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Shindig Show with Paul Rodriguez",
+      "date": "Wed, 15 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637195",
+      "image": "https://ei-cdn.1sttix.org/preview637195_1782253804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively comedy show featuring Paul Rodriguez and various guest performers \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

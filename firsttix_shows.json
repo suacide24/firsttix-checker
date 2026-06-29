@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-29T11:00:16 PT",
-  "last_successful_run": "2026-06-29T11:00:16 PT",
-  "count": 52,
+  "last_updated": "2026-06-29T12:00:15 PT",
+  "last_successful_run": "2026-06-29T12:00:15 PT",
+  "count": 51,
   "shows": [
     {
       "source": "1stTix",
@@ -129,20 +129,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live tribute concert featuring The Cure and Duran Duran's music. \u2014 \u2b50 4/5"
-    },
-    {
-      "source": "1stTix",
-      "name": "Tributes to Tool, Black Sabbath and Iron Maiden",
-      "date": "Sat, 11 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630256",
-      "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert featuring iconic songs from Tool, Black Sabbath, and Iron Maiden \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

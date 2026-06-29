@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-28T19:00:19 PT",
-  "last_successful_run": "2026-06-28T19:00:19 PT",
+  "last_updated": "2026-06-28T20:00:16 PT",
+  "last_successful_run": "2026-06-28T20:00:16 PT",
   "count": 37,
   "shows": [
     {
@@ -90,17 +90,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
+      "name": "The Curse - Tribute to The Cure w/ Arena - Tribute to Duran Duran",
       "date": "Fri, 10 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
-      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/633035",
+      "image": "https://ei-cdn.1sttix.org/preview-633035-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "A live tribute concert featuring The Cure and Duran Duran's music. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",

@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-27T20:00:17 PT",
-  "last_successful_run": "2026-06-27T20:00:17 PT",
-  "count": 23,
+  "last_updated": "2026-06-28T17:00:18 PT",
+  "last_successful_run": "2026-06-28T17:00:18 PT",
+  "count": 24,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Premier Lacrosse League - Sunday Games",
-      "date": "Sun, 28 Jun '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/636364",
-      "image": "https://ei-cdn.1sttix.org/preview-474447-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Professional lacrosse matches featuring top teams and players \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Chuy Liz\u00e1rraga & Julio Preciado",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637761_1782493759.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview636942_1782229748.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -54,11 +40,25 @@
       "image": "https://ei-cdn.1sttix.org/preview637762_1782493924.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "AJR is a lively concert featuring the band known for their catchy pop anthems \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "A Bad Case of Stripes: The Musical",
+      "date": "Fri, 3 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637801",
+      "image": "https://ei-cdn.1sttix.org/preview636545_1781910303.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A whimsical musical adaptation of the beloved children's book about self-acceptance \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -68,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637763_1782494012.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview636377_1781823902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -90,17 +90,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
-      "date": "Fri, 10 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
-      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
-      "rare": false,
+      "name": "A Bad Case of Stripes: The Musical",
+      "date": "Sun, 5 Jul '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637802",
+      "image": "https://ei-cdn.1sttix.org/preview636545_1781910303.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "A whimsical musical adaptation of the beloved children's book about self-acceptance \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -110,11 +110,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-633035-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live tribute concert featuring The Cure and Duran Duran's music. \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
+      "date": "Fri, 10 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
+      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -124,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview630256_1779214202.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -138,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -152,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -166,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -180,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -194,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -208,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -222,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -236,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -250,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -264,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -278,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -292,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -306,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -320,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637569_1782408383.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },

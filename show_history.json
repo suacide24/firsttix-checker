@@ -826,7 +826,8 @@
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|oceanside bombers - af1 vs. oregon lighting": {
@@ -836,7 +837,8 @@
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|tributes to tool, black sabbath and iron maiden": {
@@ -846,7 +848,8 @@
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|maren morris": {
@@ -870,7 +873,8 @@
       "name": "A Bad Case of Stripes: The Musical",
       "source": "1stTix",
       "appearances": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-28"
       ]
     },
     "1stTix|pfl san diego": {
@@ -904,7 +908,8 @@
       "appearances": [
         "2026-06-25",
         "2026-06-26",
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|yachty by nature": {
@@ -926,35 +931,40 @@
       "name": "Chuy Liz\u00e1rraga & Julio Preciado",
       "source": "1stTix",
       "appearances": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|aew presents dynamite & collision": {
       "name": "AEW presents Dynamite & Collision",
       "source": "1stTix",
       "appearances": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|ajr": {
       "name": "AJR",
       "source": "1stTix",
       "appearances": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|warren zeiders": {
       "name": "Warren Zeiders",
       "source": "1stTix",
       "appearances": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     },
     "1stTix|i-90 happy hour": {
       "name": "I-90 Happy Hour",
       "source": "1stTix",
       "appearances": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-28"
       ]
     }
   }

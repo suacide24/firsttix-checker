@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-29T18:00:21 PT",
-  "last_successful_run": "2026-06-29T18:00:21 PT",
-  "count": 26,
+  "last_updated": "2026-06-29T19:00:15 PT",
+  "last_successful_run": "2026-06-29T19:00:15 PT",
+  "count": 25,
   "shows": [
     {
       "source": "1stTix",
@@ -104,17 +104,17 @@
     },
     {
       "source": "1stTix",
-      "name": "A Bad Case of Stripes: The Musical",
-      "date": "Sun, 5 Jul '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637802",
-      "image": "https://ei-cdn.1sttix.org/preview636545_1781910303.jpg",
+      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
+      "date": "Fri, 10 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
+      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "ai_description": "A whimsical musical adaptation of the beloved children's book about self-acceptance \u2014 \u2b50 4/5."
+      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -129,20 +129,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A live tribute concert featuring The Cure and Duran Duran's music. \u2014 \u2b50 4/5"
-    },
-    {
-      "source": "1stTix",
-      "name": "Oceanside Bombers - Af1 vs. Oregon Lighting",
-      "date": "Fri, 10 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634907",
-      "image": "https://ei-cdn.1sttix.org/preview634907_1781202002.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A thrilling live sports match between two competitive teams in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

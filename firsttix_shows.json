@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-06-29T15:00:15 PT",
-  "last_successful_run": "2026-06-29T15:00:15 PT",
-  "count": 25,
+  "last_updated": "2026-06-29T18:00:21 PT",
+  "last_successful_run": "2026-06-29T18:00:21 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -73,6 +73,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "Warren Zeiders performs his blend of country and rock music live in San Diego \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Bon Jovi \u2022 Def Leppard \u2022 Queen Tributes | Performed by Anthem Radio",
+      "date": "Sat, 4 Jul '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637746",
+      "image": "https://ei-cdn.1sttix.org/preview637746_1782435002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Tribute concert featuring classic rock hits from Bon Jovi, Def Leppard, and Queen \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

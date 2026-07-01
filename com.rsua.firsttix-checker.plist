@@ -31,12 +31,15 @@
     <dict>
         <key>PATH</key>
         <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <!-- Do NOT commit real secrets here. Fill these in only in your
+             LOCAL copy at ~/Library/LaunchAgents/ (this repo copy is a template).
+             The live scheduler is GitHub Actions, which reads repo secrets. -->
         <key>FIRSTTIX_EMAIL</key>
-        <string>ryan.sua.rn@gmail.com</string>
+        <string>REPLACE_ME</string>
         <key>FIRSTTIX_PASSWORD</key>
-        <string>Clayton24!!</string>
+        <string>REPLACE_ME</string>
         <key>SMTP_PASSWORD</key>
-        <string>atghdnhewixzkzoq</string>
+        <string>REPLACE_ME</string>
     </dict>
 </dict>
 </plist>

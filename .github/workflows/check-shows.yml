@@ -1,8 +1,12 @@
 name: Check 1stTix Shows
 
+# NOTE: 1sttix.org blocks logins from GitHub's IP ranges — GitHub-hosted runs
+# (runs-on: ubuntu-latest) always got count:0. The real checker runs LOCALLY on
+# the Mac via launchd (com.rsua.firsttix-checker.plist), committing as the local
+# user. The scheduled trigger is therefore DISABLED so GitHub never runs the
+# checker automatically. `workflow_dispatch` is kept only for manual, on-demand
+# runs against a self-hosted runner (never GitHub-hosted).
 on:
-  schedule:
-    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:

@@ -1249,35 +1249,51 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
 # Save shows
 # ---------------------------------------------------------------------------
 def save_shows(shows: list, scrape_successful: bool = False):
-    """Save shows to the JSON file."""
+    """Save shows to the JSON file.
+
+    On a failed scrape (scrape_successful=False, e.g. login/fetch failed and we
+    got an empty list) we PRESERVE the previously-saved shows instead of blanking
+    the file — otherwise a single failed run wipes the live GitHub Pages site.
+    Only ``last_updated`` advances in that case, as a heartbeat that the job ran.
+    """
     pt_now = get_pacific_time()
     timestamp = pt_now.strftime("%Y-%m-%dT%H:%M:%S PT")
 
     existing_last_successful_run = None
+    existing_shows = None
     if OUTPUT_FILE.exists():
         try:
             with open(OUTPUT_FILE, "r") as f:
                 existing_data = json.load(f)
                 existing_last_successful_run = existing_data.get("last_successful_run")
+                existing_shows = existing_data.get("shows")
         except (json.JSONDecodeError, IOError):
             pass
 
-    last_successful_run = existing_last_successful_run
     if scrape_successful:
+        out_shows = shows
         last_successful_run = timestamp
+    else:
+        # Failed scrape: keep the last good shows if we have them.
+        out_shows = existing_shows if existing_shows is not None else shows
+        last_successful_run = existing_last_successful_run
+        if existing_shows is not None:
+            log_message(
+                f"Scrape unsuccessful — preserving {len(out_shows)} previously saved show(s)"
+            )
 
     output = {
         "source": "1stTix",
         "last_updated": timestamp,
         "last_successful_run": last_successful_run,
-        "count": len(shows),
-        "shows": shows,
+        "count": len(out_shows),
+        "shows": out_shows,
     }
 
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-    log_message(f"Saved {len(shows)} shows to {OUTPUT_FILE.name}")
+    log_message(f"Saved {len(out_shows)} shows to {OUTPUT_FILE.name}")
 
 
 # ---------------------------------------------------------------------------

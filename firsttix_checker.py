@@ -1117,6 +1117,7 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
     """Fetch the list of available shows from 1stTix (all pages)."""
     try:
         shows = []
+        seen_keys = set()  # dedupe: same event listing can appear on multiple pages
 
         sponsor_patterns = [
             "tactical",
@@ -1231,6 +1232,12 @@ def fetch_firsttix_shows(session: requests.Session) -> list:
                             f"[1stTix] Skipping non-event (no link/date): {show_info['name']}"
                         )
                     else:
+                        # Dedupe: the same listing (event id + date) can be
+                        # returned on multiple pages; keep only the first.
+                        dedup_key = (show_info["link"], show_info["date"])
+                        if dedup_key in seen_keys:
+                            continue
+                        seen_keys.add(dedup_key)
                         shows.append(show_info)
 
             page += 1

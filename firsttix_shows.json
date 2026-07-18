@@ -1,48 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-17T18:07:13 PT",
-  "last_successful_run": "2026-07-17T13:11:51 PT",
-  "count": 31,
+  "last_updated": "2026-07-17T20:07:43 PT",
+  "last_successful_run": "2026-07-17T20:07:43 PT",
+  "count": 40,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Pacific Beach Friday Party Pass",
-      "date": "Fri, 17 Jul '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640750",
-      "image": "https://ei-cdn.1sttix.org/preview629040_1778616003.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Growlers - Ultimate Frisbee Association Vs Vegas Bighorns",
-      "date": "Sat, 18 Jul '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638032",
-      "image": "https://ei-cdn.1sttix.org/preview357201_1657906855.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Struggle Jennings",
-      "date": "Sat, 18 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/630250",
-      "image": "https://ei-cdn.1sttix.org/preview630250_1779213602.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
     {
       "source": "1stTix",
       "name": "How To Train Your Dragon 2",
@@ -292,15 +253,15 @@
     },
     {
       "source": "1stTix",
-      "name": "Gio Chamba",
-      "date": "Sun, 2 Aug '26 1:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
-      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": true,
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -318,15 +279,15 @@
     },
     {
       "source": "1stTix",
-      "name": "Gio Chamba",
-      "date": "Sun, 2 Aug '26 1:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
-      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": true,
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -344,15 +305,15 @@
     },
     {
       "source": "1stTix",
-      "name": "Gio Chamba",
-      "date": "Sun, 2 Aug '26 1:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
-      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": true,
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -370,15 +331,15 @@
     },
     {
       "source": "1stTix",
-      "name": "Gio Chamba",
-      "date": "Sun, 2 Aug '26 1:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
-      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": true,
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -396,6 +357,19 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
       "name": "Gio Chamba",
       "date": "Sun, 2 Aug '26 1:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
@@ -405,6 +379,149 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Gio Chamba",
+      "date": "Sun, 2 Aug '26 1:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
+      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Gio Chamba",
+      "date": "Sun, 2 Aug '26 1:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
+      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Gio Chamba",
+      "date": "Sun, 2 Aug '26 1:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
+      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Gio Chamba",
+      "date": "Sun, 2 Aug '26 1:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
+      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Gio Chamba",
+      "date": "Sun, 2 Aug '26 1:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
+      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 4 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     }
   ]

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-19T11:54:11 PT",
-  "last_successful_run": "2026-07-18T09:11:35 PT",
-  "count": 19,
+  "last_updated": "2026-07-19T13:59:54 PT",
+  "last_successful_run": "2026-07-19T13:59:54 PT",
+  "count": 18,
   "shows": [
     {
       "source": "1stTix",
@@ -10,11 +10,11 @@
       "date": "Sun, 19 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639876",
       "image": "https://ei-cdn.1sttix.org/preview639876_1783533309.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -23,11 +23,11 @@
       "date": "Tue, 21 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640219",
       "image": "https://ei-cdn.1sttix.org/preview-636510-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -36,11 +36,11 @@
       "date": "Tue, 21 Jul '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639999",
       "image": "https://ei-cdn.1sttix.org/preview639999_1783536477.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -49,11 +49,11 @@
       "date": "Tue, 21 Jul '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640141",
       "image": "https://ei-cdn.1sttix.org/preview-632769-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -62,11 +62,11 @@
       "date": "Wed, 22 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639875",
       "image": "https://ei-cdn.1sttix.org/preview639875_1783533244.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -75,24 +75,11 @@
       "date": "Wed, 22 Jul '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640003",
       "image": "https://ei-cdn.1sttix.org/preview640003_1783536774.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Ingrid Andress at The River: San Diego's Only Country Music Pool Party",
-      "date": "Thu, 23 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640128",
-      "image": "https://ei-cdn.1sttix.org/preview640128_1783549202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -101,11 +88,11 @@
       "date": "Fri, 24 Jul '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640828",
       "image": "https://ei-cdn.1sttix.org/preview640828_1783971002.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -114,24 +101,11 @@
       "date": "Fri, 24 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639871",
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -140,11 +114,24 @@
       "date": "Sat, 25 Jul '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
       "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -153,11 +140,11 @@
       "date": "Sat, 25 Jul '26 10:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635628",
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -166,11 +153,11 @@
       "date": "Sun, 26 Jul '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639954",
       "image": "https://ei-cdn.1sttix.org/preview639954_1783531387.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -179,11 +166,11 @@
       "date": "Wed, 29 Jul '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640779",
       "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -192,11 +179,11 @@
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
       "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -205,11 +192,11 @@
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -218,11 +205,11 @@
       "date": "Sun, 2 Aug '26 1:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -233,7 +220,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       }
@@ -246,7 +233,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }

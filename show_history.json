@@ -4,7 +4,6 @@
       "name": "The Comedy Store",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-05-06"
@@ -14,7 +13,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-23",
         "2026-05-05",
         "2026-05-07",
@@ -29,14 +27,14 @@
         "2026-06-29",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|event rescheduled: twista": {
       "name": "Event Rescheduled: Twista",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22"
       ]
@@ -45,7 +43,6 @@
       "name": "Taylor Austin Dye",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -55,7 +52,6 @@
       "name": "San Diego Wave FC - NWSL vs Bay FC",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -96,7 +92,6 @@
       "name": "Creed Fisher",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
@@ -124,7 +119,6 @@
       "name": "San Diego Wave FC - NWSL vs Washington Spirit",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
@@ -144,7 +138,6 @@
       "name": "San Diego Wave FC - NWSL vs Orlando Pride",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
@@ -154,18 +147,10 @@
         "2026-05-08"
       ]
     },
-    "1stTix|the making of our planet: frozen worlds": {
-      "name": "The Making of Our Planet: Frozen Worlds",
-      "source": "1stTix",
-      "appearances": [
-        "2026-04-20"
-      ]
-    },
     "1stTix|san diego toreros - ncaa women's softball vs saint mary's gaels": {
       "name": "San Diego Toreros - NCAA Women's Softball vs Saint Mary's Gaels",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -175,7 +160,6 @@
       "name": "San Diego Growlers - Ultimate Frisbee Association vs Carolina Flyers",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -185,7 +169,6 @@
       "name": "San Diego Mojo - Major League Volleyball vs Dallas Pulse",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -195,7 +178,6 @@
       "name": "Dancing on Tiptoes: a Musical Exploration of Melody, Movement, and Mood",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -205,7 +187,6 @@
       "name": "THIRD DAY with very special guest Zach Williams",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -215,7 +196,6 @@
       "name": "Not the Right Mom",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22"
       ]
@@ -224,7 +204,6 @@
       "name": "San Diego Strike Force - IFL vs Tucson Sugar Skulls",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -234,7 +213,6 @@
       "name": "San Diego Mojo - Major League Volleyball vs Grand Rapids Rise",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -244,7 +222,6 @@
       "name": "JOHNNY CASH Tribute CASH'D OUT with SOCIAL D Tribute TOTAL DISTORTION",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -254,7 +231,6 @@
       "name": "Ultimate Carrie - Carrie Underwood Tribute",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23"
@@ -264,7 +240,6 @@
       "name": "San Diego Toreros - NCAA Women's Softball vs Seattle Redhawks",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
@@ -275,7 +250,6 @@
       "name": "Moonshine Bandits",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
@@ -289,7 +263,6 @@
       "name": "Charlie Puth: Whatever's Clever! World Tour",
       "source": "1stTix",
       "appearances": [
-        "2026-04-20",
         "2026-04-21"
       ]
     },
@@ -439,7 +412,8 @@
         "2026-05-11",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|nascar san diego o'reilly auto parts series": {
@@ -1042,7 +1016,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|shredding the multiverse": {
@@ -1051,7 +1026,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|ca7riel & paco amoroso: free spirits world tour": {
@@ -1060,7 +1036,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|pinata protest": {
@@ -1069,7 +1046,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|up close: a conversation with brad bird and michael giacchino": {
@@ -1078,7 +1056,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|lefty gunplay": {
@@ -1103,7 +1082,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|the devastators, roots covenant, raiz muzik": {
@@ -1112,7 +1092,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|selena tribute dreaming of you": {
@@ -1121,7 +1102,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|rising star entertainment presents: aleslammiversary 4: battle for the big top": {
@@ -1139,7 +1121,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|beatles vs. stones \u2013 a musical showdown": {
@@ -1148,7 +1131,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|u2, the cure, inxs and morrissey tributes": {
@@ -1157,7 +1141,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|joyas prestadas - the jenni rivera tribute": {
@@ -1166,7 +1151,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|gio chamba": {
@@ -1175,7 +1161,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|atomic groove happy hour": {
@@ -1184,7 +1171,8 @@
       "appearances": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|rio da yung og": {
@@ -1192,7 +1180,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "1stTix|les mis\u00e9rables": {

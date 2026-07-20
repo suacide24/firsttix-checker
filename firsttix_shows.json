@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-19T18:00:23 PT",
-  "last_successful_run": "2026-07-19T18:00:23 PT",
-  "count": 20,
+  "last_updated": "2026-07-20T09:57:45 PT",
+  "last_successful_run": "2026-07-20T09:57:45 PT",
+  "count": 17,
   "shows": [
     {
       "source": "1stTix",
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-636510-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639999_1783536477.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-632769-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639875_1783533244.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -68,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640003_1783536774.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640828_1783971002.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -124,25 +124,10 @@
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "An energetic live performance blending folk, punk, and bluegrass music \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Les Mis\u00e9rables",
-      "date": "Sat, 25 Jul '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641376",
-      "image": "https://ei-cdn.1sttix.org/preview641376_1784155503.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A musical adaptation of Victor Hugo's novel about love and redemption in revolutionary France \u2014 \u2b50 5/5."
+      }
     },
     {
       "source": "1stTix",
@@ -152,7 +137,20 @@
       "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Selena Tribute Dreaming of you",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -179,21 +177,7 @@
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Rising Star Entertainment Presents: AleSlammiversary 4: Battle for The Big Top",
-      "date": "Sun, 26 Jul '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639954",
-      "image": "https://ei-cdn.1sttix.org/preview639954_1783531387.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -206,7 +190,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -219,7 +203,20 @@
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "U2, the Cure, INXS and Morrissey Tributes",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
+      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -232,7 +229,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -245,7 +242,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -256,11 +253,11 @@
       "date": "Mon, 3 Aug '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639998",
       "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {

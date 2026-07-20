@@ -1093,7 +1093,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-17",
-        "2026-07-18"
+        "2026-07-18",
+        "2026-07-19"
       ]
     },
     "1stTix|larry & his flask": {
@@ -1191,6 +1192,13 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-18",
+        "2026-07-19"
+      ]
+    },
+    "1stTix|les mis\u00e9rables": {
+      "name": "Les Mis\u00e9rables",
+      "source": "1stTix",
+      "appearances": [
         "2026-07-19"
       ]
     }

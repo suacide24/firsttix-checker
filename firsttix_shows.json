@@ -1,22 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-19T14:13:58 PT",
-  "last_successful_run": "2026-07-19T14:13:58 PT",
-  "count": 19,
+  "last_updated": "2026-07-19T17:46:07 PT",
+  "last_successful_run": "2026-07-19T17:46:07 PT",
+  "count": 20,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "The Soap Girls",
-      "date": "Sun, 19 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639876",
-      "image": "https://ei-cdn.1sttix.org/preview639876_1783533309.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
     {
       "source": "1stTix",
       "name": "Ed Sheeran: LOOP Tour",
@@ -28,7 +15,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live concert featuring Ed Sheeran performing his hits in an intimate setting \u2014 \u2b50 5/5."
     },
     {
       "source": "1stTix",
@@ -41,7 +29,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A high-energy live show featuring music and entertainment exploring alternate realities \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -54,7 +43,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A vibrant live concert featuring CA7RIEL and Paco Amoroso showcasing their unique musical styles \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -67,7 +57,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively concert featuring punk rock music with a fun, festive atmosphere \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -75,6 +66,20 @@
       "date": "Wed, 22 Jul '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640003",
       "image": "https://ei-cdn.1sttix.org/preview640003_1783536774.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A discussion featuring filmmaker Brad Bird and composer Michael Giacchino about their creative collaboration \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Ingrid Andress at The River: San Diego's Only Country Music Pool Party",
+      "date": "Thu, 23 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640128",
+      "image": "https://ei-cdn.1sttix.org/preview640128_1783549202.jpg",
       "rare": false,
       "popularity": {
         "appearances": 3,
@@ -97,10 +102,49 @@
     },
     {
       "source": "1stTix",
+      "name": "Les Mis\u00e9rables",
+      "date": "Fri, 24 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641375",
+      "image": "https://ei-cdn.1sttix.org/preview641375_1784155502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
       "name": "Larry & His Flask",
       "date": "Fri, 24 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639871",
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Les Mis\u00e9rables",
+      "date": "Sat, 25 Jul '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641376",
+      "image": "https://ei-cdn.1sttix.org/preview641376_1784155503.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 3,
@@ -123,19 +167,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
       "name": "Hilariously Discharged",
       "date": "Sat, 25 Jul '26 10:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635628",
@@ -145,7 +176,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -179,19 +211,6 @@
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "U2, the Cure, INXS and Morrissey Tributes",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
-      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
         "appearances": 3,
@@ -249,7 +268,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     }
   ]
 }

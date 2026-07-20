@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-20T10:27:59 PT",
-  "last_successful_run": "2026-07-20T10:27:59 PT",
-  "count": 17,
+  "last_updated": "2026-07-20T16:04:58 PT",
+  "last_successful_run": "2026-07-20T16:04:58 PT",
+  "count": 18,
   "shows": [
     {
       "source": "1stTix",
@@ -78,6 +78,19 @@
       "rare": false,
       "popularity": {
         "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 24 Jul '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642100",
+      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }

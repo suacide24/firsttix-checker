@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-19T17:46:07 PT",
-  "last_successful_run": "2026-07-19T17:46:07 PT",
+  "last_updated": "2026-07-19T18:00:23 PT",
+  "last_successful_run": "2026-07-19T18:00:23 PT",
   "count": 20,
   "shows": [
     {
@@ -85,7 +85,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "Country artist Ingrid Andress performs at a unique pool party in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -98,7 +99,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively event featuring music and drinks to kick off the evening. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -111,7 +113,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A musical adaptation of Victor Hugo's novel about love and redemption in revolutionary France \u2014 \u2b50 5/5."
     },
     {
       "source": "1stTix",
@@ -124,7 +127,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "An energetic live performance blending folk, punk, and bluegrass music \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -137,7 +141,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A musical adaptation of Victor Hugo's novel about love and redemption in revolutionary France \u2014 \u2b50 5/5."
     },
     {
       "source": "1stTix",
@@ -150,7 +155,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live music event featuring reggae and roots artists performing together \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

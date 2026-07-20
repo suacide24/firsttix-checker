@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-20T09:57:45 PT",
-  "last_successful_run": "2026-07-20T09:57:45 PT",
+  "last_updated": "2026-07-20T10:27:59 PT",
+  "last_successful_run": "2026-07-20T10:27:59 PT",
   "count": 17,
   "shows": [
     {
@@ -15,8 +15,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live concert featuring Ed Sheeran performing his hits in an intimate setting \u2014 \u2b50 5/5."
+      }
     },
     {
       "source": "1stTix",
@@ -29,8 +28,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A high-energy live show featuring music and entertainment exploring alternate realities \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -43,8 +41,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant live concert featuring CA7RIEL and Paco Amoroso showcasing their unique musical styles \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -57,8 +54,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively concert featuring punk rock music with a fun, festive atmosphere \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -71,22 +67,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A discussion featuring filmmaker Brad Bird and composer Michael Giacchino about their creative collaboration \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Ingrid Andress at The River: San Diego's Only Country Music Pool Party",
-      "date": "Thu, 23 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640128",
-      "image": "https://ei-cdn.1sttix.org/preview640128_1783549202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Country artist Ingrid Andress performs at a unique pool party in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -99,22 +80,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring music and drinks to kick off the evening. \u2014 \u2b50 4/5"
-    },
-    {
-      "source": "1stTix",
-      "name": "Les Mis\u00e9rables",
-      "date": "Fri, 24 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641375",
-      "image": "https://ei-cdn.1sttix.org/preview641375_1784155502.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A musical adaptation of Victor Hugo's novel about love and redemption in revolutionary France \u2014 \u2b50 5/5."
+      }
     },
     {
       "source": "1stTix",
@@ -151,20 +117,6 @@
       "rare": false,
       "popularity": {
         "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live music event featuring reggae and roots artists performing together \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -271,8 +223,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
     }
   ]
 }

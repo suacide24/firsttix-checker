@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-20T16:35:13 PT",
-  "last_successful_run": "2026-07-20T16:35:13 PT",
-  "count": 18,
+  "last_updated": "2026-07-20T19:00:26 PT",
+  "last_successful_run": "2026-07-20T19:00:26 PT",
+  "count": 19,
   "shows": [
     {
       "source": "1stTix",
@@ -67,7 +67,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A discussion featuring filmmaker Brad Bird and composer Michael Giacchino about their creative collaboration \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -93,7 +94,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -106,20 +108,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "An energetic live performance blending folk, punk, and bluegrass music \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -132,7 +122,22 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A heartfelt tribute concert celebrating Selena's music and legacy \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A live music event featuring reggae and roots artists performing together \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -145,7 +150,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -158,7 +164,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "An uplifting live concert featuring bluegrass and gospel music by Dailey & Vincent \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -171,7 +178,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -184,7 +192,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -197,7 +206,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -236,6 +246,20 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Emo Kids",
+      "date": "Fri, 7 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641283",
+      "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       }
     }
   ]

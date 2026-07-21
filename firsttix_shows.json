@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-20T22:00:14 PT",
-  "last_successful_run": "2026-07-20T22:00:14 PT",
+  "last_updated": "2026-07-21T10:28:19 PT",
+  "last_successful_run": "2026-07-21T10:28:19 PT",
   "count": 19,
   "shows": [
     {
@@ -12,21 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-636510-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live concert featuring Ed Sheeran performing his hits in an intimate setting \u2014 \u2b50 5/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Shredding the Multiverse",
-      "date": "Tue, 21 Jul '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639999",
-      "image": "https://ei-cdn.1sttix.org/preview639999_1783536477.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-632769-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639875_1783533244.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640003_1783536774.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640828_1783971002.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,11 +96,10 @@
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "An energetic live performance blending folk, punk, and bluegrass music \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -124,7 +109,20 @@
       "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -152,7 +150,7 @@
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -166,7 +164,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -180,7 +178,7 @@
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,7 +192,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -208,7 +206,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +220,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -236,7 +234,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,11 +248,23 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "ZZ Top with Special Guest Cheap Trick",
+      "date": "Tue, 4 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641590",
+      "image": "https://ei-cdn.1sttix.org/preview-619805-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -267,8 +277,7 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-20T19:00:26 PT",
-  "last_successful_run": "2026-07-20T19:00:26 PT",
+  "last_updated": "2026-07-20T20:00:21 PT",
+  "last_successful_run": "2026-07-20T20:00:21 PT",
   "count": 19,
   "shows": [
     {
@@ -15,7 +15,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live concert featuring Ed Sheeran performing his hits in an intimate setting \u2014 \u2b50 5/5."
     },
     {
       "source": "1stTix",
@@ -28,7 +29,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A high-energy live show featuring music and entertainment exploring alternate realities \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -41,7 +43,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A vibrant live concert featuring CA7RIEL and Paco Amoroso showcasing their unique musical styles \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -54,7 +57,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively concert featuring punk rock music with a fun, festive atmosphere \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -81,7 +85,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A lively event featuring music and drinks to kick off the evening. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -220,7 +225,8 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A vibrant live performance blending Latin rhythms and modern sounds by Gio Chamba \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -233,7 +239,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live performance by the rapper Rio Da Yung OG showcasing his music \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -260,7 +267,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
     }
   ]
 }

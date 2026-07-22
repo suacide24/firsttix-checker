@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-21T10:28:19 PT",
-  "last_successful_run": "2026-07-21T10:28:19 PT",
-  "count": 19,
+  "last_updated": "2026-07-21T19:36:28 PT",
+  "last_successful_run": "2026-07-21T19:36:28 PT",
+  "count": 20,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Ed Sheeran: LOOP Tour",
-      "date": "Tue, 21 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640219",
-      "image": "https://ei-cdn.1sttix.org/preview-636510-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A high-energy live show featuring music and entertainment exploring alternate realities \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR",
-      "date": "Tue, 21 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640141",
-      "image": "https://ei-cdn.1sttix.org/preview-632769-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant live concert featuring CA7RIEL and Paco Amoroso showcasing their unique musical styles \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Pinata Protest",
@@ -43,8 +15,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively concert featuring punk rock music with a fun, festive atmosphere \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -57,8 +28,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A discussion featuring filmmaker Brad Bird and composer Michael Giacchino about their creative collaboration \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -71,8 +41,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively event featuring music and drinks to kick off the evening. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -85,8 +54,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -94,6 +62,58 @@
       "date": "Fri, 24 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/639871",
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Les Mis\u00e9rables",
+      "date": "Fri, 24 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641375",
+      "image": "https://ei-cdn.1sttix.org/preview641375_1784155502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Little River Band",
+      "date": "Fri, 24 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641879",
+      "image": "https://ei-cdn.1sttix.org/preview-476740-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "East Side Story Concert & Car Show by the Sea",
+      "date": "Sat, 25 Jul '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641753",
+      "image": "https://ei-cdn.1sttix.org/preview641753_1784322128.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 5,
@@ -116,34 +136,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A heartfelt tribute concert celebrating Selena's music and legacy \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live music event featuring reggae and roots artists performing together \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Hilariously Discharged",
       "date": "Sat, 25 Jul '26 10:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635628",
@@ -153,8 +145,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -167,8 +158,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "An uplifting live concert featuring bluegrass and gospel music by Dailey & Vincent \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -181,8 +171,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -195,8 +184,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -209,8 +197,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -223,8 +210,7 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant live performance blending Latin rhythms and modern sounds by Gio Chamba \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -237,8 +223,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live performance by the rapper Rio Da Yung OG showcasing his music \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",

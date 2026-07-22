@@ -1143,7 +1143,8 @@
       "name": "Les Mis\u00e9rables",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-21"
       ]
     },
     "1stTix|zz top with special guest cheap trick": {
@@ -1155,6 +1156,20 @@
     },
     "1stTix|emo kids": {
       "name": "Emo Kids",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-21"
+      ]
+    },
+    "1stTix|little river band": {
+      "name": "Little River Band",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-21"
+      ]
+    },
+    "1stTix|east side story concert & car show by the sea": {
+      "name": "East Side Story Concert & Car Show by the Sea",
       "source": "1stTix",
       "appearances": [
         "2026-07-21"

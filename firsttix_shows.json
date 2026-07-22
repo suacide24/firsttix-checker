@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-22T15:19:07 PT",
-  "last_successful_run": "2026-07-22T15:19:07 PT",
+  "last_updated": "2026-07-22T15:49:23 PT",
+  "last_successful_run": "2026-07-22T15:49:23 PT",
   "count": 25,
   "shows": [
     {
@@ -136,10 +136,10 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "name": "Selena Tribute Dreaming of you",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -149,10 +149,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,

@@ -1147,17 +1147,11 @@
         "2026-07-21"
       ]
     },
-    "1stTix|zz top with special guest cheap trick": {
-      "name": "ZZ Top with Special Guest Cheap Trick",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-21"
-      ]
-    },
     "1stTix|emo kids": {
       "name": "Emo Kids",
       "source": "1stTix",
       "appearances": [
+        "2026-07-20",
         "2026-07-21"
       ]
     },
@@ -1170,6 +1164,13 @@
     },
     "1stTix|east side story concert & car show by the sea": {
       "name": "East Side Story Concert & Car Show by the Sea",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-21"
+      ]
+    },
+    "1stTix|house of funk": {
+      "name": "House of Funk",
       "source": "1stTix",
       "appearances": [
         "2026-07-21"

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-21T19:36:28 PT",
-  "last_successful_run": "2026-07-21T19:36:28 PT",
+  "last_updated": "2026-07-21T21:00:23 PT",
+  "last_successful_run": "2026-07-21T21:00:23 PT",
   "count": 20,
   "shows": [
     {
@@ -80,7 +80,8 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A musical adaptation of Victor Hugo's novel about love and redemption in revolutionary France \u2014 \u2b50 5/5."
     },
     {
       "source": "1stTix",
@@ -93,7 +94,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A classic rock band performing their hits live \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -106,7 +108,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A vibrant concert and car show celebrating East Coast culture by the seaside. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -133,6 +136,20 @@
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
+    },
+    {
+      "source": "1stTix",
+      "name": "Selena Tribute Dreaming of you",
+      "date": "Sat, 25 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "ai_description": "A heartfelt tribute concert celebrating Selena's music and legacy \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -259,10 +276,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
       "rare": true,
       "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "House of Funk",
+      "date": "Sat, 8 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640000",
+      "image": "https://ei-cdn.1sttix.org/preview640000_1783535703.jpg",
+      "rare": true,
+      "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A vibrant live music event showcasing funk artists and bands \u2014 \u2b50 4/5."
     }
   ]
 }

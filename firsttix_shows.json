@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-22T15:49:23 PT",
-  "last_successful_run": "2026-07-22T15:49:23 PT",
-  "count": 25,
+  "last_updated": "2026-07-22T16:20:41 PT",
+  "last_successful_run": "2026-07-22T16:20:41 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -136,10 +136,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -149,10 +149,10 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "name": "Selena Tribute Dreaming of you",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -312,19 +312,6 @@
       "rare": true,
       "popularity": {
         "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "House of Funk",
-      "date": "Sat, 8 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640000",
-      "image": "https://ei-cdn.1sttix.org/preview640000_1783535703.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       }

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-22T17:03:58 PT",
-  "last_successful_run": "2026-07-22T17:03:58 PT",
-  "count": 22,
+  "last_updated": "2026-07-22T17:34:15 PT",
+  "last_successful_run": "2026-07-22T17:34:15 PT",
+  "count": 23,
   "shows": [
     {
       "source": "1stTix",
@@ -15,19 +15,6 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Atomic Groove Happy Hour",
-      "date": "Fri, 24 Jul '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640828",
-      "image": "https://ei-cdn.1sttix.org/preview640828_1783971002.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -110,10 +97,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -123,10 +110,10 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "name": "Selena Tribute Dreaming of you",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -158,6 +145,19 @@
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Wes Mills",
+      "date": "Sat, 25 Jul '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642139",
+      "image": "https://ei-cdn.1sttix.org/preview642139_1784593804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       }
     },
     {
@@ -283,6 +283,19 @@
       "date": "Sat, 8 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635323",
       "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "O.A.R. Three Decades Tour",
+      "date": "Sun, 9 Aug '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641506",
+      "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,

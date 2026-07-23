@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-22T20:00:24 PT",
-  "last_successful_run": "2026-07-22T20:00:24 PT",
+  "last_updated": "2026-07-22T21:00:15 PT",
+  "last_successful_run": "2026-07-22T21:00:15 PT",
   "count": 23,
   "shows": [
     {
@@ -57,20 +57,8 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 24 Jul '26 8:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642102",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A classic rock band performing their hits live \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -97,20 +85,8 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A vibrant concert and car show celebrating East Coast culture by the seaside. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -209,19 +185,6 @@
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "Stand-up comedy performance by Chris Newcomer exploring humor and identity \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Chris Newcomer: Who's that Woman?",
-      "date": "Sun, 26 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641950",
-      "image": "https://ei-cdn.1sttix.org/preview641950_1784565301.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
     },
     {
       "source": "1stTix",

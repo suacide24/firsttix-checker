@@ -1124,6 +1124,7 @@
       "name": "Emo Kids",
       "source": "1stTix",
       "appearances": [
+        "2026-07-20",
         "2026-07-21",
         "2026-07-22"
       ]
@@ -1144,6 +1145,28 @@
         "2026-07-22"
       ]
     },
+    "1stTix|house of funk": {
+      "name": "House of Funk",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-21",
+        "2026-07-22"
+      ]
+    },
+    "1stTix|led presents wes mills": {
+      "name": "LED presents Wes Mills",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-22"
+      ]
+    },
+    "1stTix|o.a.r. three decades tour": {
+      "name": "O.A.R. Three Decades Tour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-22"
+      ]
+    },
     "1stTix|thom tran & the comedy nerds": {
       "name": "Thom Tran & The Comedy Nerds",
       "source": "1stTix",
@@ -1158,23 +1181,15 @@
         "2026-07-22"
       ]
     },
-    "1stTix|depeche mode + new order + yaz + erasure tributes": {
-      "name": "Depeche Mode + New Order + Yaz + Erasure Tributes",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-22"
-      ]
-    },
-    "1stTix|house of funk": {
-      "name": "House of Funk",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-21",
-        "2026-07-22"
-      ]
-    },
     "1stTix|led presents wes mills": {
       "name": "LED presents Wes Mills",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-22"
+      ]
+    },
+    "1stTix|depeche mode + new order + yaz + erasure tributes": {
+      "name": "Depeche Mode + New Order + Yaz + Erasure Tributes",
       "source": "1stTix",
       "appearances": [
         "2026-07-22"

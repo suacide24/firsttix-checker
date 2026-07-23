@@ -1,22 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-22T16:20:41 PT",
-  "last_successful_run": "2026-07-22T16:20:41 PT",
-  "count": 24,
+  "last_updated": "2026-07-22T17:03:58 PT",
+  "last_successful_run": "2026-07-22T17:03:58 PT",
+  "count": 22,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Pinata Protest",
-      "date": "Wed, 22 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639875",
-      "image": "https://ei-cdn.1sttix.org/preview639875_1783533244.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
     {
       "source": "1stTix",
       "name": "Thom Tran & The Comedy Nerds",
@@ -52,19 +39,6 @@
       "rare": false,
       "popularity": {
         "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Les Mis\u00e9rables",
-      "date": "Fri, 24 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641375",
-      "image": "https://ei-cdn.1sttix.org/preview641375_1784155502.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       }
@@ -136,10 +110,10 @@
     },
     {
       "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
+      "name": "Selena Tribute Dreaming of you",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
+      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
@@ -149,10 +123,10 @@
     },
     {
       "source": "1stTix",
-      "name": "Selena Tribute Dreaming of you",
+      "name": "The Devastators, Roots Covenant, Raiz Muzik",
       "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635409",
-      "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
+      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,

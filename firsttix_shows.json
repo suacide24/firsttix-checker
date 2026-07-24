@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-24T15:00:05 PT",
-  "last_successful_run": "2026-07-24T14:00:17 PT",
-  "count": 26,
+  "last_updated": "2026-07-24T15:56:05 PT",
+  "last_successful_run": "2026-07-24T15:56:05 PT",
+  "count": 23,
   "shows": [
     {
       "source": "1stTix",
@@ -15,8 +15,7 @@
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -29,8 +28,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "An energetic live performance blending folk, punk, and bluegrass music \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -43,8 +41,7 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A classic rock band performing their hits live \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -57,8 +54,7 @@
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -85,8 +81,7 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant concert and car show celebrating East Coast culture by the seaside. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -113,8 +108,20 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Stand-up comedy performance by Chris Newcomer exploring humor and identity \u2014 \u2b50 4/5."
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 25 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642996",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
     },
     {
       "source": "1stTix",
@@ -127,8 +134,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A heartfelt tribute concert celebrating Selena's music and legacy \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -141,8 +147,7 @@
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live stand-up comedy event featuring various comedians performing in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -155,8 +160,20 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 25 Jul '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643049",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -169,8 +186,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -197,22 +213,7 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Stand-up comedy performance by Chris Newcomer exploring humor and identity \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Dailey & Vincent - a Beautiful Life Tour. W/ Graham Nancarrow",
-      "date": "Wed, 29 Jul '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640779",
-      "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "An uplifting live concert featuring bluegrass and gospel music by Dailey & Vincent \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -225,8 +226,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -239,8 +239,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -253,8 +252,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -267,8 +265,7 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A vibrant live performance blending Latin rhythms and modern sounds by Gio Chamba \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -281,8 +278,7 @@
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live performance by the rapper Rio Da Yung OG showcasing his music \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -295,8 +291,7 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -323,8 +318,7 @@
         "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -337,8 +331,7 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute concert featuring performances of hits by iconic synth-pop bands \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -351,8 +344,7 @@
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A live concert celebrating three decades of O.A.R.'s music and fan favorites \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -365,8 +357,7 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
     }
   ]
 }

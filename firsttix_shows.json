@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-23T13:29:37 PT",
-  "last_successful_run": "2026-07-22T19:10:23 PT",
-  "count": 23,
+  "last_updated": "2026-07-24T14:00:17 PT",
+  "last_successful_run": "2026-07-24T14:00:17 PT",
+  "count": 26,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Thom Tran & The Comedy Nerds",
-      "date": "Thu, 23 Jul '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642811",
-      "image": "https://ei-cdn.1sttix.org/preview642811_1784743502.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "Stand-up comedy featuring Thom Tran and a lineup of quirky, nerdy performers \u2014 \u2b50 4/5."
-    },
     {
       "source": "1stTix",
       "name": "Grand Comedy Club",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639871_1783530727.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -52,11 +38,11 @@
       "date": "Fri, 24 Jul '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641879",
       "image": "https://ei-cdn.1sttix.org/preview-476740-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A classic rock band performing their hits live \u2014 \u2b50 4/5."
     },
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -76,17 +62,45 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 24 Jul '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642995",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
       "name": "East Side Story Concert & Car Show by the Sea",
       "date": "Sat, 25 Jul '26 3:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641753",
       "image": "https://ei-cdn.1sttix.org/preview641753_1784322128.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A vibrant concert and car show celebrating East Coast culture by the seaside. \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 25 Jul '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642996",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -96,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview641944_1784564702.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -110,25 +124,11 @@
       "image": "https://ei-cdn.1sttix.org/preview635409_1781542988.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A heartfelt tribute concert celebrating Selena's music and legacy \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "The Devastators, Roots Covenant, Raiz Muzik",
-      "date": "Sat, 25 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640778",
-      "image": "https://ei-cdn.1sttix.org/preview640778_1783964102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live music event featuring reggae and roots artists performing together \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -138,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -146,17 +146,17 @@
     },
     {
       "source": "1stTix",
-      "name": "LED presents Wes Mills",
-      "date": "Sat, 25 Jul '26 10:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642139",
-      "image": "https://ei-cdn.1sttix.org/preview642139_1784593804.jpg",
-      "rare": true,
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 25 Jul '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643049",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
-      "ai_description": "A live performance by artist Wes Mills featuring LED visuals \u2014 \u2b50 4/5."
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -166,11 +166,25 @@
       "image": "https://ei-cdn.1sttix.org/preview559164_1748456206.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "ai_description": "A comedy show featuring veterans sharing humorous stories about military life \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Wes Mills",
+      "date": "Sat, 25 Jul '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642139",
+      "image": "https://ei-cdn.1sttix.org/preview642139_1784593804.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A live performance by artist Wes Mills featuring LED visuals \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -180,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview641950_1784565301.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -194,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -208,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -236,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,11 +292,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "ZZ Top with Special Guest Cheap Trick",
+      "date": "Tue, 4 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641590",
+      "image": "https://ei-cdn.1sttix.org/preview-619805-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A rock concert featuring ZZ Top and Cheap Trick in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -292,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -320,11 +348,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A live concert celebrating three decades of O.A.R.'s music and fan favorites \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 11 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641163",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     }
   ]
 }

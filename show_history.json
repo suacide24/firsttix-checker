@@ -27,7 +27,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -81,7 +82,8 @@
         "2026-06-26",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|san diego wave fc - nwsl vs washington spirit": {
@@ -200,7 +202,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|nascar san diego o'reilly auto parts series": {
@@ -877,7 +880,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|the devastators, roots covenant, raiz muzik": {
@@ -901,7 +905,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|rising star entertainment presents: aleslammiversary 4: battle for the big top": {
@@ -922,7 +927,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|beatles vs. stones \u2013 a musical showdown": {
@@ -934,7 +940,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|u2, the cure, inxs and morrissey tributes": {
@@ -946,7 +953,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|joyas prestadas - the jenni rivera tribute": {
@@ -958,7 +966,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|gio chamba": {
@@ -970,7 +979,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|atomic groove happy hour": {
@@ -993,7 +1003,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|les mis\u00e9rables": {
@@ -1011,7 +1022,8 @@
       "appearances": [
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|little river band": {
@@ -1019,7 +1031,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|east side story concert & car show by the sea": {
@@ -1027,7 +1040,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|house of funk": {
@@ -1042,14 +1056,16 @@
       "name": "LED presents Wes Mills",
       "source": "1stTix",
       "appearances": [
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|o.a.r. three decades tour": {
       "name": "O.A.R. Three Decades Tour",
       "source": "1stTix",
       "appearances": [
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|thom tran & the comedy nerds": {
@@ -1063,14 +1079,23 @@
       "name": "CHRIS NEWCOMER: Who's That Woman?",
       "source": "1stTix",
       "appearances": [
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
       ]
     },
     "1stTix|depeche mode + new order + yaz + erasure tributes": {
       "name": "Depeche Mode + New Order + Yaz + Erasure Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-24"
+      ]
+    },
+    "1stTix|zz top with special guest cheap trick": {
+      "name": "ZZ Top with Special Guest Cheap Trick",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-24"
       ]
     }
   }

@@ -1,34 +1,22 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-25T16:51:43 PT",
-  "last_successful_run": "2026-07-25T16:51:43 PT",
+  "last_updated": "2026-07-26T12:00:24 PT",
+  "last_successful_run": "2026-07-26T12:00:24 PT",
   "count": 16,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Sat, 25 Jul '26 8:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642099",
-      "image": "https://ei-cdn.1sttix.org/preview550723_1747933832.jpg",
-      "rare": false,
+      "name": "Comic Con Sunday Night Bar Crawl",
+      "date": "Sun, 26 Jul '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643267",
+      "image": "https://ei-cdn.1sttix.org/preview643267_1784841902.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Chris Newcomer: Who's that Woman?",
-      "date": "Sun, 26 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641950",
-      "image": "https://ei-cdn.1sttix.org/preview641950_1784565301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      }
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A lively bar crawl featuring themed activities and entertainment for Comic Con attendees \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -41,7 +29,8 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "An uplifting live concert featuring bluegrass and gospel music by Dailey & Vincent \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -54,7 +43,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "Aja Monet's performance explores themes of identity and resilience through poetry and spoken word \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -67,20 +57,8 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
-      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -93,7 +71,22 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
+      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -106,7 +99,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "ai_description": "A tribute band celebrating Eric Clapton's music through live performances \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -119,7 +113,8 @@
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "A vibrant live performance blending Latin rhythms and modern sounds by Gio Chamba \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -171,7 +166,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A tribute concert featuring performances of hits by iconic synth-pop bands \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -184,7 +180,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live concert celebrating three decades of O.A.R.'s music and fan favorites \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -197,7 +194,8 @@
         "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -210,7 +208,22 @@
         "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Soccer vs Cal State Fullerton Titans",
+      "date": "Wed, 12 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642567",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "College women's soccer match between San Diego Toreros and Cal State Fullerton Titans \u2014 \u2b50 3/5."
     }
   ]
 }

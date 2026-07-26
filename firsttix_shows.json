@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-26T12:00:24 PT",
-  "last_successful_run": "2026-07-26T12:00:24 PT",
-  "count": 16,
+  "last_updated": "2026-07-26T16:00:15 PT",
+  "last_successful_run": "2026-07-26T16:00:15 PT",
+  "count": 15,
   "shows": [
     {
       "source": "1stTix",
@@ -48,34 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
-      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
-    },
-    {
-      "source": "1stTix",
-      "name": "U2, the Cure, INXS and Morrissey Tributes",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
-      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
       "name": "Joyas Prestadas - The Jenni Rivera Tribute",
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
@@ -87,6 +59,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
+      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",
@@ -127,7 +113,8 @@
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live performance by the rapper Rio Da Yung OG showcasing his music \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -140,7 +127,8 @@
         "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -153,7 +141,8 @@
         "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
     },
     {
       "source": "1stTix",

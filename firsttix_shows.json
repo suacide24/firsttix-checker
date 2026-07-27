@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-26T17:00:13 PT",
-  "last_successful_run": "2026-07-26T17:00:13 PT",
-  "count": 15,
+  "last_updated": "2026-07-26T18:00:14 PT",
+  "last_successful_run": "2026-07-26T18:00:14 PT",
+  "count": 16,
   "shows": [
     {
       "source": "1stTix",
@@ -48,17 +48,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
+      "name": "U2, the Cure, INXS and Morrissey Tributes",
       "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
-      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
+      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
         "appearances": 8,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
-      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
+      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",
@@ -73,6 +73,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
+      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
     },
     {
       "source": "1stTix",

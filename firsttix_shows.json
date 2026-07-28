@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-28T13:54:37 PT",
-  "last_successful_run": "2026-07-28T13:54:37 PT",
+  "last_updated": "2026-07-28T14:00:35 PT",
+  "last_successful_run": "2026-07-28T14:00:35 PT",
   "count": 16,
   "shows": [
     {
@@ -15,7 +15,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/wnl-2026-july29th8svjzghfkwctzw"
     },
     {
       "source": "1stTix",
@@ -28,7 +29,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.sycuan.com/event/el-rio-la-sonora-santanera-8pm-thursday-july-30-2026"
     },
     {
       "source": "1stTix",
@@ -41,7 +43,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "info_url": "https://artpower.ucsd.edu/event/aja-monet-the-color-of-rain/"
     },
     {
       "source": "1stTix",
@@ -54,7 +57,8 @@
         "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/alt-80s-takeover-u2-gaslamp-long-beach-tickets/14160434?pl=gaslamp"
     },
     {
       "source": "1stTix",
@@ -67,7 +71,8 @@
         "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
     },
     {
       "source": "1stTix",
@@ -80,7 +85,22 @@
         "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Cream of Clapton Band",
+      "date": "Sat, 1 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643306",
+      "image": "https://ei-cdn.1sttix.org/preview643306_1784847302.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://artpower.ucsd.edu/event/the-cream-of-clapton-band-2026/"
     },
     {
       "source": "1stTix",
@@ -93,20 +113,8 @@
         "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "What If?",
-      "date": "Sun, 2 Aug '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643191",
-      "image": "https://ei-cdn.1sttix.org/preview643191_1784832603.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://theholdingcompanyob.com/show/gio-chamba/"
     },
     {
       "source": "1stTix",
@@ -119,7 +127,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketmaster.com/sarah-mclachlan-better-broken-tour-san-diego-california-08-02-2026/event/0A0064474D8ABBF3"
     },
     {
       "source": "1stTix",
@@ -132,7 +141,8 @@
         "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/341743"
     },
     {
       "source": "1stTix",

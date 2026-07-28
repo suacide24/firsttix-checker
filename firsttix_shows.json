@@ -1,15 +1,15 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-27T16:38:28 PT",
-  "last_successful_run": "2026-07-26T18:31:37 PT",
-  "count": 18,
+  "last_updated": "2026-07-28T09:25:12 PT",
+  "last_successful_run": "2026-07-28T09:25:12 PT",
+  "count": 16,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Comic Con Sunday Night Bar Crawl",
-      "date": "Sun, 26 Jul '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643267",
-      "image": "https://ei-cdn.1sttix.org/preview643267_1784841902.jpg",
+      "name": "Wednesday Night Live",
+      "date": "Wed, 29 Jul '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643500",
+      "image": "https://ei-cdn.1sttix.org/preview643500_1784960403.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
@@ -19,17 +19,16 @@
     },
     {
       "source": "1stTix",
-      "name": "Dailey & Vincent - a Beautiful Life Tour. W/ Graham Nancarrow",
-      "date": "Wed, 29 Jul '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640779",
-      "image": "https://ei-cdn.1sttix.org/preview640779_1783964402.jpg",
-      "rare": false,
+      "name": "El Rio Latin Music Pool Party: La Sonora Santanera Tributo a Carlos Colorado y La Gran Sonora Dinamita",
+      "date": "Thu, 30 Jul '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643979",
+      "image": "https://ei-cdn.1sttix.org/preview643979_1785192903.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "An uplifting live concert featuring bluegrass and gospel music by Dailey & Vincent \u2014 \u2b50 4/5."
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -37,24 +36,11 @@
       "date": "Thu, 30 Jul '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643301",
       "image": "https://ei-cdn.1sttix.org/preview643301_1784846101.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
-      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       }
     },
     {
@@ -65,7 +51,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       }
@@ -78,25 +64,10 @@
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A tribute concert celebrating the music of U2, The Cure, INXS, and Morrissey \u2014 \u2b50 4/5."
-    },
-    {
-      "source": "1stTix",
-      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
-      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A lively tribute show pitting Beatles hits against Rolling Stones classics. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -106,11 +77,10 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A tribute show celebrating the life and music of Jenni Rivera \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -118,13 +88,12 @@
       "date": "Sat, 1 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643306",
       "image": "https://ei-cdn.1sttix.org/preview643306_1784847302.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "ai_description": "A tribute band celebrating Eric Clapton's music through live performances \u2014 \u2b50 4/5."
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
     },
     {
       "source": "1stTix",
@@ -134,23 +103,22 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "A vibrant live performance blending Latin rhythms and modern sounds by Gio Chamba \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
-      "name": "Rio Da Yung OG",
-      "date": "Mon, 3 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639998",
-      "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
-      "rare": false,
+      "name": "What If?",
+      "date": "Sun, 2 Aug '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643191",
+      "image": "https://ei-cdn.1sttix.org/preview643191_1784832603.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       }
     },
     {
@@ -161,11 +129,10 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -175,11 +142,10 @@
       "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live performance celebrating emo music and culture with various artists. \u2014 \u2b50 4/5"
+      }
     },
     {
       "source": "1stTix",
@@ -189,11 +155,10 @@
       "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A tribute concert featuring performances of hits by iconic synth-pop bands \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -203,11 +168,10 @@
       "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      },
-      "ai_description": "A live concert celebrating three decades of O.A.R.'s music and fan favorites \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -217,11 +181,10 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      }
     },
     {
       "source": "1stTix",
@@ -231,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       }
@@ -244,7 +207,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       }

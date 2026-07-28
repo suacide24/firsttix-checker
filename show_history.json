@@ -30,7 +30,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -948,7 +949,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|u2, the cure, inxs and morrissey tributes": {
@@ -963,7 +965,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|joyas prestadas - the jenni rivera tribute": {
@@ -978,7 +981,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|gio chamba": {
@@ -993,7 +997,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|atomic groove happy hour": {
@@ -1040,7 +1045,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|little river band": {
@@ -1084,7 +1090,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|thom tran & the comedy nerds": {
@@ -1110,7 +1117,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|aja monet | the color of rain": {
@@ -1118,7 +1126,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|the cream of clapton band": {
@@ -1126,7 +1135,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
       ]
     },
     "1stTix|comic con sunday night bar crawl": {
@@ -1140,7 +1150,29 @@
       "name": "San Diego Toreros - NCAA Women's Soccer vs Cal State Fullerton Titans",
       "source": "1stTix",
       "appearances": [
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-28"
+      ]
+    },
+    "1stTix|wednesday night live": {
+      "name": "Wednesday Night Live",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-28"
+      ]
+    },
+    "1stTix|el rio latin music pool party: la sonora santanera tributo a carlos colorado y la gran sonora dinamita": {
+      "name": "El Rio Latin Music Pool Party: La Sonora Santanera Tributo a Carlos Colorado y La Gran Sonora Dinamita",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-28"
+      ]
+    },
+    "1stTix|what if?": {
+      "name": "What If?",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-28"
       ]
     }
   }

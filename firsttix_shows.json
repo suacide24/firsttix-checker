@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-28T15:01:41 PT",
-  "last_successful_run": "2026-07-28T15:01:41 PT",
-  "count": 16,
+  "last_updated": "2026-07-28T15:31:55 PT",
+  "last_successful_run": "2026-07-28T15:31:55 PT",
+  "count": 17,
   "shows": [
     {
       "source": "1stTix",
@@ -115,6 +115,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://theholdingcompanyob.com/show/gio-chamba/"
+    },
+    {
+      "source": "1stTix",
+      "name": "What If?",
+      "date": "Sun, 2 Aug '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643191",
+      "image": "https://ei-cdn.1sttix.org/preview643191_1784832603.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theconrad.org/events/what-if/"
     },
     {
       "source": "1stTix",

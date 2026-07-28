@@ -87,6 +87,7 @@ HISTORY_FILE = SCRIPT_DIR / "show_history.json"
 BACKOFF_FILE = SCRIPT_DIR / "backoff_state.json"
 SESSION_FILE = SCRIPT_DIR / "session_cookies.pkl"
 AI_CACHE_FILE = SCRIPT_DIR / "ai_descriptions.json"
+INFO_CACHE_FILE = SCRIPT_DIR / "more_info.json"
 
 # ---------------------------------------------------------------------------
 # Backoff configuration
@@ -801,6 +802,81 @@ def enrich_shows_with_ai(shows: list) -> list:
     return shows
 
 
+# ---------------------------------------------------------------------------
+# "More information" link enrichment
+# ---------------------------------------------------------------------------
+def load_info_cache() -> dict:
+    """Load cached 'More information' links (event link -> info url or '')."""
+    if not INFO_CACHE_FILE.exists():
+        return {}
+    try:
+        with open(INFO_CACHE_FILE, "r") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return {}
+
+
+def save_info_cache(cache: dict):
+    with open(INFO_CACHE_FILE, "w") as f:
+        json.dump(cache, f, indent=2)
+
+
+def fetch_more_info_link(session: requests.Session, event_url: str):
+    """Scrape an event booking page for its '(More information)' link.
+
+    Returns the external info URL, or '' if the page has none (so callers can
+    cache the 'no link' result and avoid re-fetching). Returns None on error.
+    """
+    try:
+        resp = session.get(event_url, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for a in soup.find_all("a"):
+            text = a.get_text(" ", strip=True).lower()
+            if "more information" in text:
+                href = a.get("href", "").strip()
+                if href:
+                    return href
+        return ""
+    except requests.RequestException as e:
+        log_message(f"[Info] Failed to fetch more-info for {event_url}: {e}")
+        return None
+
+
+def enrich_shows_with_info(session: requests.Session, shows: list) -> list:
+    """Attach show['info_url'] (external '(More information)' link) to each show.
+
+    Uses a persistent cache keyed by the event link; only a limited number of
+    new event pages are fetched per run to stay polite / avoid bot detection.
+    """
+    cache = load_info_cache()
+    new_fetches = 0
+    max_new_per_run = 25  # SD set is small; cover it in one run, then all cached
+
+    for show in shows:
+        link = show.get("link", "")
+        if not link:
+            continue
+        if link in cache:
+            show["info_url"] = cache[link]
+        elif new_fetches < max_new_per_run:
+            info = fetch_more_info_link(session, link)
+            if info is None:  # transient error — don't cache, retry next run
+                continue
+            cache[link] = info
+            show["info_url"] = info
+            new_fetches += 1
+            if info:
+                log_message(f"[Info] {show.get('name', '')} → {info}")
+            random_delay(0.3, 1.0, silent=True)
+
+    if new_fetches > 0:
+        save_info_cache(cache)
+        log_message(f"[Info] Fetched {new_fetches} new more-info link(s)")
+
+    return shows
+
+
 def get_show_key(show: dict) -> str:
     name = show.get("name", "").strip()
     date = show.get("date", "").strip()
@@ -837,6 +913,7 @@ def group_shows_by_name(shows: list) -> list:
                 "source": show.get("source", "Unknown"),
                 "image": show.get("image"),
                 "rare": show.get("rare", False),
+                "info_url": show.get("info_url", ""),
                 "time_slots": [],
             }
         grouped[key]["time_slots"].append(
@@ -844,6 +921,8 @@ def group_shows_by_name(shows: list) -> list:
         )
         if show.get("rare"):
             grouped[key]["rare"] = True
+        if not grouped[key].get("info_url") and show.get("info_url"):
+            grouped[key]["info_url"] = show.get("info_url")
     return sorted(grouped.values(), key=lambda x: x["name"].lower())
 
 
@@ -924,6 +1003,13 @@ def send_email_notification(new_shows: list) -> bool:
 
             chatgpt_link = get_chatgpt_link(show)
 
+            info_url = show.get("info_url", "")
+            info_html = (
+                f'<div style="margin: -6px 0 12px 0;"><a href="{info_url}" style="color: #2980b9; font-size: 13px; text-decoration: none;">ℹ️ More information</a></div>'
+                if info_url
+                else ""
+            )
+
             html_body += f"""
             <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; margin-bottom: 15px; border-left: 4px solid #27ae60;">
                 <div style="margin-bottom: 10px;">
@@ -931,6 +1017,7 @@ def send_email_notification(new_shows: list) -> bool:
                     {rare_badge}
                 </div>
                 <h2 style="margin: 0 0 12px 0; color: #333; font-size: 18px;">{name}</h2>
+                {info_html}
                 <div style="margin-bottom: 12px;">
                     <div style="color: #e67e22; font-size: 13px; font-weight: 500; margin-bottom: 8px;">📅 Available Times ({len(time_slots)})</div>
                     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
@@ -978,6 +1065,8 @@ def send_email_notification(new_shows: list) -> bool:
             rare_text = " 🔥 RARE" if is_rare else ""
 
             text_body += f"[1stTix] {name}{rare_text}\n"
+            if show.get("info_url"):
+                text_body += f"  ℹ️ More info: {show['info_url']}\n"
             text_body += f"  📅 {len(time_slots)} time slot(s):\n"
             for slot in time_slots:
                 date = slot["date"]
@@ -1318,6 +1407,7 @@ def push_to_github():
             "notified_shows.json",
             "show_history.json",
             "ai_descriptions.json",
+            "more_info.json",
         ]
         for data_file in data_files:
             subprocess.run(["git", "add", data_file], capture_output=True)
@@ -1469,6 +1559,10 @@ def main():
 
     # Add AI descriptions
     filtered_shows = enrich_shows_with_ai(filtered_shows)
+
+    # Add external "More information" links (scraped from each event page)
+    if logged_in:
+        filtered_shows = enrich_shows_with_info(session, filtered_shows)
 
     # Save results
     if raw_shows is not None:

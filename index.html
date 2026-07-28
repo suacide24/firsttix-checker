@@ -363,6 +363,7 @@
                         image: show.image,
                         rare: show.rare,
                         ai_description: show.ai_description,
+                        info_url: show.info_url,
                         popularity: show.popularity,
                         timeSlots: []
                     };
@@ -371,6 +372,7 @@
                 if (!grouped[key].image && show.image) grouped[key].image = show.image;
                 if (show.rare) grouped[key].rare = true;
                 if (!grouped[key].ai_description && show.ai_description) grouped[key].ai_description = show.ai_description;
+                if (!grouped[key].info_url && show.info_url) grouped[key].info_url = show.info_url;
                 if (!grouped[key].popularity && show.popularity) grouped[key].popularity = show.popularity;
             });
             Object.values(grouped).forEach(show => {
@@ -462,6 +464,10 @@
                     ? `<p style="color: #aaa; font-size: 0.85rem; margin-bottom: 12px; font-style: italic;">${show.ai_description}</p>`
                     : '';
 
+                const infoLink = show.info_url
+                    ? `<a href="${show.info_url}" target="_blank" class="btn btn-secondary">ℹ️ More info</a>`
+                    : '';
+
                 const popInfo = show.popularity
                     ? `<span style="display:inline-block; background: rgba(255,255,255,0.08); padding: 3px 10px; border-radius: 12px; font-size: 0.72rem; color: #999; margin-left: 8px;">${show.popularity.emoji} ${show.popularity.label}${show.popularity.appearances > 0 ? ' · seen ' + show.popularity.appearances + 'x' : ''}</span>`
                     : '';
@@ -490,6 +496,7 @@
                                 </div>
                             </div>
                             <div class="show-actions">
+                                ${infoLink}
                                 <a href="${getChatGPTLink(show.name)}" target="_blank" class="btn btn-secondary">🤖 Ask AI about this show</a>
                             </div>
                         </div>

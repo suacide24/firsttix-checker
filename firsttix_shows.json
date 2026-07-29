@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-29T14:38:14 PT",
-  "last_successful_run": "2026-07-29T14:38:14 PT",
+  "last_updated": "2026-07-29T15:08:32 PT",
+  "last_successful_run": "2026-07-29T15:08:32 PT",
   "count": 18,
   "shows": [
     {
@@ -48,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
-      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
-    },
-    {
-      "source": "1stTix",
       "name": "Beatles vs. Stones \u2013 A Musical Showdown",
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
@@ -87,6 +73,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketweb.com/event/alt-80s-takeover-u2-gaslamp-long-beach-tickets/14160434?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
+      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 11,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
     },
     {
       "source": "1stTix",

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-29T16:09:02 PT",
-  "last_successful_run": "2026-07-29T16:09:02 PT",
+  "last_updated": "2026-07-29T16:39:16 PT",
+  "last_successful_run": "2026-07-29T16:39:16 PT",
   "count": 18,
   "shows": [
     {
@@ -48,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
-      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
-    },
-    {
-      "source": "1stTix",
       "name": "U2, the Cure, INXS and Morrissey Tributes",
       "date": "Sat, 1 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
@@ -87,6 +73,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
+    },
+    {
+      "source": "1stTix",
+      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
+      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 11,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
     },
     {
       "source": "1stTix",

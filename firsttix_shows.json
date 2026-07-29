@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-29T10:30:58 PT",
-  "last_successful_run": "2026-07-28T16:02:10 PT",
+  "last_updated": "2026-07-29T14:07:57 PT",
+  "last_successful_run": "2026-07-29T14:07:57 PT",
   "count": 17,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Wednesday Night Live",
-      "date": "Wed, 29 Jul '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643500",
-      "image": "https://ei-cdn.1sttix.org/preview643500_1784960403.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/wnl-2026-july29th8svjzghfkwctzw"
-    },
     {
       "source": "1stTix",
       "name": "El Rio Latin Music Pool Party: La Sonora Santanera Tributo a Carlos Colorado y La Gran Sonora Dinamita",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643979_1785192903.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643301_1784846101.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -48,17 +34,17 @@
     },
     {
       "source": "1stTix",
-      "name": "U2, the Cure, INXS and Morrissey Tributes",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
-      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
-      "rare": false,
+      "name": "Private Watch Party for Summerslam 2026 - Presented by Rising Star Entertainment Group",
+      "date": "Sat, 1 Aug '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643831",
+      "image": "https://ei-cdn.1sttix.org/preview643831_1785177566.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketweb.com/event/alt-80s-takeover-u2-gaslamp-long-beach-tickets/14160434?pl=gaslamp"
+      "info_url": "https://events.humanitix.com/wwe-summerslam-watch-party-tom-s-watch-bar"
     },
     {
       "source": "1stTix",
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -82,11 +68,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
+    },
+    {
+      "source": "1stTix",
+      "name": "U2, the Cure, INXS and Morrissey Tributes",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
+      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 11,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.ticketweb.com/event/alt-80s-takeover-u2-gaslamp-long-beach-tickets/14160434?pl=gaslamp"
     },
     {
       "source": "1stTix",
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643306_1784847302.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -118,31 +118,17 @@
     },
     {
       "source": "1stTix",
-      "name": "What If?",
+      "name": "SHINE: DJ SNEAK, Bertin, Cris Herrera, & Boys Don't Disco",
       "date": "Sun, 2 Aug '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643191",
-      "image": "https://ei-cdn.1sttix.org/preview643191_1784832603.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643849",
+      "image": "https://ei-cdn.1sttix.org/preview643849_1785179102.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://theconrad.org/events/what-if/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sarah McLachlan - Better Broken Tour",
-      "date": "Sun, 2 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643382",
-      "image": "https://ei-cdn.1sttix.org/preview-636958-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/sarah-mclachlan-better-broken-tour-san-diego-california-08-02-2026/event/0A0064474D8ABBF3"
+      "info_url": "https://www.eventbrite.com/e/1990519701009?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -152,11 +138,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/341743"
+    },
+    {
+      "source": "1stTix",
+      "name": "Atomic Groove Happy Hour",
+      "date": "Fri, 7 Aug '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643877",
+      "image": "https://ei-cdn.1sttix.org/preview643877_1785183003.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14919953?REFID=bupwebsite&pl=bellyup"
     },
     {
       "source": "1stTix",
@@ -166,9 +166,9 @@
       "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketmaster.com/emo-kids-san-diego-california-08-07-2026/event/0A0064D2FD4C547E"
     },
@@ -180,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -208,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -222,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -234,11 +234,11 @@
       "date": "Wed, 12 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642567",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-soccer/schedule"
     }

@@ -31,7 +31,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -950,7 +951,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|u2, the cure, inxs and morrissey tributes": {
@@ -966,7 +968,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|joyas prestadas - the jenni rivera tribute": {
@@ -982,7 +985,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|gio chamba": {
@@ -998,7 +1002,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|atomic groove happy hour": {
@@ -1010,7 +1015,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-29"
       ]
     },
     "1stTix|rio da yung og": {
@@ -1046,7 +1052,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|little river band": {
@@ -1091,7 +1098,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|thom tran & the comedy nerds": {
@@ -1118,7 +1126,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|aja monet | the color of rain": {
@@ -1127,7 +1136,8 @@
       "appearances": [
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|the cream of clapton band": {
@@ -1136,7 +1146,8 @@
       "appearances": [
         "2026-07-25",
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|comic con sunday night bar crawl": {
@@ -1151,7 +1162,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-26",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|wednesday night live": {
@@ -1165,7 +1177,8 @@
       "name": "El Rio Latin Music Pool Party: La Sonora Santanera Tributo a Carlos Colorado y La Gran Sonora Dinamita",
       "source": "1stTix",
       "appearances": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "1stTix|what if?": {
@@ -1180,6 +1193,20 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-28"
+      ]
+    },
+    "1stTix|private watch party for summerslam 2026 - presented by rising star entertainment group": {
+      "name": "Private Watch Party for Summerslam 2026 - Presented by Rising Star Entertainment Group",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-29"
+      ]
+    },
+    "1stTix|shine: dj sneak, bertin, cris herrera, & boys don't disco": {
+      "name": "SHINE: DJ SNEAK, Bertin, Cris Herrera, & Boys Don't Disco",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-29"
       ]
     }
   }

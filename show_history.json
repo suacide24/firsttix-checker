@@ -32,7 +32,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -952,7 +953,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|u2, the cure, inxs and morrissey tributes": {
@@ -969,7 +971,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|joyas prestadas - the jenni rivera tribute": {
@@ -986,7 +989,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|gio chamba": {
@@ -1003,7 +1007,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|atomic groove happy hour": {
@@ -1016,7 +1021,8 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|rio da yung og": {
@@ -1030,7 +1036,8 @@
         "2026-07-22",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-26"
+        "2026-07-26",
+        "2026-07-30"
       ]
     },
     "1stTix|les mis\u00e9rables": {
@@ -1053,7 +1060,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|little river band": {
@@ -1079,7 +1087,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-30"
       ]
     },
     "1stTix|led presents wes mills": {
@@ -1099,7 +1108,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|thom tran & the comedy nerds": {
@@ -1127,7 +1137,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|aja monet | the color of rain": {
@@ -1147,7 +1158,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|comic con sunday night bar crawl": {
@@ -1163,7 +1175,8 @@
       "appearances": [
         "2026-07-26",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|wednesday night live": {
@@ -1199,14 +1212,30 @@
       "name": "Private Watch Party for Summerslam 2026 - Presented by Rising Star Entertainment Group",
       "source": "1stTix",
       "appearances": [
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "1stTix|shine: dj sneak, bertin, cris herrera, & boys don't disco": {
       "name": "SHINE: DJ SNEAK, Bertin, Cris Herrera, & Boys Don't Disco",
       "source": "1stTix",
       "appearances": [
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
+      ]
+    },
+    "1stTix|reggae circus dub fest": {
+      "name": "Reggae Circus Dub Fest",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-30"
+      ]
+    },
+    "1stTix|country summer bash- morgan wallen, chris stapleton, and miranda lambert tributes": {
+      "name": "Country Summer Bash- Morgan Wallen, Chris Stapleton, and Miranda Lambert Tributes",
+      "source": "1stTix",
+      "appearances": [
+        "2026-07-30"
       ]
     }
   }

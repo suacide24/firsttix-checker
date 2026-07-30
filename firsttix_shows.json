@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-07-29T19:41:32 PT",
-  "last_successful_run": "2026-07-29T16:39:16 PT",
-  "count": 18,
+  "last_updated": "2026-07-30T13:01:14 PT",
+  "last_successful_run": "2026-07-30T13:01:14 PT",
+  "count": 20,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "El Rio Latin Music Pool Party: La Sonora Santanera Tributo a Carlos Colorado y La Gran Sonora Dinamita",
-      "date": "Thu, 30 Jul '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643979",
-      "image": "https://ei-cdn.1sttix.org/preview643979_1785192903.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.sycuan.com/event/el-rio-la-sonora-santanera-8pm-thursday-july-30-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "aja monet | the color of rain",
-      "date": "Thu, 30 Jul '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643301",
-      "image": "https://ei-cdn.1sttix.org/preview643301_1784846101.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://artpower.ucsd.edu/event/aja-monet-the-color-of-rain/"
-    },
     {
       "source": "1stTix",
       "name": "Private Watch Party for Summerslam 2026 - Presented by Rising Star Entertainment Group",
@@ -40,11 +12,25 @@
       "image": "https://ei-cdn.1sttix.org/preview643831_1785177566.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://events.humanitix.com/wwe-summerslam-watch-party-tom-s-watch-bar"
+    },
+    {
+      "source": "1stTix",
+      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
+      "date": "Sat, 1 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
+      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
     },
     {
       "source": "1stTix",
@@ -54,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -68,25 +54,11 @@
       "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
-    },
-    {
-      "source": "1stTix",
-      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
-      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
     },
     {
       "source": "1stTix",
@@ -96,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643306_1784847302.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -124,11 +96,25 @@
       "image": "https://ei-cdn.1sttix.org/preview643849_1785179102.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.eventbrite.com/e/1990519701009?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
+      "name": "Rio Da Yung OG",
+      "date": "Mon, 3 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/639998",
+      "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 9,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://musicboxsd.com/event/14884533/rio-da-yung-og-the-world-is-m-i-n-e-tour/"
     },
     {
       "source": "1stTix",
@@ -152,9 +138,9 @@
       "image": "https://ei-cdn.1sttix.org/preview643877_1785183003.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14919953?REFID=bupwebsite&pl=bellyup"
     },
@@ -166,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -180,11 +166,25 @@
       "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/depeche-mode-new-order-gaslamp-long-beach-tickets/14160314?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "House of Funk",
+      "date": "Sat, 8 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640000",
+      "image": "https://ei-cdn.1sttix.org/preview640000_1783535703.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://musicboxsd.com/event/14199014/house-of-funk/"
     },
     {
       "source": "1stTix",
@@ -194,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -236,11 +236,39 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-soccer/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Reggae Circus Dub Fest",
+      "date": "Thu, 13 Aug '26 7:00 AM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640005",
+      "image": "https://ei-cdn.1sttix.org/preview640005_1783536003.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14224024/reggae-circus-dub-fest-with-e-n-young/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Country Summer Bash- Morgan Wallen, Chris Stapleton, and Miranda Lambert Tributes",
+      "date": "Sat, 15 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642176",
+      "image": "https://ei-cdn.1sttix.org/preview642176_1784648406.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/country-summer-bash-with-morgan-gaslamp-long-beach-tickets/14981643?pl=gaslamp"
     },
     {
       "source": "1stTix",

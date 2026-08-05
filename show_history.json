@@ -1,12 +1,5 @@
 {
   "shows": {
-    "1stTix|the comedy store": {
-      "name": "The Comedy Store",
-      "source": "1stTix",
-      "appearances": [
-        "2026-05-06"
-      ]
-    },
     "1stTix|mic drop comedy": {
       "name": "Mic Drop Comedy",
       "source": "1stTix",
@@ -39,7 +32,6 @@
       "name": "Gaslamp Downtown Bar Crawl",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08",
         "2026-06-04"
@@ -49,7 +41,6 @@
       "name": "Gaslamp Experience Party Pass",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08",
         "2026-06-04"
@@ -59,7 +50,6 @@
       "name": "San Diego Strike Force - IFL vs Northern Arizona Wranglers",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -104,7 +94,6 @@
       "name": "San Diego Wave FC - NWSL vs Orlando Pride",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -113,7 +102,6 @@
       "name": "Moonshine Bandits",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -122,7 +110,6 @@
       "name": "EPIC DAYFEST: Presents: DUBVISION & BEBI",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -131,7 +118,6 @@
       "name": "Meghan Patrick",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07"
       ]
     },
@@ -139,7 +125,6 @@
       "name": "Prokofiev's Fifth Symphony",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07"
       ]
     },
@@ -147,7 +132,6 @@
       "name": "Fleetwood Mac Tribute Twisted Gypsy with Special Guest The Pretenders Tribute Contenders",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -156,7 +140,6 @@
       "name": "Mendelssohn's ",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08",
         "2026-05-11"
@@ -166,7 +149,6 @@
       "name": "Red Hot Cholo Peppers with Blink-180 True and Everything Zen",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -175,7 +157,6 @@
       "name": "Hilariously Discharged",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08",
         "2026-05-11",
@@ -202,18 +183,10 @@
         "2026-06-04"
       ]
     },
-    "1stTix|mj": {
-      "name": "Mj",
-      "source": "1stTix",
-      "appearances": [
-        "2026-05-06"
-      ]
-    },
     "1stTix|grace helbig - let me get this off my chest": {
       "name": "Grace Helbig - Let Me Get This Off My Chest",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08"
       ]
@@ -222,7 +195,6 @@
       "name": "CYRIL NEVILLE, the Uptown Ruler",
       "source": "1stTix",
       "appearances": [
-        "2026-05-06",
         "2026-05-07",
         "2026-05-08",
         "2026-05-11"

@@ -1,260 +1,64 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-13T13:22:17 PT",
-  "last_successful_run": "2026-07-30T13:01:14 PT",
-  "count": 20,
+  "last_updated": "2026-08-13T15:13:31 PT",
+  "last_successful_run": "2026-08-13T15:13:31 PT",
+  "count": 34,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Private Watch Party for Summerslam 2026 - Presented by Rising Star Entertainment Group",
-      "date": "Sat, 1 Aug '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643831",
-      "image": "https://ei-cdn.1sttix.org/preview643831_1785177566.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.humanitix.com/wwe-summerslam-watch-party-tom-s-watch-bar"
-    },
-    {
-      "source": "1stTix",
-      "name": "Beatles vs. Stones \u2013 A Musical Showdown",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/634002",
-      "image": "https://ei-cdn.1sttix.org/preview634002_1780931702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ramonamainstage.com/beatles-vs-stones/"
-    },
-    {
-      "source": "1stTix",
-      "name": "U2, the Cure, INXS and Morrissey Tributes",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635322",
-      "image": "https://ei-cdn.1sttix.org/preview635322_1781540631.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketweb.com/event/alt-80s-takeover-u2-gaslamp-long-beach-tickets/14160434?pl=gaslamp"
-    },
-    {
-      "source": "1stTix",
-      "name": "Joyas Prestadas - The Jenni Rivera Tribute",
-      "date": "Sat, 1 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/638644",
-      "image": "https://ei-cdn.1sttix.org/preview-638644-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketmaster.com/joyas-prestadas-the-jenni-rivera-tribute-san-diego-california-08-01-2026/event/0A0064D2B452ACFC"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Cream of Clapton Band",
-      "date": "Sat, 1 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643306",
-      "image": "https://ei-cdn.1sttix.org/preview643306_1784847302.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://artpower.ucsd.edu/event/the-cream-of-clapton-band-2026/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Gio Chamba",
-      "date": "Sun, 2 Aug '26 1:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639877",
-      "image": "https://ei-cdn.1sttix.org/preview639877_1783531744.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/gio-chamba/"
-    },
-    {
-      "source": "1stTix",
-      "name": "SHINE: DJ SNEAK, Bertin, Cris Herrera, & Boys Don't Disco",
-      "date": "Sun, 2 Aug '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643849",
-      "image": "https://ei-cdn.1sttix.org/preview643849_1785179102.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/1990519701009?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "Rio Da Yung OG",
-      "date": "Mon, 3 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/639998",
-      "image": "https://ei-cdn.1sttix.org/preview639998_1783535702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://musicboxsd.com/event/14884533/rio-da-yung-og-the-world-is-m-i-n-e-tour/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Tue, 4 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641162",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/341743"
-    },
-    {
-      "source": "1stTix",
-      "name": "Atomic Groove Happy Hour",
-      "date": "Fri, 7 Aug '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643877",
-      "image": "https://ei-cdn.1sttix.org/preview643877_1785183003.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14919953?REFID=bupwebsite&pl=bellyup"
-    },
-    {
-      "source": "1stTix",
-      "name": "Emo Kids",
-      "date": "Fri, 7 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641283",
-      "image": "https://ei-cdn.1sttix.org/preview-598621-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketmaster.com/emo-kids-san-diego-california-08-07-2026/event/0A0064D2FD4C547E"
-    },
-    {
-      "source": "1stTix",
-      "name": "Depeche Mode + New Order + Yaz + Erasure Tributes",
-      "date": "Sat, 8 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/635323",
-      "image": "https://ei-cdn.1sttix.org/preview635323_1781538905.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/depeche-mode-new-order-gaslamp-long-beach-tickets/14160314?pl=gaslamp"
-    },
-    {
-      "source": "1stTix",
-      "name": "House of Funk",
-      "date": "Sat, 8 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640000",
-      "image": "https://ei-cdn.1sttix.org/preview640000_1783535703.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://musicboxsd.com/event/14199014/house-of-funk/"
-    },
-    {
-      "source": "1stTix",
-      "name": "O.A.R. Three Decades Tour",
-      "date": "Sun, 9 Aug '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641506",
-      "image": "https://ei-cdn.1sttix.org/preview-641431-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/oar-three-decades-tour-san-diego-california-08-09-2026/event/0A006358CF387F67"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Tue, 11 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641163",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/377761"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 12 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641164",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/363446"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Soccer vs Cal State Fullerton Titans",
-      "date": "Wed, 12 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642567",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-soccer/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Reggae Circus Dub Fest",
-      "date": "Thu, 13 Aug '26 7:00 AM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640005",
-      "image": "https://ei-cdn.1sttix.org/preview640005_1783536003.jpg",
+      "name": "Ni Mi Madre",
+      "date": "Thu, 13 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646722",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://musicboxsd.com/event/14224024/reggae-circus-dub-fest-with-e-n-young/"
+      "info_url": "https://www.diversionary.org/madre"
+    },
+    {
+      "source": "1stTix",
+      "name": "RAS KASS, Layne Tadesse, Luam & The Organikz, Tony Dee 9",
+      "date": "Thu, 13 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647386",
+      "image": "https://ei-cdn.1sttix.org/preview647386_1786466877.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/the-voices-of-cape-coast-castle-ras-kass-layne-tadesse-luam-the-organikz-tony-dee-9/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Out of the Shadows",
+      "date": "Fri, 14 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647228",
+      "image": "https://ei-cdn.1sttix.org/preview647228_1786390203.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theconrad.org/events/out-of-the-shadows/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Toxicity: A Tribute to System of a Down",
+      "date": "Sat, 15 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641285",
+      "image": "https://ei-cdn.1sttix.org/preview-641285-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/toxicity-a-tribute-to-system-of-san-diego-california-08-15-2026/event/0A0064DAC66FC40A"
     },
     {
       "source": "1stTix",
@@ -264,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642176_1784648406.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -272,17 +76,401 @@
     },
     {
       "source": "1stTix",
+      "name": "Ni Mi Madre",
+      "date": "Sat, 15 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.diversionary.org/madre"
+    },
+    {
+      "source": "1stTix",
+      "name": "Blink 18True (Blink 182 Tribute)",
+      "date": "Sat, 15 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647387",
+      "image": "https://ei-cdn.1sttix.org/preview647387_1786472728.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/blink18true/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jorge Medina - Legendario Tour",
+      "date": "Sat, 15 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640581",
+      "image": "https://ei-cdn.1sttix.org/preview-640581-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/jorge-medina-legendario-tour-san-diego-california-08-15-2026/event/0A0064C20F280E54"
+    },
+    {
+      "source": "1stTix",
+      "name": "Common Sense w/ Hazmatt, No Good Reason",
+      "date": "Sat, 15 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646003",
+      "image": "https://ei-cdn.1sttix.org/preview646003_1785874203.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/common-sense-hazmatt-no-good-belly-up-tickets/14759033?REFID=bupwebsite&pl=bellyup"
+    },
+    {
+      "source": "1stTix",
+      "name": "Ni Mi Madre",
+      "date": "Sun, 16 Aug '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646733",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.diversionary.org/madre"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jason Aldean & Luke Bryan: Double Down Tour 2026 ",
+      "date": "Sun, 16 Aug '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643335",
+      "image": "https://ei-cdn.1sttix.org/preview-637669-tm.",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/jason-aldean-luke-bryan-double-down-san-diego-california-08-16-2026/event/0A00649BD81D60FA"
+    },
+    {
+      "source": "1stTix",
+      "name": "Smooth Operator - A Tribute to Sade",
+      "date": "Sun, 16 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640012",
+      "image": "https://ei-cdn.1sttix.org/preview640012_1783536602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14949193/smooth-operator-a-tribute-to-sade/"
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 16 Aug '26 8:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641166",
+      "date": "Tue, 18 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641167",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/364447"
+      "info_url": "https://www.micdropcomedysandiego.com/shows/377769"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 19 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641168",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/366187"
+    },
+    {
+      "source": "1stTix",
+      "name": "Duane Betts & Palmetto Motel",
+      "date": "Wed, 19 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640016",
+      "image": "https://ei-cdn.1sttix.org/preview640016_1783536603.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14845823/duane-betts-palmetto-motel-anna-ballew/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Elote - Tribute to Korn",
+      "date": "Fri, 21 Aug '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641284",
+      "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Nitefreak with Corkidi",
+      "date": "Fri, 21 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642140",
+      "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-nitefreak-spin-nightclub-2026"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
+    },
+    {
+      "source": "1stTix",
+      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
+      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
+    },
+    {
+      "source": "1stTix",
+      "name": "Classic Journey Tribute",
+      "date": "Sat, 22 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
+      "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/classic-journey/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641171",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362636"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Men's Soccer vs Liberty Flames",
+      "date": "Sun, 23 Aug '26",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642562",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/mens-soccer/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Soccer vs California Golden Bears",
+      "date": "Sun, 23 Aug '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642568",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-soccer/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 23 Aug '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641173",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 26 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641174",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/378893"
+    },
+    {
+      "source": "1stTix",
+      "name": "Stanford Cardinal - NCAA Men's Soccer vs San Diego Toreros",
+      "date": "Thu, 27 Aug '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643446",
+      "image": "https://ei-cdn.1sttix.org/preview291012_1636134949.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://gostanford.com/sports/mens-soccer/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
+      "date": "Fri, 28 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
+      "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Borgore",
+      "date": "Fri, 28 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642141",
+      "image": "https://ei-cdn.1sttix.org/preview642141_1784594402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
+      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Steve Knight backed by TJ Roots Collective",
+      "date": "Sat, 29 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647388",
+      "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "YACHT ROCK PARTY with THE WINDBREAKERS",
+      "date": "Sat, 29 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642178",
+      "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents BIJOU",
+      "date": "Sat, 29 Aug '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642142",
+      "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 30 Aug '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641176",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
     }
   ]
 }

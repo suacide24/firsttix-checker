@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-13T15:13:31 PT",
-  "last_successful_run": "2026-08-13T15:13:31 PT",
-  "count": 34,
+  "last_updated": "2026-08-13T16:37:42 PT",
+  "last_successful_run": "2026-08-13T16:37:42 PT",
+  "count": 35,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Ni Mi Madre",
-      "date": "Thu, 13 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646722",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.diversionary.org/madre"
-    },
     {
       "source": "1stTix",
       "name": "RAS KASS, Layne Tadesse, Luam & The Organikz, Tony Dee 9",
@@ -45,6 +31,34 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theconrad.org/events/out-of-the-shadows/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Layton Giordani",
+      "date": "Sat, 15 Aug '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647650",
+      "image": "https://ei-cdn.1sttix.org/preview647650_1786546884.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-layton-giordani-soap-factory-2026"
+    },
+    {
+      "source": "1stTix",
+      "name": "Ni Mi Madre",
+      "date": "Sat, 15 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.diversionary.org/madre"
     },
     {
       "source": "1stTix",
@@ -76,17 +90,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Ni Mi Madre",
+      "name": "SoCal Pro Wrestling Presents: HEAT WAVE!",
       "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645371",
+      "image": "https://ei-cdn.1sttix.org/preview645371_1785529962.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.diversionary.org/madre"
+      "info_url": "http://socalprowrestling.com/heatwave/"
     },
     {
       "source": "1stTix",
@@ -379,7 +393,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
     },
     {
       "source": "1stTix",
@@ -392,20 +407,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
-    },
-    {
-      "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
     },
     {
       "source": "1stTix",
@@ -418,7 +421,22 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -431,7 +449,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://theholdingcompanyob.com/show/ghetto-roots-ras-tone-presents-steve-knight/"
     },
     {
       "source": "1stTix",
@@ -444,7 +463,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/yacht-rock-party-with-the-gaslamp-long-beach-tickets/14164434?pl=gaslamp"
     },
     {
       "source": "1stTix",
@@ -457,7 +477,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-bijou-eq-2026"
     },
     {
       "source": "1stTix",
@@ -470,7 +491,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/374406"
     }
   ]
 }

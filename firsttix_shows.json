@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-13T16:37:42 PT",
-  "last_successful_run": "2026-08-13T16:37:42 PT",
-  "count": 35,
+  "last_updated": "2026-08-13T17:07:57 PT",
+  "last_successful_run": "2026-08-13T17:07:57 PT",
+  "count": 30,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "RAS KASS, Layne Tadesse, Luam & The Organikz, Tony Dee 9",
-      "date": "Thu, 13 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647386",
-      "image": "https://ei-cdn.1sttix.org/preview647386_1786466877.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/the-voices-of-cape-coast-castle-ras-kass-layne-tadesse-luam-the-organikz-tony-dee-9/"
-    },
     {
       "source": "1stTix",
       "name": "Out of the Shadows",
@@ -48,17 +34,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Ni Mi Madre",
+      "name": "SoCal Pro Wrestling Presents: HEAT WAVE!",
       "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645371",
+      "image": "https://ei-cdn.1sttix.org/preview645371_1785529962.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.diversionary.org/madre"
+      "info_url": "http://socalprowrestling.com/heatwave/"
     },
     {
       "source": "1stTix",
@@ -90,17 +76,17 @@
     },
     {
       "source": "1stTix",
-      "name": "SoCal Pro Wrestling Presents: HEAT WAVE!",
+      "name": "Ni Mi Madre",
       "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645371",
-      "image": "https://ei-cdn.1sttix.org/preview645371_1785529962.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "http://socalprowrestling.com/heatwave/"
+      "info_url": "https://www.diversionary.org/madre"
     },
     {
       "source": "1stTix",
@@ -314,34 +300,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Men's Soccer vs Liberty Flames",
-      "date": "Sun, 23 Aug '26",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642562",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/mens-soccer/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Soccer vs California Golden Bears",
-      "date": "Sun, 23 Aug '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642568",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-soccer/schedule"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sun, 23 Aug '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641173",
@@ -370,20 +328,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Stanford Cardinal - NCAA Men's Soccer vs San Diego Toreros",
-      "date": "Thu, 27 Aug '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643446",
-      "image": "https://ei-cdn.1sttix.org/preview291012_1636134949.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://gostanford.com/sports/mens-soccer/schedule"
-    },
-    {
-      "source": "1stTix",
       "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
       "date": "Fri, 28 Aug '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
@@ -409,20 +353,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
-      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",

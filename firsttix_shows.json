@@ -1,50 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-14T20:51:33 PT",
-  "last_successful_run": "2026-08-13T17:07:57 PT",
-  "count": 30,
+  "last_updated": "2026-08-15T09:44:28 PT",
+  "last_successful_run": "2026-08-15T09:44:28 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Out of the Shadows",
-      "date": "Fri, 14 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647228",
-      "image": "https://ei-cdn.1sttix.org/preview647228_1786390203.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theconrad.org/events/out-of-the-shadows/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Layton Giordani",
-      "date": "Sat, 15 Aug '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647650",
-      "image": "https://ei-cdn.1sttix.org/preview647650_1786546884.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-layton-giordani-soap-factory-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "SoCal Pro Wrestling Presents: HEAT WAVE!",
+      "name": "Ni Mi Madre",
       "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645371",
-      "image": "https://ei-cdn.1sttix.org/preview645371_1785529962.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "http://socalprowrestling.com/heatwave/"
+      "ai_description": "A comedic exploration of motherhood through personal stories and cultural experiences \u2014 \u2b50 4/5.",
+      "info_url": "https://www.diversionary.org/madre"
     },
     {
       "source": "1stTix",
@@ -58,21 +31,68 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
+      "ai_description": "A live tribute band celebrating the music of System of a Down \u2014 \u2b50 4/5.",
       "info_url": "https://www.ticketmaster.com/toxicity-a-tribute-to-system-of-san-diego-california-08-15-2026/event/0A0064DAC66FC40A"
     },
     {
       "source": "1stTix",
-      "name": "Country Summer Bash- Morgan Wallen, Chris Stapleton, and Miranda Lambert Tributes",
-      "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642176",
-      "image": "https://ei-cdn.1sttix.org/preview642176_1784648406.jpg",
+      "name": "LAFC - MLS vs San Diego FC",
+      "date": "Sat, 15 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648294",
+      "image": "https://ei-cdn.1sttix.org/preview648294_1786674902.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketweb.com/event/country-summer-bash-with-morgan-gaslamp-long-beach-tickets/14981643?pl=gaslamp"
+      "ai_description": "A live soccer match between LAFC and San Diego FC in the MLS. \u2014 \u2b50 4/5",
+      "info_url": "https://am.ticketmaster.com/lafc"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jorge Medina - Legendario Tour",
+      "date": "Sat, 15 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640581",
+      "image": "https://ei-cdn.1sttix.org/preview-640581-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A concert featuring Jorge Medina performing popular songs from his career \u2014 \u2b50 4/5.",
+      "info_url": "https://www.ticketmaster.com/jorge-medina-legendario-tour-san-diego-california-08-15-2026/event/0A0064C20F280E54"
+    },
+    {
+      "source": "1stTix",
+      "name": "Ni Mi Madre",
+      "date": "Sun, 16 Aug '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646733",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "A comedic exploration of motherhood through personal stories and cultural experiences \u2014 \u2b50 4/5.",
+      "info_url": "https://www.diversionary.org/madre"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jason Aldean & Luke Bryan: Double Down Tour 2026 ",
+      "date": "Sun, 16 Aug '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643335",
+      "image": "https://ei-cdn.1sttix.org/preview-637669-tm.",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "Country music superstars Jason Aldean and Luke Bryan perform live in concert \u2014 \u2b50 4/5.",
+      "info_url": "https://www.ticketmaster.com/jason-aldean-luke-bryan-double-down-san-diego-california-08-16-2026/event/0A00649BD81D60FA"
     },
     {
       "source": "1stTix",
@@ -175,6 +195,21 @@
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
+      "date": "Sun, 16 Aug '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648261",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
+      "info_url": "https://www.micdropcomedysandiego.com/shows/364447"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
       "date": "Tue, 18 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641167",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
@@ -184,6 +219,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/377769"
     },
     {
@@ -198,6 +234,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/366187"
     },
     {
@@ -244,6 +281,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Billy Nation (Tribute to Billy Joel)",
+      "date": "Fri, 21 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646007",
+      "image": "https://ei-cdn.1sttix.org/preview646007_1785881071.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/billy-nation-never-die-young-belly-up-tickets/14739443?utm_medium=affiliate&irgwc=1&afsrc=1&clickid=xWJysYUcJxyZUkS3ACRyixREUkuSpPTdw07tRM0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&ircid=4272"
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 22 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
@@ -254,6 +305,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
     },
     {
@@ -296,6 +348,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/362636"
     },
     {
@@ -310,6 +363,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
     },
     {
@@ -324,6 +378,7 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/378893"
     },
     {
@@ -370,6 +425,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
+      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
       "name": "Steve Knight backed by TJ Roots Collective",
       "date": "Sat, 29 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647388",
@@ -407,8 +476,7 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-bijou-eq-2026"
+      }
     },
     {
       "source": "1stTix",
@@ -422,7 +490,20 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/374406"
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+    },
+    {
+      "source": "1stTix",
+      "name": "DJ CHEN presents K-WAVE: A K-pop Party Experience",
+      "date": "Sun, 30 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647389",
+      "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     }
   ]
 }

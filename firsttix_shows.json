@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-15T09:44:28 PT",
-  "last_successful_run": "2026-08-15T09:44:28 PT",
+  "last_updated": "2026-08-15T10:00:26 PT",
+  "last_successful_run": "2026-08-15T10:00:26 PT",
   "count": 28,
   "shows": [
     {
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -96,104 +96,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Ni Mi Madre",
-      "date": "Sat, 15 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646732",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.diversionary.org/madre"
-    },
-    {
-      "source": "1stTix",
-      "name": "Blink 18True (Blink 182 Tribute)",
-      "date": "Sat, 15 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647387",
-      "image": "https://ei-cdn.1sttix.org/preview647387_1786472728.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/blink18true/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jorge Medina - Legendario Tour",
-      "date": "Sat, 15 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640581",
-      "image": "https://ei-cdn.1sttix.org/preview-640581-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/jorge-medina-legendario-tour-san-diego-california-08-15-2026/event/0A0064C20F280E54"
-    },
-    {
-      "source": "1stTix",
-      "name": "Common Sense w/ Hazmatt, No Good Reason",
-      "date": "Sat, 15 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646003",
-      "image": "https://ei-cdn.1sttix.org/preview646003_1785874203.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketweb.com/event/common-sense-hazmatt-no-good-belly-up-tickets/14759033?REFID=bupwebsite&pl=bellyup"
-    },
-    {
-      "source": "1stTix",
-      "name": "Ni Mi Madre",
-      "date": "Sun, 16 Aug '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646733",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.diversionary.org/madre"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jason Aldean & Luke Bryan: Double Down Tour 2026 ",
-      "date": "Sun, 16 Aug '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643335",
-      "image": "https://ei-cdn.1sttix.org/preview-637669-tm.",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/jason-aldean-luke-bryan-double-down-san-diego-california-08-16-2026/event/0A00649BD81D60FA"
-    },
-    {
-      "source": "1stTix",
-      "name": "Smooth Operator - A Tribute to Sade",
-      "date": "Sun, 16 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640012",
-      "image": "https://ei-cdn.1sttix.org/preview640012_1783536602.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://musicboxsd.com/event/14949193/smooth-operator-a-tribute-to-sade/"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sun, 16 Aug '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648261",
@@ -249,6 +151,7 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
+      "ai_description": "Duane Betts & Palmetto Motel deliver soulful rock music in an intimate live setting \u2014 \u2b50 4/5.",
       "info_url": "https://musicboxsd.com/event/14845823/duane-betts-palmetto-motel-anna-ballew/"
     },
     {
@@ -263,6 +166,7 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
+      "ai_description": "A live tribute band honoring the music of Korn with energetic performances \u2014 \u2b50 4/5.",
       "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
     },
     {
@@ -277,6 +181,7 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
+      "ai_description": "An electrifying live music event featuring DJ performances by Nitefreak and Corkidi \u2014 \u2b50 4/5.",
       "info_url": "https://events.leapevents.com/event/led-presents-nitefreak-spin-nightclub-2026"
     },
     {
@@ -291,7 +196,23 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
+      "ai_description": "A tribute show celebrating the music and legacy of Billy Joel \u2014 \u2b50 4/5.",
       "info_url": "https://www.ticketweb.com/event/billy-nation-never-die-young-belly-up-tickets/14739443?utm_medium=affiliate&irgwc=1&afsrc=1&clickid=xWJysYUcJxyZUkS3ACRyixREUkuSpPTdw07tRM0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&ircid=4272"
+    },
+    {
+      "source": "1stTix",
+      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
+      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "ai_description": "An all-female tribute band to Iron Maiden performing alongside Ozzy and AC/DC tributes \u2014 \u2b50 4/5.",
+      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
     },
     {
       "source": "1stTix",
@@ -307,20 +228,6 @@
       },
       "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
       "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
-    },
-    {
-      "source": "1stTix",
-      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
-      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
     },
     {
       "source": "1stTix",
@@ -476,7 +383,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-bijou-eq-2026"
     },
     {
       "source": "1stTix",
@@ -490,7 +398,8 @@
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5."
+      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
+      "info_url": "https://www.micdropcomedysandiego.com/shows/374406"
     },
     {
       "source": "1stTix",
@@ -503,7 +412,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://theholdingcompanyob.com/show/dj-chen-presents-k-wave-a-k-pop-party-experience/"
     }
   ]
 }

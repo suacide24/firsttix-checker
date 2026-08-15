@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-15T10:00:26 PT",
-  "last_successful_run": "2026-08-15T10:00:26 PT",
-  "count": 28,
+  "last_updated": "2026-08-15T14:50:17 PT",
+  "last_successful_run": "2026-08-15T14:50:17 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -12,11 +12,10 @@
       "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A comedic exploration of motherhood through personal stories and cultural experiences \u2014 \u2b50 4/5.",
       "info_url": "https://www.diversionary.org/madre"
     },
     {
@@ -27,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-641285-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -46,7 +45,6 @@
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "ai_description": "A live soccer match between LAFC and San Diego FC in the MLS. \u2014 \u2b50 4/5",
       "info_url": "https://am.ticketmaster.com/lafc"
     },
     {
@@ -57,7 +55,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-640581-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -72,7 +70,7 @@
       "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -87,7 +85,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-637669-tm.",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -102,12 +100,10 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      },
-      "ai_description": "Stand-up comedy showcase featuring various comedians in San Diego \u2014 \u2b50 4/5.",
-      "info_url": "https://www.micdropcomedysandiego.com/shows/364447"
+      }
     },
     {
       "source": "1stTix",
@@ -117,7 +113,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -132,7 +128,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -147,7 +143,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640016_1783536603.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -162,12 +158,40 @@
       "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "ai_description": "A live tribute band honoring the music of Korn with energetic performances \u2014 \u2b50 4/5.",
       "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Midnight Pine",
+      "date": "Fri, 21 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
+      "image": "https://ei-cdn.1sttix.org/preview648211_1786653901.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14825583/the-midnight-pine-presents-buried-the-final-midnight-the-color-forty-nine-with-secret-special-guest/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Billy Nation (Tribute to Billy Joel)",
+      "date": "Fri, 21 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646007",
+      "image": "https://ei-cdn.1sttix.org/preview646007_1785881071.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/billy-nation-never-die-young-belly-up-tickets/14739443?utm_medium=affiliate&irgwc=1&afsrc=1&clickid=xWJysYUcJxyZUkS3ACRyixREUkuSpPTdw07tRM0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&ircid=4272"
     },
     {
       "source": "1stTix",
@@ -177,7 +201,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -192,9 +216,9 @@
       "image": "https://ei-cdn.1sttix.org/preview646007_1785881071.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 14,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "ai_description": "A tribute show celebrating the music and legacy of Billy Joel \u2014 \u2b50 4/5.",
       "info_url": "https://www.ticketweb.com/event/billy-nation-never-die-young-belly-up-tickets/14739443?utm_medium=affiliate&irgwc=1&afsrc=1&clickid=xWJysYUcJxyZUkS3ACRyixREUkuSpPTdw07tRM0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&ircid=4272"
@@ -207,7 +231,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -237,7 +261,7 @@
       "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -251,7 +275,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -266,7 +290,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -281,7 +305,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -296,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -310,11 +334,25 @@
       "image": "https://ei-cdn.1sttix.org/preview642141_1784594402.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
+    },
+    {
+      "source": "1stTix",
+      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
+      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",
@@ -324,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -352,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -366,7 +404,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -380,7 +418,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -394,7 +432,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -412,8 +450,7 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/dj-chen-presents-k-wave-a-k-pop-party-experience/"
+      }
     }
   ]
 }

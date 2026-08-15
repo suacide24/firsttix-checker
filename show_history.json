@@ -23,6 +23,7 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1002,6 +1003,7 @@
       "name": "Ni Mi Madre",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1023,6 +1025,7 @@
       "name": "Toxicity: A Tribute to System of a Down",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1037,6 +1040,7 @@
       "name": "Jorge Medina - Legendario Tour",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1051,6 +1055,7 @@
       "name": "Jason Aldean & Luke Bryan: Double Down Tour 2026 ",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1065,6 +1070,7 @@
       "name": "Duane Betts & Palmetto Motel",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1072,6 +1078,7 @@
       "name": "Elote - Tribute to Korn",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1079,6 +1086,7 @@
       "name": "LED presents Nitefreak with Corkidi",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1086,6 +1094,7 @@
       "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1093,6 +1102,7 @@
       "name": "Classic Journey Tribute",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1121,6 +1131,7 @@
       "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1128,6 +1139,7 @@
       "name": "LED presents Borgore",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1135,6 +1147,7 @@
       "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1142,6 +1155,7 @@
       "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1149,6 +1163,7 @@
       "name": "Steve Knight backed by TJ Roots Collective",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1156,6 +1171,7 @@
       "name": "YACHT ROCK PARTY with THE WINDBREAKERS",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1163,6 +1179,7 @@
       "name": "LED presents BIJOU",
       "source": "1stTix",
       "appearances": [
+        "2026-08-13",
         "2026-08-15"
       ]
     },
@@ -1182,6 +1199,13 @@
     },
     "1stTix|lafc - mls vs san diego fc": {
       "name": "LAFC - MLS vs San Diego FC",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-15"
+      ]
+    },
+    "1stTix|the midnight pine": {
+      "name": "The Midnight Pine",
       "source": "1stTix",
       "appearances": [
         "2026-08-15"

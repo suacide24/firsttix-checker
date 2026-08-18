@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-18T15:46:45 PT",
-  "last_successful_run": "2026-08-18T15:46:45 PT",
-  "count": 30,
+  "last_updated": "2026-08-18T16:17:02 PT",
+  "last_successful_run": "2026-08-18T16:17:02 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -90,20 +90,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Billy Nation (Tribute to Billy Joel)",
-      "date": "Fri, 21 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646007",
-      "image": "https://ei-cdn.1sttix.org/preview646007_1785881071.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketweb.com/event/billy-nation-never-die-young-belly-up-tickets/14739443?utm_medium=affiliate&irgwc=1&afsrc=1&clickid=xWJysYUcJxyZUkS3ACRyixREUkuSpPTdw07tRM0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&ircid=4272"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Fri, 21 Aug '26 10:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649002",
@@ -115,20 +101,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/382273"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
     },
     {
       "source": "1stTix",
@@ -146,17 +118,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Classic Journey Tribute",
-      "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
-      "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
-      "info_url": "https://ramonamainstage.com/classic-journey/"
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
     },
     {
       "source": "1stTix",
@@ -171,6 +143,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.cityballet.org"
+    },
+    {
+      "source": "1stTix",
+      "name": "Classic Journey Tribute",
+      "date": "Sat, 22 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
+      "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://ramonamainstage.com/classic-journey/"
     },
     {
       "source": "1stTix",

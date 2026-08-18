@@ -24,7 +24,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -1071,7 +1072,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|elote - tribute to korn": {
@@ -1079,7 +1081,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|led presents nitefreak with corkidi": {
@@ -1087,7 +1090,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|the iron maidens with special guests ozzmania + dirty deeds + metal health": {
@@ -1095,7 +1099,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|classic journey tribute": {
@@ -1103,7 +1108,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|san diego toreros - ncaa men's soccer vs liberty flames": {
@@ -1132,7 +1138,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|led presents borgore": {
@@ -1140,7 +1147,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|california golden bears - ncaa women's volleyball vs uc san diego tritons": {
@@ -1148,7 +1156,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|buenavista social club tribute feat. arp w emy castro": {
@@ -1156,7 +1165,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|steve knight backed by tj roots collective": {
@@ -1164,7 +1174,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|yacht rock party with the windbreakers": {
@@ -1172,7 +1183,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|led presents bijou": {
@@ -1180,7 +1192,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-13",
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|layton giordani": {
@@ -1208,21 +1221,66 @@
       "name": "The Midnight Pine",
       "source": "1stTix",
       "appearances": [
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|billy nation (tribute to billy joel)": {
       "name": "Billy Nation (Tribute to Billy Joel)",
       "source": "1stTix",
       "appearances": [
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
       ]
     },
     "1stTix|dj chen presents k-wave: a k-pop party experience": {
       "name": "DJ CHEN presents K-WAVE: A K-pop Party Experience",
       "source": "1stTix",
       "appearances": [
-        "2026-08-15"
+        "2026-08-15",
+        "2026-08-18"
+      ]
+    },
+    "1stTix|serenade": {
+      "name": "Serenade",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
+      ]
+    },
+    "1stTix|the family album": {
+      "name": "The Family Album",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
+      ]
+    },
+    "1stTix|the staples - chris stapleton tribute, w/ cody carter": {
+      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs southern methodist university mustangs": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
+      ]
+    },
+    "1stTix|smells like nirvana": {
+      "name": "Smells Like Nirvana",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
+      ]
+    },
+    "1stTix|sunset boulevard: a hollywood ballopera": {
+      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-18"
       ]
     }
   }

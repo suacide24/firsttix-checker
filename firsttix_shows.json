@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-18T16:17:02 PT",
-  "last_successful_run": "2026-08-18T16:17:02 PT",
-  "count": 29,
+  "last_updated": "2026-08-18T16:47:17 PT",
+  "last_successful_run": "2026-08-18T16:47:17 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -255,20 +255,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",

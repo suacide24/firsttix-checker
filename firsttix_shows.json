@@ -1,36 +1,22 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-19T09:23:18 PT",
-  "last_successful_run": "2026-08-18T17:17:36 PT",
+  "last_updated": "2026-08-19T14:32:52 PT",
+  "last_successful_run": "2026-08-19T14:32:52 PT",
   "count": 33,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 19 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641168",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/366187"
-    },
-    {
-      "source": "1stTix",
-      "name": "Duane Betts & Palmetto Motel",
-      "date": "Wed, 19 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640016",
-      "image": "https://ei-cdn.1sttix.org/preview640016_1783536603.jpg",
+      "name": "Ni Mi Madre",
+      "date": "Thu, 20 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649394",
+      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
       "rare": false,
       "popularity": {
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://musicboxsd.com/event/14845823/duane-betts-palmetto-motel-anna-ballew/"
+      "info_url": "https://www.diversionary.org/madre"
     },
     {
       "source": "1stTix",
@@ -54,11 +40,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
+    },
+    {
+      "source": "1stTix",
+      "name": "SummerFest at 40!",
+      "date": "Fri, 21 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648731",
+      "image": "https://ei-cdn.1sttix.org/preview648731_1786996157.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theconrad.org/events/summerfest-at-40/"
     },
     {
       "source": "1stTix",
@@ -68,25 +68,11 @@
       "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Midnight Pine",
-      "date": "Fri, 21 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
-      "image": "https://ei-cdn.1sttix.org/preview648211_1786653901.jpg",
-      "rare": true,
-      "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://musicboxsd.com/event/14825583/the-midnight-pine-presents-buried-the-final-midnight-the-color-forty-nine-with-secret-special-guest/"
+      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
     },
     {
       "source": "1stTix",
@@ -96,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -118,6 +104,20 @@
     },
     {
       "source": "1stTix",
+      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
+      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 22 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
@@ -132,31 +132,17 @@
     },
     {
       "source": "1stTix",
-      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
-      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
-      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Family Album",
-      "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648243",
-      "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
+      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
     },
     {
       "source": "1stTix",
@@ -166,25 +152,11 @@
       "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/classic-journey/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Serenade",
-      "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648432",
-      "image": "https://ei-cdn.1sttix.org/preview648432_1786737304.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.cityballet.org"
     },
     {
       "source": "1stTix",
@@ -222,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -241,6 +213,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 23 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649047",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/384185"
     },
     {
       "source": "1stTix",
@@ -264,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642141_1784594402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -292,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -320,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -334,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -348,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -374,11 +360,11 @@
       "date": "Sun, 30 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647389",
       "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/dj-chen-presents-k-wave-a-k-pop-party-experience/"
     },
@@ -390,7 +376,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -404,25 +390,11 @@
       "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
-      "date": "Fri, 4 Sep '26",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -432,7 +404,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -446,11 +418,25 @@
       "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -460,7 +446,21 @@
       "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: A Hollywood Ballopera",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
+      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },

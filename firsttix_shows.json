@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-19T16:07:42 PT",
-  "last_successful_run": "2026-08-19T16:07:42 PT",
+  "last_updated": "2026-08-19T16:48:50 PT",
+  "last_successful_run": "2026-08-19T16:48:50 PT",
   "count": 33,
   "shows": [
     {
@@ -73,6 +73,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Midnight Pine",
+      "date": "Fri, 21 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
+      "image": "https://ei-cdn.1sttix.org/preview648211_1786653901.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://musicboxsd.com/event/14825583/the-midnight-pine-presents-buried-the-final-midnight-the-color-forty-nine-with-secret-special-guest/"
     },
     {
       "source": "1stTix",
@@ -213,20 +227,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 23 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649047",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/384185"
     },
     {
       "source": "1stTix",

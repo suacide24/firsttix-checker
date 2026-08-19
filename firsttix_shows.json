@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-18T16:47:17 PT",
-  "last_successful_run": "2026-08-18T16:47:17 PT",
-  "count": 28,
+  "last_updated": "2026-08-18T17:17:36 PT",
+  "last_successful_run": "2026-08-18T17:17:36 PT",
+  "count": 33,
   "shows": [
     {
       "source": "1stTix",
@@ -62,6 +62,20 @@
     },
     {
       "source": "1stTix",
+      "name": "The Family Album",
+      "date": "Fri, 21 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648240",
+      "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
+    },
+    {
+      "source": "1stTix",
       "name": "The Midnight Pine",
       "date": "Fri, 21 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
@@ -104,20 +118,6 @@
     },
     {
       "source": "1stTix",
-      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
-      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 22 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
@@ -132,17 +132,31 @@
     },
     {
       "source": "1stTix",
-      "name": "Serenade",
+      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
+      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Family Album",
       "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648432",
-      "image": "https://ei-cdn.1sttix.org/preview648432_1786737304.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648243",
+      "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.cityballet.org"
+      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
     },
     {
       "source": "1stTix",
@@ -157,6 +171,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/classic-journey/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Serenade",
+      "date": "Sat, 22 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648432",
+      "image": "https://ei-cdn.1sttix.org/preview648432_1786737304.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.cityballet.org"
     },
     {
       "source": "1stTix",
@@ -258,6 +286,20 @@
     },
     {
       "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
+    },
+    {
+      "source": "1stTix",
       "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
       "date": "Sat, 29 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
@@ -342,6 +384,20 @@
     },
     {
       "source": "1stTix",
+      "name": "UC Davis Aggies - NCAA Women's Volleyball vs San Diego State Aztecs",
+      "date": "Thu, 3 Sep '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643949",
+      "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ucdavisaggies.com/sports/womens-volleyball"
+    },
+    {
+      "source": "1stTix",
       "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
@@ -367,6 +423,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Cal Poly Mustangs",
+      "date": "Fri, 4 Sep '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643950",
+      "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
     },
     {
       "source": "1stTix",

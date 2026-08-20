@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-19T23:25:21 PT",
-  "last_successful_run": "2026-08-19T23:25:21 PT",
-  "count": 32,
+  "last_updated": "2026-08-20T12:41:28 PT",
+  "last_successful_run": "2026-08-20T12:41:28 PT",
+  "count": 34,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Ni Mi Madre",
-      "date": "Thu, 20 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649394",
-      "image": "https://ei-cdn.1sttix.org/preview646722_1786053112.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.diversionary.org/madre"
-    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648731_1786996157.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648211_1786653901.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -132,27 +118,13 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
-    },
-    {
-      "source": "1stTix",
       "name": "Classic Journey Tribute",
       "date": "Sat, 22 Aug '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
       "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -192,11 +164,11 @@
       "date": "Sun, 23 Aug '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648244",
       "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
     },
@@ -230,6 +202,20 @@
     },
     {
       "source": "1stTix",
+      "name": "OMAR COURTZ - POR SI MA\u00d1ANA NO ESTOY USA TOUR",
+      "date": "Sun, 23 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649103",
+      "image": "https://ei-cdn.1sttix.org/preview-649103-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/omar-courtz-por-si-manana-no-san-diego-california-08-23-2026/event/0A00649E3CCDF809"
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Wed, 26 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641174",
@@ -250,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,11 +250,39 @@
       "image": "https://ei-cdn.1sttix.org/preview642141_1784594402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
+    },
+    {
+      "source": "1stTix",
+      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
+      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",
@@ -278,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -292,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -334,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -346,11 +360,11 @@
       "date": "Thu, 3 Sep '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643949",
       "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ucdavisaggies.com/sports/womens-volleyball"
     },
@@ -360,11 +374,11 @@
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
       "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
     },
@@ -374,11 +388,11 @@
       "date": "Fri, 4 Sep '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643950",
       "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
     },
@@ -388,11 +402,11 @@
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
       "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
     },
@@ -402,11 +416,11 @@
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -416,11 +430,11 @@
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
       "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
@@ -432,7 +446,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -440,15 +454,29 @@
     },
     {
       "source": "1stTix",
+      "name": "System of a Down and Rage Against the Machine Tributes",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
+      "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
+    },
+    {
+      "source": "1stTix",
       "name": "Sunset Boulevard: A Hollywood Ballopera",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     }

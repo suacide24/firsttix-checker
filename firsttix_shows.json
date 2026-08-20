@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-19T17:50:00 PT",
-  "last_successful_run": "2026-08-19T17:50:00 PT",
-  "count": 33,
+  "last_updated": "2026-08-19T19:48:58 PT",
+  "last_successful_run": "2026-08-19T19:48:58 PT",
+  "count": 32,
   "shows": [
     {
       "source": "1stTix",
@@ -62,20 +62,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Family Album",
-      "date": "Fri, 21 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648240",
-      "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
-    },
-    {
-      "source": "1stTix",
       "name": "The Midnight Pine",
       "date": "Fri, 21 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
@@ -118,20 +104,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
-    },
-    {
-      "source": "1stTix",
       "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
       "date": "Sat, 22 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
@@ -143,6 +115,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
     },
     {
       "source": "1stTix",
@@ -286,34 +272,6 @@
     },
     {
       "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
-    },
-    {
-      "source": "1stTix",
-      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
-      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://tickeri.io/si1bq4r4nf"
-    },
-    {
-      "source": "1stTix",
       "name": "Steve Knight backed by TJ Roots Collective",
       "date": "Sat, 29 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647388",
@@ -426,6 +384,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Smells Like Nirvana",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
+      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
@@ -451,6 +423,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Football vs UC Davis Aggies",
+      "date": "Sat, 5 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642558",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/football"
     },
     {
       "source": "1stTix",

@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-20T12:41:28 PT",
-  "last_successful_run": "2026-08-20T12:41:28 PT",
-  "count": 34,
+  "last_updated": "2026-08-21T06:43:35 PT",
+  "last_successful_run": "2026-08-21T06:43:35 PT",
+  "count": 36,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Thu, 20 Aug '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648994",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382283"
-    },
     {
       "source": "1stTix",
       "name": "Elote - Tribute to Korn",
@@ -26,39 +12,11 @@
       "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
-    },
-    {
-      "source": "1stTix",
-      "name": "SummerFest at 40!",
-      "date": "Fri, 21 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648731",
-      "image": "https://ei-cdn.1sttix.org/preview648731_1786996157.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theconrad.org/events/summerfest-at-40/"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Midnight Pine",
-      "date": "Fri, 21 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648211",
-      "image": "https://ei-cdn.1sttix.org/preview648211_1786653901.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://musicboxsd.com/event/14825583/the-midnight-pine-presents-buried-the-final-midnight-the-color-forty-nine-with-secret-special-guest/"
     },
     {
       "source": "1stTix",
@@ -68,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -90,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
-      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sat, 22 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
@@ -118,17 +62,72 @@
     },
     {
       "source": "1stTix",
+      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
+      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
+    },
+    {
+      "source": "1stTix",
+      "name": "A Double-Header Tribute to Rod Stewart & Peter Frampton",
+      "date": "Sat, 22 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649250",
+      "image": "https://ei-cdn.1sttix.org/preview649250_1787151428.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
+    },
+    {
+      "source": "1stTix",
       "name": "Classic Journey Tribute",
       "date": "Sat, 22 Aug '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
       "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/classic-journey/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Club 90s Presents:  MJ Night",
+      "date": "Sat, 22 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649225",
+      "image": "https://ei-cdn.1sttix.org/preview649225_1787091602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14991133/club-90s-presents-mj-night/"
     },
     {
       "source": "1stTix",
@@ -166,7 +165,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -185,6 +184,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 23 Aug '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649203",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/382275"
     },
     {
       "source": "1stTix",
@@ -208,7 +221,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-649103-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -230,45 +243,31 @@
     },
     {
       "source": "1stTix",
+      "name": "Tab Benoit - Soul of the Swamp Tour with special guest The Zac Schulze Gang",
+      "date": "Thu, 27 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648245",
+      "image": "https://ei-cdn.1sttix.org/preview648245_1786659904.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/tab-benoit-soul-belly-up-tickets/13992064"
+    },
+    {
+      "source": "1stTix",
       "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
       "date": "Fri, 28 Aug '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
-    },
-    {
-      "source": "1stTix",
-      "name": "LED presents Borgore",
-      "date": "Fri, 28 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642141",
-      "image": "https://ei-cdn.1sttix.org/preview642141_1784594402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-borgore-spin-nightclub-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -278,7 +277,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -292,7 +291,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +305,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -320,7 +319,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -348,7 +347,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -362,11 +361,24 @@
       "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ucdavisaggies.com/sports/womens-volleyball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Thu, 3 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649599",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
     },
     {
       "source": "1stTix",
@@ -376,7 +388,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -390,7 +402,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -404,7 +416,7 @@
       "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -418,7 +430,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -432,7 +444,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -444,13 +456,27 @@
       "date": "Sat, 5 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642558",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usdtoreros.com/sports/football"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jayo Felony",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649612",
+      "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://usdtoreros.com/sports/football"
+      "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
     },
     {
       "source": "1stTix",
@@ -460,7 +486,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -474,7 +500,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },

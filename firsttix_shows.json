@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-21T15:15:51 PT",
-  "last_successful_run": "2026-08-21T15:15:51 PT",
-  "count": 35,
+  "last_updated": "2026-08-21T16:27:52 PT",
+  "last_successful_run": "2026-08-21T16:27:52 PT",
+  "count": 34,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 21 Aug '26 10:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649002",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382273"
     },
     {
       "source": "1stTix",
@@ -62,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
-    },
-    {
-      "source": "1stTix",
       "name": "A Double-Header Tribute to Rod Stewart & Peter Frampton",
       "date": "Sat, 22 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649250",
@@ -87,6 +59,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.showpass.com/the-ultimate-rod-stewart-experience-forever-rod/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
     },
     {
       "source": "1stTix",
@@ -440,6 +426,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Jayo Felony",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649612",
+      "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
+    },
+    {
+      "source": "1stTix",
       "name": "System of a Down and Rage Against the Machine Tributes",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
@@ -465,20 +465,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jayo Felony",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649612",
-      "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
     },
     {
       "source": "1stTix",

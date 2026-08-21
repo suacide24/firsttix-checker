@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-21T06:43:35 PT",
-  "last_successful_run": "2026-08-21T06:43:35 PT",
-  "count": 36,
+  "last_updated": "2026-08-21T14:15:19 PT",
+  "last_successful_run": "2026-08-21T14:15:19 PT",
+  "count": 35,
   "shows": [
     {
       "source": "1stTix",
@@ -20,20 +20,6 @@
     },
     {
       "source": "1stTix",
-      "name": "LED presents Nitefreak with Corkidi",
-      "date": "Fri, 21 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642140",
-      "image": "https://ei-cdn.1sttix.org/preview642140_1784594103.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-nitefreak-spin-nightclub-2026"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Fri, 21 Aug '26 10:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649002",
@@ -45,20 +31,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/382273"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
     },
     {
       "source": "1stTix",
@@ -76,6 +48,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 22 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
+    },
+    {
+      "source": "1stTix",
       "name": "A Double-Header Tribute to Rod Stewart & Peter Frampton",
       "date": "Sat, 22 Aug '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649250",
@@ -85,7 +71,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.showpass.com/the-ultimate-rod-stewart-experience-forever-rod/"
     },
     {
       "source": "1stTix",
@@ -159,20 +146,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Family Album",
-      "date": "Sun, 23 Aug '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648244",
-      "image": "https://ei-cdn.1sttix.org/preview648085_1786640403.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://lajollaplayhouse.org/show/the-family-album/"
-    },
-    {
-      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Sun, 23 Aug '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641173",
@@ -243,20 +216,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Tab Benoit - Soul of the Swamp Tour with special guest The Zac Schulze Gang",
-      "date": "Thu, 27 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648245",
-      "image": "https://ei-cdn.1sttix.org/preview648245_1786659904.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketweb.com/event/tab-benoit-soul-belly-up-tickets/13992064"
-    },
-    {
-      "source": "1stTix",
       "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
       "date": "Fri, 28 Aug '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
@@ -268,6 +227,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -378,7 +351,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/371276"
     },
     {
       "source": "1stTix",
@@ -497,6 +471,20 @@
       "name": "Sunset Boulevard: A Hollywood Ballopera",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
+      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: A Hollywood Ballopera",
+      "date": "Sun, 6 Sep '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648180",
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {

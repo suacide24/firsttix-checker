@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-23T14:27:18 PT",
-  "last_successful_run": "2026-08-23T14:27:18 PT",
+  "last_updated": "2026-08-23T14:57:31 PT",
+  "last_successful_run": "2026-08-23T14:57:31 PT",
   "count": 25,
   "shows": [
     {
@@ -45,20 +45,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
-      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",
@@ -213,6 +199,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Smells Like Nirvana",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
+      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
     },
     {
       "source": "1stTix",

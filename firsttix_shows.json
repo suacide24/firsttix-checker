@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-23T14:57:31 PT",
-  "last_successful_run": "2026-08-23T14:57:31 PT",
-  "count": 25,
+  "last_updated": "2026-08-23T15:27:49 PT",
+  "last_successful_run": "2026-08-23T15:27:49 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -45,6 +45,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
+      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",
@@ -188,20 +202,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
       "name": "Smells Like Nirvana",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
@@ -213,6 +213,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -353,6 +367,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theholdingcompanyob.com/show/ra-the-rugged-man/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
+      "date": "Fri, 11 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
+      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
     }
   ]
 }

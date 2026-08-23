@@ -1,163 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-23T12:56:25 PT",
-  "last_successful_run": "2026-08-21T16:27:52 PT",
-  "count": 34,
+  "last_updated": "2026-08-23T13:26:45 PT",
+  "last_successful_run": "2026-08-23T13:26:45 PT",
+  "count": 26,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Elote - Tribute to Korn",
-      "date": "Fri, 21 Aug '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641284",
-      "image": "https://ei-cdn.1sttix.org/preview-495398-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/elote-tribute-to-korn-san-diego-california-08-21-2026/event/0A0064DA8B4D4B28"
-    },
-    {
-      "source": "1stTix",
-      "name": "THE IRON MAIDENS with Special Guests OZZMANIA + DIRTY DEEDS + METAL HEALTH",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642177",
-      "image": "https://ei-cdn.1sttix.org/preview642177_1784669355.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/the-iron-maidens-with-special-gaslamp-long-beach-tickets/14164424"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641170",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362635"
-    },
-    {
-      "source": "1stTix",
-      "name": "A Double-Header Tribute to Rod Stewart & Peter Frampton",
-      "date": "Sat, 22 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649250",
-      "image": "https://ei-cdn.1sttix.org/preview649250_1787151428.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.showpass.com/the-ultimate-rod-stewart-experience-forever-rod/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649194",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382276"
-    },
-    {
-      "source": "1stTix",
-      "name": "Classic Journey Tribute",
-      "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/637279",
-      "image": "https://ei-cdn.1sttix.org/preview637279_1782316202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/classic-journey/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Club 90s Presents:  MJ Night",
-      "date": "Sat, 22 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649225",
-      "image": "https://ei-cdn.1sttix.org/preview649225_1787091602.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://musicboxsd.com/event/14991133/club-90s-presents-mj-night/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641171",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362636"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 22 Aug '26 10:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649202",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382274"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 23 Aug '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649203",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/382275"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 23 Aug '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641173",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362637"
-    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
@@ -178,27 +24,27 @@
       "date": "Sun, 23 Aug '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649103",
       "image": "https://ei-cdn.1sttix.org/preview-649103-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketmaster.com/omar-courtz-por-si-manana-no-san-diego-california-08-23-2026/event/0A00649E3CCDF809"
+    },
+    {
+      "source": "1stTix",
+      "name": "Wednesday Night Live",
+      "date": "Wed, 26 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649921",
+      "image": "https://ei-cdn.1sttix.org/preview649921_1787324272.jpg",
       "rare": true,
       "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketmaster.com/omar-courtz-por-si-manana-no-san-diego-california-08-23-2026/event/0A00649E3CCDF809"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 26 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641174",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/378893"
+      "info_url": "https://events.leapevents.com/event/wnl-2026-Aug26th8svjzghfkwctzwjmwjgmv"
     },
     {
       "source": "1stTix",
@@ -208,25 +54,11 @@
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
-      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://tickeri.io/si1bq4r4nf"
     },
     {
       "source": "1stTix",
@@ -236,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642142_1784594403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -320,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -348,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -362,25 +194,11 @@
       "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
-    },
-    {
-      "source": "1stTix",
-      "name": "Smells Like Nirvana",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
-      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
     },
     {
       "source": "1stTix",
@@ -390,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -398,17 +216,31 @@
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "name": "Smells Like Nirvana",
       "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
+      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Tijuana No!",
+      "date": "Fri, 4 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649228",
+      "image": "https://ei-cdn.1sttix.org/preview649228_1787091903.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://musicboxsd.com/event/14884583/tijuana-no-marujah-giga-rat-los-hijos-del-santo-el-funeral/"
     },
     {
       "source": "1stTix",
@@ -418,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -432,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -444,11 +276,11 @@
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
       "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
     },
@@ -460,11 +292,25 @@
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs USC Trojans",
+      "date": "Sun, 6 Sep '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642577",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -474,11 +320,53 @@
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 6 Sep '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649600",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/352421"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 9 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649601",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/362812"
+    },
+    {
+      "source": "1stTix",
+      "name": "RA The Rugged Man",
+      "date": "Wed, 9 Sep '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649617",
+      "image": "https://ei-cdn.1sttix.org/preview649617_1787246466.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/ra-the-rugged-man/"
     }
   ]
 }

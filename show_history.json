@@ -28,7 +28,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|gaslamp downtown bar crawl": {
@@ -947,7 +948,8 @@
       "name": "Wednesday Night Live",
       "source": "1stTix",
       "appearances": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-08-23"
       ]
     },
     "1stTix|el rio latin music pool party: la sonora santanera tributo a carlos colorado y la gran sonora dinamita": {
@@ -1158,7 +1160,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|led presents borgore": {
@@ -1181,7 +1184,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|buenavista social club tribute feat. arp w emy castro": {
@@ -1205,7 +1209,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|yacht rock party with the windbreakers": {
@@ -1217,7 +1222,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|led presents bijou": {
@@ -1229,7 +1235,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|layton giordani": {
@@ -1279,7 +1286,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|serenade": {
@@ -1306,7 +1314,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|san diego toreros - ncaa women's volleyball vs southern methodist university mustangs": {
@@ -1316,7 +1325,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|smells like nirvana": {
@@ -1326,7 +1336,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|sunset boulevard: a hollywood ballopera": {
@@ -1336,7 +1347,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|uc davis aggies - ncaa women's volleyball vs san diego state aztecs": {
@@ -1346,7 +1358,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|san diego state aztecs - ncaa women's volleyball vs cal poly mustangs": {
@@ -1356,7 +1369,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|summerfest at 40!": {
@@ -1373,7 +1387,8 @@
       "appearances": [
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|omar courtz - por si ma\u00f1ana no estoy usa tour": {
@@ -1381,7 +1396,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|system of a down and rage against the machine tributes": {
@@ -1389,7 +1405,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
       ]
     },
     "1stTix|a double-header tribute to rod stewart & peter frampton": {
@@ -1417,7 +1434,29 @@
       "name": "Jayo Felony",
       "source": "1stTix",
       "appearances": [
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-23"
+      ]
+    },
+    "1stTix|tijuana no!": {
+      "name": "Tijuana No!",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-23"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs usc trojans": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs USC Trojans",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-23"
+      ]
+    },
+    "1stTix|ra the rugged man": {
+      "name": "RA The Rugged Man",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-23"
       ]
     }
   }

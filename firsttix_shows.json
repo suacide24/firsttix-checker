@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-23T18:14:05 PT",
-  "last_successful_run": "2026-08-23T18:14:05 PT",
+  "last_updated": "2026-08-23T18:44:19 PT",
+  "last_successful_run": "2026-08-23T18:44:19 PT",
   "count": 29,
   "shows": [
     {
@@ -48,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
-    },
-    {
-      "source": "1stTix",
       "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
       "date": "Sat, 29 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
@@ -73,6 +59,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -202,6 +202,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
+      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
       "name": "Smells Like Nirvana",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
@@ -227,20 +241,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",
@@ -272,20 +272,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: A Hollywood Ballopera",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
-      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
       "name": "Jayo Felony",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649612",
@@ -311,6 +297,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: A Hollywood Ballopera",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
+      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 5,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-25T14:32:56 PT",
-  "last_successful_run": "2026-08-24T22:12:40 PT",
-  "count": 29,
+  "last_updated": "2026-08-25T15:03:13 PT",
+  "last_successful_run": "2026-08-25T15:03:13 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -12,11 +12,25 @@
       "image": "https://ei-cdn.1sttix.org/preview649921_1787324272.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/wnl-2026-Aug26th8svjzghfkwctzwjmwjgmv"
+    },
+    {
+      "source": "1stTix",
+      "name": "Tab Benoit - Soul of the Swamp Tour with special guest The Zac Schulze Gang",
+      "date": "Thu, 27 Aug '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648245",
+      "image": "https://ei-cdn.1sttix.org/preview648245_1786659904.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/tab-benoit-soul-belly-up-tickets/13992064"
     },
     {
       "source": "1stTix",
@@ -26,25 +40,11 @@
       "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
-    },
-    {
-      "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -54,11 +54,25 @@
       "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 9,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -68,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -82,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -110,9 +124,9 @@
       "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://theholdingcompanyob.com/show/dj-chen-presents-k-wave-a-k-pop-party-experience/"
     },
@@ -124,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -146,31 +160,31 @@
     },
     {
       "source": "1stTix",
-      "name": "Garden Groove",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
-      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
-    },
-    {
-      "source": "1stTix",
       "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
       "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Garden Groove",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
+      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
     },
     {
       "source": "1stTix",
@@ -180,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,11 +208,25 @@
       "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -208,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -220,11 +248,11 @@
       "date": "Fri, 4 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649228",
       "image": "https://ei-cdn.1sttix.org/preview649228_1787091903.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://musicboxsd.com/event/14884583/tijuana-no-marujah-giga-rat-los-hijos-del-santo-el-funeral/"
     },
@@ -236,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -290,11 +318,11 @@
       "date": "Sun, 6 Sep '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642577",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -306,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -346,11 +374,11 @@
       "date": "Wed, 9 Sep '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649617",
       "image": "https://ei-cdn.1sttix.org/preview649617_1787246466.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/ra-the-rugged-man/"
     },
@@ -362,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-527078-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -374,11 +402,11 @@
       "date": "Fri, 11 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649618",
       "image": "https://ei-cdn.1sttix.org/preview649618_1787246689.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
     },
@@ -388,11 +416,11 @@
       "date": "Fri, 11 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
       "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
     },
@@ -404,7 +432,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-561120-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-24T18:43:59 PT",
-  "last_successful_run": "2026-08-24T18:43:59 PT",
-  "count": 29,
+  "last_updated": "2026-08-24T19:14:16 PT",
+  "last_successful_run": "2026-08-24T19:14:16 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -31,6 +31,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -188,20 +202,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
       "name": "Sunset Boulevard: a Hollywood Ballopera",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
@@ -339,20 +339,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/362812"
-    },
-    {
-      "source": "1stTix",
-      "name": "RA The Rugged Man",
-      "date": "Wed, 9 Sep '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649617",
-      "image": "https://ei-cdn.1sttix.org/preview649617_1787246466.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/ra-the-rugged-man/"
     },
     {
       "source": "1stTix",

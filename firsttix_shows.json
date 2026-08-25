@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-25T15:03:13 PT",
-  "last_successful_run": "2026-08-25T15:03:13 PT",
+  "last_updated": "2026-08-25T15:45:38 PT",
+  "last_successful_run": "2026-08-25T15:45:38 PT",
   "count": 31,
   "shows": [
     {
@@ -202,6 +202,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
+      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
       "name": "Smells Like Nirvana",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
@@ -227,20 +241,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",
@@ -272,20 +272,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: A Hollywood Ballopera",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
-      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
       "name": "System of a Down and Rage Against the Machine Tributes",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
@@ -311,6 +297,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: A Hollywood Ballopera",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
+      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",
@@ -398,20 +398,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Pentagram String Band",
-      "date": "Fri, 11 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649618",
-      "image": "https://ei-cdn.1sttix.org/preview649618_1787246689.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
-    },
-    {
-      "source": "1stTix",
       "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
       "date": "Fri, 11 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
@@ -423,6 +409,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Pentagram String Band",
+      "date": "Fri, 11 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649618",
+      "image": "https://ei-cdn.1sttix.org/preview649618_1787246689.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
     },
     {
       "source": "1stTix",

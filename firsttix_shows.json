@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-24T15:33:07 PT",
-  "last_successful_run": "2026-08-24T09:32:46 PT",
-  "count": 28,
+  "last_updated": "2026-08-24T18:13:42 PT",
+  "last_successful_run": "2026-08-24T18:13:42 PT",
+  "count": 30,
   "shows": [
     {
       "source": "1stTix",
@@ -34,20 +34,6 @@
     },
     {
       "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
-    },
-    {
-      "source": "1stTix",
       "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
       "date": "Sat, 29 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
@@ -59,6 +45,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -146,20 +146,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
-      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
-    },
-    {
-      "source": "1stTix",
       "name": "Garden Groove",
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
@@ -171,6 +157,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
+      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
     },
     {
       "source": "1stTix",
@@ -258,6 +258,20 @@
     },
     {
       "source": "1stTix",
+      "name": "System of a Down and Rage Against the Machine Tributes",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
+      "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
+    },
+    {
+      "source": "1stTix",
       "name": "Sunset Boulevard: A Hollywood Ballopera",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
@@ -283,20 +297,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
-    },
-    {
-      "source": "1stTix",
-      "name": "System of a Down and Rage Against the Machine Tributes",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
-      "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
     },
     {
       "source": "1stTix",
@@ -370,6 +370,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Led Zeppelin 2",
+      "date": "Thu, 10 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641282",
+      "image": "https://ei-cdn.1sttix.org/preview-527078-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/led-zeppelin-2-san-diego-california-09-10-2026/event/0A00649EAFCECD12"
+    },
+    {
+      "source": "1stTix",
       "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
       "date": "Fri, 11 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
@@ -395,6 +409,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Noise Pollution - The AC/DC Experience",
+      "date": "Sat, 12 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643015",
+      "image": "https://ei-cdn.1sttix.org/preview-561120-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/noise-pollution-the-acdc-experience-san-diego-california-09-12-2026/event/0A0064F5A8BCC21D"
     }
   ]
 }

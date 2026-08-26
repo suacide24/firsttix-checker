@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-26T01:46:02 PT",
-  "last_successful_run": "2026-08-26T01:46:02 PT",
+  "last_updated": "2026-08-26T14:58:41 PT",
+  "last_successful_run": "2026-08-26T14:58:41 PT",
   "count": 30,
   "shows": [
     {
@@ -20,6 +20,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Black Out Bar Crawl",
+      "date": "Fri, 28 Aug '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/650889",
+      "image": "https://ei-cdn.1sttix.org/preview650889_1787698203.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/1996472710621?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
       "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
       "date": "Fri, 28 Aug '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
@@ -34,20 +48,6 @@
     },
     {
       "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
-    },
-    {
-      "source": "1stTix",
       "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
       "date": "Sat, 29 Aug '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
@@ -59,6 +59,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://tickeri.io/si1bq4r4nf"
+    },
+    {
+      "source": "1stTix",
+      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Sat, 29 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
+      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 10,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://calbears.evenue.net/events/VH"
     },
     {
       "source": "1stTix",
@@ -104,20 +118,6 @@
     },
     {
       "source": "1stTix",
-      "name": "DJ CHEN presents K-WAVE: A K-pop Party Experience",
-      "date": "Sun, 30 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647389",
-      "image": "https://ei-cdn.1sttix.org/preview647389_1786465808.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/dj-chen-presents-k-wave-a-k-pop-party-experience/"
-    },
-    {
-      "source": "1stTix",
       "name": "UC Davis Aggies - NCAA Women's Volleyball vs San Diego State Aztecs",
       "date": "Thu, 3 Sep '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643949",
@@ -129,20 +129,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://ucdavisaggies.com/sports/womens-volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Garden Groove",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
-      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
     },
     {
       "source": "1stTix",
@@ -160,6 +146,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Garden Groove",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
+      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Cal Poly Mustangs",
       "date": "Fri, 4 Sep '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643950",
@@ -171,20 +171,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
-    },
-    {
-      "source": "1stTix",
-      "name": "Smells Like Nirvana",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
-      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
     },
     {
       "source": "1stTix",
@@ -216,6 +202,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Smells Like Nirvana",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
+      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
       "name": "Tijuana No!",
       "date": "Fri, 4 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649228",
@@ -244,20 +244,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: A Hollywood Ballopera",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
-      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
       "name": "System of a Down and Rage Against the Machine Tributes",
       "date": "Sat, 5 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
@@ -269,6 +255,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: A Hollywood Ballopera",
+      "date": "Sat, 5 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
+      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",
@@ -356,17 +356,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Zo\u00e9 - MEMOREX + REXSEXEX + M\u00c1S",
-      "date": "Thu, 10 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649627",
-      "image": "https://ei-cdn.1sttix.org/preview-648805-tm.jpg",
-      "rare": true,
+      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
+      "date": "Fri, 11 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
+      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://www.ticketmaster.com/zoe-memorex-rexsexex-mas-san-diego-california-09-10-2026/event/0A0064BADDD2AC79"
+      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -381,20 +381,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
-      "date": "Fri, 11 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
-      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -423,6 +409,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/noise-pollution-the-acdc-experience-san-diego-california-09-12-2026/event/0A0064F5A8BCC21D"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 13 Sep '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649604",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/371538"
     }
   ]
 }

@@ -1576,6 +1576,13 @@
         "2026-08-25",
         "2026-08-26"
       ]
+    },
+    "1stTix|black out bar crawl": {
+      "name": "Black Out Bar Crawl",
+      "source": "1stTix",
+      "appearances": [
+        "2026-08-26"
+      ]
     }
   }
 }

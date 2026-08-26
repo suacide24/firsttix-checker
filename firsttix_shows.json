@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-26T15:29:58 PT",
-  "last_successful_run": "2026-08-26T15:29:58 PT",
-  "count": 30,
+  "last_updated": "2026-08-26T16:38:32 PT",
+  "last_successful_run": "2026-08-26T16:38:32 PT",
+  "count": 32,
   "shows": [
     {
       "source": "1stTix",
@@ -17,6 +17,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/wnl-2026-Aug26th8svjzghfkwctzwjmwjgmv"
+    },
+    {
+      "source": "1stTix",
+      "name": "A Great Night in Hip Hop - Nas & The Roots",
+      "date": "Thu, 27 Aug '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/650499",
+      "image": "https://ei-cdn.1sttix.org/preview-650499-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/a-great-night-in-hip-hop-san-diego-california-08-27-2026/event/0A00645AE68EB412"
     },
     {
       "source": "1stTix",
@@ -132,17 +146,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Garden Groove",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
-      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
+      "name": "Mic Drop Comedy",
+      "date": "Thu, 3 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649599",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
-      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
+      "info_url": "https://www.micdropcomedysandiego.com/shows/371276"
     },
     {
       "source": "1stTix",
@@ -157,6 +171,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Garden Groove",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
+      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
     },
     {
       "source": "1stTix",

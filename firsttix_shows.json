@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-25T18:07:58 PT",
-  "last_successful_run": "2026-08-25T18:07:58 PT",
-  "count": 29,
+  "last_updated": "2026-08-25T20:04:15 PT",
+  "last_successful_run": "2026-08-25T20:04:15 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/wnl-2026-Aug26th8svjzghfkwctzwjmwjgmv"
-    },
-    {
-      "source": "1stTix",
-      "name": "Tab Benoit - Soul of the Swamp Tour with special guest The Zac Schulze Gang",
-      "date": "Thu, 27 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648245",
-      "image": "https://ei-cdn.1sttix.org/preview648245_1786659904.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketweb.com/event/tab-benoit-soul-belly-up-tickets/13992064"
     },
     {
       "source": "1stTix",
@@ -202,6 +188,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
+      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
       "date": "Fri, 4 Sep '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
@@ -216,17 +216,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "name": "Smells Like Nirvana",
       "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
+      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
       "rare": false,
       "popularity": {
         "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
     },
     {
       "source": "1stTix",
@@ -370,17 +370,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
-      "date": "Fri, 11 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
-      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
-      "rare": false,
+      "name": "Zo\u00e9 - MEMOREX + REXSEXEX + M\u00c1S",
+      "date": "Thu, 10 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649627",
+      "image": "https://ei-cdn.1sttix.org/preview-648805-tm.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
+      "info_url": "https://www.ticketmaster.com/zoe-memorex-rexsexex-mas-san-diego-california-09-10-2026/event/0A0064BADDD2AC79"
     },
     {
       "source": "1stTix",
@@ -395,6 +395,34 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
+      "date": "Fri, 11 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
+      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
+      "date": "Sat, 12 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/640760",
+      "image": "https://ei-cdn.1sttix.org/preview640760_1783962002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/micromania/"
     },
     {
       "source": "1stTix",

@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-26T14:58:41 PT",
-  "last_successful_run": "2026-08-26T14:58:41 PT",
+  "last_updated": "2026-08-26T15:29:58 PT",
+  "last_successful_run": "2026-08-26T15:29:58 PT",
   "count": 30,
   "shows": [
     {
@@ -132,20 +132,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
-      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
-    },
-    {
-      "source": "1stTix",
       "name": "Garden Groove",
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
@@ -160,6 +146,20 @@
     },
     {
       "source": "1stTix",
+      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
+      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Cal Poly Mustangs",
       "date": "Fri, 4 Sep '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/643950",
@@ -171,20 +171,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",
@@ -213,6 +199,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunset Boulevard: a Hollywood Ballopera",
+      "date": "Fri, 4 Sep '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
+      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
     },
     {
       "source": "1stTix",

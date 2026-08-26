@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-08-25T16:46:30 PT",
-  "last_successful_run": "2026-08-25T16:46:30 PT",
-  "count": 31,
+  "last_updated": "2026-08-25T17:37:42 PT",
+  "last_successful_run": "2026-08-25T17:37:42 PT",
+  "count": 30,
   "shows": [
     {
       "source": "1stTix",
@@ -160,20 +160,6 @@
     },
     {
       "source": "1stTix",
-      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
-      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
-    },
-    {
-      "source": "1stTix",
       "name": "Garden Groove",
       "date": "Thu, 3 Sep '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
@@ -185,6 +171,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
+      "date": "Thu, 3 Sep '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
+      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
     },
     {
       "source": "1stTix",
@@ -283,20 +283,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jayo Felony",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649612",
-      "image": "https://ei-cdn.1sttix.org/preview649612_1787239439.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/everybodys-compromised-jayo-felony/"
     },
     {
       "source": "1stTix",

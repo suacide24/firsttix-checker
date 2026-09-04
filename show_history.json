@@ -4,8 +4,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-15",
@@ -35,26 +33,10 @@
         "2026-08-26"
       ]
     },
-    "1stTix|gaslamp downtown bar crawl": {
-      "name": "Gaslamp Downtown Bar Crawl",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
-    "1stTix|gaslamp experience party pass": {
-      "name": "Gaslamp Experience Party Pass",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
     "1stTix|grand comedy club": {
       "name": "Grand Comedy Club",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-19",
         "2026-06-25",
@@ -89,57 +71,10 @@
         "2026-07-24"
       ]
     },
-    "1stTix|nascar san diego o'reilly auto parts series": {
-      "name": "NASCAR SAN DIEGO O'REILLY AUTO PARTS SERIES",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
-    "1stTix|nascar san diego cup series": {
-      "name": "NASCAR SAN DIEGO CUP SERIES",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
-    "1stTix|always, adele - the authentic concert experience": {
-      "name": "Always, Adele - The Authentic Concert Experience",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04",
-        "2026-06-05"
-      ]
-    },
-    "1stTix|best of socal comedy night": {
-      "name": "Best of Socal Comedy Night",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04",
-        "2026-06-05"
-      ]
-    },
-    "1stTix|living dead girl": {
-      "name": "Living Dead Girl",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04",
-        "2026-06-05"
-      ]
-    },
-    "1stTix|alex warren: finding family on the road": {
-      "name": "Alex Warren: Finding Family on the Road",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
     "1stTix|i heart zep \u2013 a tribute to heart & led zeppelin": {
       "name": "I Heart Zep \u2013 A Tribute to Heart & Led Zeppelin",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07"
       ]
@@ -148,8 +83,6 @@
       "name": "Uncle Lucius: The 20th Anniversary Tour",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-15"
@@ -159,8 +92,6 @@
       "name": "Parker McCollum",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-15"
@@ -170,8 +101,6 @@
       "name": "Mike E Winfield",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-15",
@@ -182,26 +111,16 @@
       "name": "Ramones, the Police, Talking Heads, and Blondie Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-06-04",
-        "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-15",
         "2026-06-19"
       ]
     },
-    "1stTix|san diego growlers - ultimate frisbee association vs austin sol": {
-      "name": "San Diego Growlers - Ultimate Frisbee Association vs Austin Sol",
-      "source": "1stTix",
-      "appearances": [
-        "2026-06-04"
-      ]
-    },
     "1stTix|the monsters": {
       "name": "The Monsters",
       "source": "1stTix",
       "appearances": [
-        "2026-06-05",
         "2026-06-06"
       ]
     },
@@ -209,7 +128,6 @@
       "name": "Pacific Beach Saturday Party Pass",
       "source": "1stTix",
       "appearances": [
-        "2026-06-05",
         "2026-06-06"
       ]
     },

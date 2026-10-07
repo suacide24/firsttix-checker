@@ -428,6 +428,17 @@ def get_random_user_agent() -> str:
     return random.choice(USER_AGENTS)
 
 
+# 1sttix.org is behind AWS WAF, which hands out an `aws-waf-token` cookie only
+# after its challenge.js runs in a real browser. We log in with Playwright to
+# obtain that token + the session cookies, then do the scraping with `requests`.
+# The WAF token is bound to the User-Agent that earned it, so Playwright and the
+# requests session MUST share this exact UA.
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+)
+
+
 def random_delay(
     min_seconds: float = 2.0, max_seconds: float = 8.0, silent: bool = False
 ):
@@ -1102,7 +1113,82 @@ def send_email_notification(new_shows: list) -> bool:
 
 
 # ---------------------------------------------------------------------------
-# 1stTix login
+# 1stTix login — Playwright (passes the AWS WAF challenge)
+# ---------------------------------------------------------------------------
+def login_firsttix_playwright(session: requests.Session) -> bool:
+    """Log in with a headless browser so AWS WAF's challenge.js runs, then copy
+    the resulting cookies (incl. aws-waf-token) + User-Agent into `session`.
+
+    Returns True on success. Falls back cleanly (returns False) if Playwright or
+    Chromium isn't available, so the caller can preserve existing data.
+    """
+    if not FIRSTTIX_PASSWORD:
+        log_message("[1stTix] FIRSTTIX_PASSWORD not set - cannot login")
+        return False
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        log_message("[1stTix] Playwright not installed — cannot pass AWS WAF")
+        return False
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(
+                user_agent=BROWSER_UA, viewport={"width": 1280, "height": 800}
+            )
+            page = ctx.new_page()
+            page.goto(
+                FIRSTTIX_LOGIN_URL, wait_until="domcontentloaded", timeout=45000
+            )
+
+            # Wait for the AWS WAF challenge to set its token cookie.
+            got_token = False
+            for _ in range(30):
+                if any("waf" in c["name"].lower() for c in ctx.cookies()):
+                    got_token = True
+                    break
+                page.wait_for_timeout(500)
+            if not got_token:
+                log_message("[1stTix] WAF token not issued — proceeding anyway")
+
+            page.fill('input[name="email"]', FIRSTTIX_EMAIL)
+            page.fill('input[name="password"]', FIRSTTIX_PASSWORD)
+            page.click('button[type="submit"], input[type="submit"]')
+
+            success = False
+            try:
+                page.wait_for_url("**/tixer/**", timeout=25000)
+                success = "/tixer/" in page.url
+            except Exception:
+                success = "/tixer/" in page.url
+
+            cookies = ctx.cookies()
+            browser.close()
+
+        if not success:
+            log_message("[1stTix] Playwright login did not reach account page")
+            return False
+
+        # Hand the browser's cookies + UA to the requests session.
+        session.headers["User-Agent"] = BROWSER_UA
+        for c in cookies:
+            try:
+                session.cookies.set(
+                    c["name"], c["value"], domain=c.get("domain"), path=c.get("path", "/")
+                )
+            except Exception:
+                pass
+        log_message("[1stTix] Successfully logged in (Playwright / AWS WAF)")
+        return True
+
+    except Exception as e:
+        log_message(f"[1stTix] Playwright login failed: {e}")
+        return False
+
+
+# ---------------------------------------------------------------------------
+# 1stTix login — legacy requests-only (kept as fallback; blocked by AWS WAF)
 # ---------------------------------------------------------------------------
 def login_firsttix(session: requests.Session) -> bool:
     """Log into 1sttix.org and return True if successful."""
@@ -1494,8 +1580,10 @@ def main():
         f"Loaded {len(notified_shows)} previously notified show+date combinations"
     )
 
-    # Create session
+    # Create session. Use the fixed browser UA so requests match the UA that
+    # earned the AWS WAF token during the Playwright login.
     session = create_session_with_random_ua()
+    session.headers["User-Agent"] = BROWSER_UA
     log_message(f"Using User-Agent: {session.headers.get('User-Agent', '')[:50]}...")
 
     # Random initial delay
@@ -1516,7 +1604,9 @@ def main():
             SESSION_FILE.unlink(missing_ok=True)
 
     if not logged_in:
-        if login_firsttix(session):
+        # Primary: Playwright login (passes AWS WAF). Fall back to the legacy
+        # requests login only if Playwright is unavailable.
+        if login_firsttix_playwright(session) or login_firsttix(session):
             record_login_success()
             save_session_cookies(session)
             logged_in = True

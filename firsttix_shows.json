@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T16:05:56 PT",
-  "last_successful_run": "2026-10-07T16:05:56 PT",
-  "count": 32,
+  "last_updated": "2026-10-07T16:36:22 PT",
+  "last_successful_run": "2026-10-07T16:36:22 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -171,20 +171,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.goodticket.co/beach/#/event/grwjxmOTOnkYoomBAbdM/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Poiesis Quartet",
-      "date": "Sun, 11 Oct '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/661391",
-      "image": "https://ei-cdn.1sttix.org/preview660192_1790815202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theconrad.org/events/poiesis-quartet/"
     },
     {
       "source": "1stTix",

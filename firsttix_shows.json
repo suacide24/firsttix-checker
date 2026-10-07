@@ -1,456 +1,410 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T14:08:41 PT",
-  "last_successful_run": "2026-08-26T16:38:32 PT",
-  "count": 32,
+  "last_updated": "2026-10-07T14:16:38 PT",
+  "last_successful_run": "2026-10-07T14:16:38 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Wednesday Night Live",
-      "date": "Wed, 26 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649921",
-      "image": "https://ei-cdn.1sttix.org/preview649921_1787324272.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://events.leapevents.com/event/wnl-2026-Aug26th8svjzghfkwctzwjmwjgmv"
-    },
-    {
-      "source": "1stTix",
-      "name": "A Great Night in Hip Hop - Nas & The Roots",
-      "date": "Thu, 27 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/650499",
-      "image": "https://ei-cdn.1sttix.org/preview-650499-tm.jpg",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Oregon State Beavers",
+      "date": "Thu, 8 Oct '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/652900",
+      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketmaster.com/a-great-night-in-hip-hop-san-diego-california-08-27-2026/event/0A00645AE68EB412"
+      "info_url": "https://goaztecs.com/sports/volleyball"
     },
     {
       "source": "1stTix",
-      "name": "Black Out Bar Crawl",
-      "date": "Fri, 28 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/650889",
-      "image": "https://ei-cdn.1sttix.org/preview650889_1787698203.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/1996472710621?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Stinkfoot Orchestra - Tribute to Frank Zappa",
-      "date": "Fri, 28 Aug '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640034",
-      "image": "https://ei-cdn.1sttix.org/preview640034_1783537207.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://musicboxsd.com/event/14780613/the-stinkfoot-orchestra-a-14-piece-tribute-to-frank-zappa-feat-napoleon-murphy-brock/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Buenavista Social Club Tribute feat. ARP w Emy Castro",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647110",
-      "image": "https://ei-cdn.1sttix.org/preview647110_1786373701.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://tickeri.io/si1bq4r4nf"
-    },
-    {
-      "source": "1stTix",
-      "name": "California Golden Bears - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 29 Aug '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647482",
-      "image": "https://ei-cdn.1sttix.org/preview125850_1537813486.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://calbears.evenue.net/events/VH"
-    },
-    {
-      "source": "1stTix",
-      "name": "Steve Knight backed by TJ Roots Collective",
-      "date": "Sat, 29 Aug '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647388",
-      "image": "https://ei-cdn.1sttix.org/preview647388_1786465623.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/ghetto-roots-ras-tone-presents-steve-knight/"
-    },
-    {
-      "source": "1stTix",
-      "name": "YACHT ROCK PARTY with THE WINDBREAKERS",
-      "date": "Sat, 29 Aug '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642178",
-      "image": "https://ei-cdn.1sttix.org/preview642178_1784657751.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketweb.com/event/yacht-rock-party-with-the-gaslamp-long-beach-tickets/14164434?pl=gaslamp"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 30 Aug '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641176",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/374406"
-    },
-    {
-      "source": "1stTix",
-      "name": "UC Davis Aggies - NCAA Women's Volleyball vs San Diego State Aztecs",
-      "date": "Thu, 3 Sep '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643949",
-      "image": "https://ei-cdn.1sttix.org/preview_UCDavis.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ucdavisaggies.com/sports/womens-volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Thu, 3 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649599",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/371276"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Staples - Chris Stapleton Tribute, w/ Cody Carter",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/645999",
-      "image": "https://ei-cdn.1sttix.org/preview645999_1785873902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://bellyup.com/calendar/14890693/the-staples-chris-stapleton-tribute-cody-carter/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Garden Groove",
-      "date": "Thu, 3 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649603",
-      "image": "https://ei-cdn.1sttix.org/preview649603_1787239300.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/garden-groove-sublime-tribute/"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Cal Poly Mustangs",
-      "date": "Fri, 4 Sep '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643950",
-      "image": "https://ei-cdn.1sttix.org/preview643950_1785192566.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ucdavisaggies.evenue.net/events/VBS"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Southern Methodist University Mustangs",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642575",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Loyola Marymount Lions",
+      "date": "Thu, 8 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642583",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
+      "rare": true,
       "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
-      "name": "Smells Like Nirvana",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641244",
-      "image": "https://ei-cdn.1sttix.org/preview641244_1784139502.jpg",
-      "rare": false,
+      "name": "Best of San Diego",
+      "date": "Thu, 8 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/661451",
+      "image": "https://ei-cdn.1sttix.org/preview661451_1791242704.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://ramonamainstage.com/smells-like-nirvana/"
+      "info_url": "https://events.leapevents.com/event/best-lajolla-2026-october8th"
     },
     {
       "source": "1stTix",
-      "name": "Sunset Boulevard: a Hollywood Ballopera",
-      "date": "Fri, 4 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648177",
-      "image": "https://ei-cdn.1sttix.org/preview648177_1786649702.jpg",
-      "rare": false,
+      "name": "LED presents Biscits with Willo",
+      "date": "Fri, 9 Oct '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/659992",
+      "image": "https://ei-cdn.1sttix.org/preview659992_1790794204.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
+      "info_url": "https://events.leapevents.com/event/led-presents-biscits-day-club-fit-social-2026"
     },
     {
       "source": "1stTix",
-      "name": "Tijuana No!",
-      "date": "Fri, 4 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649228",
-      "image": "https://ei-cdn.1sttix.org/preview649228_1787091903.jpg",
-      "rare": false,
+      "name": "Indo Warehouse",
+      "date": "Fri, 9 Oct '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/659993",
+      "image": "https://ei-cdn.1sttix.org/preview659993_1790794206.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://musicboxsd.com/event/14884583/tijuana-no-marujah-giga-rat-los-hijos-del-santo-el-funeral/"
+      "info_url": "https://events.leapevents.com/event/led-presents-indo-warehouse-quartyard-2026"
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Football vs UC Davis Aggies",
-      "date": "Sat, 5 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642558",
+      "name": "Atomic Groove Happy Hour",
+      "date": "Fri, 9 Oct '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656265",
+      "image": "https://ei-cdn.1sttix.org/preview656265_1789589403.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14999893?REFID=bupwebsite&theme=bellyup"
+    },
+    {
+      "source": "1stTix",
+      "name": "Coachella Valley Firebirds - AHL vs San Diego Gulls",
+      "date": "Fri, 9 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/661292",
+      "image": "https://ei-cdn.1sttix.org/preview661292_1791225301.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://cvfirebirds.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Hairball: Balls to the Wall Tour 2026",
+      "date": "Fri, 9 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658994",
+      "image": "https://ei-cdn.1sttix.org/preview658994_1790616903.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.sycuan.com/event/hairball-8pm-friday-october-9-2026/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Pepperdine Waves",
+      "date": "Sat, 10 Oct '26 12:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642584",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
+      "rare": true,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "NIRVANA + PEARL JAM + ALICE IN CHAINS + SOUNDGARDEN Tributes",
+      "date": "Sat, 10 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/651678",
+      "image": "https://ei-cdn.1sttix.org/preview651678_1787930877.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/pearl-jam-nirvana-gaslamp-long-beach-tickets/14173074?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Al Jardine of the Beach Boys and the Pet Sounds Band",
+      "date": "Sat, 10 Oct '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/659686",
+      "image": "https://ei-cdn.1sttix.org/preview659686_1790724302.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.powayonstage.org/event/al-jardine-pet-sounds-band/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 11 Oct '26 8:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658865",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/376056"
+    },
+    {
+      "source": "1stTix",
+      "name": "Benmont Tench - SOLO",
+      "date": "Tue, 13 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/660131",
+      "image": "https://ei-cdn.1sttix.org/preview660131_1790805901.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/benmont-tench-solo-music-box-tickets/14264254?REFID=email&theme=musicboxsd"
+    },
+    {
+      "source": "1stTix",
+      "name": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour",
+      "date": "Wed, 14 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658248",
+      "image": "https://ei-cdn.1sttix.org/preview658248_1790260502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/steven-curtis-chapman-speechless-25th-skyline-church-tickets/14950873?pl=TPR"
+    },
+    {
+      "source": "1stTix",
+      "name": "Live Dead & Brothers",
+      "date": "Wed, 14 Oct '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/651169",
+      "image": "https://ei-cdn.1sttix.org/preview651169_1787773801.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/live-dead-brothers-music-box-tickets/14191774"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Thu, 15 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658866",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/381208"
+    },
+    {
+      "source": "1stTix",
+      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
+      "date": "Fri, 16 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/650023",
+      "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-chula-vista-california-10-16-2026/event/0A006495A1C28143"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 16 Oct '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658868",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/373129"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Texas State Bobcats",
+      "date": "Sat, 17 Oct '26 12:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/652903",
+      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://goaztecs.com/sports/volleyball"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Football vs Valparaiso Beacons",
+      "date": "Sat, 17 Oct '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642561",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/football"
     },
     {
       "source": "1stTix",
-      "name": "System of a Down and Rage Against the Machine Tributes",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/647965",
-      "image": "https://ei-cdn.1sttix.org/preview647965_1786634558.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/system-of-a-down-and-gaslamp-long-beach-tickets/14164644"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sunset Boulevard: A Hollywood Ballopera",
-      "date": "Sat, 5 Sep '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648179",
-      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs USC Trojans",
-      "date": "Sun, 6 Sep '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642577",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Sunset Boulevard: A Hollywood Ballopera",
-      "date": "Sun, 6 Sep '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648180",
-      "image": "https://ei-cdn.1sttix.org/preview648180_1786650301.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.sdartstix.com/theatre/sunset-boulevard/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 6 Sep '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649600",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/352421"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 9 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649601",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362812"
-    },
-    {
-      "source": "1stTix",
-      "name": "RA The Rugged Man",
-      "date": "Wed, 9 Sep '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649617",
-      "image": "https://ei-cdn.1sttix.org/preview649617_1787246466.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/ra-the-rugged-man/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Led Zeppelin 2",
-      "date": "Thu, 10 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/641282",
-      "image": "https://ei-cdn.1sttix.org/preview-527078-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/led-zeppelin-2-san-diego-california-09-10-2026/event/0A00649EAFCECD12"
-    },
-    {
-      "source": "1stTix",
-      "name": "Santa Clara Broncos - NCAA Women's Volleyball vs San Diego State Aztecs",
-      "date": "Fri, 11 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643073",
-      "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://santaclarabroncos.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Pentagram String Band",
-      "date": "Fri, 11 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649618",
-      "image": "https://ei-cdn.1sttix.org/preview649618_1787246689.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/pentagram-string-band/"
-    },
-    {
-      "source": "1stTix",
-      "name": "MicroMania \u2013 Micro Athletes and Wrestling",
-      "date": "Sat, 12 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/640760",
-      "image": "https://ei-cdn.1sttix.org/preview640760_1783962002.jpg",
+      "name": "Stevie Nicks Illusion \u2013 Tribute to Fleetwood Mac & Stevie Nicks",
+      "date": "Sat, 17 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/648629",
+      "image": "https://ei-cdn.1sttix.org/preview648629_1786982102.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://ramonamainstage.com/micromania/"
+      "info_url": "https://ramonamainstage.com/stevie-nicks-illusion-2/"
     },
     {
       "source": "1stTix",
-      "name": "Noise Pollution - The AC/DC Experience",
-      "date": "Sat, 12 Sep '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/643015",
-      "image": "https://ei-cdn.1sttix.org/preview-561120-tm.jpg",
-      "rare": false,
+      "name": "SoCal Pro Wrestling Vista CA",
+      "date": "Sat, 17 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/660587",
+      "image": "https://ei-cdn.1sttix.org/preview660587_1790956202.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketmaster.com/noise-pollution-the-acdc-experience-san-diego-california-09-12-2026/event/0A0064F5A8BCC21D"
+      "info_url": "http://socalprowrestling.com/halloweenheat/"
     },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
-      "date": "Sun, 13 Sep '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649604",
+      "date": "Tue, 20 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658869",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
+      "rare": true,
       "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/371538"
+      "info_url": "https://www.micdropcomedysandiego.com/shows/387348"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 21 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/658870",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/377767"
+    },
+    {
+      "source": "1stTix",
+      "name": "Pacific Tigers - NCAA Women's Volleyball vs San Diego Toreros",
+      "date": "Thu, 22 Oct '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/646736",
+      "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://pacifictigers.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Gethen Jenkins",
+      "date": "Sat, 24 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/651516",
+      "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: So Petty \u2013 Tribute to the Music of Tom Petty & the Heartbreakers",
+      "date": "Sat, 23 Jan '27 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642785",
+      "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Mic Drop Comedy",
+      "date": "Sun, 7 Mar '27 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/649606",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Count\u2019s 77",
+      "date": "Sat, 20 Mar '27 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/645896",
+      "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     }
   ]
 }

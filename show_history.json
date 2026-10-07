@@ -25,7 +25,8 @@
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-10-07"
       ]
     },
     "1stTix|grand comedy club": {
@@ -313,7 +314,8 @@
         "2026-07-21",
         "2026-07-22",
         "2026-07-29",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-10-07"
       ]
     },
     "1stTix|rio da yung og": {
@@ -1110,6 +1112,167 @@
       "source": "1stTix",
       "appearances": [
         "2026-08-26"
+      ]
+    },
+    "1stTix|san diego state aztecs - ncaa women's volleyball vs oregon state beavers": {
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Oregon State Beavers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs loyola marymount lions": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Loyola Marymount Lions",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|best of san diego": {
+      "name": "Best of San Diego",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|led presents biscits with willo": {
+      "name": "LED presents Biscits with Willo",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|indo warehouse": {
+      "name": "Indo Warehouse",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|coachella valley firebirds - ahl vs san diego gulls": {
+      "name": "Coachella Valley Firebirds - AHL vs San Diego Gulls",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|hairball: balls to the wall tour 2026": {
+      "name": "Hairball: Balls to the Wall Tour 2026",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs pepperdine waves": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Pepperdine Waves",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|nirvana + pearl jam + alice in chains + soundgarden tributes": {
+      "name": "NIRVANA + PEARL JAM + ALICE IN CHAINS + SOUNDGARDEN Tributes",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|al jardine of the beach boys and the pet sounds band": {
+      "name": "Al Jardine of the Beach Boys and the Pet Sounds Band",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|benmont tench - solo": {
+      "name": "Benmont Tench - SOLO",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|steven curtis chapman: speechless 25th anniversary tour": {
+      "name": "Steven Curtis Chapman: SPEECHLESS 25th Anniversary Tour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|live dead & brothers": {
+      "name": "Live Dead & Brothers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|logic & g-eazy: the endless summer tour part ii": {
+      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|san diego state aztecs - ncaa women's volleyball vs texas state bobcats": {
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Texas State Bobcats",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa football vs valparaiso beacons": {
+      "name": "San Diego Toreros - NCAA Football vs Valparaiso Beacons",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|stevie nicks illusion \u2013 tribute to fleetwood mac & stevie nicks": {
+      "name": "Stevie Nicks Illusion \u2013 Tribute to Fleetwood Mac & Stevie Nicks",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|socal pro wrestling vista ca": {
+      "name": "SoCal Pro Wrestling Vista CA",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|pacific tigers - ncaa women's volleyball vs san diego toreros": {
+      "name": "Pacific Tigers - NCAA Women's Volleyball vs San Diego Toreros",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|gethen jenkins": {
+      "name": "Gethen Jenkins",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|event rescheduled: so petty \u2013 tribute to the music of tom petty & the heartbreakers": {
+      "name": "Event Rescheduled: So Petty \u2013 Tribute to the Music of Tom Petty & the Heartbreakers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|event rescheduled: mic drop comedy": {
+      "name": "Event Rescheduled: Mic Drop Comedy",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|event rescheduled: count\u2019s 77": {
+      "name": "Event Rescheduled: Count\u2019s 77",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
       ]
     }
   }

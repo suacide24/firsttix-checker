@@ -1274,6 +1274,27 @@
       "appearances": [
         "2026-10-07"
       ]
+    },
+    "1stTix|lakeview": {
+      "name": "Lakeview",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|poiesis quartet": {
+      "name": "Poiesis Quartet",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
+    },
+    "1stTix|for king & country": {
+      "name": "for KING & COUNTRY",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-07"
+      ]
     }
   }
 }

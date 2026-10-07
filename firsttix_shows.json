@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T14:16:38 PT",
-  "last_successful_run": "2026-10-07T14:16:38 PT",
+  "last_updated": "2026-10-07T14:17:16 PT",
+  "last_successful_run": "2026-10-07T14:17:16 PT",
   "count": 29,
   "shows": [
     {
@@ -365,7 +365,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://ramonamainstage.com/gethen/"
     },
     {
       "source": "1stTix",
@@ -378,7 +379,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://ramonamainstage.com/so-petty/"
     },
     {
       "source": "1stTix",
@@ -391,7 +393,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/353816"
     },
     {
       "source": "1stTix",
@@ -404,7 +407,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://ramonamainstage.com/counts-77/"
     }
   ]
 }

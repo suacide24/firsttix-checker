@@ -93,7 +93,9 @@ INFO_CACHE_FILE = SCRIPT_DIR / "more_info.json"
 # Backoff configuration
 # ---------------------------------------------------------------------------
 BACKOFF_BASE_MINUTES = 30  # First backoff: skip 1 cycle (~30 min)
-BACKOFF_MAX_MINUTES = 480  # Max backoff: 8 hours
+BACKOFF_MAX_MINUTES = 120  # Max backoff: 2 hours (so a fixed issue recovers on
+# its own within ~2h instead of sitting in an 8h lockout that needs a manual
+# backoff reset — which bit us during the AWS WAF outage).
 BACKOFF_MULTIPLIER = 2  # Exponential multiplier
 RANDOM_SKIP_CHANCE = 0.15  # 15% chance to skip a run (adds unpredictability)
 
@@ -249,13 +251,18 @@ def send_failure_notification(reason: str, details: str = ""):
         log_message("[Alert] SMTP_PASSWORD not set - cannot send failure notification")
         return False
 
-    # Check if we already sent a failure notification (avoid spam)
+    # Re-alert at most once every 24h while still down (so a long outage keeps
+    # nagging instead of going silent after one easily-missed email), but not
+    # more often than that (avoid spam on every 30-min failure).
     state = load_backoff_state()
-    if state.get("failure_notified"):
-        log_message(
-            "[Alert] Failure notification already sent for this streak, skipping"
-        )
-        return True
+    last_notified = state.get("last_notified_at")
+    if last_notified:
+        try:
+            if datetime.now() - datetime.fromisoformat(last_notified) < timedelta(hours=24):
+                log_message("[Alert] Failure already alerted <24h ago, skipping")
+                return True
+        except (ValueError, TypeError):
+            pass
 
     try:
         subject = f"⚠️ 1stTix Checker is DOWN: {reason}"
@@ -316,8 +323,9 @@ def send_failure_notification(reason: str, details: str = ""):
             server.login(SMTP_EMAIL, SMTP_PASSWORD)
             server.sendmail(SMTP_EMAIL, NOTIFICATION_EMAIL, msg.as_string())
 
-        # Mark that we sent the notification so we don't spam
+        # Record when we last alerted so we re-alert at most once per 24h.
         state["failure_notified"] = True
+        state["last_notified_at"] = datetime.now().isoformat()
         save_backoff_state(state)
 
         log_message(f"[Alert] Failure notification sent to {NOTIFICATION_EMAIL}")
@@ -483,7 +491,9 @@ def create_session_with_random_ua() -> requests.Session:
 # ---------------------------------------------------------------------------
 # Session / cookie persistence
 # ---------------------------------------------------------------------------
-SESSION_MAX_AGE_HOURS = 4  # Re-login after 4 hours even if cookies exist
+SESSION_MAX_AGE_HOURS = 12  # Re-login after 12h even if cookies exist. Longer
+# reuse = the browser (and the AWS WAF challenge) is exercised less often;
+# verify_session still catches an earlier token expiry and triggers a re-login.
 
 
 def save_session_cookies(session: requests.Session):
@@ -1131,60 +1141,65 @@ def login_firsttix_playwright(session: requests.Session) -> bool:
         log_message("[1stTix] Playwright not installed — cannot pass AWS WAF")
         return False
 
-    try:
+    def _attempt() -> list:
+        """One browser login attempt. Returns captured cookies, or [] on failure."""
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(
-                user_agent=BROWSER_UA, viewport={"width": 1280, "height": 800}
-            )
-            page = ctx.new_page()
-            page.goto(
-                FIRSTTIX_LOGIN_URL, wait_until="domcontentloaded", timeout=45000
-            )
-
-            # Wait for the AWS WAF challenge to set its token cookie.
-            got_token = False
-            for _ in range(30):
-                if any("waf" in c["name"].lower() for c in ctx.cookies()):
-                    got_token = True
-                    break
-                page.wait_for_timeout(500)
-            if not got_token:
-                log_message("[1stTix] WAF token not issued — proceeding anyway")
-
-            page.fill('input[name="email"]', FIRSTTIX_EMAIL)
-            page.fill('input[name="password"]', FIRSTTIX_PASSWORD)
-            page.click('button[type="submit"], input[type="submit"]')
-
-            success = False
             try:
-                page.wait_for_url("**/tixer/**", timeout=25000)
-                success = "/tixer/" in page.url
-            except Exception:
-                success = "/tixer/" in page.url
-
-            cookies = ctx.cookies()
-            browser.close()
-
-        if not success:
-            log_message("[1stTix] Playwright login did not reach account page")
-            return False
-
-        # Hand the browser's cookies + UA to the requests session.
-        session.headers["User-Agent"] = BROWSER_UA
-        for c in cookies:
-            try:
-                session.cookies.set(
-                    c["name"], c["value"], domain=c.get("domain"), path=c.get("path", "/")
+                ctx = browser.new_context(
+                    user_agent=BROWSER_UA, viewport={"width": 1280, "height": 800}
                 )
-            except Exception:
-                pass
-        log_message("[1stTix] Successfully logged in (Playwright / AWS WAF)")
-        return True
+                page = ctx.new_page()
+                page.goto(
+                    FIRSTTIX_LOGIN_URL, wait_until="domcontentloaded", timeout=45000
+                )
 
-    except Exception as e:
-        log_message(f"[1stTix] Playwright login failed: {e}")
+                # Wait for the AWS WAF challenge to set its token cookie.
+                for _ in range(30):
+                    if any("waf" in c["name"].lower() for c in ctx.cookies()):
+                        break
+                    page.wait_for_timeout(500)
+                else:
+                    log_message("[1stTix] WAF token not issued — proceeding anyway")
+
+                page.wait_for_selector('input[name="password"]', timeout=15000)
+                page.fill('input[name="email"]', FIRSTTIX_EMAIL)
+                page.fill('input[name="password"]', FIRSTTIX_PASSWORD)
+                page.click('button[type="submit"], input[type="submit"]')
+
+                try:
+                    page.wait_for_url("**/tixer/**", timeout=25000)
+                except Exception:
+                    pass
+                return ctx.cookies() if "/tixer/" in page.url else []
+            finally:
+                browser.close()
+
+    cookies = []
+    for attempt in range(1, 3):  # up to 2 tries for transient browser/WAF hiccups
+        try:
+            cookies = _attempt()
+            if cookies:
+                break
+            log_message(f"[1stTix] Playwright login attempt {attempt} did not reach account page")
+        except Exception as e:
+            log_message(f"[1stTix] Playwright login attempt {attempt} errored: {e}")
+        time.sleep(3)
+
+    if not cookies:
         return False
+
+    # Hand the browser's cookies + UA to the requests session.
+    session.headers["User-Agent"] = BROWSER_UA
+    for c in cookies:
+        try:
+            session.cookies.set(
+                c["name"], c["value"], domain=c.get("domain"), path=c.get("path", "/")
+            )
+        except Exception:
+            pass
+    log_message("[1stTix] Successfully logged in (Playwright / AWS WAF)")
+    return True
 
 
 # ---------------------------------------------------------------------------

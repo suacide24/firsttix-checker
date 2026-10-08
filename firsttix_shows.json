@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T23:07:44 PT",
-  "last_successful_run": "2026-10-07T23:07:44 PT",
-  "count": 29,
+  "last_updated": "2026-10-08T11:54:30 PT",
+  "last_successful_run": "2026-10-08T11:54:30 PT",
+  "count": 28,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Oregon State Beavers",
-      "date": "Thu, 8 Oct '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652900",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball"
-    },
     {
       "source": "1stTix",
       "name": "Best of San Diego",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview661451_1791242704.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -40,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview659992_1790794204.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -54,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview659993_1790794206.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -68,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview661292_1791225301.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -96,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651678_1787930877.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -110,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview659686_1790724302.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -124,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview661403_1791237002.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -138,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-661469-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -152,11 +138,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/376056"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jay Buchanan (of Rival Sons)",
+      "date": "Mon, 12 Oct '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/661765",
+      "image": "https://ei-cdn.1sttix.org/preview661765_1791310203.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/jay-buchanan-music-box-tickets/15025793?theme=musicboxsd"
     },
     {
       "source": "1stTix",
@@ -166,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview660131_1790805901.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -180,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview658248_1790260502.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -194,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651169_1787773801.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -208,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -222,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -236,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -250,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -264,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -278,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648629_1786982102.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -292,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview660587_1790956202.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -306,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -320,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -334,25 +334,11 @@
       "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://pacifictigers.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Megan Woods: The Truth tour",
-      "date": "Fri, 23 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658390",
-      "image": "https://ei-cdn.1sttix.org/preview-658390-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/megan-woods-the-truth-tour-spring-valley-california-10-23-2026/event/0A0064D887A640DC"
     },
     {
       "source": "1stTix",
@@ -362,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -376,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -390,7 +376,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -404,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },

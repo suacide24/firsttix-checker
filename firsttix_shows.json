@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T19:38:54 PT",
-  "last_successful_run": "2026-10-07T19:38:54 PT",
-  "count": 31,
+  "last_updated": "2026-10-07T23:07:44 PT",
+  "last_successful_run": "2026-10-07T23:07:44 PT",
+  "count": 29,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Loyola Marymount Lions",
-      "date": "Thu, 8 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642583",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -87,20 +73,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://cvfirebirds.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Hairball: Balls to the Wall Tour 2026",
-      "date": "Fri, 9 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658994",
-      "image": "https://ei-cdn.1sttix.org/preview658994_1790616903.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.sycuan.com/event/hairball-8pm-friday-october-9-2026/"
     },
     {
       "source": "1stTix",

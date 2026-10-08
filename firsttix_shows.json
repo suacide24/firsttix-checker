@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-08T11:54:30 PT",
-  "last_successful_run": "2026-10-08T11:54:30 PT",
-  "count": 28,
+  "last_updated": "2026-10-08T12:24:50 PT",
+  "last_successful_run": "2026-10-08T12:24:50 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -87,20 +87,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketweb.com/event/pearl-jam-nirvana-gaslamp-long-beach-tickets/14173074?pl=gaslamp"
-    },
-    {
-      "source": "1stTix",
-      "name": "Al Jardine of the Beach Boys and the Pet Sounds Band",
-      "date": "Sat, 10 Oct '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/659686",
-      "image": "https://ei-cdn.1sttix.org/preview659686_1790724302.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.powayonstage.org/event/al-jardine-pet-sounds-band/"
     },
     {
       "source": "1stTix",

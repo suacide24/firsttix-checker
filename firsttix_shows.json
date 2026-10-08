@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-07T19:08:07 PT",
-  "last_successful_run": "2026-10-07T19:08:07 PT",
-  "count": 32,
+  "last_updated": "2026-10-07T19:38:54 PT",
+  "last_successful_run": "2026-10-07T19:38:54 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -171,20 +171,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketmaster.com/edgardo-nunez-kane-rodriguez-san-diego-california-10-10-2026/event/0A00648BF55714FF"
-    },
-    {
-      "source": "1stTix",
-      "name": "for KING & COUNTRY",
-      "date": "Sun, 11 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/660203",
-      "image": "https://ei-cdn.1sttix.org/preview-641286-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/for-king-country-san-diego-california-10-11-2026/event/0A0064AD91EC687E"
     },
     {
       "source": "1stTix",

@@ -1,64 +1,36 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-08T12:24:50 PT",
-  "last_successful_run": "2026-10-08T12:24:50 PT",
+  "last_updated": "2026-10-09T11:00:18 PT",
+  "last_successful_run": "2026-10-09T11:00:18 PT",
   "count": 27,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Best of San Diego",
-      "date": "Thu, 8 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/661451",
-      "image": "https://ei-cdn.1sttix.org/preview661451_1791242704.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/best-lajolla-2026-october8th"
-    },
-    {
-      "source": "1stTix",
-      "name": "LED presents Biscits with Willo",
-      "date": "Fri, 9 Oct '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/659992",
-      "image": "https://ei-cdn.1sttix.org/preview659992_1790794204.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-biscits-day-club-fit-social-2026"
-    },
-    {
-      "source": "1stTix",
-      "name": "Indo Warehouse",
-      "date": "Fri, 9 Oct '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/659993",
-      "image": "https://ei-cdn.1sttix.org/preview659993_1790794206.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-indo-warehouse-quartyard-2026"
-    },
     {
       "source": "1stTix",
       "name": "Coachella Valley Firebirds - AHL vs San Diego Gulls",
       "date": "Fri, 9 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/661292",
       "image": "https://ei-cdn.1sttix.org/preview661292_1791225301.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://cvfirebirds.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Bassem Youssef: The Belly of the Beast Tour",
+      "date": "Fri, 9 Oct '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/662192",
+      "image": "https://ei-cdn.1sttix.org/preview-658592-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://cvfirebirds.com/"
+      "info_url": "https://www.livenation.com/event/vvG1IZ_AmrnMju/bassem-youssef-the-belly-of-the-beast-tour"
     },
     {
       "source": "1stTix",
@@ -66,13 +38,27 @@
       "date": "Sat, 10 Oct '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642584",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
+      "date": "Sat, 10 Oct '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/661816",
+      "image": "https://ei-cdn.1sttix.org/preview661816_1791315601.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+      "info_url": "https://www.shockoceanside.com/"
     },
     {
       "source": "1stTix",
@@ -80,11 +66,11 @@
       "date": "Sat, 10 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/651678",
       "image": "https://ei-cdn.1sttix.org/preview651678_1787930877.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/pearl-jam-nirvana-gaslamp-long-beach-tickets/14173074?pl=gaslamp"
     },
@@ -94,13 +80,27 @@
       "date": "Sat, 10 Oct '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/661403",
       "image": "https://ei-cdn.1sttix.org/preview661403_1791237002.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.goodticket.co/beach/#/event/grwjxmOTOnkYoomBAbdM/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Khachaturian's Exuberant Violin Concerto",
+      "date": "Sat, 10 Oct '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663103",
+      "image": "https://ei-cdn.1sttix.org/preview663103_1791562804.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.goodticket.co/beach/#/event/grwjxmOTOnkYoomBAbdM/"
+      "info_url": "https://www.sandiegosymphony.org/performances/khachaturian-violin-concerto/?performance=9943"
     },
     {
       "source": "1stTix",
@@ -108,13 +108,27 @@
       "date": "Sat, 10 Oct '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/661469",
       "image": "https://ei-cdn.1sttix.org/preview-661469-tm.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketmaster.com/edgardo-nunez-kane-rodriguez-san-diego-california-10-10-2026/event/0A00648BF55714FF"
+    },
+    {
+      "source": "1stTix",
+      "name": "Ritmo Celestial",
+      "date": "Sat, 10 Oct '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/661760",
+      "image": "https://ei-cdn.1sttix.org/preview661760_1791309904.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketmaster.com/edgardo-nunez-kane-rodriguez-san-diego-california-10-10-2026/event/0A00648BF55714FF"
+      "info_url": "https://www.ticketweb.com/event/ritmo-celestial-music-box-tickets/14309124?theme=musicboxsd"
     },
     {
       "source": "1stTix",
@@ -122,11 +136,11 @@
       "date": "Sun, 11 Oct '26 8:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/658865",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/376056"
     },
@@ -138,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview661765_1791310203.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -150,11 +164,11 @@
       "date": "Tue, 13 Oct '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/660131",
       "image": "https://ei-cdn.1sttix.org/preview660131_1790805901.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/benmont-tench-solo-music-box-tickets/14264254?REFID=email&theme=musicboxsd"
     },
@@ -164,11 +178,11 @@
       "date": "Wed, 14 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/658248",
       "image": "https://ei-cdn.1sttix.org/preview658248_1790260502.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/steven-curtis-chapman-speechless-25th-skyline-church-tickets/14950873?pl=TPR"
     },
@@ -178,27 +192,13 @@
       "date": "Wed, 14 Oct '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/651169",
       "image": "https://ei-cdn.1sttix.org/preview651169_1787773801.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/live-dead-brothers-music-box-tickets/14191774"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Thu, 15 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658866",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/381208"
     },
     {
       "source": "1stTix",
@@ -206,11 +206,11 @@
       "date": "Fri, 16 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/650023",
       "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-chula-vista-california-10-16-2026/event/0A006495A1C28143"
     },
@@ -220,11 +220,11 @@
       "date": "Fri, 16 Oct '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/658868",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/373129"
     },
@@ -234,11 +234,11 @@
       "date": "Sat, 17 Oct '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/652903",
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
     },
@@ -248,11 +248,11 @@
       "date": "Sat, 17 Oct '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642561",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/football"
     },
@@ -262,11 +262,11 @@
       "date": "Sat, 17 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/648629",
       "image": "https://ei-cdn.1sttix.org/preview648629_1786982102.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/stevie-nicks-illusion-2/"
     },
@@ -276,11 +276,11 @@
       "date": "Sat, 17 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/660587",
       "image": "https://ei-cdn.1sttix.org/preview660587_1790956202.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "http://socalprowrestling.com/halloweenheat/"
     },
@@ -290,11 +290,11 @@
       "date": "Tue, 20 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/658869",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/387348"
     },
@@ -304,11 +304,11 @@
       "date": "Wed, 21 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/658870",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/377767"
     },
@@ -318,11 +318,11 @@
       "date": "Thu, 22 Oct '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/646736",
       "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://pacifictigers.com/sports/womens-volleyball/schedule"
     },
@@ -332,11 +332,11 @@
       "date": "Sat, 24 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/651516",
       "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/gethen/"
     },
@@ -346,11 +346,11 @@
       "date": "Sat, 23 Jan '27 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642785",
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/so-petty/"
     },
@@ -360,11 +360,11 @@
       "date": "Sun, 7 Mar '27 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/649606",
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/353816"
     },
@@ -374,11 +374,11 @@
       "date": "Sat, 20 Mar '27 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/645896",
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/counts-77/"
     }

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-12T12:11:50 PT",
-  "last_successful_run": "2026-10-12T12:11:50 PT",
-  "count": 21,
+  "last_updated": "2026-10-12T12:44:02 PT",
+  "last_successful_run": "2026-10-12T12:44:02 PT",
+  "count": 20,
   "shows": [
     {
       "source": "1stTix",
@@ -45,20 +45,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://thecomedystore.com/la-jolla/calendar/show/4253/2026-10-15t200000-0700-the-best-of-san-diego-thu-8pm"
-    },
-    {
-      "source": "1stTix",
-      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "date": "Fri, 16 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/650023",
-      "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-chula-vista-california-10-16-2026/event/0A006495A1C28143"
     },
     {
       "source": "1stTix",

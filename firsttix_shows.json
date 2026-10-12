@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-12T09:40:17 PT",
-  "last_successful_run": "2026-10-12T09:40:17 PT",
-  "count": 18,
+  "last_updated": "2026-10-12T10:10:33 PT",
+  "last_successful_run": "2026-10-12T10:10:33 PT",
+  "count": 19,
   "shows": [
     {
       "source": "1stTix",
@@ -199,6 +199,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Christian L\u00f6ffler",
+      "date": "Fri, 30 Oct '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/659987",
+      "image": "https://ei-cdn.1sttix.org/preview659987_1790793905.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-christian-loffler-eq-2026"
     },
     {
       "source": "1stTix",

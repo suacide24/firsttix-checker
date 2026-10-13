@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-12T16:57:00 PT",
-  "last_successful_run": "2026-10-12T16:57:00 PT",
-  "count": 23,
+  "last_updated": "2026-10-12T17:27:19 PT",
+  "last_successful_run": "2026-10-12T17:27:19 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -227,6 +227,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/379278"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Boise State Broncos",
+      "date": "Thu, 29 Oct '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/652908",
+      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://goaztecs.com/sports/volleyball/schedule"
     },
     {
       "source": "1stTix",

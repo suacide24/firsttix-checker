@@ -1468,6 +1468,13 @@
         "2026-10-12",
         "2026-10-13"
       ]
+    },
+    "1stTix|kyle watson": {
+      "name": "Kyle Watson",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-13"
+      ]
     }
   }
 }

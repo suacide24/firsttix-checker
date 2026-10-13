@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-13T09:47:54 PT",
-  "last_successful_run": "2026-10-13T09:47:54 PT",
-  "count": 23,
+  "last_updated": "2026-10-13T10:18:16 PT",
+  "last_successful_run": "2026-10-13T10:18:16 PT",
+  "count": 24,
   "shows": [
     {
       "source": "1stTix",
@@ -241,6 +241,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-christian-loffler-eq-2026"
+    },
+    {
+      "source": "1stTix",
+      "name": "Kyle Watson",
+      "date": "Fri, 30 Oct '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/659989",
+      "image": "https://ei-cdn.1sttix.org/preview659989_1790793908.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-kyle-watson-spin-2026"
     },
     {
       "source": "1stTix",

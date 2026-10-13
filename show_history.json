@@ -1247,7 +1247,8 @@
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
-        "2026-10-12"
+        "2026-10-12",
+        "2026-10-13"
       ]
     },
     "1stTix|san diego toreros - ncaa football vs valparaiso beacons": {
@@ -1478,6 +1479,13 @@
     },
     "1stTix|san diego state aztecs - ncaa women's volleyball vs washington state cougars": {
       "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Washington State Cougars",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-13"
+      ]
+    },
+    "1stTix|san diego state aztecs - ncaa women's volleyball vs utah state aggies": {
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Utah State Aggies",
       "source": "1stTix",
       "appearances": [
         "2026-10-13"

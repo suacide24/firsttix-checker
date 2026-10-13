@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-13T10:48:34 PT",
-  "last_successful_run": "2026-10-13T10:48:34 PT",
-  "count": 24,
+  "last_updated": "2026-10-13T11:18:55 PT",
+  "last_successful_run": "2026-10-13T11:18:55 PT",
+  "count": 25,
   "shows": [
     {
       "source": "1stTix",
@@ -269,6 +269,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Washington State Cougars",
+      "date": "Sat, 31 Oct '26 12:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/652909",
+      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://goaztecs.com/sports/volleyball"
     },
     {
       "source": "1stTix",

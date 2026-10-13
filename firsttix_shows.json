@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-13T14:17:02 PT",
-  "last_successful_run": "2026-10-13T14:17:02 PT",
-  "count": 27,
+  "last_updated": "2026-10-13T15:34:36 PT",
+  "last_successful_run": "2026-10-13T15:34:36 PT",
+  "count": 26,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "Ron Killings aka WWE Superstar R-Truth",
+      "date": "Wed, 14 Oct '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/655708",
+      "image": "https://ei-cdn.1sttix.org/preview655708_1789489281.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theholdingcompanyob.com/show/ron-killings-aka-wwe-superstar-r-truth/"
+    },
     {
       "source": "1stTix",
       "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Utah State Aggies",
@@ -73,20 +87,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Football vs Valparaiso Beacons",
-      "date": "Sat, 17 Oct '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642561",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/football"
     },
     {
       "source": "1stTix",
@@ -311,20 +311,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Football vs Marist Red Foxes",
-      "date": "Sat, 31 Oct '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642572",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/football"
     },
     {
       "source": "1stTix",

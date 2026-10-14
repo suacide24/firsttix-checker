@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-14T10:16:15 PT",
-  "last_successful_run": "2026-10-14T10:16:15 PT",
-  "count": 27,
+  "last_updated": "2026-10-14T10:46:35 PT",
+  "last_successful_run": "2026-10-14T10:46:35 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -227,6 +227,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://cityballet.org/performances/american-icons/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Infinite Floyd - The Essential Hits",
+      "date": "Sun, 25 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663577",
+      "image": "https://ei-cdn.1sttix.org/preview663577_1791826802.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654?theme=bellyup"
     },
     {
       "source": "1stTix",

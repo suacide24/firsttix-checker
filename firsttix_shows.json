@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-13T15:34:36 PT",
-  "last_successful_run": "2026-10-13T15:34:36 PT",
-  "count": 26,
+  "last_updated": "2026-10-14T09:45:58 PT",
+  "last_successful_run": "2026-10-14T09:45:58 PT",
+  "count": 27,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "San Diego Gulls - AHL vs Ontario Reign",
+      "date": "Wed, 14 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663763",
+      "image": "https://ei-cdn.1sttix.org/preview663763_1791847175.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.sandiegogulls.com/schedule/schedule/"
+    },
     {
       "source": "1stTix",
       "name": "Ron Killings aka WWE Superstar R-Truth",
@@ -12,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview655708_1789489281.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -26,11 +40,25 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Escher String Quartet",
+      "date": "Thu, 15 Oct '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663627",
+      "image": "https://ei-cdn.1sttix.org/preview663627_1791831002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://artpower.ucsd.edu/event/escher-string-quartet/"
     },
     {
       "source": "1stTix",
@@ -40,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview662356_1791408905.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -68,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -82,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview648629_1786982102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,25 +138,11 @@
       "image": "https://ei-cdn.1sttix.org/preview660587_1790956202.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "http://socalprowrestling.com/halloweenheat/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Tue, 20 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658869",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/387348"
     },
     {
       "source": "1stTix",
@@ -138,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -150,11 +164,11 @@
       "date": "Wed, 21 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/662902",
       "image": "https://ei-cdn.1sttix.org/preview-652329-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-san-diego-california-10-21-2026/event/0A00649B965088D7"
     },
@@ -166,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -180,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -192,11 +206,11 @@
       "date": "Sat, 24 Oct '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/662913",
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://cityballet.org/performances/american-icons/"
     },
@@ -206,11 +220,11 @@
       "date": "Sun, 25 Oct '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/662914",
       "image": "https://ei-cdn.1sttix.org/preview-662914-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://cityballet.org/performances/american-icons/"
     },
@@ -222,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -234,11 +248,11 @@
       "date": "Thu, 29 Oct '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/652908",
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/sports/volleyball/schedule"
     },
@@ -248,27 +262,13 @@
       "date": "Thu, 29 Oct '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642585",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Christian L\u00f6ffler",
-      "date": "Fri, 30 Oct '26 10:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/659987",
-      "image": "https://ei-cdn.1sttix.org/preview659987_1790793905.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-christian-loffler-eq-2026"
     },
     {
       "source": "1stTix",
@@ -278,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview659989_1790793908.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -290,11 +290,11 @@
       "date": "Sat, 31 Oct '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642586",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -306,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -320,11 +320,39 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/385345"
+    },
+    {
+      "source": "1stTix",
+      "name": "Experience - Dia De Los Muertos",
+      "date": "Sat, 31 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/654950",
+      "image": "https://ei-cdn.1sttix.org/preview654950_1789083604.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://sandiegoballet.org/que-bonito-amor-and-mambomania/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Halloween Night - Emo After Dark",
+      "date": "Sat, 31 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656706",
+      "image": "https://ei-cdn.1sttix.org/preview656706_1789742915.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/emo-after-dark-gaslamp-long-beach-tickets/14786303"
     },
     {
       "source": "1stTix",
@@ -334,25 +362,11 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/so-petty/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Event Rescheduled: Mic Drop Comedy",
-      "date": "Sun, 7 Mar '27 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/649606",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/353816"
     },
     {
       "source": "1stTix",
@@ -362,7 +376,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },

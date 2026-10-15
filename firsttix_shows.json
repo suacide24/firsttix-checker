@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-15T12:49:55 PT",
-  "last_successful_run": "2026-10-15T07:33:16 PT",
-  "count": 28,
+  "last_updated": "2026-10-15T15:09:53 PT",
+  "last_successful_run": "2026-10-15T15:09:53 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Thu, 15 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658866",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/381208"
     },
     {
       "source": "1stTix",
@@ -220,20 +206,6 @@
       "date": "Sat, 24 Oct '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/662913",
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://cityballet.org/performances/american-icons/"
-    },
-    {
-      "source": "1stTix",
-      "name": "City Ballet Of San Diego Presents: American Icons",
-      "date": "Sun, 25 Oct '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/662914",
-      "image": "https://ei-cdn.1sttix.org/preview-662914-tm.jpg",
       "rare": false,
       "popularity": {
         "appearances": 4,

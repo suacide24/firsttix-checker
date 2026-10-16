@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-15T16:40:41 PT",
-  "last_successful_run": "2026-10-15T16:40:41 PT",
-  "count": 26,
+  "last_updated": "2026-10-15T17:11:01 PT",
+  "last_successful_run": "2026-10-15T17:11:01 PT",
+  "count": 24,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Utah State Aggies",
-      "date": "Thu, 15 Oct '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652902",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Best of San Diego",
-      "date": "Thu, 15 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/662356",
-      "image": "https://ei-cdn.1sttix.org/preview662356_1791408905.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://thecomedystore.com/la-jolla/calendar/show/4253/2026-10-15t200000-0700-the-best-of-san-diego-thu-8pm"
-    },
     {
       "source": "1stTix",
       "name": "Logic & G-Eazy: The Endless Summer Tour Part II",

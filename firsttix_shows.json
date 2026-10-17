@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-17T06:51:41 PT",
-  "last_successful_run": "2026-10-17T06:51:41 PT",
-  "count": 19,
+  "last_updated": "2026-10-17T07:37:02 PT",
+  "last_successful_run": "2026-10-17T07:37:02 PT",
+  "count": 20,
   "shows": [
     {
       "source": "1stTix",
@@ -241,6 +241,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usapickleballnationals.com/concert-on-the-court/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Greg Koch & The Koch Marshall Trio",
+      "date": "Thu, 5 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/654250",
+      "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/greg-koch/"
     },
     {
       "source": "1stTix",

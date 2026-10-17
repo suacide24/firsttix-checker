@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-16T13:31:59 PT",
-  "last_successful_run": "2026-10-16T13:31:59 PT",
-  "count": 22,
+  "last_updated": "2026-10-17T06:51:41 PT",
+  "last_successful_run": "2026-10-17T06:51:41 PT",
+  "count": 19,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "date": "Fri, 16 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/650023",
-      "image": "https://ei-cdn.1sttix.org/preview-650023-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-chula-vista-california-10-16-2026/event/0A006495A1C28143"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 16 Oct '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658868",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/373129"
-    },
     {
       "source": "1stTix",
       "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Texas State Bobcats",
@@ -40,53 +12,11 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Stevie Nicks Illusion \u2013 Tribute to Fleetwood Mac & Stevie Nicks",
-      "date": "Sat, 17 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/648629",
-      "image": "https://ei-cdn.1sttix.org/preview648629_1786982102.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://ramonamainstage.com/stevie-nicks-illusion-2/"
-    },
-    {
-      "source": "1stTix",
-      "name": "SoCal Pro Wrestling Vista CA",
-      "date": "Sat, 17 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/660587",
-      "image": "https://ei-cdn.1sttix.org/preview660587_1790956202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "http://socalprowrestling.com/halloweenheat/"
-    },
-    {
-      "source": "1stTix",
-      "name": "LA Galaxy - MLS vs San Diego FC",
-      "date": "Sat, 17 Oct '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/663740",
-      "image": "https://ei-cdn.1sttix.org/preview663740_1791843002.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.lagalaxy.com/"
     },
     {
       "source": "1stTix",
@@ -96,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -110,11 +40,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-652329-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-san-diego-california-10-21-2026/event/0A00649B965088D7"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Winners",
+      "date": "Wed, 21 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664609",
+      "image": "https://ei-cdn.1sttix.org/preview664609_1792016104.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/the-winners-2026-oct21th8svjzghfkwctzwjmwjgmvocfpcrj"
     },
     {
       "source": "1stTix",
@@ -124,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -138,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -152,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -166,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663577_1791826802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -180,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -194,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -208,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664464_1792006102.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -236,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -278,11 +222,25 @@
       "image": "https://ei-cdn.1sttix.org/preview656706_1789742915.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/emo-after-dark-gaslamp-long-beach-tickets/14786303"
+    },
+    {
+      "source": "1stTix",
+      "name": "USA Pickleball Concert on the Court presented by Phonak",
+      "date": "Tue, 3 Nov '26 4:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663694",
+      "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usapickleballnationals.com/concert-on-the-court/"
     },
     {
       "source": "1stTix",
@@ -292,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -306,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

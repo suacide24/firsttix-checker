@@ -4,7 +4,6 @@
       "name": "Mic Drop Comedy",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -32,7 +31,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|grand comedy club": {
@@ -58,25 +58,16 @@
       "name": "Hilariously Discharged",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-24"
       ]
     },
-    "1stTix|the soap girls": {
-      "name": "The Soap Girls",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-19"
-      ]
-    },
     "1stTix|ed sheeran: loop tour": {
       "name": "Ed Sheeran: LOOP Tour",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21"
       ]
@@ -85,7 +76,6 @@
       "name": "Shredding the Multiverse",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20"
       ]
     },
@@ -93,7 +83,6 @@
       "name": "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21"
       ]
@@ -102,7 +91,6 @@
       "name": "Pinata Protest",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22"
@@ -112,23 +100,14 @@
       "name": "Up Close: A Conversation with Brad Bird and Michael Giacchino",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21"
-      ]
-    },
-    "1stTix|ingrid andress at the river: san diego's only country music pool party": {
-      "name": "Ingrid Andress at The River: San Diego's Only Country Music Pool Party",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-19"
       ]
     },
     "1stTix|larry & his flask": {
       "name": "Larry & His Flask",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -139,7 +118,6 @@
       "name": "The Devastators, Roots Covenant, Raiz Muzik",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22"
@@ -149,25 +127,16 @@
       "name": "Selena Tribute Dreaming of you",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-24"
       ]
     },
-    "1stTix|rising star entertainment presents: aleslammiversary 4: battle for the big top": {
-      "name": "Rising Star Entertainment Presents: AleSlammiversary 4: Battle for The Big Top",
-      "source": "1stTix",
-      "appearances": [
-        "2026-07-19"
-      ]
-    },
     "1stTix|dailey & vincent - a beautiful life tour. w/ graham nancarrow": {
       "name": "Dailey & Vincent - a Beautiful Life Tour. W/ Graham Nancarrow",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -180,7 +149,6 @@
       "name": "Beatles vs. Stones \u2013 A Musical Showdown",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -196,7 +164,6 @@
       "name": "U2, the Cure, INXS and Morrissey Tributes",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -212,7 +179,6 @@
       "name": "Joyas Prestadas - The Jenni Rivera Tribute",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -228,7 +194,6 @@
       "name": "Gio Chamba",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -244,7 +209,6 @@
       "name": "Atomic Groove Happy Hour",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -257,7 +221,6 @@
       "name": "Rio Da Yung OG",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -271,7 +234,6 @@
       "name": "Les Mis\u00e9rables",
       "source": "1stTix",
       "appearances": [
-        "2026-07-19",
         "2026-07-21",
         "2026-07-22"
       ]
@@ -1241,7 +1203,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|gethen jenkins": {
@@ -1256,7 +1219,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|event rescheduled: so petty \u2013 tribute to the music of tom petty & the heartbreakers": {
@@ -1271,7 +1235,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|event rescheduled: mic drop comedy": {
@@ -1297,7 +1262,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|lakeview": {
@@ -1384,7 +1350,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|san diego toreros - ncaa women's volleyball vs santa clara broncos": {
@@ -1396,7 +1363,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|christian l\u00f6ffler": {
@@ -1424,7 +1392,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|city ballet of san diego presents: american icons": {
@@ -1436,7 +1405,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|san diego state aztecs - ncaa women's volleyball vs boise state broncos": {
@@ -1448,7 +1418,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|kyle watson": {
@@ -1469,7 +1440,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|san diego state aztecs - ncaa women's volleyball vs utah state aggies": {
@@ -1517,7 +1489,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|infinite floyd - the essential hits": {
@@ -1527,7 +1500,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|la galaxy - mls vs san diego fc": {
@@ -1566,35 +1540,54 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-16",
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|the winners": {
       "name": "The Winners",
       "source": "1stTix",
       "appearances": [
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|usa pickleball concert on the court presented by phonak": {
       "name": "USA Pickleball Concert on the Court presented by Phonak",
       "source": "1stTix",
       "appearances": [
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|greg koch & the koch marshall trio": {
       "name": "Greg Koch & The Koch Marshall Trio",
       "source": "1stTix",
       "appearances": [
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
       ]
     },
     "1stTix|lizzy & the triggermen w/ grey delisle & the blue ribbon boys": {
       "name": "Lizzy & the Triggermen W/ Grey Delisle & the Blue Ribbon Boys",
       "source": "1stTix",
       "appearances": [
-        "2026-10-17"
+        "2026-10-17",
+        "2026-10-18"
+      ]
+    },
+    "1stTix|oceanside shock vs stockton thunder": {
+      "name": "Oceanside Shock vs Stockton Thunder",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-18"
+      ]
+    },
+    "1stTix|danny seraphine\u2019s chicago legacy (original chicago member)": {
+      "name": "Danny Seraphine\u2019s Chicago Legacy (Original Chicago Member)",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-18"
       ]
     }
   }

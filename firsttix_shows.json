@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-17T13:10:07 PT",
-  "last_successful_run": "2026-10-17T13:10:07 PT",
-  "count": 20,
+  "last_updated": "2026-10-18T08:25:15 PT",
+  "last_successful_run": "2026-10-18T08:25:15 PT",
+  "count": 22,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "Oceanside Shock vs Stockton Thunder",
+      "date": "Sun, 18 Oct '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/665244",
+      "image": "https://ei-cdn.1sttix.org/preview665244_1792177802.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.frontwavearena.com/events/detail/oceanside-shock-vs-stockton-thunder-1"
+    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
@@ -12,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -26,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-652329-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664609_1792016104.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -54,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -68,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -82,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -96,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663577_1791826802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -124,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -138,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -152,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664905_1792095002.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -164,11 +178,11 @@
       "date": "Fri, 30 Oct '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/664464",
       "image": "https://ei-cdn.1sttix.org/preview664464_1792006102.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://universe.com/epichardhalloween"
     },
@@ -180,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -208,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -222,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656706_1789742915.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -236,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -250,11 +264,25 @@
       "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://ramonamainstage.com/greg-koch/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Danny Seraphine\u2019s Chicago Legacy (Original Chicago Member)",
+      "date": "Fri, 6 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/653828",
+      "image": "https://ei-cdn.1sttix.org/preview653828_1788840169.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/chicago-legacy/"
     },
     {
       "source": "1stTix",
@@ -264,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -278,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

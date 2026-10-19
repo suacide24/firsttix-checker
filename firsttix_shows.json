@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-19T09:45:14 PT",
-  "last_successful_run": "2026-10-18T08:25:15 PT",
-  "count": 22,
+  "last_updated": "2026-10-19T14:00:07 PT",
+  "last_successful_run": "2026-10-19T14:00:07 PT",
+  "count": 25,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Oceanside Shock vs Stockton Thunder",
-      "date": "Sun, 18 Oct '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/665244",
-      "image": "https://ei-cdn.1sttix.org/preview665244_1792177802.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.frontwavearena.com/events/detail/oceanside-shock-vs-stockton-thunder-1"
-    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
@@ -26,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -40,9 +26,9 @@
       "image": "https://ei-cdn.1sttix.org/preview-652329-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-san-diego-california-10-21-2026/event/0A00649B965088D7"
     },
@@ -52,41 +38,41 @@
       "date": "Wed, 21 Oct '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/664609",
       "image": "https://ei-cdn.1sttix.org/preview664609_1792016104.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/the-winners-2026-oct21th8svjzghfkwctzwjmwjgmvocfpcrj"
     },
     {
       "source": "1stTix",
-      "name": "Pacific Tigers - NCAA Women's Volleyball vs San Diego Toreros",
-      "date": "Thu, 22 Oct '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/646736",
-      "image": "https://ei-cdn.1sttix.org/preview370321_1660149776.jpg",
+      "name": "Best of San Diego",
+      "date": "Thu, 22 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/665414",
+      "image": "https://ei-cdn.1sttix.org/preview665414_1792382413.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 7,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://pacifictigers.com/sports/womens-volleyball/schedule"
+      "info_url": "https://events.leapevents.com/event/best-lajolla-2026-october22nd"
     },
     {
       "source": "1stTix",
-      "name": "Gethen Jenkins",
+      "name": "Brian Monarch and Leah Knauer",
       "date": "Sat, 24 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/651516",
-      "image": "https://ei-cdn.1sttix.org/preview651516_1787859602.jpg",
-      "rare": false,
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/665324",
+      "image": "https://ei-cdn.1sttix.org/preview665324_1792194843.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://ramonamainstage.com/gethen/"
+      "info_url": "https://www.eventbrite.com/e/brian-monarch-live-in-san-diego-tickets-1996533820402?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -96,9 +82,9 @@
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://cityballet.org/performances/american-icons/"
     },
@@ -110,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663577_1791826802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -124,25 +110,11 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/379278"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Boise State Broncos",
-      "date": "Thu, 29 Oct '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652908",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball/schedule"
     },
     {
       "source": "1stTix",
@@ -152,9 +124,9 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -164,11 +136,11 @@
       "date": "Thu, 29 Oct '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/664905",
       "image": "https://ei-cdn.1sttix.org/preview664905_1792095002.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/lizzy-the-triggermen-grey-belly-up-tickets/15032413?REFID=bupwebsite&theme=bellyup"
     },
@@ -180,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664464_1792006102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,9 +166,9 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -208,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -236,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656706_1789742915.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -244,17 +216,45 @@
     },
     {
       "source": "1stTix",
+      "name": "UB40",
+      "date": "Sat, 31 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664675",
+      "image": "https://ei-cdn.1sttix.org/preview-658120-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/ub40-san-diego-california-10-31-2026/event/0A006434DFDE8AA9"
+    },
+    {
+      "source": "1stTix",
       "name": "USA Pickleball Concert on the Court presented by Phonak",
       "date": "Tue, 3 Nov '26 4:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/663694",
       "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usapickleballnationals.com/concert-on-the-court/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Fresno State Bulldogs",
+      "date": "Thu, 5 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/652910",
+      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://usapickleballnationals.com/concert-on-the-court/"
+      "info_url": "https://goaztecs.com/sports/volleyball"
     },
     {
       "source": "1stTix",
@@ -262,13 +262,27 @@
       "date": "Thu, 5 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/654250",
       "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://ramonamainstage.com/greg-koch/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jimmy",
+      "date": "Fri, 6 Nov '26",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/662846",
+      "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://ramonamainstage.com/greg-koch/"
+      "info_url": "https://www.jimmythemovie.com/"
     },
     {
       "source": "1stTix",
@@ -278,11 +292,39 @@
       "image": "https://ei-cdn.1sttix.org/preview653828_1788840169.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://ramonamainstage.com/chicago-legacy/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Iron Maiden Tribute, Tribute to Ronnie James Dio, Queensryche Tribute",
+      "date": "Sat, 7 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656760",
+      "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/maiden-united/"
+    },
+    {
+      "source": "1stTix",
+      "name": "JOURNEY Tribute DSB",
+      "date": "Sat, 7 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656707",
+      "image": "https://ei-cdn.1sttix.org/preview656707_1789743062.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/dsb-tribute-to-gaslamp-long-beach-tickets/14786953"
     },
     {
       "source": "1stTix",
@@ -292,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -306,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

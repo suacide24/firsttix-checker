@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-19T15:43:48 PT",
-  "last_successful_run": "2026-10-19T15:43:48 PT",
-  "count": 25,
+  "last_updated": "2026-10-20T14:34:17 PT",
+  "last_successful_run": "2026-10-20T14:34:17 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-652329-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -40,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664609_1792016104.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -54,9 +54,9 @@
       "image": "https://ei-cdn.1sttix.org/preview665414_1792382413.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://events.leapevents.com/event/best-lajolla-2026-october22nd"
     },
@@ -68,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview665324_1792194843.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-662913-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663577_1791826802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -110,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -124,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -138,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664905_1792095002.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -152,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview664464_1792006102.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -166,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -180,11 +180,25 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Moenia + Maria Jose Us Tour 2026",
+      "date": "Sat, 31 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664911",
+      "image": "https://ei-cdn.1sttix.org/preview-664667-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-el-cajon-california-10-31-2026/event/0B0064C3AFD65D80"
     },
     {
       "source": "1stTix",
@@ -194,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -208,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656706_1789742915.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-658120-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -236,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -264,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -290,11 +304,11 @@
       "date": "Fri, 6 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/653828",
       "image": "https://ei-cdn.1sttix.org/preview653828_1788840169.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/chicago-legacy/"
     },
@@ -306,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -320,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656707_1789743062.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -334,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -348,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

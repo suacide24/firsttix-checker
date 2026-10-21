@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-20T16:36:13 PT",
-  "last_successful_run": "2026-10-20T16:36:13 PT",
-  "count": 26,
+  "last_updated": "2026-10-20T17:06:28 PT",
+  "last_successful_run": "2026-10-20T17:06:28 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -160,6 +160,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Experience - Dia De Los Muertos",
+      "date": "Fri, 30 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/654947",
+      "image": "https://ei-cdn.1sttix.org/preview654947_1789083302.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://sandiegoballet.org/que-bonito-amor-and-mambomania/"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Toreros - NCAA Women's Volleyball vs Santa Clara Broncos",
       "date": "Sat, 31 Oct '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642586",
@@ -213,6 +227,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/385345"
+    },
+    {
+      "source": "1stTix",
+      "name": "Experience - Dia De Los Muertos",
+      "date": "Sat, 31 Oct '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/654950",
+      "image": "https://ei-cdn.1sttix.org/preview654950_1789083604.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://sandiegoballet.org/que-bonito-amor-and-mambomania/"
     },
     {
       "source": "1stTix",

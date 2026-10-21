@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-20T22:26:02 PT",
-  "last_successful_run": "2026-10-20T22:26:02 PT",
-  "count": 27,
+  "last_updated": "2026-10-20T22:56:23 PT",
+  "last_successful_run": "2026-10-20T22:56:23 PT",
+  "count": 28,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "San Diego Gulls - AHL vs Coachella Valley Firebirds",
+      "date": "Wed, 21 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/665772",
+      "image": "https://ei-cdn.1sttix.org/preview663763_1791847175.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.sandiegogulls.com/schedule/schedule/"
+    },
     {
       "source": "1stTix",
       "name": "The Winners",

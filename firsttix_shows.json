@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-20T20:55:09 PT",
-  "last_successful_run": "2026-10-20T20:55:09 PT",
+  "last_updated": "2026-10-20T21:25:24 PT",
+  "last_successful_run": "2026-10-20T21:25:24 PT",
   "count": 27,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 21 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/658870",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/377767"
-    },
     {
       "source": "1stTix",
       "name": "The Winners",
@@ -101,6 +87,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654?theme=bellyup"
+    },
+    {
+      "source": "1stTix",
+      "name": "Sunday Funnies",
+      "date": "Sun, 25 Oct '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/665415",
+      "image": "https://ei-cdn.1sttix.org/preview665415_1792382414.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/sunday-funniesyyljzkwzipjrmwsqfiwsc"
     },
     {
       "source": "1stTix",

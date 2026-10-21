@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-20T18:23:33 PT",
-  "last_successful_run": "2026-10-20T18:23:33 PT",
-  "count": 27,
+  "last_updated": "2026-10-20T18:53:55 PT",
+  "last_successful_run": "2026-10-20T18:53:55 PT",
+  "count": 26,
   "shows": [
     {
       "source": "1stTix",
@@ -185,20 +185,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Moenia + Maria Jose Us Tour 2026",
-      "date": "Sat, 31 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664911",
-      "image": "https://ei-cdn.1sttix.org/preview-664667-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/moenia-maria-jose-us-tour-2026-el-cajon-california-10-31-2026/event/0B0064C3AFD65D80"
     },
     {
       "source": "1stTix",

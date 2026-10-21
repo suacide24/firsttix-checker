@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-21T05:53:36 PT",
-  "last_successful_run": "2026-10-21T05:53:36 PT",
-  "count": 27,
+  "last_updated": "2026-10-21T06:43:32 PT",
+  "last_successful_run": "2026-10-21T06:43:32 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -311,6 +311,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.jimmythemovie.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Laugh Outside",
+      "date": "Fri, 6 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/663992",
+      "image": "https://ei-cdn.1sttix.org/preview663992_1791918002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://quartyardsd.com/event/laugh-outside-matt-stantons-1000th-comedy-show/"
     },
     {
       "source": "1stTix",

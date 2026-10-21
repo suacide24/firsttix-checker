@@ -1613,6 +1613,13 @@
         "2026-10-20",
         "2026-10-21"
       ]
+    },
+    "1stTix|laugh outside": {
+      "name": "Laugh Outside",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-21"
+      ]
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-21T08:14:31 PT",
-  "last_successful_run": "2026-10-21T08:14:31 PT",
-  "count": 27,
+  "last_updated": "2026-10-21T08:48:35 PT",
+  "last_successful_run": "2026-10-21T08:48:35 PT",
+  "count": 28,
   "shows": [
     {
       "source": "1stTix",
@@ -45,6 +45,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://events.leapevents.com/event/best-lajolla-2026-october22nd"
+    },
+    {
+      "source": "1stTix",
+      "name": "Friday Night PreHalloween Tour",
+      "date": "Fri, 23 Oct '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/666243",
+      "image": "https://ei-cdn.1sttix.org/preview666243_1792536302.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/1965655461399?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",

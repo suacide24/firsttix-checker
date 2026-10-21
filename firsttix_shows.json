@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-21T07:13:56 PT",
-  "last_successful_run": "2026-10-21T07:13:56 PT",
-  "count": 28,
+  "last_updated": "2026-10-21T07:44:12 PT",
+  "last_successful_run": "2026-10-21T07:44:12 PT",
+  "count": 27,
   "shows": [
     {
       "source": "1stTix",
@@ -59,20 +59,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/brian-monarch-live-in-san-diego-tickets-1996533820402?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "38 Special",
-      "date": "Sat, 24 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/665314",
-      "image": "https://ei-cdn.1sttix.org/preview-622278-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/38-special-alpine-california-10-24-2026/event/0A0064F5D0666BFF"
     },
     {
       "source": "1stTix",

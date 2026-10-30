@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-29T20:18:45 PT",
-  "last_successful_run": "2026-10-29T20:18:45 PT",
-  "count": 39,
+  "last_updated": "2026-10-29T20:54:45 PT",
+  "last_successful_run": "2026-10-29T20:54:45 PT",
+  "count": 38,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Local Laughs - Secret Comedy Lineup",
-      "date": "Thu, 29 Oct '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667832",
-      "image": "https://ei-cdn.1sttix.org/preview667832_1793059202.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1696002472049"
-    },
     {
       "source": "1stTix",
       "name": "FNGRS CRSSD presents Interplanetary Criminal at Palms Beach Club",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-30T01:03:32 PT",
-  "last_successful_run": "2026-10-30T01:03:32 PT",
-  "count": 42,
+  "last_updated": "2026-10-30T01:43:12 PT",
+  "last_successful_run": "2026-10-30T01:43:12 PT",
+  "count": 43,
   "shows": [
     {
       "source": "1stTix",
@@ -535,6 +535,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "All Hands On Deck!",
+      "date": "Sat, 14 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667428",
+      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.mockingbirdimprov.org/tickets"
     },
     {
       "source": "1stTix",

@@ -1556,6 +1556,13 @@
         "2026-10-29",
         "2026-10-30"
       ]
+    },
+    "1stTix|all hands on deck!": {
+      "name": "All Hands On Deck!",
+      "source": "1stTix",
+      "appearances": [
+        "2026-10-30"
+      ]
     }
   }
 }

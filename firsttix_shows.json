@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-30T09:53:21 PT",
-  "last_successful_run": "2026-10-30T09:53:21 PT",
-  "count": 43,
+  "last_updated": "2026-10-30T15:02:34 PT",
+  "last_successful_run": "2026-10-30T15:02:34 PT",
+  "count": 42,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "FNGRS CRSSD presents Interplanetary Criminal at Palms Beach Club",
-      "date": "Fri, 30 Oct '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668469",
-      "image": "https://ei-cdn.1sttix.org/preview668469_1793206204.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-interplanetary-criminal-pbc-2026"
-    },
     {
       "source": "1stTix",
       "name": "Grand Comedy Club",
@@ -115,20 +101,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/hot-sets-stand-up-comedy-at-national-lampoon-the-yellow-door-tickets-1980438036479?aff=erelpanelorg"
-    },
-    {
-      "source": "1stTix",
-      "name": "Kyle Watson",
-      "date": "Fri, 30 Oct '26 10:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/659989",
-      "image": "https://ei-cdn.1sttix.org/preview659989_1790793908.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-kyle-watson-spin-2026"
     },
     {
       "source": "1stTix",
@@ -272,20 +244,6 @@
     },
     {
       "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Thu, 5 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667868",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/354877"
-    },
-    {
-      "source": "1stTix",
       "name": "Jimmy",
       "date": "Fri, 6 Nov '26",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/662846",
@@ -325,6 +283,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://newvillagearts.org/as-you-like-it/"
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Shermanology",
+      "date": "Sat, 7 Nov '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668499",
+      "image": "https://ei-cdn.1sttix.org/preview668499_1793208302.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-shermanology-quartyard-2026"
     },
     {
       "source": "1stTix",
@@ -577,6 +549,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketweb.com/event/no-duh-tribute-gaslamp-long-beach-tickets/14840883?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 17 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667874",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 15,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/368832"
     },
     {
       "source": "1stTix",

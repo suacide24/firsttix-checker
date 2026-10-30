@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-29T23:32:34 PT",
-  "last_successful_run": "2026-10-29T23:32:34 PT",
+  "last_updated": "2026-10-30T00:02:56 PT",
+  "last_successful_run": "2026-10-30T00:02:56 PT",
   "count": 42,
   "shows": [
     {
@@ -12,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668469_1793206204.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -40,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview666332_1792566004.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -54,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668465_1793205604.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -68,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-624734-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -82,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668872_1793247001.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -108,11 +108,11 @@
       "date": "Fri, 30 Oct '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/667837",
       "image": "https://ei-cdn.1sttix.org/preview666332_1792566004.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/hot-sets-stand-up-comedy-at-national-lampoon-the-yellow-door-tickets-1980438036479?aff=erelpanelorg"
     },
@@ -124,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview659989_1790793908.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -138,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -152,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -166,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667838_1793060101.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -180,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview654950_1789083604.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -194,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656706_1792606544.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -208,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-658120-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -236,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -250,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -278,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -292,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -306,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview653828_1788840169.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -320,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668873_1793247002.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -334,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -348,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -362,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668874_1793247302.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -374,11 +374,11 @@
       "date": "Sat, 7 Nov '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/656707",
       "image": "https://ei-cdn.1sttix.org/preview656707_1789743062.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/dsb-tribute-to-gaslamp-long-beach-tickets/14786953"
     },
@@ -390,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -404,7 +404,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -418,7 +418,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -432,7 +432,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -446,7 +446,7 @@
       "image": "https://ei-cdn.1sttix.org/preview519516_1728948808.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -460,7 +460,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656761_1789746903.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -474,7 +474,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667863_1793140718.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -488,7 +488,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668875_1793247302.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -502,7 +502,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -516,7 +516,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642560_1784672402.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -530,7 +530,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -544,7 +544,7 @@
       "image": "https://ei-cdn.1sttix.org/preview668876_1793247602.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -558,7 +558,7 @@
       "image": "https://ei-cdn.1sttix.org/preview660959_1791216048.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -572,7 +572,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -586,7 +586,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 14,
+        "appearances": 15,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

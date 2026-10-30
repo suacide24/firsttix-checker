@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-10-29T18:17:31 PT",
-  "last_successful_run": "2026-10-29T18:17:31 PT",
+  "last_updated": "2026-10-29T18:47:52 PT",
+  "last_successful_run": "2026-10-29T18:47:52 PT",
   "count": 40,
   "shows": [
     {
@@ -31,6 +31,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1696002472049"
+    },
+    {
+      "source": "1stTix",
+      "name": "FNGRS CRSSD presents Interplanetary Criminal at Palms Beach Club",
+      "date": "Fri, 30 Oct '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668469",
+      "image": "https://ei-cdn.1sttix.org/preview668469_1793206204.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://events.leapevents.com/event/fngrs-crssd-presents-interplanetary-criminal-pbc-2026"
     },
     {
       "source": "1stTix",
@@ -87,20 +101,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketmaster.com/the-b52s-devo-cosmic-deevolution-tour-chula-vista-california-10-30-2026/event/0A0064D19C1189F1"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jean-Guihen Queyras, Cello and Alexandre Tharaud",
-      "date": "Fri, 30 Oct '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667649",
-      "image": "https://ei-cdn.1sttix.org/preview667649_1793038502.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theconrad.org/events/queyras-tharaud/"
     },
     {
       "source": "1stTix",

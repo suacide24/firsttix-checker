@@ -28,7 +28,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|micromania \u2013 micro athletes and wrestling": {
@@ -875,7 +876,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|event rescheduled: mic drop comedy": {
@@ -907,7 +909,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|lakeview": {
@@ -968,7 +971,8 @@
       "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
       "source": "1stTix",
       "appearances": [
-        "2026-10-09"
+        "2026-10-09",
+        "2026-11-11"
       ]
     },
     "1stTix|khachaturian's exuberant violin concerto": {
@@ -1330,7 +1334,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|iron maiden tribute, tribute to ronnie james dio, queensryche tribute": {
@@ -1427,7 +1432,8 @@
       "name": "Local Laughs - Secret Comedy Lineup",
       "source": "1stTix",
       "appearances": [
-        "2026-10-29"
+        "2026-10-29",
+        "2026-11-11"
       ]
     },
     "1stTix|grand comedy club": {
@@ -1435,7 +1441,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|hot sets": {
@@ -1498,7 +1505,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|with a vengeance": {
@@ -1506,7 +1514,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|radio 47": {
@@ -1514,7 +1523,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|san diego state aztecs - ncaa women's volleyball vs colorado state university rams": {
@@ -1522,7 +1532,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|loyola marymount lions - ncaa women's volleyball vs san diego toreros": {
@@ -1530,7 +1541,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|san diego toreros - ncaa women's basketball vs cal state northridge matadors": {
@@ -1538,7 +1550,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|no duh and don't push- tributes to no doubt and sublime": {
@@ -1546,7 +1559,8 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|fngrs crssd presents interplanetary criminal at palms beach club": {
@@ -1561,7 +1575,8 @@
       "name": "All Hands On Deck!",
       "source": "1stTix",
       "appearances": [
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "1stTix|led presents shermanology": {
@@ -1569,6 +1584,188 @@
       "source": "1stTix",
       "appearances": [
         "2026-10-30"
+      ]
+    },
+    "1stTix|san diego state aztecs - ncaa women's basketball vs colorado buffaloes": {
+      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Colorado Buffaloes",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|oceanside shock - fphl vs. stockton thunder": {
+      "name": "Oceanside Shock - Fphl vs. Stockton Thunder",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|evan hull : live in san diego": {
+      "name": "Evan Hull : Live in San Diego",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|les arts florissants": {
+      "name": "Les Arts Florissants",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|gobble wobble bar crawl": {
+      "name": "Gobble Wobble Bar Crawl",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|andrew nunez: live in san diego": {
+      "name": "Andrew Nunez: Live in San Diego",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|heather mcdonald": {
+      "name": "Heather McDonald",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|laughs with benefits": {
+      "name": "Laughs with Benefits",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|kate nash": {
+      "name": "Kate Nash",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs portland pilots": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Portland Pilots",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|long beach state sharks - ncaa women's volleyball vs uc san diego tritons": {
+      "name": "Long Beach State Sharks - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego clippers - nba g league vs valley suns": {
+      "name": "San Diego Clippers - NBA G League vs Valley Suns",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's volleyball vs seattle redhawks": {
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Seattle Redhawks",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego toreros - ncaa women's basketball vs uc irvine anteaters": {
+      "name": "San Diego Toreros - NCAA Women's Basketball vs UC Irvine Anteaters",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|bruno mars tribute 24k magic": {
+      "name": "BRUNO MARS Tribute 24K Magic",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego state aztecs - ncaa women's basketball vs winthrop eagles": {
+      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Winthrop Eagles",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|san diego clippers - nba g league vs coachella valley lakers": {
+      "name": "San Diego Clippers - NBA G League vs Coachella Valley Lakers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|jimi hendrix celebration featuring jeff moore, isaiah mitchell & anthony cullins with special guests jeff ruiz & marc ford": {
+      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|oceans & the imposters happy hour": {
+      "name": "Oceans & the Imposters Happy Hour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|o'flynn": {
+      "name": "O'Flynn",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|led presents mersiv with seth david + larj": {
+      "name": "LED presents Mersiv with Seth David + Larj",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|siesta fiesta: doc martin, h-foundation, bertin": {
+      "name": "SIESTA FIESTA: Doc Martin, H-Foundation, Bertin",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|led presents max styler with hot since 82 + scenarios": {
+      "name": "LED presents Max Styler with Hot Since 82 + Scenarios",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|testify - rage against the machine tribute": {
+      "name": "Testify - Rage Against the Machine Tribute",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|fleetwood mac tribute twisted gypsy with k-tel allstars": {
+      "name": "Fleetwood Mac Tribute Twisted Gypsy with K-Tel Allstars",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
+      ]
+    },
+    "1stTix|event rescheduled: iron maiden tribute, tribute to ronnie james dio, queensryche tribute": {
+      "name": "Event Rescheduled: Iron Maiden Tribute, Tribute to Ronnie James Dio, Queensryche Tribute",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-11"
       ]
     }
   }

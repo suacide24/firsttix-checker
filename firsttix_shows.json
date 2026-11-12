@@ -1,414 +1,36 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-11T14:11:12 PT",
-  "last_successful_run": "2026-10-30T15:02:34 PT",
-  "count": 42,
+  "last_updated": "2026-11-11T16:44:56 PT",
+  "last_successful_run": "2026-11-11T16:44:56 PT",
+  "count": 51,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 30 Oct '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667019",
-      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.grandcomedyclub.com/product/ryan-niem/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Hot Sets",
-      "date": "Fri, 30 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667836",
-      "image": "https://ei-cdn.1sttix.org/preview666332_1792566004.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/hot-sets-stand-up-comedy-at-national-lampoon-the-yellow-door-tickets-1980438036479?aff=erelpanelorg"
-    },
-    {
-      "source": "1stTix",
-      "name": "Pre-Halloween Friday PB Unguided Tour",
-      "date": "Fri, 30 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668465",
-      "image": "https://ei-cdn.1sttix.org/preview668465_1793205604.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/1988927714334?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "THE B-52s * DEVO:  COSMIC DE-EVOLUTION TOUR",
-      "date": "Fri, 30 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/669305",
-      "image": "https://ei-cdn.1sttix.org/preview-624734-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/the-b52s-devo-cosmic-deevolution-tour-chula-vista-california-10-30-2026/event/0A0064D19C1189F1"
-    },
-    {
-      "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Fri, 30 Oct '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668872",
-      "image": "https://ei-cdn.1sttix.org/preview668872_1793247001.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://newvillagearts.org/as-you-like-it/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 30 Oct '26 8:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667021",
-      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.grandcomedyclub.com/product/ryan-niem/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Hot Sets - Stand-Up Comedy",
-      "date": "Fri, 30 Oct '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667837",
-      "image": "https://ei-cdn.1sttix.org/preview666332_1792566004.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/hot-sets-stand-up-comedy-at-national-lampoon-the-yellow-door-tickets-1980438036479?aff=erelpanelorg"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Santa Clara Broncos",
-      "date": "Sat, 31 Oct '26 12:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642586",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Washington State Cougars",
-      "date": "Sat, 31 Oct '26 12:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652909",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Javi Bailon: Halloween Comedy Spooktacular!",
-      "date": "Sat, 31 Oct '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667838",
-      "image": "https://ei-cdn.1sttix.org/preview667838_1793060101.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/javi-bailon-halloween-comedy-spooktacular-tickets-2002902915537"
-    },
-    {
-      "source": "1stTix",
-      "name": "Experience - Dia De Los Muertos",
-      "date": "Sat, 31 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/654950",
-      "image": "https://ei-cdn.1sttix.org/preview654950_1789083604.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://sandiegoballet.org/que-bonito-amor-and-mambomania/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Halloween Night - Emo After Dark",
-      "date": "Sat, 31 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656706",
-      "image": "https://ei-cdn.1sttix.org/preview656706_1792606544.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketweb.com/event/emo-after-dark-gaslamp-long-beach-tickets/14786303"
-    },
-    {
-      "source": "1stTix",
-      "name": "UB40",
-      "date": "Sat, 31 Oct '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664675",
-      "image": "https://ei-cdn.1sttix.org/preview-658120-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/ub40-san-diego-california-10-31-2026/event/0A006434DFDE8AA9"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 1 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667867",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/360159"
-    },
-    {
-      "source": "1stTix",
-      "name": "USA Pickleball Concert on the Court presented by Phonak",
-      "date": "Tue, 3 Nov '26 4:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/663694",
-      "image": "https://ei-cdn.1sttix.org/preview663694_1791835204.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usapickleballnationals.com/concert-on-the-court/"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Fresno State Bulldogs",
-      "date": "Thu, 5 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652910",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Greg Koch & The Koch Marshall Trio",
-      "date": "Thu, 5 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/654250",
-      "image": "https://ei-cdn.1sttix.org/preview654250_1788964802.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/greg-koch/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jimmy",
-      "date": "Fri, 6 Nov '26",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/662846",
-      "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Danny Seraphine\u2019s Chicago Legacy (Original Chicago Member)",
-      "date": "Fri, 6 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/653828",
-      "image": "https://ei-cdn.1sttix.org/preview653828_1788840169.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/chicago-legacy/"
-    },
-    {
-      "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Fri, 6 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668873",
-      "image": "https://ei-cdn.1sttix.org/preview668873_1793247002.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://newvillagearts.org/as-you-like-it/"
-    },
-    {
-      "source": "1stTix",
-      "name": "LED presents Shermanology",
-      "date": "Sat, 7 Nov '26 4:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668499",
-      "image": "https://ei-cdn.1sttix.org/preview668499_1793208302.jpg",
+      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Colorado Buffaloes",
+      "date": "Wed, 11 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670459",
+      "image": "https://ei-cdn.1sttix.org/preview670459_1793745002.jpg",
       "rare": true,
       "popularity": {
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://events.leapevents.com/event/led-presents-shermanology-quartyard-2026"
+      "info_url": "https://goaztecs.com/boxscore/17626"
     },
     {
       "source": "1stTix",
-      "name": "Iron Maiden Tribute, Tribute to Ronnie James Dio, Queensryche Tribute",
-      "date": "Sat, 7 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656760",
-      "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/maiden-united/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 7 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667869",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362184"
-    },
-    {
-      "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Sat, 7 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668874",
-      "image": "https://ei-cdn.1sttix.org/preview668874_1793247302.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://newvillagearts.org/event/ayli/2026-11-07/2/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Journey Tribute Escape",
-      "date": "Sat, 7 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656707",
-      "image": "https://ei-cdn.1sttix.org/preview656707_1789743062.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/dsb-tribute-to-gaslamp-long-beach-tickets/14786953"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 7 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667870",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362185"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 8 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667871",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/362186"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Basketball vs Portland State Vikings",
-      "date": "Tue, 10 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664213",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
+      "name": "Oceanside Shock - Fphl vs. Stockton Thunder",
       "date": "Wed, 11 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667873",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671120",
+      "image": "https://ei-cdn.1sttix.org/preview671120_1793876404.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 15,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/387874"
+      "info_url": "https://www.shockoceanside.com/"
     },
     {
       "source": "1stTix",
@@ -416,13 +38,55 @@
       "date": "Thu, 12 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/646699",
       "image": "https://ei-cdn.1sttix.org/preview519516_1728948808.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://pepperdinewaves.com/sports/womens-volleyball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Local Laughs - Secret Comedy Lineup",
+      "date": "Thu, 12 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672353",
+      "image": "https://ei-cdn.1sttix.org/preview667832_1793059202.jpg",
       "rare": true,
       "popularity": {
         "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://pepperdinewaves.com/sports/womens-volleyball"
+      "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1138706033399?aff=erelpanelorg"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jimmy",
+      "date": "Fri, 13 Nov '26",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671915",
+      "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.jimmythemovie.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 13 Nov '26 6:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670485",
+      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.grandcomedyclub.com/product/s-rob/"
     },
     {
       "source": "1stTix",
@@ -430,41 +94,83 @@
       "date": "Fri, 13 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/656761",
       "image": "https://ei-cdn.1sttix.org/preview656761_1789746903.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/with-a-vengeance/"
     },
     {
       "source": "1stTix",
-      "name": "Radio 47",
+      "name": "Evan Hull : Live in San Diego",
       "date": "Fri, 13 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667863",
-      "image": "https://ei-cdn.1sttix.org/preview667863_1793140718.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672351",
+      "image": "https://ei-cdn.1sttix.org/preview672351_1794255003.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.crowdwork.com/e/radio-47"
+      "info_url": "https://www.eventbrite.com/e/evan-hull-live-in-san-diego-tickets-2002265446851"
     },
     {
       "source": "1stTix",
-      "name": "As You Like It",
+      "name": "Les Arts Florissants",
       "date": "Fri, 13 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668875",
-      "image": "https://ei-cdn.1sttix.org/preview668875_1793247302.jpg",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668846",
+      "image": "https://ei-cdn.1sttix.org/preview668846_1793232304.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://newvillagearts.org/as-you-like-it/"
+      "info_url": "https://theconrad.org/events/les-arts-florissants/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Fri, 13 Nov '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670486",
+      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.grandcomedyclub.com/product/s-rob/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Gobble Wobble Bar Crawl",
+      "date": "Fri, 13 Nov '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672591",
+      "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
+      "name": "Andrew Nunez: Live in San Diego",
+      "date": "Fri, 13 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672389",
+      "image": "https://ei-cdn.1sttix.org/preview672389_1794258902.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/andrew-nunez-live-in-san-diego-tickets-2002856886864"
     },
     {
       "source": "1stTix",
@@ -472,11 +178,11 @@
       "date": "Sat, 14 Nov '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/652911",
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/sports/volleyball"
     },
@@ -486,11 +192,11 @@
       "date": "Sat, 14 Nov '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642453",
       "image": "https://ei-cdn.1sttix.org/preview642560_1784672402.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://lmulions.com/sports/womens-volleyball/schedule"
     },
@@ -500,13 +206,27 @@
       "date": "Sat, 14 Nov '26 2:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/664214",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Heather McDonald",
+      "date": "Sat, 14 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668306",
+      "image": "https://ei-cdn.1sttix.org/preview-658629-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://usdtoreros.com/sports/womens-basketball"
+      "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
     },
     {
       "source": "1stTix",
@@ -516,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -524,17 +244,17 @@
     },
     {
       "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Sat, 14 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668876",
-      "image": "https://ei-cdn.1sttix.org/preview668876_1793247602.jpg",
+      "name": "Laughs with Benefits",
+      "date": "Sat, 14 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672356",
+      "image": "https://ei-cdn.1sttix.org/preview672356_1794255602.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://newvillagearts.org/event/ayli/2026-11-14/2/"
+      "info_url": "https://www.eventbrite.com/e/laughs-with-benefits-tickets-2003531846687"
     },
     {
       "source": "1stTix",
@@ -542,13 +262,41 @@
       "date": "Sat, 14 Nov '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/660959",
       "image": "https://ei-cdn.1sttix.org/preview660959_1791216048.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.ticketweb.com/event/no-duh-tribute-gaslamp-long-beach-tickets/14840883?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Gobble Wobble Bar Crawl",
+      "date": "Sat, 14 Nov '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672659",
+      "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 2,
+        "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketweb.com/event/no-duh-tribute-gaslamp-long-beach-tickets/14840883?pl=gaslamp"
+      "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
+      "name": "Kate Nash",
+      "date": "Mon, 16 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670856",
+      "image": "https://ei-cdn.1sttix.org/preview670856_1793824208.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/kate-nash-music-box-tickets/14334964?theme=musicboxsd"
     },
     {
       "source": "1stTix",
@@ -558,11 +306,360 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 15,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/368832"
+    },
+    {
+      "source": "1stTix",
+      "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
+      "date": "Tue, 17 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671121",
+      "image": "https://ei-cdn.1sttix.org/preview671121_1793876404.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.shockoceanside.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 18 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667875",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/377055"
+    },
+    {
+      "source": "1stTix",
+      "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
+      "date": "Wed, 18 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671122",
+      "image": "https://ei-cdn.1sttix.org/preview671122_1793876405.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.shockoceanside.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Portland Pilots",
+      "date": "Thu, 19 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642587",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "Long Beach State Sharks - NCAA Women's Volleyball vs UC San Diego Tritons",
+      "date": "Fri, 20 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667007",
+      "image": "https://ei-cdn.1sttix.org/preview666648_1792621173.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://longbeachstate.evenue.net/event/WV2627/WV12"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Clippers - NBA G League vs Valley Suns",
+      "date": "Fri, 20 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671117",
+      "image": "https://ei-cdn.1sttix.org/preview671117_1793876402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://sandiego.gleague.nba.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 20 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667877",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/361693"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Volleyball vs Seattle Redhawks",
+      "date": "Sat, 21 Nov '26 12:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/642588",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Basketball vs UC Irvine Anteaters",
+      "date": "Sat, 21 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664215",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "All Hands On Deck!",
+      "date": "Sat, 21 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667861",
+      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 2,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5"
+    },
+    {
+      "source": "1stTix",
+      "name": "BRUNO MARS Tribute 24K Magic",
+      "date": "Sat, 21 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/666373",
+      "image": "https://ei-cdn.1sttix.org/preview666373_1792600838.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/bruno-mars-tribute-24k-magic-gaslamp-long-beach-tickets/14840893"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Winthrop Eagles",
+      "date": "Sun, 22 Nov '26 1:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670461",
+      "image": "https://ei-cdn.1sttix.org/preview670461_1793745002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 22 Nov '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667880",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sun, 22 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667881",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Clippers - NBA G League vs Coachella Valley Lakers",
+      "date": "Sun, 22 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671118",
+      "image": "https://ei-cdn.1sttix.org/preview671118_1793876402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+      "date": "Tue, 24 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656284",
+      "image": "https://ei-cdn.1sttix.org/preview656284_1789590903.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 24 Nov '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667882",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Oceans & the Imposters Happy Hour",
+      "date": "Wed, 25 Nov '26 5:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656281",
+      "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 25 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667883",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "O'Flynn",
+      "date": "Wed, 25 Nov '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670854",
+      "image": "https://ei-cdn.1sttix.org/preview670854_1793824207.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Radio 47",
+      "date": "Fri, 27 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668509",
+      "image": "https://ei-cdn.1sttix.org/preview667863_1793140718.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Mersiv with Seth David + Larj",
+      "date": "Sat, 28 Nov '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668503",
+      "image": "https://ei-cdn.1sttix.org/preview668503_1793208604.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "SIESTA FIESTA: Doc Martin, H-Foundation, Bertin",
+      "date": "Sat, 28 Nov '26 4:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671005",
+      "image": "https://ei-cdn.1sttix.org/preview671005_1793832601.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "LED presents Max Styler with Hot Since 82 + Scenarios",
+      "date": "Sat, 28 Nov '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/668500",
+      "image": "https://ei-cdn.1sttix.org/preview668500_1793208304.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Testify - Rage Against the Machine Tribute",
+      "date": "Sat, 28 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670594",
+      "image": "https://ei-cdn.1sttix.org/preview-670594-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
+    },
+    {
+      "source": "1stTix",
+      "name": "Fleetwood Mac Tribute Twisted Gypsy with K-Tel Allstars",
+      "date": "Sat, 28 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/666374",
+      "image": "https://ei-cdn.1sttix.org/preview666374_1792599515.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      }
     },
     {
       "source": "1stTix",
@@ -572,7 +669,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 15,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -586,11 +683,25 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 15,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://ramonamainstage.com/counts-77/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Event Rescheduled: Iron Maiden Tribute, Tribute to Ronnie James Dio, Queensryche Tribute",
+      "date": "Wed, 7 Apr '27 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656760",
+      "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ramonamainstage.com/maiden-united/"
     }
   ]
 }

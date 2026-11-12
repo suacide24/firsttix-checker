@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T07:54:55 PT",
-  "last_successful_run": "2026-11-12T07:54:55 PT",
-  "count": 49,
+  "last_updated": "2026-11-12T08:25:10 PT",
+  "last_successful_run": "2026-11-12T08:25:10 PT",
+  "count": 50,
   "shows": [
     {
       "source": "1stTix",
@@ -115,6 +115,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://theconrad.org/events/les-arts-florissants/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Ronstadt Revolution at The Downtown Theatre - Fairfield",
+      "date": "Fri, 13 Nov '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672608",
+      "image": "https://ei-cdn.1sttix.org/preview672608_1794333002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://ci.ovationtix.com/36251/production/1285724?performanceId=11851491"
     },
     {
       "source": "1stTix",

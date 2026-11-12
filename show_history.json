@@ -1712,6 +1712,13 @@
         "2026-11-11",
         "2026-11-12"
       ]
+    },
+    "1stTix|ronstadt revolution at the downtown theatre - fairfield": {
+      "name": "Ronstadt Revolution at The Downtown Theatre - Fairfield",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-12"
+      ]
     }
   }
 }

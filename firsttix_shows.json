@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T10:52:28 PT",
-  "last_successful_run": "2026-11-12T10:52:28 PT",
-  "count": 50,
+  "last_updated": "2026-11-12T11:22:47 PT",
+  "last_successful_run": "2026-11-12T11:22:47 PT",
+  "count": 49,
   "shows": [
     {
       "source": "1stTix",
@@ -591,20 +591,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketweb.com/event/oflynn-music-box-tickets/14293104?theme=musicboxsd"
-    },
-    {
-      "source": "1stTix",
-      "name": "Radio 47",
-      "date": "Fri, 27 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668509",
-      "image": "https://ei-cdn.1sttix.org/preview667863_1793140718.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.crowdwork.com/e/radio-47?date=2026-11-27T19:00:00"
     },
     {
       "source": "1stTix",

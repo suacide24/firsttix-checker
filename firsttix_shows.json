@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-11T16:44:56 PT",
-  "last_successful_run": "2026-11-11T16:44:56 PT",
+  "last_updated": "2026-11-11T17:15:22 PT",
+  "last_successful_run": "2026-11-11T17:15:22 PT",
   "count": 51,
   "shows": [
     {
@@ -477,7 +477,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://goaztecs.com/boxscore/17628"
     },
     {
       "source": "1stTix",
@@ -490,7 +491,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/390485"
     },
     {
       "source": "1stTix",
@@ -503,7 +505,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/361758"
     },
     {
       "source": "1stTix",
@@ -516,7 +519,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://sandiego.gleague.nba.com/"
     },
     {
       "source": "1stTix",
@@ -529,7 +533,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite&theme=bellyup"
     },
     {
       "source": "1stTix",
@@ -542,7 +547,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/379720"
     },
     {
       "source": "1stTix",
@@ -555,7 +561,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite&theme=bellyup"
     },
     {
       "source": "1stTix",
@@ -568,7 +575,8 @@
         "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
-      }
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/379033"
     },
     {
       "source": "1stTix",
@@ -581,7 +589,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/oflynn-music-box-tickets/14293104?theme=musicboxsd"
     },
     {
       "source": "1stTix",
@@ -594,7 +603,8 @@
         "appearances": 3,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
-      }
+      },
+      "info_url": "https://www.crowdwork.com/e/radio-47?date=2026-11-27T19:00:00"
     },
     {
       "source": "1stTix",
@@ -607,7 +617,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-mersiv-seth-david-fit-social-2026"
     },
     {
       "source": "1stTix",
@@ -620,7 +631,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.eventbrite.com/e/2002836929170?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -633,7 +645,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://events.leapevents.com/event/led-presents-max-styler-more-at-gallagher-square-petco-park"
     },
     {
       "source": "1stTix",
@@ -646,7 +659,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketmaster.com/testify-rage-against-the-machine-tribute-san-diego-california-11-28-2026/event/0A00652A7B083990"
     },
     {
       "source": "1stTix",
@@ -659,7 +673,8 @@
         "appearances": 1,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
-      }
+      },
+      "info_url": "https://www.ticketweb.com/event/twisted-gypsy-tribute-gaslamp-long-beach-tickets/14840963?pl=gaslamp"
     },
     {
       "source": "1stTix",

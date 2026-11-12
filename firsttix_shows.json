@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T13:41:04 PT",
-  "last_successful_run": "2026-11-12T13:41:04 PT",
-  "count": 50,
+  "last_updated": "2026-11-12T14:11:18 PT",
+  "last_successful_run": "2026-11-12T14:11:18 PT",
+  "count": 51,
   "shows": [
     {
       "source": "1stTix",
@@ -269,6 +269,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/no-duh-tribute-gaslamp-long-beach-tickets/14840883?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Twitchcon Bar Crawl",
+      "date": "Sat, 14 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/673187",
+      "image": "https://ei-cdn.1sttix.org/preview673187_1794459667.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/2004313092414?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",

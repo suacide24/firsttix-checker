@@ -1726,6 +1726,13 @@
       "appearances": [
         "2026-11-12"
       ]
+    },
+    "1stTix|twitchcon bar crawl": {
+      "name": "Twitchcon Bar Crawl",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-12"
+      ]
     }
   }
 }

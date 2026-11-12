@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T11:22:47 PT",
-  "last_successful_run": "2026-11-12T11:22:47 PT",
-  "count": 49,
+  "last_updated": "2026-11-12T11:53:02 PT",
+  "last_successful_run": "2026-11-12T11:53:02 PT",
+  "count": 50,
   "shows": [
     {
       "source": "1stTix",
@@ -283,6 +283,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
+      "name": "Nick Cannon: Wild N Out Live - the Next Generation",
+      "date": "Sun, 15 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/672689",
+      "image": "https://ei-cdn.1sttix.org/preview672689_1794356805.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://as.sdsu.edu/viejas_arena/event/1129"
     },
     {
       "source": "1stTix",

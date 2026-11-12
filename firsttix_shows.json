@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-11T18:06:33 PT",
-  "last_successful_run": "2026-11-11T18:06:33 PT",
-  "count": 49,
+  "last_updated": "2026-11-11T18:36:48 PT",
+  "last_successful_run": "2026-11-11T18:36:48 PT",
+  "count": 48,
   "shows": [
     {
       "source": "1stTix",
@@ -605,20 +605,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.eventbrite.com/e/2002836929170?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "LED presents Max Styler with Hot Since 82 + Scenarios",
-      "date": "Sat, 28 Nov '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668500",
-      "image": "https://ei-cdn.1sttix.org/preview668500_1793208304.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://events.leapevents.com/event/led-presents-max-styler-more-at-gallagher-square-petco-park"
     },
     {
       "source": "1stTix",

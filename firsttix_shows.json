@@ -1,37 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-11T17:15:22 PT",
-  "last_successful_run": "2026-11-11T17:15:22 PT",
-  "count": 51,
+  "last_updated": "2026-11-11T18:06:33 PT",
+  "last_successful_run": "2026-11-11T18:06:33 PT",
+  "count": 49,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Colorado Buffaloes",
-      "date": "Wed, 11 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670459",
-      "image": "https://ei-cdn.1sttix.org/preview670459_1793745002.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://goaztecs.com/boxscore/17626"
-    },
-    {
-      "source": "1stTix",
-      "name": "Oceanside Shock - Fphl vs. Stockton Thunder",
-      "date": "Wed, 11 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671120",
-      "image": "https://ei-cdn.1sttix.org/preview671120_1793876404.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.shockoceanside.com/"
-    },
     {
       "source": "1stTix",
       "name": "Pepperdine Waves - NCAA Women's Volleyball vs San Diego Toreros",

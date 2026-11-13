@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T08:47:23 PT",
-  "last_successful_run": "2026-11-13T08:47:23 PT",
-  "count": 46,
+  "last_updated": "2026-11-13T09:17:42 PT",
+  "last_successful_run": "2026-11-13T09:17:42 PT",
+  "count": 45,
   "shows": [
     {
       "source": "1stTix",
@@ -591,20 +591,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/twisted-gypsy-tribute-gaslamp-long-beach-tickets/14840963?pl=gaslamp"
-    },
-    {
-      "source": "1stTix",
-      "name": "Event Rescheduled: Bow Wow Wow",
-      "date": "Fri, 4 Dec '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/655706",
-      "image": "https://ei-cdn.1sttix.org/preview655706_1789489062.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://theholdingcompanyob.com/show/bow-wow-wow/"
     },
     {
       "source": "1stTix",

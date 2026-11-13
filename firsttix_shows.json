@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T23:54:18 PT",
-  "last_successful_run": "2026-11-12T23:54:18 PT",
+  "last_updated": "2026-11-13T00:24:38 PT",
+  "last_successful_run": "2026-11-13T00:24:38 PT",
   "count": 50,
   "shows": [
     {
@@ -12,9 +12,9 @@
       "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
     },
@@ -26,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -40,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656761_1789746903.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -52,11 +52,11 @@
       "date": "Fri, 13 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672351",
       "image": "https://ei-cdn.1sttix.org/preview672351_1794255003.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/evan-hull-live-in-san-diego-tickets-2002265446851"
     },
@@ -66,11 +66,11 @@
       "date": "Fri, 13 Nov '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/668846",
       "image": "https://ei-cdn.1sttix.org/preview668846_1793232304.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theconrad.org/events/les-arts-florissants/"
     },
@@ -82,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview672608_1794333002.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -96,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -108,11 +108,11 @@
       "date": "Fri, 13 Nov '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672591",
       "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
     },
@@ -122,11 +122,11 @@
       "date": "Fri, 13 Nov '26 9:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672389",
       "image": "https://ei-cdn.1sttix.org/preview672389_1794258902.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/andrew-nunez-live-in-san-diego-tickets-2002856886864"
     },
@@ -138,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -152,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642560_1784672402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -166,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -178,11 +178,11 @@
       "date": "Sat, 14 Nov '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/668306",
       "image": "https://ei-cdn.1sttix.org/preview-658629-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
     },
@@ -192,11 +192,11 @@
       "date": "Sat, 14 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672356",
       "image": "https://ei-cdn.1sttix.org/preview672356_1794255602.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/laughs-with-benefits-tickets-2003531846687"
     },
@@ -208,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview660959_1791216048.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -222,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview673187_1794459667.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -234,11 +234,11 @@
       "date": "Sat, 14 Nov '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672659",
       "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
     },
@@ -250,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview672689_1794356805.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -262,11 +262,11 @@
       "date": "Mon, 16 Nov '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/670856",
       "image": "https://ei-cdn.1sttix.org/preview670856_1793824208.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/kate-nash-music-box-tickets/14334964?theme=musicboxsd"
     },
@@ -290,11 +290,11 @@
       "date": "Tue, 17 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671121",
       "image": "https://ei-cdn.1sttix.org/preview671121_1793876404.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.shockoceanside.com/"
     },
@@ -318,11 +318,11 @@
       "date": "Wed, 18 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671122",
       "image": "https://ei-cdn.1sttix.org/preview671122_1793876405.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.shockoceanside.com/"
     },
@@ -332,11 +332,11 @@
       "date": "Thu, 19 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642587",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -346,11 +346,11 @@
       "date": "Fri, 20 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/667007",
       "image": "https://ei-cdn.1sttix.org/preview666648_1792621173.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://longbeachstate.evenue.net/event/WV2627/WV12"
     },
@@ -360,11 +360,11 @@
       "date": "Fri, 20 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671117",
       "image": "https://ei-cdn.1sttix.org/preview671117_1793876402.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://sandiego.gleague.nba.com/"
     },
@@ -388,11 +388,11 @@
       "date": "Sat, 21 Nov '26 12:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642588",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
     },
@@ -402,11 +402,11 @@
       "date": "Sat, 21 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/664215",
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
@@ -418,7 +418,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -430,11 +430,11 @@
       "date": "Sat, 21 Nov '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/666373",
       "image": "https://ei-cdn.1sttix.org/preview666373_1792600838.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/bruno-mars-tribute-24k-magic-gaslamp-long-beach-tickets/14840893"
     },
@@ -444,11 +444,11 @@
       "date": "Sun, 22 Nov '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/670461",
       "image": "https://ei-cdn.1sttix.org/preview670461_1793745002.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://goaztecs.com/boxscore/17628"
     },
@@ -486,11 +486,11 @@
       "date": "Sun, 22 Nov '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671118",
       "image": "https://ei-cdn.1sttix.org/preview671118_1793876402.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://sandiego.gleague.nba.com/"
     },
@@ -500,11 +500,11 @@
       "date": "Tue, 24 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/656284",
       "image": "https://ei-cdn.1sttix.org/preview656284_1789590903.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite&theme=bellyup"
     },
@@ -528,11 +528,11 @@
       "date": "Wed, 25 Nov '26 5:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/656281",
       "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite&theme=bellyup"
     },
@@ -556,11 +556,11 @@
       "date": "Wed, 25 Nov '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/670854",
       "image": "https://ei-cdn.1sttix.org/preview670854_1793824207.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/oflynn-music-box-tickets/14293104?theme=musicboxsd"
     },
@@ -570,11 +570,11 @@
       "date": "Sat, 28 Nov '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/668503",
       "image": "https://ei-cdn.1sttix.org/preview668503_1793208604.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://events.leapevents.com/event/led-presents-mersiv-seth-david-fit-social-2026"
     },
@@ -584,11 +584,11 @@
       "date": "Sat, 28 Nov '26 4:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671005",
       "image": "https://ei-cdn.1sttix.org/preview671005_1793832601.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/2002836929170?aff=oddtdtcreator"
     },
@@ -600,7 +600,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671119_1793876403.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -614,7 +614,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -626,11 +626,11 @@
       "date": "Sat, 28 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/670594",
       "image": "https://ei-cdn.1sttix.org/preview-670594-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/testify-rage-against-the-machine-tribute-san-diego-california-11-28-2026/event/0A00652A7B083990"
     },
@@ -640,11 +640,11 @@
       "date": "Sat, 28 Nov '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/666374",
       "image": "https://ei-cdn.1sttix.org/preview666374_1792599515.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/twisted-gypsy-tribute-gaslamp-long-beach-tickets/14840963?pl=gaslamp"
     },
@@ -656,7 +656,7 @@
       "image": "https://ei-cdn.1sttix.org/preview655706_1789489062.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -696,11 +696,11 @@
       "date": "Wed, 7 Apr '27 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/656760",
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://ramonamainstage.com/maiden-united/"
     }

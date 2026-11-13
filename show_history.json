@@ -1740,6 +1740,13 @@
       "appearances": [
         "2026-11-12"
       ]
+    },
+    "1stTix|event rescheduled: bow wow wow": {
+      "name": "Event Rescheduled: Bow Wow Wow",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-12"
+      ]
     }
   }
 }

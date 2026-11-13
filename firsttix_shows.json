@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-12T20:30:28 PT",
-  "last_successful_run": "2026-11-12T20:30:28 PT",
-  "count": 52,
+  "last_updated": "2026-11-12T21:00:49 PT",
+  "last_successful_run": "2026-11-12T21:00:49 PT",
+  "count": 50,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Local Laughs - Secret Comedy Lineup",
-      "date": "Thu, 12 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/672353",
-      "image": "https://ei-cdn.1sttix.org/preview667832_1793059202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1138706033399?aff=erelpanelorg"
-    },
     {
       "source": "1stTix",
       "name": "Jimmy",
@@ -199,20 +185,6 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
-    },
-    {
-      "source": "1stTix",
-      "name": "All Hands On Deck!",
-      "date": "Sat, 14 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667428",
-      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.mockingbirdimprov.org/tickets"
     },
     {
       "source": "1stTix",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T06:58:08 PT",
-  "last_successful_run": "2026-11-13T06:58:08 PT",
-  "count": 49,
+  "last_updated": "2026-11-13T07:46:48 PT",
+  "last_successful_run": "2026-11-13T07:46:48 PT",
+  "count": 46,
   "shows": [
     {
       "source": "1stTix",
@@ -34,20 +34,6 @@
     },
     {
       "source": "1stTix",
-      "name": "With a Vengeance",
-      "date": "Fri, 13 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656761",
-      "image": "https://ei-cdn.1sttix.org/preview656761_1789746903.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://ramonamainstage.com/with-a-vengeance/"
-    },
-    {
-      "source": "1stTix",
       "name": "Evan Hull : Live in San Diego",
       "date": "Fri, 13 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/672351",
@@ -59,34 +45,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/evan-hull-live-in-san-diego-tickets-2002265446851"
-    },
-    {
-      "source": "1stTix",
-      "name": "Les Arts Florissants",
-      "date": "Fri, 13 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668846",
-      "image": "https://ei-cdn.1sttix.org/preview668846_1793232304.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theconrad.org/events/les-arts-florissants/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Ronstadt Revolution at The Downtown Theatre - Fairfield",
-      "date": "Fri, 13 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/672608",
-      "image": "https://ei-cdn.1sttix.org/preview672608_1794333002.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://ci.ovationtix.com/36251/production/1285724?performanceId=11851491"
     },
     {
       "source": "1stTix",

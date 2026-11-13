@@ -1787,6 +1787,13 @@
         "2026-11-12",
         "2026-11-13"
       ]
+    },
+    "1stTix|san jose barracuda - ahl vs san diego gulls": {
+      "name": "San Jose Barracuda - AHL vs San Diego Gulls",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-13"
+      ]
     }
   }
 }

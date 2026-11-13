@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T14:11:20 PT",
-  "last_successful_run": "2026-11-13T14:11:20 PT",
-  "count": 45,
+  "last_updated": "2026-11-13T14:41:39 PT",
+  "last_successful_run": "2026-11-13T14:41:39 PT",
+  "count": 46,
   "shows": [
     {
       "source": "1stTix",
@@ -143,6 +143,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Jose Barracuda - AHL vs San Diego Gulls",
+      "date": "Sat, 14 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/673002",
+      "image": "https://ei-cdn.1sttix.org/preview673002_1794418501.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://sjbarracuda.com/"
     },
     {
       "source": "1stTix",

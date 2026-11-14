@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T19:37:48 PT",
-  "last_successful_run": "2026-11-13T19:37:48 PT",
-  "count": 46,
+  "last_updated": "2026-11-13T20:23:29 PT",
+  "last_successful_run": "2026-11-13T20:23:29 PT",
+  "count": 44,
   "shows": [
     {
       "source": "1stTix",
@@ -17,34 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 13 Nov '26 8:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670486",
-      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.grandcomedyclub.com/product/s-rob/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Gobble Wobble Bar Crawl",
-      "date": "Fri, 13 Nov '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/672591",
-      "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",

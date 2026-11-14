@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T14:37:06 PT",
-  "last_successful_run": "2026-11-14T14:37:06 PT",
-  "count": 39,
+  "last_updated": "2026-11-14T15:12:48 PT",
+  "last_successful_run": "2026-11-14T15:12:48 PT",
+  "count": 38,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Heather McDonald",
-      "date": "Sat, 14 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/668306",
-      "image": "https://ei-cdn.1sttix.org/preview-658629-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
     },
     {
       "source": "1stTix",

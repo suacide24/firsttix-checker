@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T11:52:26 PT",
-  "last_successful_run": "2026-11-14T11:52:26 PT",
+  "last_updated": "2026-11-14T12:22:44 PT",
+  "last_successful_run": "2026-11-14T12:22:44 PT",
   "count": 40,
   "shows": [
     {
@@ -20,17 +20,17 @@
     },
     {
       "source": "1stTix",
-      "name": "Loyola Marymount Lions - NCAA Women's Volleyball vs San Diego Toreros",
-      "date": "Sat, 14 Nov '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642453",
-      "image": "https://ei-cdn.1sttix.org/preview642560_1784672402.jpg",
+      "name": "San Diego Toreros - NCAA Women's Basketball vs Cal State Northridge Matadors",
+      "date": "Sat, 14 Nov '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664214",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
         "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
-      "info_url": "https://lmulions.com/sports/womens-volleyball/schedule"
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
     {
       "source": "1stTix",

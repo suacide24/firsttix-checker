@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T17:41:18 PT",
-  "last_successful_run": "2026-11-13T17:41:18 PT",
-  "count": 47,
+  "last_updated": "2026-11-13T18:11:38 PT",
+  "last_successful_run": "2026-11-13T18:11:38 PT",
+  "count": 46,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Evan Hull : Live in San Diego",
-      "date": "Fri, 13 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/672351",
-      "image": "https://ei-cdn.1sttix.org/preview672351_1794255003.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/evan-hull-live-in-san-diego-tickets-2002265446851"
     },
     {
       "source": "1stTix",

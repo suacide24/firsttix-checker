@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-13T16:55:14 PT",
-  "last_successful_run": "2026-11-13T16:55:14 PT",
+  "last_updated": "2026-11-13T17:41:18 PT",
+  "last_successful_run": "2026-11-13T17:41:18 PT",
   "count": 47,
   "shows": [
     {
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Fri, 13 Nov '26 6:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670485",
-      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.grandcomedyclub.com/product/s-rob/"
     },
     {
       "source": "1stTix",
@@ -605,6 +591,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/twisted-gypsy-tribute-gaslamp-long-beach-tickets/14840963?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Basketball vs Fresno State Bulldogs",
+      "date": "Wed, 2 Dec '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664216",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
     {
       "source": "1stTix",

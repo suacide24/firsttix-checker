@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T07:52:14 PT",
-  "last_successful_run": "2026-11-14T07:52:14 PT",
-  "count": 44,
+  "last_updated": "2026-11-14T08:22:28 PT",
+  "last_successful_run": "2026-11-14T08:22:28 PT",
+  "count": 43,
   "shows": [
     {
       "source": "1stTix",
@@ -101,20 +101,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/laughs-with-benefits-tickets-2003531846687"
-    },
-    {
-      "source": "1stTix",
-      "name": "No Duh and Don'T Push- Tributes to No Doubt and Sublime",
-      "date": "Sat, 14 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/660959",
-      "image": "https://ei-cdn.1sttix.org/preview660959_1791216048.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/no-duh-tribute-gaslamp-long-beach-tickets/14840883?pl=gaslamp"
     },
     {
       "source": "1stTix",

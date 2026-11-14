@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T12:59:04 PT",
-  "last_successful_run": "2026-11-14T12:59:04 PT",
-  "count": 40,
+  "last_updated": "2026-11-14T13:29:24 PT",
+  "last_successful_run": "2026-11-14T13:29:24 PT",
+  "count": 39,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Basketball vs Cal State Northridge Matadors",
-      "date": "Sat, 14 Nov '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664214",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
     {
       "source": "1stTix",

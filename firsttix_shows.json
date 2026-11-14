@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T10:23:35 PT",
-  "last_successful_run": "2026-11-14T10:23:35 PT",
-  "count": 43,
+  "last_updated": "2026-11-14T11:22:12 PT",
+  "last_successful_run": "2026-11-14T11:22:12 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -20,20 +20,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Volleyball vs Colorado State University Rams",
-      "date": "Sat, 14 Nov '26 12:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/652911",
-      "image": "https://ei-cdn.1sttix.org/preview_SDSU.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://goaztecs.com/sports/volleyball"
-    },
-    {
-      "source": "1stTix",
       "name": "Loyola Marymount Lions - NCAA Women's Volleyball vs San Diego Toreros",
       "date": "Sat, 14 Nov '26 1:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/642453",
@@ -48,20 +34,6 @@
     },
     {
       "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Basketball vs Cal State Northridge Matadors",
-      "date": "Sat, 14 Nov '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664214",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
       "name": "Heather McDonald",
       "date": "Sat, 14 Nov '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/668306",
@@ -73,20 +45,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.livenation.com/event/vvG1iZ_33fl0p9/heather-mcdonald"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Jose Barracuda - AHL vs San Diego Gulls",
-      "date": "Sat, 14 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/673002",
-      "image": "https://ei-cdn.1sttix.org/preview673002_1794418501.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://sjbarracuda.com/"
     },
     {
       "source": "1stTix",

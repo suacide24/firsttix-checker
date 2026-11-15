@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-15T12:39:58 PT",
-  "last_successful_run": "2026-11-15T12:39:58 PT",
-  "count": 30,
+  "last_updated": "2026-11-15T13:27:50 PT",
+  "last_successful_run": "2026-11-15T13:27:50 PT",
+  "count": 31,
   "shows": [
     {
       "source": "1stTix",
@@ -101,6 +101,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Army, The Navy",
+      "date": "Thu, 19 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/673767",
+      "image": "https://ei-cdn.1sttix.org/preview673767_1794603602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/the-army-the-navy-music-box-tickets/14298174?theme=musicboxsd"
     },
     {
       "source": "1stTix",

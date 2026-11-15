@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T17:51:08 PT",
-  "last_successful_run": "2026-11-14T17:51:08 PT",
-  "count": 36,
+  "last_updated": "2026-11-14T18:26:57 PT",
+  "last_successful_run": "2026-11-14T18:26:57 PT",
+  "count": 34,
   "shows": [
     {
       "source": "1stTix",
@@ -17,20 +17,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.jimmythemovie.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Laughs with Benefits",
-      "date": "Sat, 14 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/672356",
-      "image": "https://ei-cdn.1sttix.org/preview672356_1794255602.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/laughs-with-benefits-tickets-2003531846687"
     },
     {
       "source": "1stTix",
@@ -185,20 +171,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://sandiego.gleague.nba.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 20 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667877",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/361693"
     },
     {
       "source": "1stTix",

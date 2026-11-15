@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-15T12:09:39 PT",
-  "last_successful_run": "2026-11-15T12:09:39 PT",
-  "count": 31,
+  "last_updated": "2026-11-15T12:39:58 PT",
+  "last_successful_run": "2026-11-15T12:39:58 PT",
+  "count": 30,
   "shows": [
     {
       "source": "1stTix",
@@ -157,20 +157,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
-      "name": "All Hands On Deck!",
-      "date": "Sat, 21 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667861",
-      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5"
     },
     {
       "source": "1stTix",

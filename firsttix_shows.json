@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-14T16:50:36 PT",
-  "last_successful_run": "2026-11-14T16:50:36 PT",
-  "count": 37,
+  "last_updated": "2026-11-14T17:20:50 PT",
+  "last_successful_run": "2026-11-14T17:20:50 PT",
+  "count": 36,
   "shows": [
     {
       "source": "1stTix",
@@ -241,20 +241,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5"
-    },
-    {
-      "source": "1stTix",
-      "name": "BRUNO MARS Tribute 24K Magic",
-      "date": "Sat, 21 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/666373",
-      "image": "https://ei-cdn.1sttix.org/preview666373_1792600838.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/bruno-mars-tribute-24k-magic-gaslamp-long-beach-tickets/14840893"
     },
     {
       "source": "1stTix",

@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-15T07:45:55 PT",
-  "last_successful_run": "2026-11-15T07:45:55 PT",
-  "count": 32,
+  "last_updated": "2026-11-15T08:20:29 PT",
+  "last_successful_run": "2026-11-15T08:20:29 PT",
+  "count": 31,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Jimmy",
-      "date": "Fri, 13 Nov '26",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671915",
-      "image": "https://ei-cdn.1sttix.org/campaign/1/img_Z8vgeqX75546aee.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.jimmythemovie.com/"
-    },
     {
       "source": "1stTix",
       "name": "Nick Cannon: Wild N Out Live - the Next Generation",

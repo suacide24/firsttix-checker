@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-16T12:39:56 PT",
-  "last_successful_run": "2026-11-16T12:39:56 PT",
-  "count": 29,
+  "last_updated": "2026-11-16T13:22:48 PT",
+  "last_successful_run": "2026-11-16T13:22:48 PT",
+  "count": 32,
   "shows": [
     {
       "source": "1stTix",
@@ -104,6 +104,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 20 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667876",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/361692"
+    },
+    {
+      "source": "1stTix",
       "name": "San Diego Clippers - NBA G League vs Valley Suns",
       "date": "Fri, 20 Nov '26 7:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/671117",
@@ -115,6 +129,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://sandiego.gleague.nba.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 20 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667877",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/361693"
     },
     {
       "source": "1stTix",
@@ -367,6 +395,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Toreros - NCAA Women's Basketball vs Grambling State Tigers",
+      "date": "Sat, 5 Dec '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664217",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
     {
       "source": "1stTix",

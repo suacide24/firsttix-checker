@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-16T14:30:12 PT",
-  "last_successful_run": "2026-11-16T14:30:12 PT",
-  "count": 36,
+  "last_updated": "2026-11-16T15:00:29 PT",
+  "last_successful_run": "2026-11-16T15:00:29 PT",
+  "count": 37,
   "shows": [
     {
       "source": "1stTix",
@@ -255,6 +255,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/390485"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Naghash Ensemble",
+      "date": "Sun, 22 Nov '26 3:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670039",
+      "image": "https://ei-cdn.1sttix.org/preview670039_1793656803.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theconrad.org/events/naghash-ensemble/"
     },
     {
       "source": "1stTix",

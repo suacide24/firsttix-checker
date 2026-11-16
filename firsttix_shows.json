@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-16T13:22:48 PT",
-  "last_successful_run": "2026-11-16T13:22:48 PT",
-  "count": 32,
+  "last_updated": "2026-11-16T13:53:11 PT",
+  "last_successful_run": "2026-11-16T13:53:11 PT",
+  "count": 35,
   "shows": [
     {
       "source": "1stTix",
@@ -31,6 +31,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.shockoceanside.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Comedy Mayhem: Stand-up Comedy at National Lampoon",
+      "date": "Tue, 17 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674178",
+      "image": "https://ei-cdn.1sttix.org/preview669934_1793649602.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/comedy-mayhem-stand-up-comedy-at-national-lampoon-tickets-1989849518475?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -87,6 +101,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.ticketweb.com/event/the-army-the-navy-music-box-tickets/14298174?theme=musicboxsd"
+    },
+    {
+      "source": "1stTix",
+      "name": "Local Laughs - Secret Comedy Lineup",
+      "date": "Thu, 19 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674181",
+      "image": "https://ei-cdn.1sttix.org/preview667832_1793059202.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1138706033399?aff=erelpanelorg"
     },
     {
       "source": "1stTix",
@@ -171,6 +199,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 21 Nov '26 9:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/667879",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 13,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/352478"
     },
     {
       "source": "1stTix",

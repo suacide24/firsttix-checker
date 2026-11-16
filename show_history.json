@@ -1320,7 +1320,8 @@
       "appearances": [
         "2026-10-29",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-16"
       ]
     },
     "1stTix|grand comedy club": {
@@ -1863,6 +1864,13 @@
     },
     "1stTix|san diego toreros - ncaa women's basketball vs grambling state tigers": {
       "name": "San Diego Toreros - NCAA Women's Basketball vs Grambling State Tigers",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-16"
+      ]
+    },
+    "1stTix|comedy mayhem: stand-up comedy at national lampoon": {
+      "name": "Comedy Mayhem: Stand-up Comedy at National Lampoon",
       "source": "1stTix",
       "appearances": [
         "2026-11-16"

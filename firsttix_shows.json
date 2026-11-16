@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-15T19:48:27 PT",
-  "last_successful_run": "2026-11-15T19:48:27 PT",
-  "count": 30,
+  "last_updated": "2026-11-15T20:18:41 PT",
+  "last_successful_run": "2026-11-15T20:18:41 PT",
+  "count": 29,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Kate Nash",
-      "date": "Mon, 16 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670856",
-      "image": "https://ei-cdn.1sttix.org/preview670856_1793824208.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/kate-nash-music-box-tickets/14334964?theme=musicboxsd"
-    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",

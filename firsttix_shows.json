@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-17T04:06:18 PT",
-  "last_successful_run": "2026-11-17T04:06:18 PT",
-  "count": 39,
+  "last_updated": "2026-11-17T04:36:38 PT",
+  "last_successful_run": "2026-11-17T04:36:38 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -31,6 +31,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.shockoceanside.com/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Alice Cooper - Alice's Attic Tour",
+      "date": "Tue, 17 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671124",
+      "image": "https://ei-cdn.1sttix.org/preview-671124-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/alice-cooper-alices-attic-tour-san-diego-california-11-17-2026/event/0A0064DED879B67B"
     },
     {
       "source": "1stTix",

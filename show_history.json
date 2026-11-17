@@ -1898,6 +1898,13 @@
         "2026-11-16",
         "2026-11-17"
       ]
+    },
+    "1stTix|alice cooper - alice's attic tour": {
+      "name": "Alice Cooper - Alice's Attic Tour",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-17"
+      ]
     }
   }
 }

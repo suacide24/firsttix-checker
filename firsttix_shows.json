@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-17T09:49:13 PT",
-  "last_successful_run": "2026-11-17T09:49:13 PT",
-  "count": 41,
+  "last_updated": "2026-11-17T10:19:24 PT",
+  "last_successful_run": "2026-11-17T10:19:24 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -339,20 +339,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://sandiego.gleague.nba.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
-      "date": "Tue, 24 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656284",
-      "image": "https://ei-cdn.1sttix.org/preview656284_1789590903.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite&theme=bellyup"
     },
     {
       "source": "1stTix",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-16T16:31:30 PT",
-  "last_successful_run": "2026-11-16T16:31:30 PT",
-  "count": 38,
+  "last_updated": "2026-11-16T17:01:46 PT",
+  "last_successful_run": "2026-11-16T17:01:46 PT",
+  "count": 37,
   "shows": [
     {
       "source": "1stTix",
@@ -213,20 +213,6 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Murder By The Bay - Murder Mystery Dinner Show",
-      "date": "Sat, 21 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/673632",
-      "image": "https://ei-cdn.1sttix.org/preview624497_1776784597.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/1997392430528"
     },
     {
       "source": "1stTix",

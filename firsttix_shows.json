@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-16T19:53:59 PT",
-  "last_successful_run": "2026-11-16T19:53:59 PT",
-  "count": 37,
+  "last_updated": "2026-11-16T20:24:14 PT",
+  "last_successful_run": "2026-11-16T20:24:14 PT",
+  "count": 38,
   "shows": [
     {
       "source": "1stTix",
@@ -465,6 +465,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Holiday Craw",
+      "date": "Fri, 4 Dec '26 9:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/673189",
+      "image": "https://ei-cdn.1sttix.org/preview673189_1794459670.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/2004316426386?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",

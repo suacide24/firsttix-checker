@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-17T16:08:14 PT",
-  "last_successful_run": "2026-11-17T16:08:14 PT",
-  "count": 40,
+  "last_updated": "2026-11-17T16:38:30 PT",
+  "last_successful_run": "2026-11-17T16:38:30 PT",
+  "count": 41,
   "shows": [
     {
       "source": "1stTix",
@@ -87,6 +87,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.eventbrite.com/e/unapologetic-unhinged-thanksgiving-edition-ritu-tirthani-friends-tickets-1999007756010"
+    },
+    {
+      "source": "1stTix",
+      "name": "Chazz Palminteri",
+      "date": "Wed, 18 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674617",
+      "image": "https://ei-cdn.1sttix.org/preview-514542-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/chazz-palminteri-el-cajon-california-11-18-2026/event/0B006503B110487C"
     },
     {
       "source": "1stTix",

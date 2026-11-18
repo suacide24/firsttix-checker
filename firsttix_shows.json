@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-17T16:38:30 PT",
-  "last_successful_run": "2026-11-17T16:38:30 PT",
-  "count": 41,
+  "last_updated": "2026-11-17T17:08:48 PT",
+  "last_successful_run": "2026-11-17T17:08:48 PT",
+  "count": 40,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
-      "date": "Tue, 17 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671121",
-      "image": "https://ei-cdn.1sttix.org/preview671121_1793876404.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.shockoceanside.com/"
-    },
     {
       "source": "1stTix",
       "name": "Alice Cooper - Alice's Attic Tour",

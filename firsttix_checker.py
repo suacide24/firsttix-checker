@@ -8,6 +8,7 @@ Sends email notifications for new shows (only once per show+date).
 """
 
 import argparse
+import html
 import json
 import os
 import pickle
@@ -54,6 +55,11 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "--fast", "--no-delay", action="store_true", help="Skip random delays (for testing)"
 )
+parser.add_argument(
+    "--telegram-test",
+    action="store_true",
+    help="Send one test message to the Telegram topic and exit",
+)
 args = parser.parse_args()
 
 # ---------------------------------------------------------------------------
@@ -74,6 +80,24 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SMTP_EMAIL = os.environ.get("SMTP_EMAIL", "rsua95@gmail.com")
 SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD", "")
+
+
+# ---------------------------------------------------------------------------
+# Configuration — Telegram (user-facing show alerts; email is the fallback).
+# The bot token is a secret passed in via env; it is part of the API URL, so
+# nothing here ever logs a URL or a raw exception.
+# ---------------------------------------------------------------------------
+def _env_int(name: str, default: int) -> int:
+    try:
+        return int(os.environ.get(name) or default)
+    except (ValueError, TypeError):
+        return default
+
+
+TELEGRAM_BOT_TOKEN = (os.environ.get("TELEGRAM_BOT_TOKEN") or "").strip()
+TELEGRAM_CHAT_ID = _env_int("TELEGRAM_CHAT_ID", -1003983050734)  # "UltimateVibes" group
+TELEGRAM_THREAD_ID = _env_int("TELEGRAM_THREAD_ID", 21)  # "firsttix-checker" topic
+TELEGRAM_MAX_CHARS = 4000  # Telegram's hard limit is 4096
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -984,6 +1008,148 @@ def filter_by_location(shows: list) -> list:
 # ---------------------------------------------------------------------------
 # Email notification
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Telegram: the owner's new-show alerts go to a group topic; email is the
+# fallback. Never log a URL or a raw exception (both can contain the token).
+# ---------------------------------------------------------------------------
+def _tg_call(method: str, payload: dict):
+    """Call the Telegram Bot API. Returns the result, or None on any failure."""
+    if not TELEGRAM_BOT_TOKEN:
+        return None
+    try:
+        resp = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/{method}",
+            json=payload,
+            timeout=20,
+        )
+        body = resp.json()
+        if body.get("ok"):
+            return body.get("result")
+        desc = str(body.get("description", ""))[:200]
+        log_message(f"[telegram] {method} not accepted: HTTP {resp.status_code} {desc}")
+    except Exception as e:  # noqa: BLE001 - the message could contain the URL/token
+        log_message(f"[telegram] {method} failed: {type(e).__name__}")
+    return None
+
+
+def uses_telegram() -> bool:
+    return bool(TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID)
+
+
+def send_telegram(text: str, button=None):
+    """Send an HTML message to the project's topic. Returns its message_id
+    (usable with delete_telegram), or None if it could not be sent."""
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": text[:TELEGRAM_MAX_CHARS],
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+    if TELEGRAM_THREAD_ID:
+        payload["message_thread_id"] = TELEGRAM_THREAD_ID
+    if button:
+        label, url = button
+        payload["reply_markup"] = {"inline_keyboard": [[{"text": label, "url": url}]]}
+    result = _tg_call("sendMessage", payload)
+    if isinstance(result, dict) and result.get("message_id"):
+        return result["message_id"]
+    return None
+
+
+def delete_telegram(message_id) -> None:
+    _tg_call("deleteMessage", {"chat_id": TELEGRAM_CHAT_ID, "message_id": message_id})
+
+
+def _tg(text) -> str:
+    """Escape dynamic text for Telegram's HTML mode (& < > only)."""
+    return html.escape(str(text or ""), quote=False)
+
+
+def _tg_link(url: str, label: str) -> str:
+    if not str(url or "").startswith(("https://", "http://")):
+        return _tg(label)
+    return f'<a href="{html.escape(url, quote=True)}">{_tg(label)}</a>'
+
+
+def build_telegram_message(grouped_shows: list) -> tuple:
+    """Return (html_text, (button_label, button_url)).
+
+    The first line is the whole story - it is what the phone preview shows.
+    Shows are added whole until the size limit, so the HTML is never cut in
+    the middle of a tag (which would make Telegram reject the message)."""
+    n = len(grouped_shows)
+    first = grouped_shows[0]["name"] if grouped_shows else ""
+    headline = (
+        f"🎭 New on 1stTix: {first}"
+        if n == 1
+        else f"🎭 {n} new 1stTix shows: {first} +{n - 1} more"
+    )
+    lines = [f"<b>{_tg(headline)}</b>"]
+    size = len(lines[0])
+    shown = 0
+    for show in grouped_shows:
+        badge = " 🔥 rare" if show.get("rare") else ""
+        dates = " · ".join(
+            _tg_link(slot["link"], slot["date"]) if slot.get("link") else _tg(slot["date"])
+            for slot in show["time_slots"]
+        )
+        links = _tg_link(get_chatgpt_link(show), "Ask AI")
+        if show.get("info_url"):
+            links = _tg_link(show["info_url"], "ℹ️ Info") + " · " + links
+        block = f"\n<b>{_tg(show['name'])}</b>{badge}\n🎟️ {dates}\n{links}"
+        if size + len(block) > TELEGRAM_MAX_CHARS - 200:
+            break
+        lines.append(block)
+        size += len(block)
+        shown += 1
+    if shown < len(grouped_shows):
+        lines.append(f"\n…and {len(grouped_shows) - shown} more on the site")
+
+    if n == 1:
+        link = next(
+            (s["link"] for s in grouped_shows[0]["time_slots"] if s.get("link")), None
+        )
+        button = ("🎟️ Open show", link) if link else ("📋 View all shows", AVAILABLE_SHOWS_URL)
+    else:
+        button = ("📋 View all shows", AVAILABLE_SHOWS_URL)
+    return "\n".join(lines), button
+
+
+def deliver_owner_alert(new_shows: list) -> bool:
+    """Send the owner's new-show alert: Telegram when configured, email if
+    Telegram is not configured or the send fails."""
+    if not new_shows:
+        return True
+    if uses_telegram():
+        try:
+            text, button = build_telegram_message(group_shows_by_name(new_shows))
+            if send_telegram(text, button) is not None:
+                log_message(f"Telegram alert sent ({len(new_shows)} show date(s))")
+                return True
+        except Exception as e:  # noqa: BLE001
+            log_message(f"[telegram] could not build or send the alert: {type(e).__name__}")
+        log_message("Telegram failed - falling back to email")
+    return send_email_notification(new_shows)
+
+
+def send_telegram_test() -> int:
+    """--telegram-test: post one message to the topic to prove the setup."""
+    if not uses_telegram():
+        log_message("Telegram is not configured (TELEGRAM_BOT_TOKEN is empty)")
+        return 1
+    stamp = get_pacific_time().strftime("%b %-d, %-I:%M %p PT")
+    message_id = send_telegram(
+        f"✅ <b>1stTix alerts are connected</b>\nTest message sent {_tg(stamp)}. "
+        "New San Diego shows will appear in this topic.",
+        ("📋 View all shows", AVAILABLE_SHOWS_URL),
+    )
+    if message_id is None:
+        log_message("Telegram test message FAILED")
+        return 1
+    log_message("Telegram test message sent")
+    return 0
+
+
 def send_email_notification(new_shows: list) -> bool:
     if not new_shows:
         return True
@@ -1575,6 +1741,10 @@ def notify_user(shows: list):
 # Main
 # ---------------------------------------------------------------------------
 def main():
+    # --telegram-test: just post one message to the topic and exit.
+    if args.telegram_test:
+        raise SystemExit(send_telegram_test())
+
     log_message("=" * 50)
     log_message("Starting 1stTix Checker — San Diego")
 
@@ -1686,7 +1856,7 @@ def main():
     log_message(f"{len(new_shows)} new shows to notify about")
 
     if new_shows:
-        send_email_notification(new_shows)
+        deliver_owner_alert(new_shows)
         notify_user(new_shows)
 
         for show in new_shows:

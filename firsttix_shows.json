@@ -1,7 +1,7 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-18T13:32:03 PT",
-  "last_successful_run": "2026-11-18T13:32:03 PT",
+  "last_updated": "2026-11-18T14:06:13 PT",
+  "last_successful_run": "2026-11-18T14:06:13 PT",
   "count": 41,
   "shows": [
     {
@@ -132,6 +132,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Daniel Alvarez",
+      "date": "Fri, 20 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674200",
+      "image": "https://ei-cdn.1sttix.org/preview674200_1794864905.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/daniel-alvarez-live-in-san-diego-tickets-2002858236902"
+    },
+    {
+      "source": "1stTix",
       "name": "Gobble Wobble Bar Crawl",
       "date": "Fri, 20 Nov '26 9:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/674414",
@@ -213,20 +227,6 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Murder By The Bay - Murder Mystery Dinner Show",
-      "date": "Sat, 21 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/673632",
-      "image": "https://ei-cdn.1sttix.org/preview624497_1776784597.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/1997392430528"
     },
     {
       "source": "1stTix",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-18T14:36:31 PT",
-  "last_successful_run": "2026-11-18T14:36:31 PT",
-  "count": 41,
+  "last_updated": "2026-11-18T15:06:42 PT",
+  "last_successful_run": "2026-11-18T15:06:42 PT",
+  "count": 42,
   "shows": [
     {
       "source": "1stTix",
@@ -213,6 +213,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://fullertontitanstickets.com/tickets/events/womens-volleyball-vs-uc-san-diego-1795384800000-86482"
+    },
+    {
+      "source": "1stTix",
+      "name": "Michael Redd & Friends",
+      "date": "Sat, 21 Nov '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674265",
+      "image": "https://ei-cdn.1sttix.org/preview674265_1794869703.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/michael-redd-friends-live-in-san-diego-tickets-2003680191390"
     },
     {
       "source": "1stTix",

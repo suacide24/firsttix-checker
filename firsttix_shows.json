@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-18T12:31:35 PT",
-  "last_successful_run": "2026-11-18T12:31:35 PT",
-  "count": 42,
+  "last_updated": "2026-11-18T13:01:46 PT",
+  "last_successful_run": "2026-11-18T13:01:46 PT",
+  "count": 41,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 18 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667875",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/377055"
-    },
     {
       "source": "1stTix",
       "name": "Oceanside Shock - Fphl vs. Fresno Falcons",

@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-17T17:16:14 PT",
-  "last_successful_run": "2026-11-17T17:16:14 PT",
-  "count": 40,
+  "last_updated": "2026-11-17T18:11:11 PT",
+  "last_successful_run": "2026-11-17T18:11:11 PT",
+  "count": 41,
   "shows": [
     {
       "source": "1stTix",
@@ -521,6 +521,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "All Hands On Deck",
+      "date": "Sat, 5 Dec '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/670590",
+      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5?date=2026-12-05T19:00:00"
     },
     {
       "source": "1stTix",

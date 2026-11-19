@@ -1,9 +1,23 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-19T05:48:29 PT",
-  "last_successful_run": "2026-11-19T05:48:29 PT",
-  "count": 39,
+  "last_updated": "2026-11-19T06:39:45 PT",
+  "last_successful_run": "2026-11-19T06:39:45 PT",
+  "count": 41,
   "shows": [
+    {
+      "source": "1stTix",
+      "name": "As You Like It",
+      "date": "Thu, 19 Nov '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674883",
+      "image": "https://ei-cdn.1sttix.org/preview668877_1793247603.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://newvillagearts.org/as-you-like-it/"
+    },
     {
       "source": "1stTix",
       "name": "Local Laughs - Secret Comedy Lineup",
@@ -17,6 +31,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1138706033399?aff=erelpanelorg"
+    },
+    {
+      "source": "1stTix",
+      "name": "As You Like It",
+      "date": "Fri, 20 Nov '26 2:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674884",
+      "image": "https://ei-cdn.1sttix.org/preview668877_1793247603.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://newvillagearts.org/as-you-like-it/"
     },
     {
       "source": "1stTix",

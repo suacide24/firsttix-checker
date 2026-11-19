@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-19T07:10:04 PT",
-  "last_successful_run": "2026-11-19T07:10:04 PT",
-  "count": 41,
+  "last_updated": "2026-11-19T07:48:36 PT",
+  "last_successful_run": "2026-11-19T07:48:36 PT",
+  "count": 42,
   "shows": [
     {
       "source": "1stTix",
@@ -17,6 +17,20 @@
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://newvillagearts.org/as-you-like-it/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Best of San Diego",
+      "date": "Thu, 19 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674905",
+      "image": "https://ei-cdn.1sttix.org/preview674905_1795043703.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 4,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://events.leapevents.com/event/best-lajolla-2026-november19th"
     },
     {
       "source": "1stTix",

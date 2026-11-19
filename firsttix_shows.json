@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-18T20:01:17 PT",
-  "last_successful_run": "2026-11-18T20:01:17 PT",
-  "count": 38,
+  "last_updated": "2026-11-18T20:40:25 PT",
+  "last_successful_run": "2026-11-18T20:40:25 PT",
+  "count": 40,
   "shows": [
     {
       "source": "1stTix",
@@ -286,6 +286,20 @@
     },
     {
       "source": "1stTix",
+      "name": "Tribute: The Morgan & Ella Experience - A Tribute to Modern Country",
+      "date": "Sun, 22 Nov '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674363",
+      "image": "https://ei-cdn.1sttix.org/preview-475122-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-22-2026/event/0B00652FE8568E58"
+    },
+    {
+      "source": "1stTix",
       "name": "Mic Drop Comedy",
       "date": "Tue, 24 Nov '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/667882",
@@ -479,6 +493,20 @@
         "emoji": "\ud83d\udd25"
       },
       "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5?date=2026-12-05T19:00:00"
+    },
+    {
+      "source": "1stTix",
+      "name": "Michael Jackson Tribute MJ THE TRIBUTE",
+      "date": "Sat, 5 Dec '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/666379",
+      "image": "https://ei-cdn.1sttix.org/preview666379_1792601003.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketweb.com/event/michael-jackson-tribute-mj-the-gaslamp-long-beach-tickets/14287974"
     },
     {
       "source": "1stTix",

@@ -1,51 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-18T17:31:45 PT",
-  "last_successful_run": "2026-11-18T17:31:45 PT",
-  "count": 41,
+  "last_updated": "2026-11-18T18:15:08 PT",
+  "last_successful_run": "2026-11-18T18:15:08 PT",
+  "count": 38,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Oceanside Shock - Fphl vs. Fresno Falcons",
-      "date": "Wed, 18 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671122",
-      "image": "https://ei-cdn.1sttix.org/preview671122_1793876405.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.shockoceanside.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "UNAPOLOGETIC & UNHINGED: Thanksgiving Edition! Ritu Tirthani & Friends",
-      "date": "Wed, 18 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674184",
-      "image": "https://ei-cdn.1sttix.org/preview674184_1794864304.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/unapologetic-unhinged-thanksgiving-edition-ritu-tirthani-friends-tickets-1999007756010"
-    },
-    {
-      "source": "1stTix",
-      "name": "Chazz Palminteri",
-      "date": "Wed, 18 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674617",
-      "image": "https://ei-cdn.1sttix.org/preview-514542-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/chazz-palminteri-el-cajon-california-11-18-2026/event/0B006503B110487C"
-    },
     {
       "source": "1stTix",
       "name": "San Diego Toreros - NCAA Women's Volleyball vs Portland Pilots",

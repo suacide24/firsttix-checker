@@ -1,216 +1,20 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-19T22:58:48 PT",
-  "last_successful_run": "2026-11-19T12:25:57 PT",
-  "count": 43,
+  "last_updated": "2026-11-21T09:11:29 PT",
+  "last_successful_run": "2026-11-21T09:11:29 PT",
+  "count": 37,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Portland Pilots",
-      "date": "Thu, 19 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642587",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Thu, 19 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674883",
-      "image": "https://ei-cdn.1sttix.org/preview668877_1793247603.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://newvillagearts.org/as-you-like-it/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Best of San Diego",
-      "date": "Thu, 19 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674905",
-      "image": "https://ei-cdn.1sttix.org/preview674905_1795043703.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://events.leapevents.com/event/best-lajolla-2026-november19th"
-    },
-    {
-      "source": "1stTix",
-      "name": "Local Laughs - Secret Comedy Lineup",
-      "date": "Thu, 19 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674181",
-      "image": "https://ei-cdn.1sttix.org/preview667832_1793059202.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/local-laughs-secret-lineup-stand-up-comedy-showcase-tickets-1138706033399?aff=erelpanelorg"
-    },
-    {
-      "source": "1stTix",
-      "name": "As You Like It",
-      "date": "Fri, 20 Nov '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674884",
-      "image": "https://ei-cdn.1sttix.org/preview668877_1793247603.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://newvillagearts.org/as-you-like-it/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Long Beach State Sharks - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Fri, 20 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667007",
-      "image": "https://ei-cdn.1sttix.org/preview666648_1792621173.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://longbeachstate.evenue.net/event/WV2627/WV12"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 20 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667876",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/361692"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Clippers - NBA G League vs Valley Suns",
-      "date": "Fri, 20 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671117",
-      "image": "https://ei-cdn.1sttix.org/preview671117_1793876402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://sandiego.gleague.nba.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Daniel Alvarez",
-      "date": "Fri, 20 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674200",
-      "image": "https://ei-cdn.1sttix.org/preview674200_1794864905.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.eventbrite.com/e/daniel-alvarez-live-in-san-diego-tickets-2002858236902"
-    },
-    {
-      "source": "1stTix",
-      "name": "Gobble Wobble Bar Crawl",
-      "date": "Fri, 20 Nov '26 9:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674414",
-      "image": "https://ei-cdn.1sttix.org/preview672591_1794331183.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/2004315824586?aff=oddtdtcreator"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Fri, 20 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667877",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 13,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/361693"
-    },
-    {
-      "source": "1stTix",
-      "name": "Hot Sets - Stand-Up Comedy",
-      "date": "Fri, 20 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674593",
-      "image": "https://ei-cdn.1sttix.org/preview666332_1792566004.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 5,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/hot-sets-stand-up-comedy-at-national-lampoon-the-yellow-door-tickets-1980438036479?aff=erelpanelorg"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Volleyball vs Seattle Redhawks",
-      "date": "Sat, 21 Nov '26 12:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/642588",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 9,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-volleyball/schedule"
-    },
-    {
-      "source": "1stTix",
-      "name": "Cal State Fullerton Titans - NCAA Women's Volleyball vs UC San Diego Tritons",
-      "date": "Sat, 21 Nov '26 2:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/673862",
-      "image": "https://ei-cdn.1sttix.org/preview672669_1794337494.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://fullertontitanstickets.com/tickets/events/womens-volleyball-vs-uc-san-diego-1795384800000-86482"
-    },
     {
       "source": "1stTix",
       "name": "Michael Redd & Friends",
       "date": "Sat, 21 Nov '26 5:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/674265",
       "image": "https://ei-cdn.1sttix.org/preview674265_1794869703.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/michael-redd-friends-live-in-san-diego-tickets-2003680191390"
     },
@@ -222,11 +26,25 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Grand Comedy Club",
+      "date": "Sat, 21 Nov '26 8:45 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/675202",
+      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 6,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
+      },
+      "info_url": "https://www.grandcomedyclub.com"
     },
     {
       "source": "1stTix",
@@ -236,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -250,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview674280_1794870901.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -264,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview670461_1793745002.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -278,25 +96,11 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/390485"
-    },
-    {
-      "source": "1stTix",
-      "name": "The Naghash Ensemble",
-      "date": "Sun, 22 Nov '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670039",
-      "image": "https://ei-cdn.1sttix.org/preview670039_1793656803.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://theconrad.org/events/naghash-ensemble/"
     },
     {
       "source": "1stTix",
@@ -306,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -320,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671118_1793876402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -332,11 +136,11 @@
       "date": "Sun, 22 Nov '26 6:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/674363",
       "image": "https://ei-cdn.1sttix.org/preview-475122-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-22-2026/event/0B00652FE8568E58"
     },
@@ -348,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -362,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -376,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -390,7 +194,7 @@
       "image": "https://ei-cdn.1sttix.org/preview670854_1793824207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -404,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671005_1793832601.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -418,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671119_1793876403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -432,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -446,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-670594-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -460,11 +264,25 @@
       "image": "https://ei-cdn.1sttix.org/preview666374_1792599515.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketweb.com/event/twisted-gypsy-tribute-gaslamp-long-beach-tickets/14840963?pl=gaslamp"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Tue, 1 Dec '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674974",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/387349"
     },
     {
       "source": "1stTix",
@@ -474,11 +292,25 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://usdtoreros.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 2 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674976",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/events/133827"
     },
     {
       "source": "1stTix",
@@ -488,11 +320,39 @@
       "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 7,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Meow Meow: Feline Festive",
+      "date": "Fri, 4 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674285",
+      "image": "https://ei-cdn.1sttix.org/preview674285_1794871502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://theconrad.org/events/meow-meow-feline-festive/"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 4 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674977",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/368398"
     },
     {
       "source": "1stTix",
@@ -502,11 +362,25 @@
       "image": "https://ei-cdn.1sttix.org/preview673189_1794459670.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.eventbrite.com/e/2004316426386?aff=oddtdtcreator"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Fri, 4 Dec '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674978",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/events/135534"
     },
     {
       "source": "1stTix",
@@ -516,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -530,7 +404,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -538,15 +412,29 @@
     },
     {
       "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 5 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674979",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/events/135534"
+    },
+    {
+      "source": "1stTix",
       "name": "Michael Jackson Tribute MJ THE TRIBUTE",
       "date": "Sat, 5 Dec '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/666379",
       "image": "https://ei-cdn.1sttix.org/preview666379_1792601003.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketweb.com/event/michael-jackson-tribute-mj-the-gaslamp-long-beach-tickets/14287974"
     },
@@ -556,13 +444,41 @@
       "date": "Sat, 5 Dec '26 8:00 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/666717",
       "image": "https://ei-cdn.1sttix.org/preview-664121-tm.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-san-diego-california-12-05-2026/event/0A006505AB55AEB5"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Sat, 5 Dec '26 10:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674980",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/368401"
+    },
+    {
+      "source": "1stTix",
+      "name": "Mic Drop Comedy",
+      "date": "Wed, 9 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674981",
+      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 12,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.micdropcomedysandiego.com/shows/380116"
     },
     {
       "source": "1stTix",
@@ -572,7 +488,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -586,7 +502,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -600,7 +516,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

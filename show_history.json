@@ -1932,6 +1932,13 @@
         "2026-11-22",
         "2026-11-23"
       ]
+    },
+    "1stTix|maggie dixon classic day 1": {
+      "name": "Maggie Dixon Classic Day 1",
+      "source": "1stTix",
+      "appearances": [
+        "2026-11-23"
+      ]
     }
   }
 }

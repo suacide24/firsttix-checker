@@ -1,8 +1,8 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-23T09:43:50 PT",
-  "last_successful_run": "2026-11-23T09:43:50 PT",
-  "count": 29,
+  "last_updated": "2026-11-23T10:14:07 PT",
+  "last_successful_run": "2026-11-23T10:14:07 PT",
+  "count": 30,
   "shows": [
     {
       "source": "1stTix",
@@ -367,6 +367,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/380116"
+    },
+    {
+      "source": "1stTix",
+      "name": "Maggie Dixon Classic Day 1",
+      "date": "Sat, 12 Dec '26 11:00 AM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/664218",
+      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://usdtoreros.com/sports/womens-basketball"
     },
     {
       "source": "1stTix",

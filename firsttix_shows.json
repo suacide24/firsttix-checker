@@ -1,51 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-22T16:52:42 PT",
-  "last_successful_run": "2026-11-22T16:52:42 PT",
-  "count": 33,
+  "last_updated": "2026-11-23T08:13:09 PT",
+  "last_successful_run": "2026-11-23T08:13:09 PT",
+  "count": 29,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "San Diego Clippers - NBA G League vs Coachella Valley Lakers",
-      "date": "Sun, 22 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/671118",
-      "image": "https://ei-cdn.1sttix.org/preview671118_1793876402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://sandiego.gleague.nba.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "Tribute: The Morgan & Ella Experience - A Tribute to Modern Country",
-      "date": "Sun, 22 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674363",
-      "image": "https://ei-cdn.1sttix.org/preview-475122-tm.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-22-2026/event/0B00652FE8568E58"
-    },
-    {
-      "source": "1stTix",
-      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
-      "date": "Tue, 24 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656284",
-      "image": "https://ei-cdn.1sttix.org/preview656284_1789590903.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 8,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite&theme=bellyup"
-    },
     {
       "source": "1stTix",
       "name": "Mic Drop Comedy",
@@ -54,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -68,7 +26,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -82,7 +40,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -96,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview670854_1793824207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -110,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671005_1793832601.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -124,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671119_1793876403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -138,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-670594-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -152,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview666374_1792599515.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -166,7 +124,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -180,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -194,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -208,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-675350-tm.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -222,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -230,29 +188,15 @@
     },
     {
       "source": "1stTix",
-      "name": "Alicia Villarreal - Bendita Locura Tour 2026",
-      "date": "Thu, 3 Dec '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674858",
-      "image": "https://ei-cdn.1sttix.org/preview-663150-tm.jpg",
-      "rare": true,
-      "popularity": {
-        "appearances": 1,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
-      },
-      "info_url": "https://www.ticketmaster.com/alicia-villarreal-bendita-locura-tour-2026-el-cajon-california-12-03-2026/event/0B0064CB972F2514"
-    },
-    {
-      "source": "1stTix",
       "name": "Meow Meow: Feline Festive",
       "date": "Fri, 4 Dec '26 7:30 PM",
       "link": "https://www.1sttix.org/tixer/get-tickets/event/674285",
       "image": "https://ei-cdn.1sttix.org/preview674285_1794871502.jpg",
-      "rare": true,
+      "rare": false,
       "popularity": {
-        "appearances": 2,
-        "label": "Rare find",
-        "emoji": "\ud83d\udd25"
+        "appearances": 3,
+        "label": "Occasional",
+        "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://theconrad.org/events/meow-meow-feline-festive/"
     },
@@ -264,7 +208,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -278,7 +222,7 @@
       "image": "https://ei-cdn.1sttix.org/preview673189_1794459670.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -292,7 +236,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -306,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 6,
+        "appearances": 7,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -320,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -334,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -348,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview675421_1795205701.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -362,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview666379_1792601003.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -376,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-664121-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -390,7 +334,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -404,7 +348,7 @@
       "image": "https://ei-cdn.1sttix.org/preview675306_1795199002.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -418,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -432,7 +376,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -446,7 +390,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 13,
+        "appearances": 14,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -460,7 +404,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 11,
+        "appearances": 12,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

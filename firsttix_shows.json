@@ -1,23 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-23T11:45:11 PT",
-  "last_successful_run": "2026-11-23T11:45:11 PT",
-  "count": 30,
+  "last_updated": "2026-11-23T12:19:09 PT",
+  "last_successful_run": "2026-11-23T12:19:09 PT",
+  "count": 29,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Tue, 24 Nov '26 7:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667882",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 14,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/379720"
-    },
     {
       "source": "1stTix",
       "name": "Oceans & the Imposters Happy Hour",

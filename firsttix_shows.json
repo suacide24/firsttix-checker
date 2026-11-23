@@ -1,121 +1,9 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-21T19:33:32 PT",
-  "last_successful_run": "2026-11-21T09:11:29 PT",
-  "count": 37,
+  "last_updated": "2026-11-22T16:52:42 PT",
+  "last_successful_run": "2026-11-22T16:52:42 PT",
+  "count": 33,
   "shows": [
-    {
-      "source": "1stTix",
-      "name": "Michael Redd & Friends",
-      "date": "Sat, 21 Nov '26 5:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674265",
-      "image": "https://ei-cdn.1sttix.org/preview674265_1794869703.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 3,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/michael-redd-friends-live-in-san-diego-tickets-2003680191390"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego Toreros - NCAA Women's Basketball vs UC Irvine Anteaters",
-      "date": "Sat, 21 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/664215",
-      "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://usdtoreros.com/sports/womens-basketball"
-    },
-    {
-      "source": "1stTix",
-      "name": "Grand Comedy Club",
-      "date": "Sat, 21 Nov '26 8:45 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/675202",
-      "image": "https://ei-cdn.1sttix.org/preview653271_1788471010.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 6,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.grandcomedyclub.com"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sat, 21 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667879",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/352478"
-    },
-    {
-      "source": "1stTix",
-      "name": "Crack Em Up Comedy: Live in San Diego",
-      "date": "Sat, 21 Nov '26 9:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/674280",
-      "image": "https://ei-cdn.1sttix.org/preview674280_1794870901.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 4,
-        "label": "Occasional",
-        "emoji": "\ud83c\udfaf"
-      },
-      "info_url": "https://www.eventbrite.com/e/crack-em-up-comedy-live-in-san-diego-tickets-2004410928043"
-    },
-    {
-      "source": "1stTix",
-      "name": "San Diego State Aztecs - NCAA Women's Basketball vs Winthrop Eagles",
-      "date": "Sun, 22 Nov '26 1:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/670461",
-      "image": "https://ei-cdn.1sttix.org/preview670461_1793745002.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 10,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://goaztecs.com/boxscore/17628"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 22 Nov '26 3:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667880",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/390485"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Sun, 22 Nov '26 6:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667881",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/361758"
-    },
     {
       "source": "1stTix",
       "name": "San Diego Clippers - NBA G League vs Coachella Valley Lakers",
@@ -124,7 +12,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671118_1793876402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -138,11 +26,25 @@
       "image": "https://ei-cdn.1sttix.org/preview-475122-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
       "info_url": "https://www.ticketmaster.com/tribute-the-morgan-ella-experience-a-el-cajon-california-11-22-2026/event/0B00652FE8568E58"
+    },
+    {
+      "source": "1stTix",
+      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+      "date": "Tue, 24 Nov '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/656284",
+      "image": "https://ei-cdn.1sttix.org/preview656284_1789590903.jpg",
+      "rare": false,
+      "popularity": {
+        "appearances": 8,
+        "label": "Regular",
+        "emoji": "\ud83d\udcc5"
+      },
+      "info_url": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite&theme=bellyup"
     },
     {
       "source": "1stTix",
@@ -152,7 +54,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -166,7 +68,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -180,7 +82,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -194,7 +96,7 @@
       "image": "https://ei-cdn.1sttix.org/preview670854_1793824207.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -208,7 +110,7 @@
       "image": "https://ei-cdn.1sttix.org/preview671005_1793832601.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -222,25 +124,11 @@
       "image": "https://ei-cdn.1sttix.org/preview671119_1793876403.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 9,
+        "appearances": 10,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.sdsockers.com/"
-    },
-    {
-      "source": "1stTix",
-      "name": "All Hands On Deck!",
-      "date": "Sat, 28 Nov '26 7:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667862",
-      "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 11,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.crowdwork.com/e/all-hands-on-deck-a269097d-1538-44c6-8cfd-017a067d21c5?date=2026-11-28T19:00:00"
     },
     {
       "source": "1stTix",
@@ -250,7 +138,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-670594-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -264,7 +152,7 @@
       "image": "https://ei-cdn.1sttix.org/preview666374_1792599515.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -278,7 +166,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -292,7 +180,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -306,11 +194,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/events/133827"
+    },
+    {
+      "source": "1stTix",
+      "name": "Formidable! Aznavour - A Spectacular Musical Celebration Of Charles Az",
+      "date": "Wed, 2 Dec '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/675350",
+      "image": "https://ei-cdn.1sttix.org/preview-675350-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/formidable-aznavour-a-spectacular-musical-celebration-san-diego-california-12-02-2026/event/0A0064B4F915E125"
     },
     {
       "source": "1stTix",
@@ -320,11 +222,25 @@
       "image": "https://ei-cdn.1sttix.org/preview408232_1666303728.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 8,
+        "appearances": 9,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://santaclarabroncos.com/sports/womens-basketball"
+    },
+    {
+      "source": "1stTix",
+      "name": "Alicia Villarreal - Bendita Locura Tour 2026",
+      "date": "Thu, 3 Dec '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/674858",
+      "image": "https://ei-cdn.1sttix.org/preview-663150-tm.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.ticketmaster.com/alicia-villarreal-bendita-locura-tour-2026-el-cajon-california-12-03-2026/event/0B0064CB972F2514"
     },
     {
       "source": "1stTix",
@@ -334,7 +250,7 @@
       "image": "https://ei-cdn.1sttix.org/preview674285_1794871502.jpg",
       "rare": true,
       "popularity": {
-        "appearances": 1,
+        "appearances": 2,
         "label": "Rare find",
         "emoji": "\ud83d\udd25"
       },
@@ -348,7 +264,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -362,7 +278,7 @@
       "image": "https://ei-cdn.1sttix.org/preview673189_1794459670.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -376,7 +292,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -390,7 +306,7 @@
       "image": "https://ei-cdn.1sttix.org/preview604861_1769364953.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 5,
+        "appearances": 6,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -404,7 +320,7 @@
       "image": "https://ei-cdn.1sttix.org/preview667427_1793003402.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 4,
+        "appearances": 5,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -418,11 +334,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/events/135534"
+    },
+    {
+      "source": "1stTix",
+      "name": "The Modern Gentlemen: Hits, Harmony and the Holidays",
+      "date": "Sat, 5 Dec '26 7:30 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/675421",
+      "image": "https://ei-cdn.1sttix.org/preview675421_1795205701.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.powayonstage.org/event/the-modern-gentlemen/"
     },
     {
       "source": "1stTix",
@@ -432,7 +362,7 @@
       "image": "https://ei-cdn.1sttix.org/preview666379_1792601003.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -446,7 +376,7 @@
       "image": "https://ei-cdn.1sttix.org/preview-664121-tm.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 3,
+        "appearances": 4,
         "label": "Occasional",
         "emoji": "\ud83c\udfaf"
       },
@@ -460,11 +390,25 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/368401"
+    },
+    {
+      "source": "1stTix",
+      "name": "Laurel and Hardy Triple Feature with Russ Peck",
+      "date": "Mon, 7 Dec '26 7:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/675306",
+      "image": "https://ei-cdn.1sttix.org/preview675306_1795199002.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.sandiegotheatres.org/events/detail/smm-laurel-hardy-holiday-2026"
     },
     {
       "source": "1stTix",
@@ -474,7 +418,7 @@
       "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -488,7 +432,7 @@
       "image": "https://ei-cdn.1sttix.org/preview642785_1784741702.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -502,7 +446,7 @@
       "image": "https://ei-cdn.1sttix.org/preview645896_1785861303.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 12,
+        "appearances": 13,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },
@@ -516,7 +460,7 @@
       "image": "https://ei-cdn.1sttix.org/preview656760_1789746902.jpg",
       "rare": false,
       "popularity": {
-        "appearances": 10,
+        "appearances": 11,
         "label": "Regular",
         "emoji": "\ud83d\udcc5"
       },

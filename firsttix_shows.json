@@ -1,36 +1,22 @@
 {
   "source": "1stTix",
-  "last_updated": "2026-11-23T13:57:20 PT",
-  "last_successful_run": "2026-11-23T12:49:21 PT",
-  "count": 29,
+  "last_updated": "2026-11-23T20:20:50 PT",
+  "last_successful_run": "2026-11-23T20:20:50 PT",
+  "count": 30,
   "shows": [
     {
       "source": "1stTix",
-      "name": "Oceans & the Imposters Happy Hour",
-      "date": "Wed, 25 Nov '26 5:30 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/656281",
-      "image": "https://ei-cdn.1sttix.org/preview656281_1789590603.jpg",
-      "rare": false,
+      "name": "Comedy Mayhem: Stand-Up Comedy",
+      "date": "Tue, 24 Nov '26 8:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/675853",
+      "image": "https://ei-cdn.1sttix.org/preview669934_1793649602.jpg",
+      "rare": true,
       "popularity": {
-        "appearances": 12,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
       },
-      "info_url": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite&theme=bellyup"
-    },
-    {
-      "source": "1stTix",
-      "name": "Mic Drop Comedy",
-      "date": "Wed, 25 Nov '26 8:00 PM",
-      "link": "https://www.1sttix.org/tixer/get-tickets/event/667883",
-      "image": "https://ei-cdn.1sttix.org/preview429590_1675198613.jpg",
-      "rare": false,
-      "popularity": {
-        "appearances": 14,
-        "label": "Regular",
-        "emoji": "\ud83d\udcc5"
-      },
-      "info_url": "https://www.micdropcomedysandiego.com/shows/379033"
+      "info_url": "https://www.eventbrite.com/e/comedy-mayhem-stand-up-comedy-at-national-lampoon-tickets-1989849518475?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -45,6 +31,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.ticketweb.com/event/oflynn-music-box-tickets/14293104?theme=musicboxsd"
+    },
+    {
+      "source": "1stTix",
+      "name": "San Diego Freak Out Presents: Triptophantasia",
+      "date": "Fri, 27 Nov '26 5:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/666492",
+      "image": "https://ei-cdn.1sttix.org/preview666492_1792606918.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://www.eventbrite.com/e/2001086775413?aff=oddtdtcreator"
     },
     {
       "source": "1stTix",
@@ -353,6 +353,20 @@
         "emoji": "\ud83d\udcc5"
       },
       "info_url": "https://www.micdropcomedysandiego.com/shows/380116"
+    },
+    {
+      "source": "1stTix",
+      "name": "Pacific Tigers - NCAA Women's Basketball vs San Diego State Aztecs",
+      "date": "Fri, 11 Dec '26 6:00 PM",
+      "link": "https://www.1sttix.org/tixer/get-tickets/event/671177",
+      "image": "https://ei-cdn.1sttix.org/preview671182_1793897502.jpg",
+      "rare": true,
+      "popularity": {
+        "appearances": 1,
+        "label": "Rare find",
+        "emoji": "\ud83d\udd25"
+      },
+      "info_url": "https://pacifictigers.com/sports/womens-basketball/schedule"
     },
     {
       "source": "1stTix",
